@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T16:55:54.776727",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "kjw2r09h8nlrz84"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 654,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "kjw2r09h8nlrz84"
+      },
+      "results": [
+        {
+          "id": "kjw2r09h8nlrz84",
+          "competition_id": "gpxwrxlh7zryk0j",
+          "country_id": "0l965mkyh2r1ge4",
+          "name": "GBK Kokkola",
+          "short_name": "GBK Kokkola",
+          "logo": "https://img.thesports.com/football/team/ea354cb85bf4858b41c08e9a6169e6d1.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1924,
+          "website": "http://www.gbk.fi/",
+          "coach_id": "9dn1m1ghpg7moep",
+          "venue_id": "kn54qllh8pzqvy9",
+          "market_value": 10000,
+          "market_value_currency": "",
+          "total_players": 30,
+          "foreign_players": 22,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1742221022
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"kjw2r09h8nlrz84\", \"competition_id\": \"gpxwrxlh7zryk0j\", \"country_id\": \"0l965mkyh2r1ge4\", \"name\": \"GBK Kokkola\", \"short_name\": \"GBK Kokkola\", \"logo\": \"https://img.thesports.com/football/team/ea354cb85bf4858b41c08e9a6169e6d1.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1924, \"website\": \"http://www.gbk.fi/\", \"coach_id\": \"9dn1m1ghpg7moep\", \"venue_id\": \"kn54qllh8pzqvy9\", \"market_value\": 10000, \"market_value_currency\": \"\", \"total_players\": 30, \"foreign_players\": 22, \"national_pla..."
+  }
+]

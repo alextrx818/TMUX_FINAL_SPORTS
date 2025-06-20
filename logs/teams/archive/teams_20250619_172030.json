@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:20:30.267128",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "1l4rjnhe3z8m7vx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 571,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "1l4rjnhe3z8m7vx"
+      },
+      "results": [
+        {
+          "id": "1l4rjnhe3z8m7vx",
+          "competition_id": "kdj2ryoh2vwq1zp",
+          "country_id": "",
+          "name": "Abacha City",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/cc11b2930de16dcd482c4fb976115899.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1734915354
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"1l4rjnhe3z8m7vx\", \"competition_id\": \"kdj2ryoh2vwq1zp\", \"country_id\": \"\", \"name\": \"Abacha City\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/cc11b2930de16dcd482c4fb976115899.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1734915354}"
+  }
+]

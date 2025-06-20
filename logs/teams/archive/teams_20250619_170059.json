@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T16:59:37.382538",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "1l4rjnh64zem7vx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 636,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "1l4rjnh64zem7vx"
+      },
+      "results": [
+        {
+          "id": "1l4rjnh64zem7vx",
+          "competition_id": "p3glrw7hwo7qdyj",
+          "country_id": "9vjxm8gh8gr6odg",
+          "name": "Al Ahly Benghazi",
+          "short_name": "Al Ahly Benghazi",
+          "logo": "https://img.thesports.com/football/team/49675c0dc6490834ea9bbe11f325274f.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1950,
+          "website": "http://www.alahly.com.ly",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 20,
+          "foreign_players": 18,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1745854808
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"1l4rjnh64zem7vx\", \"competition_id\": \"p3glrw7hwo7qdyj\", \"country_id\": \"9vjxm8gh8gr6odg\", \"name\": \"Al Ahly Benghazi\", \"short_name\": \"Al Ahly Benghazi\", \"logo\": \"https://img.thesports.com/football/team/49675c0dc6490834ea9bbe11f325274f.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1950, \"website\": \"http://www.alahly.com.ly\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 20, \"foreign_players\": 18, \"national_players\": 0, \"virtual..."
+  }
+]

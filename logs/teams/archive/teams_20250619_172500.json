@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:25:00.349201",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l5ergpho1j1r8k0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 648,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l5ergpho1j1r8k0"
+      },
+      "results": [
+        {
+          "id": "l5ergpho1j1r8k0",
+          "competition_id": "yl5ergph5zr8k0o",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Linkopings (w)",
+          "short_name": "Linkopings(w)",
+          "logo": "https://img.thesports.com/football/team/404e057a3c4c7abf20b29c7bf59299e9.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1932,
+          "website": "http://www.linkopingfc.com/",
+          "coach_id": "",
+          "venue_id": "e4wyrn4hv10q86p",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 15,
+          "foreign_players": 4,
+          "national_players": 5,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1748870226
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l5ergpho1j1r8k0\", \"competition_id\": \"yl5ergph5zr8k0o\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Linkopings (w)\", \"short_name\": \"Linkopings(w)\", \"logo\": \"https://img.thesports.com/football/team/404e057a3c4c7abf20b29c7bf59299e9.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1932, \"website\": \"http://www.linkopingfc.com/\", \"coach_id\": \"\", \"venue_id\": \"e4wyrn4hv10q86p\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 15, \"foreign_players\": 4, \"national_players\":..."
+  }
+]

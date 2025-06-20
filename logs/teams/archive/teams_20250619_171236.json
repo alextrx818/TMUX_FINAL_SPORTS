@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:12:36.551577",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y0or5jhl76oqwzv"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 637,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "y0or5jhl76oqwzv"
+      },
+      "results": [
+        {
+          "id": "y0or5jhl76oqwzv",
+          "competition_id": "9vjxm8ghllr6odg",
+          "country_id": "gy0or5jhl3qwzv3",
+          "name": "FK Riteriai",
+          "short_name": "FK Riteriai",
+          "logo": "https://img.thesports.com/football/team/09241d6b63768402a7784315be67338f.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "l5ergphoowzr8k0",
+          "venue_id": "p4jwq2ghv3lm0ve",
+          "market_value": 3300000,
+          "market_value_currency": "\u20ac",
+          "total_players": 45,
+          "foreign_players": 26,
+          "national_players": 10,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749855367
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"y0or5jhl76oqwzv\", \"competition_id\": \"9vjxm8ghllr6odg\", \"country_id\": \"gy0or5jhl3qwzv3\", \"name\": \"FK Riteriai\", \"short_name\": \"FK Riteriai\", \"logo\": \"https://img.thesports.com/football/team/09241d6b63768402a7784315be67338f.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"l5ergphoowzr8k0\", \"venue_id\": \"p4jwq2ghv3lm0ve\", \"market_value\": 3300000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 45, \"foreign_players\": 26, \"national_players\": 10, \"v..."
+  }
+]

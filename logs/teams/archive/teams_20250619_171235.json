@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:12:35.518489",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "x7lm7phwpo8m2wd"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 578,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "x7lm7phwpo8m2wd"
+      },
+      "results": [
+        {
+          "id": "x7lm7phwpo8m2wd",
+          "competition_id": "yl5ergphvopr8k0",
+          "country_id": "",
+          "name": "Vigor U19",
+          "short_name": "Vigor U19",
+          "logo": "https://img.thesports.com/football/team/36f4776e62040c40dfccc0eb22e140cb.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1750253904
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"x7lm7phwpo8m2wd\", \"competition_id\": \"yl5ergphvopr8k0\", \"country_id\": \"\", \"name\": \"Vigor U19\", \"short_name\": \"Vigor U19\", \"logo\": \"https://img.thesports.com/football/team/36f4776e62040c40dfccc0eb22e140cb.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1750253904}"
+  }
+]

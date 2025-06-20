@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:42:53.630172",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dn1m1gh4z5pmoep"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 662,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'dn1m1gh4z5pmoep', 'competition_id': '', 'country_id': 'vl7oqdehdyr510j', 'name': 'Tanzania (w)', 'short_name': 'Tanzania(w)', 'logo': 'https://img.thesports.com/football/team/c0c71bc8cf88865d36d0fc0c4b6710db.png', 'national': 1, 'country_logo': 'https://img.thesports.com/football/team/0ebcdb06cf4d039f0d08b356c26bc466.png', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 19, 'foreign_players': 16, 'natio..."
+  }
+]

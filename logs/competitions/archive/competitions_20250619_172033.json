@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-06-19T17:19:06.854096",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "j1l4rjnhkwkm7vx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 562,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "j1l4rjnhkwkm7vx"
+      },
+      "results": [
+        {
+          "id": "j1l4rjnhkwkm7vx",
+          "category_id": "9d23xmvkhxqg8ny",
+          "country_id": "v2y8m4zh1jql074",
+          "name": "Mal WL",
+          "short_name": "Mal WL",
+          "logo": "https://img.thesports.com/football/competition/2eeef69882bb728bddb28e67edd237fa.png",
+          "type": 1,
+          "cur_season_id": "",
+          "cur_stage_id": "",
+          "cur_round": 0,
+          "round_count": 0,
+          "title_holder": [],
+          "most_titles": [],
+          "newcomers": [],
+          "divisions": [],
+          "host": {},
+          "primary_color": "",
+          "secondary_color": "",
+          "updated_at": 1672286998
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"j1l4rjnhkwkm7vx\", \"category_id\": \"9d23xmvkhxqg8ny\", \"country_id\": \"v2y8m4zh1jql074\", \"name\": \"Mal WL\", \"short_name\": \"Mal WL\", \"logo\": \"https://img.thesports.com/football/competition/2eeef69882bb728bddb28e67edd237fa.png\", \"type\": 1, \"cur_season_id\": \"\", \"cur_stage_id\": \"\", \"cur_round\": 0, \"round_count\": 0, \"title_holder\": [], \"most_titles\": [], \"newcomers\": [], \"divisions\": [], \"host\": {}, \"primary_color\": \"\", \"secondary_color\": \"\", \"updated_at\": 1672286998}"
+  }
+]

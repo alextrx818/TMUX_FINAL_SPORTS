@@ -1,1 +1,3 @@
 # TMUX_FINAL_SPORTS
+
+  secret=0c55322e8e196d6ef9066fa4252cf386

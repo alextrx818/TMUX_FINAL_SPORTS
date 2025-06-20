@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:15:00.086541",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "2y8m4zhz0lpql07"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 587,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "2y8m4zhz0lpql07"
+      },
+      "results": [
+        {
+          "id": "2y8m4zhz0lpql07",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "",
+          "name": "Ariana",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/ca12e8bdae01ac6f251d59ea6472a476.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "gpxwrxlhykxryk0",
+          "venue_id": "",
+          "market_value": 125000,
+          "market_value_currency": "\u20ac",
+          "total_players": 5,
+          "foreign_players": 5,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749343507
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"2y8m4zhz0lpql07\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"\", \"name\": \"Ariana\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/ca12e8bdae01ac6f251d59ea6472a476.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"gpxwrxlhykxryk0\", \"venue_id\": \"\", \"market_value\": 125000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 5, \"foreign_players\": 5, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1749343507}"
+  }
+]

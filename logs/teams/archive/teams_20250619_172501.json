@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:25:01.521551",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "e4wyrn4hnwnq86p"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 660,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "e4wyrn4hnwnq86p"
+      },
+      "results": [
+        {
+          "id": "e4wyrn4hnwnq86p",
+          "competition_id": "z8yomo4h92q0j6l",
+          "country_id": "0l965mkyh2r1ge4",
+          "name": "Inter Turku",
+          "short_name": "Inter Turku",
+          "logo": "https://img.thesports.com/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1990,
+          "website": "http://www.fcinter.com/",
+          "coach_id": "9vjxm8ghxj3r6od",
+          "venue_id": "kjw2r09hn76rz84",
+          "market_value": 3800000,
+          "market_value_currency": "",
+          "total_players": 22,
+          "foreign_players": 8,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749753726
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"e4wyrn4hnwnq86p\", \"competition_id\": \"z8yomo4h92q0j6l\", \"country_id\": \"0l965mkyh2r1ge4\", \"name\": \"Inter Turku\", \"short_name\": \"Inter Turku\", \"logo\": \"https://img.thesports.com/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1990, \"website\": \"http://www.fcinter.com/\", \"coach_id\": \"9vjxm8ghxj3r6od\", \"venue_id\": \"kjw2r09hn76rz84\", \"market_value\": 3800000, \"market_value_currency\": \"\", \"total_players\": 22, \"foreign_players\": 8, \"nation..."
+  }
+]

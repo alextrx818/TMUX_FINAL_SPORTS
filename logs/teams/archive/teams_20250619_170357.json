@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:02:33.384258",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "x7lm7phk599m2wd"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 682,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "x7lm7phk599m2wd"
+      },
+      "results": [
+        {
+          "id": "x7lm7phk599m2wd",
+          "competition_id": "",
+          "country_id": "d9k82rekhgrepzj",
+          "name": "Denmark U19",
+          "short_name": "Denmark U19",
+          "logo": "https://img.thesports.com/football/team/b3451136c78923e36c695e2913c8a25f.png",
+          "national": 1,
+          "country_logo": "https://img.thesports.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "8y39mp1hon3mojx",
+          "venue_id": "",
+          "market_value": 8200000,
+          "market_value_currency": "\u20ac",
+          "total_players": 17,
+          "foreign_players": 7,
+          "national_players": 17,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1750111759
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"x7lm7phk599m2wd\", \"competition_id\": \"\", \"country_id\": \"d9k82rekhgrepzj\", \"name\": \"Denmark U19\", \"short_name\": \"Denmark U19\", \"logo\": \"https://img.thesports.com/football/team/b3451136c78923e36c695e2913c8a25f.png\", \"national\": 1, \"country_logo\": \"https://img.thesports.com/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"8y39mp1hon3mojx\", \"venue_id\": \"\", \"market_value\": 8200000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 17, \"fo..."
+  }
+]

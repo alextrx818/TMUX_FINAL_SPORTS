@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:01:04.560563",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "kdj2ryoh38yq1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 676,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "kdj2ryoh38yq1zp"
+      },
+      "results": [
+        {
+          "id": "kdj2ryoh38yq1zp",
+          "competition_id": "9dn1m1ghg1moepl",
+          "country_id": "9vjxm8ghggr6odg",
+          "name": "FC Vardar Skopje",
+          "short_name": "FC Vardar Skopje",
+          "logo": "https://img.thesports.com/football/team/a795ca8b09c4c90198fe8e23b73b0c96.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1911,
+          "website": "http://www.fkvardar.com.mk/",
+          "coach_id": "kjw2r09hpexrz84",
+          "venue_id": "j1l4rjnh1djm7vx",
+          "market_value": 3940000,
+          "market_value_currency": "\u20ac",
+          "total_players": 47,
+          "foreign_players": 15,
+          "national_players": 8,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1748033392
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"kdj2ryoh38yq1zp\", \"competition_id\": \"9dn1m1ghg1moepl\", \"country_id\": \"9vjxm8ghggr6odg\", \"name\": \"FC Vardar Skopje\", \"short_name\": \"FC Vardar Skopje\", \"logo\": \"https://img.thesports.com/football/team/a795ca8b09c4c90198fe8e23b73b0c96.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1911, \"website\": \"http://www.fkvardar.com.mk/\", \"coach_id\": \"kjw2r09hpexrz84\", \"venue_id\": \"j1l4rjnh1djm7vx\", \"market_value\": 3940000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 47, \"foreign_..."
+  }
+]

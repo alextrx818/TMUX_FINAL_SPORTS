@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:22:00.966017",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4jwq2gh4l6wm0ve"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 620,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4jwq2gh4l6wm0ve"
+      },
+      "results": [
+        {
+          "id": "4jwq2gh4l6wm0ve",
+          "competition_id": "gx7lm7phnjm2wdk",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "LSK Kvinner (w)",
+          "short_name": "Lsk Kvinner(w)",
+          "logo": "https://img.thesports.com/football/team/e3fc72518f213ad1f39ed9306da322b0.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "9vjxm8gholnr6od",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 22,
+          "foreign_players": 4,
+          "national_players": 3,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1749291666
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4jwq2gh4l6wm0ve\", \"competition_id\": \"gx7lm7phnjm2wdk\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"LSK Kvinner (w)\", \"short_name\": \"Lsk Kvinner(w)\", \"logo\": \"https://img.thesports.com/football/team/e3fc72518f213ad1f39ed9306da322b0.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"9vjxm8gholnr6od\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 22, \"foreign_players\": 4, \"national_players\": 3, \"virtual\": 0, \"gender\": ..."
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:41:53.865854",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y39mp1h39dnmojx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 610,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'y39mp1h39dnmojx', 'competition_id': 'kjw2r09hp8rz84o', 'country_id': '7jednm9wh0ryox8', 'name': 'Mallbackens IF (w)', 'short_name': 'Mallbackens IF(w)', 'logo': 'https://img.thesports.com/football/team/22712282d86c80b899e1eb63e35f2ace.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'gender': 2, 'update..."
+  }
+]

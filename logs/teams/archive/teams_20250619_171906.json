@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:19:05.724286",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "kdj2ryohz8zq1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 627,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "kdj2ryohz8zq1zp"
+      },
+      "results": [
+        {
+          "id": "kdj2ryohz8zq1zp",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Lunds BK",
+          "short_name": "Lunds BK",
+          "logo": "https://img.thesports.com/football/team/88a839f2f6f1427879fc33ee4acf4f66.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "d23xmvkhj0dqg8n",
+          "venue_id": "d23xmvkhn3xqg8n",
+          "market_value": 75000,
+          "market_value_currency": "",
+          "total_players": 27,
+          "foreign_players": 13,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1747278066
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"kdj2ryohz8zq1zp\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Lunds BK\", \"short_name\": \"Lunds BK\", \"logo\": \"https://img.thesports.com/football/team/88a839f2f6f1427879fc33ee4acf4f66.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"d23xmvkhj0dqg8n\", \"venue_id\": \"d23xmvkhn3xqg8n\", \"market_value\": 75000, \"market_value_currency\": \"\", \"total_players\": 27, \"foreign_players\": 13, \"national_players\": 1, \"virtual\": 0, \"ge..."
+  }
+]

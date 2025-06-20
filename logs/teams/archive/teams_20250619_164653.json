@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:46:53.545971",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "jw2r09hnjy6rz84"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 618,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'jw2r09hnjy6rz84', 'competition_id': 'l965mkyhw4r1ge4', 'country_id': 'yl5ergphojr8k0o', 'name': 'Elva', 'short_name': 'Elva', 'logo': 'https://img.thesports.com/football/team/5ccc7e66759c042674aaef5085b26abc.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': 'kjw2r09h70vrz84', 'venue_id': 'kdj2ryoh0kyq1zp', 'market_value': 10000, 'market_value_currency': '', 'total_players': 20, 'foreign_players': 1, 'national_players': 1, 'virtual': 0, 'gender': 1,..."
+  }
+]

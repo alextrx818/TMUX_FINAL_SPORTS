@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:11:28.598268",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "jw2r09hngz3rz84"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 604,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "jw2r09hngz3rz84"
+      },
+      "results": [
+        {
+          "id": "jw2r09hngz3rz84",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Kungsangens IF",
+          "short_name": "Kungsangens IF",
+          "logo": "https://img.thesports.com/football/team/2ce5d59209938b0c81bf565e268a7063.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 64,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1733130925
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"jw2r09hngz3rz84\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Kungsangens IF\", \"short_name\": \"Kungsangens IF\", \"logo\": \"https://img.thesports.com/football/team/2ce5d59209938b0c81bf565e268a7063.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 64, \"foreign_players\": 1, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\":..."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T16:55:54.417488",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y39mp1h3k3wmojx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 589,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "y39mp1h3k3wmojx"
+      },
+      "results": [
+        {
+          "id": "y39mp1h3k3wmojx",
+          "competition_id": "gx7lm7phnjm2wdk",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "Lyn (w)",
+          "short_name": "Lyn(w)",
+          "logo": "https://img.thesports.com/football/team/8fe2efe2a7bf90e1c99597e415cc1c17.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 26,
+          "foreign_players": 2,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1743590049
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"y39mp1h3k3wmojx\", \"competition_id\": \"gx7lm7phnjm2wdk\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"Lyn (w)\", \"short_name\": \"Lyn(w)\", \"logo\": \"https://img.thesports.com/football/team/8fe2efe2a7bf90e1c99597e415cc1c17.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 26, \"foreign_players\": 2, \"national_players\": 1, \"virtual\": 0, \"gender\": 2, \"updated_at\": 1743590049}"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:46:54.461460",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "gx7lm7ph9k4m2wd"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 601,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'gx7lm7ph9k4m2wd', 'category_id': '0gx7lm7ph0m2wdk', 'country_id': 'p4jwq2ghkpm0veo', 'name': 'Paraguayan Cup', 'short_name': 'PAR Cup', 'logo': 'https://img.thesports.com/football/competition/727e803cf129f5079d5b54a97c86740e.png', 'type': 2, 'cur_season_id': '8y39mp1hxxdmojx', 'cur_stage_id': '4jwq2gh552wm0ve', 'cur_round': 0, 'round_count': 0, 'title_holder': [], 'most_titles': [], 'newcomers': [], 'divisions': [], 'host': {}, 'primary_color': '', 'secondary_color': '', 'updated_at': 17..."
+  }
+]

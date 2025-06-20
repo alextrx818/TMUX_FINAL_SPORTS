@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:10:18.229029",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "965mkyh7764r1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 637,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "965mkyh7764r1ge"
+      },
+      "results": [
+        {
+          "id": "965mkyh7764r1ge",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Karlskrona AIF",
+          "short_name": "FK Karlskrona",
+          "logo": "https://img.thesports.com/football/team/6d8a5ad5ad8adbdba95ed24737b2b4bf.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "gx7lm7ph260m2wd",
+          "venue_id": "kjw2r09hwy3rz84",
+          "market_value": 25000,
+          "market_value_currency": "",
+          "total_players": 27,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1733020151
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"965mkyh7764r1ge\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Karlskrona AIF\", \"short_name\": \"FK Karlskrona\", \"logo\": \"https://img.thesports.com/football/team/6d8a5ad5ad8adbdba95ed24737b2b4bf.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"gx7lm7ph260m2wd\", \"venue_id\": \"kjw2r09hwy3rz84\", \"market_value\": 25000, \"market_value_currency\": \"\", \"total_players\": 27, \"foreign_players\": 1, \"national_players\": 0, \"virtua..."
+  }
+]

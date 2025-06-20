@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:42:54.385794",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4wyrn4hv5j4q86p"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 575,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': '4wyrn4hv5j4q86p', 'competition_id': 'j1l4rjnhkwkm7vx', 'country_id': '', 'name': 'AS DE Mande (W)', 'short_name': '', 'logo': 'https://img.thesports.com/football/team/0e37ff692598e5b067dbc3b91568b769.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'gender': 2, 'updated_at': 1743590891}"
+  }
+]

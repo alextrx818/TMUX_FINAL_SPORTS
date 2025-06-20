@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-06-19T17:26:28.525946",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l965mkyh4jdr1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 592,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l965mkyh4jdr1ge"
+      },
+      "results": [
+        {
+          "id": "l965mkyh4jdr1ge",
+          "category_id": "0gx7lm7ph0m2wdk",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "Argentine Reserve League",
+          "short_name": "ARG Reserve League",
+          "logo": "https://img.thesports.com/football/competition/3856d1c82c6896c8c53370e31f36365d.png",
+          "type": 1,
+          "cur_season_id": "",
+          "cur_stage_id": "",
+          "cur_round": 0,
+          "round_count": 0,
+          "title_holder": [],
+          "most_titles": [],
+          "newcomers": [],
+          "divisions": [],
+          "host": {},
+          "primary_color": "",
+          "secondary_color": "",
+          "updated_at": 1617964935
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l965mkyh4jdr1ge\", \"category_id\": \"0gx7lm7ph0m2wdk\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"Argentine Reserve League\", \"short_name\": \"ARG Reserve League\", \"logo\": \"https://img.thesports.com/football/competition/3856d1c82c6896c8c53370e31f36365d.png\", \"type\": 1, \"cur_season_id\": \"\", \"cur_stage_id\": \"\", \"cur_round\": 0, \"round_count\": 0, \"title_holder\": [], \"most_titles\": [], \"newcomers\": [], \"divisions\": [], \"host\": {}, \"primary_color\": \"\", \"secondary_color\": \"\", \"updated_at\": 1617964935}"
+  }
+]

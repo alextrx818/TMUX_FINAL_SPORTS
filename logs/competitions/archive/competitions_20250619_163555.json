@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:05:41.673079",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "gx7lm7phnjm2wdk"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 775,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'gx7lm7phnjm2wdk', 'category_id': '49vjxm8ghgr6odg', 'country_id': '28y39mp1hzmojxg', 'name': 'Norwegian Toppserien', 'short_name': 'NOR Toppserien', 'logo': 'https://img.thesports.com/football/competition/ffe154d4d460788bd5a3e46d2c65dd79.png', 'type': 1, 'cur_season_id': 'j1l4rjnh8jym7vx', 'cur_stage_id': '3glrw7hg476qdyj', 'cur_round': 14, 'round_count': 27, 'title_holder': ['965mkyh7p19r1ge', 2], 'most_titles': [['k82rekhoz5grepz', '4jwq2gh4l6wm0ve'], 7], 'newcomers': [['x7lm7ph05jzm2w..."
+  }
+]

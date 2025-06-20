@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T15:52:53.162262",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "9k82rekheorepzj"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 637,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': '9k82rekheorepzj', 'category_id': '49vjxm8ghgr6odg', 'country_id': 'yl5ergphojr8k0o', 'name': \"Estonian Women's Meistri Liiga\", 'short_name': \"EST Women's Meistri Liiga\", 'logo': 'https://img.thesports.com/football/competition/138031c10fd46dbd72b62b96ebd887ac.png', 'type': 1, 'cur_season_id': 'kjw2r09hed3rz84', 'cur_stage_id': 'zp5rzghdo1dq82w', 'cur_round': 10, 'round_count': 21, 'title_holder': [], 'most_titles': [], 'newcomers': [], 'divisions': [], 'host': {}, 'primary_color': '', 'se..."
+  }
+]

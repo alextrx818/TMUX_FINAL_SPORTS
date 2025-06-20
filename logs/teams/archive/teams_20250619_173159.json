@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:31:58.760302",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dn1m1gh8kxkmoep"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 576,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dn1m1gh8kxkmoep"
+      },
+      "results": [
+        {
+          "id": "dn1m1gh8kxkmoep",
+          "competition_id": "z318q66hvdlqo9j",
+          "country_id": "",
+          "name": "Harts Academy FC",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/0004123cc6ac87fbaf79993d74c77c78.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1747895975
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dn1m1gh8kxkmoep\", \"competition_id\": \"z318q66hvdlqo9j\", \"country_id\": \"\", \"name\": \"Harts Academy FC\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/0004123cc6ac87fbaf79993d74c77c78.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1747895975}"
+  }
+]

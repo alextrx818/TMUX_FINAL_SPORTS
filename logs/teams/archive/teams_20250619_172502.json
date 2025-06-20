@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:25:01.597118",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l965mkyh6w4r1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 626,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l965mkyh6w4r1ge"
+      },
+      "results": [
+        {
+          "id": "l965mkyh6w4r1ge",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Pitea IF",
+          "short_name": "Pitea IF",
+          "logo": "https://img.thesports.com/football/team/b54085c29e27a9e536edd805213c7e6f.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "318q66ho757qo9j",
+          "venue_id": "p3glrw7hy5gqdyj",
+          "market_value": 50000,
+          "market_value_currency": "",
+          "total_players": 23,
+          "foreign_players": 8,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1742220909
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l965mkyh6w4r1ge\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Pitea IF\", \"short_name\": \"Pitea IF\", \"logo\": \"https://img.thesports.com/football/team/b54085c29e27a9e536edd805213c7e6f.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"318q66ho757qo9j\", \"venue_id\": \"p3glrw7hy5gqdyj\", \"market_value\": 50000, \"market_value_currency\": \"\", \"total_players\": 23, \"foreign_players\": 8, \"national_players\": 0, \"virtual\": 0, \"gen..."
+  }
+]

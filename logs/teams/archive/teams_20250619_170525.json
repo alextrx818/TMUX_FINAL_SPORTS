@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:05:24.994850",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y0or5jh4301qwzv"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 655,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "y0or5jh4301qwzv"
+      },
+      "results": [
+        {
+          "id": "y0or5jh4301qwzv",
+          "competition_id": "",
+          "country_id": "gpxwrxlh2zryk0j",
+          "name": "Uganda (w)",
+          "short_name": "Uganda(w)",
+          "logo": "https://img.thesports.com/football/team/a8723c80bd16ea6d531f13aff546adca.png",
+          "national": 1,
+          "country_logo": "https://img.thesports.com/football/team/81f7acabd411274fcf65ce2070ed568a.png",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1743590242
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"y0or5jh4301qwzv\", \"competition_id\": \"\", \"country_id\": \"gpxwrxlh2zryk0j\", \"name\": \"Uganda (w)\", \"short_name\": \"Uganda(w)\", \"logo\": \"https://img.thesports.com/football/team/a8723c80bd16ea6d531f13aff546adca.png\", \"national\": 1, \"country_logo\": \"https://img.thesports.com/football/team/81f7acabd411274fcf65ce2070ed568a.png\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_pl..."
+  }
+]

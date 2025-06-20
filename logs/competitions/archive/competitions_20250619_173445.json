@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-06-19T17:33:23.567066",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "jednm9wh2nryox8"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 677,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "jednm9wh2nryox8"
+      },
+      "results": [
+        {
+          "id": "jednm9wh2nryox8",
+          "category_id": "49vjxm8ghgr6odg",
+          "country_id": "p3glrw7hwwqdyjv",
+          "name": "Icelandic Cup",
+          "short_name": "ICE Cup",
+          "logo": "https://img.thesports.com/football/competition/f360f7ac2d137c41101d13ef1329696f.jpg",
+          "type": 2,
+          "cur_season_id": "gx7lm7phlvgm2wd",
+          "cur_stage_id": "965mkyh009yr1ge",
+          "cur_round": 0,
+          "round_count": 0,
+          "title_holder": [
+            "j1l4rjnh0zom7vx",
+            6
+          ],
+          "most_titles": [
+            [
+              "4zp5rzghengq82w"
+            ],
+            25
+          ],
+          "newcomers": [],
+          "divisions": [],
+          "host": {
+            "country": "Ireland"
+          },
+          "primary_color": "#00452a",
+          "secondary_color": "#51b116",
+          "updated_at": 1748066392
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"jednm9wh2nryox8\", \"category_id\": \"49vjxm8ghgr6odg\", \"country_id\": \"p3glrw7hwwqdyjv\", \"name\": \"Icelandic Cup\", \"short_name\": \"ICE Cup\", \"logo\": \"https://img.thesports.com/football/competition/f360f7ac2d137c41101d13ef1329696f.jpg\", \"type\": 2, \"cur_season_id\": \"gx7lm7phlvgm2wd\", \"cur_stage_id\": \"965mkyh009yr1ge\", \"cur_round\": 0, \"round_count\": 0, \"title_holder\": [\"j1l4rjnh0zom7vx\", 6], \"most_titles\": [[\"4zp5rzghengq82w\"], 25], \"newcomers\": [], \"divisions\": [], \"host\": {\"country\": \"Ireland\"}..."
+  }
+]

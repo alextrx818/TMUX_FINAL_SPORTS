@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:51:54.578189",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "n54qllhj9pyqvy9"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 571,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'n54qllhj9pyqvy9', 'competition_id': '56ypq3nhlw6md7o', 'country_id': '', 'name': 'Star Arafat', 'short_name': '', 'logo': 'https://img.thesports.com/football/team/3e0dbd34bf604ec73cc09418adfad636.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'gender': 1, 'updated_at': 1688464432}"
+  }
+]

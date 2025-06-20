@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2025-06-19T15:48:25.274021",
+    "endpoint": "countries",
+    "status": "failed",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/country/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 77,
+      "type": "dict",
+      "has_results": false
+    },
+    "error": "API Error: IP is not authorized to access, please contact our business staff."
+  }
+]

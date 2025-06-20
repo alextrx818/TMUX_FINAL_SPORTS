@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:40:23.383090",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "kdj2ryoh0ojq1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 629,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "kdj2ryoh0ojq1zp"
+      },
+      "results": [
+        {
+          "id": "kdj2ryoh0ojq1zp",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Vastra Frolunda",
+          "short_name": "Vastra Frolunda",
+          "logo": "https://img.thesports.com/football/team/6335b3dfbb904f58db02f644658a8c22.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1930,
+          "website": "http://www.vfif.o.se/",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 3,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1728460829
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"kdj2ryoh0ojq1zp\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Vastra Frolunda\", \"short_name\": \"Vastra Frolunda\", \"logo\": \"https://img.thesports.com/football/team/6335b3dfbb904f58db02f644658a8c22.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1930, \"website\": \"http://www.vfif.o.se/\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 3, \"foreign_players\": 1, \"national_players\": 0, \"virtual\": 0, \"..."
+  }
+]

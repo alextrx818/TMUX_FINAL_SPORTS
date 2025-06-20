@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:13:46.509097",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "2y8m4zhjnlxql07"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 592,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "2y8m4zhjnlxql07"
+      },
+      "results": [
+        {
+          "id": "2y8m4zhjnlxql07",
+          "competition_id": "yl5ergphvopr8k0",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "Strindheim TF U19",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/27224df310437edc9bf3a5915179ff36.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1728460937
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"2y8m4zhjnlxql07\", \"competition_id\": \"yl5ergphvopr8k0\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"Strindheim TF U19\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/27224df310437edc9bf3a5915179ff36.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1728460937}"
+  }
+]

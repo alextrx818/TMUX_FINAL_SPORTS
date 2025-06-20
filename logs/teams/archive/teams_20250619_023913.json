@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T02:38:12.985534",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "2y8m4zhgn4jql07"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 612,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': '2y8m4zhgn4jql07', 'competition_id': 'l965mkyhnj1r1ge', 'country_id': 'd23xmvkhoxqg8ny', 'name': 'Pleasanton Rage (w)', 'short_name': 'Pleasanton Rage(w)', 'logo': 'https://img.thesports.com/football/team/b13fc3b82564881caeb0bbbc5ca3afa9.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'gender': 2, 'upda..."
+  }
+]

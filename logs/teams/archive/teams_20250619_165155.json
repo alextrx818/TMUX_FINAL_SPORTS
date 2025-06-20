@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:51:54.622694",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "965mkyh4466r1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 628,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': '965mkyh4466r1ge', 'competition_id': '8y39mp1hojmojxg', 'country_id': 'yl5ergphojr8k0o', 'name': 'FC Maardu', 'short_name': 'FC Maardu', 'logo': 'https://img.thesports.com/football/team/a7a6ac3413ef96098216a84594674369.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': 'x7lm7ph8n3ym2wd', 'venue_id': 'z318q66h7llqo9j', 'market_value': 100000, 'market_value_currency': '', 'total_players': 8, 'foreign_players': 2, 'national_players': 0, 'virtual': 0, 'g..."
+  }
+]

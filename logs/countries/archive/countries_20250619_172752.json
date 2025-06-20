@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-06-19T15:43:20.583317",
+    "endpoint": "countries",
+    "status": "failed",
+    "request": {},
+    "response_summary": {
+      "size_bytes": 0,
+      "type": "NoneType",
+      "has_results": false
+    },
+    "error": "THESPORTS_USER and THESPORTS_SECRET environment variables required"
+  }
+]

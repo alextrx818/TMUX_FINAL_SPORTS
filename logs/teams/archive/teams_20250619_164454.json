@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:44:53.442288",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "k82rekhoz5grepz"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 604,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'k82rekhoz5grepz', 'competition_id': 'gx7lm7phnjm2wdk', 'country_id': '28y39mp1hzmojxg', 'name': 'Rosenborg BK (w)', 'short_name': 'Rosenborg(w)', 'logo': 'https://img.thesports.com/football/team/020fb287c84ac1eafe3b0fedfc834fba.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 18, 'foreign_players': 2, 'national_players': 2, 'virtual': 0, 'gender': 2, 'updated_at':..."
+  }
+]

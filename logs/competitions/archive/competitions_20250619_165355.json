@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:52:54.971846",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "9vjxm8ghllzr6od"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 603,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': '9vjxm8ghllzr6od', 'category_id': 'kp3glrw7hwqdyjv', 'country_id': '', 'name': 'FIFA Club World Cup', 'short_name': 'FIFA Club World Cup', 'logo': 'https://img.thesports.com/football/competition/ceac41ef85151074cdbfc87f09e1b8a9.png', 'type': 2, 'cur_season_id': '9dn1m1gh5kemoep', 'cur_stage_id': 'n54qllh92p5qvy9', 'cur_round': 2, 'round_count': 3, 'title_holder': [], 'most_titles': [], 'newcomers': [], 'divisions': [], 'host': {}, 'primary_color': '', 'secondary_color': '', 'updated_at': ..."
+  }
+]

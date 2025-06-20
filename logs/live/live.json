@@ -1,0 +1,2890 @@
+{
+  "api_response": {
+    "code": 0,
+    "results": [
+      {
+        "id": "x7lm7phjo09vm2w",
+        "score": [
+          "x7lm7phjo09vm2w",
+          2,
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          1750378175,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 3,
+            "home": 0,
+            "away": 1
+          },
+          {
+            "type": 21,
+            "home": 0,
+            "away": 1
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 22,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 24,
+            "home": 11,
+            "away": 9
+          },
+          {
+            "type": 23,
+            "home": 16,
+            "away": 21
+          },
+          {
+            "type": 25,
+            "home": 41,
+            "away": 59
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 0,
+            "away": 1
+          }
+        ],
+        "incidents": [
+          {
+            "type": 3,
+            "position": 2,
+            "time": 9
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 19,
+            "home_score": 0,
+            "away_score": 1
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "n54qllhnexjyqvy",
+        "score": [
+          "n54qllhnexjyqvy",
+          13,
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [],
+        "incidents": [],
+        "tlive": []
+      },
+      {
+        "id": "23xmvkh6od4jqg8",
+        "score": [
+          "23xmvkh6od4jqg8",
+          2,
+          [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          1750377710,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 22,
+            "home": 3,
+            "away": 0
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 0,
+            "away": 1
+          },
+          {
+            "type": 21,
+            "home": 3,
+            "away": 0
+          },
+          {
+            "type": 25,
+            "home": 58,
+            "away": 42
+          },
+          {
+            "type": 24,
+            "home": 11,
+            "away": 22
+          },
+          {
+            "type": 23,
+            "home": 40,
+            "away": 49
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 3,
+            "home": 0,
+            "away": 0
+          }
+        ],
+        "incidents": [
+          {
+            "type": 1,
+            "position": 1,
+            "time": 31,
+            "home_score": 1,
+            "away_score": 0
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "n54qllh7vd0pqvy",
+        "score": [
+          "n54qllh7vd0pqvy",
+          2,
+          [
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          1750377582,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 25,
+            "home": 49,
+            "away": 51
+          },
+          {
+            "type": 21,
+            "home": 1,
+            "away": 2
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 22,
+            "home": 3,
+            "away": 2
+          },
+          {
+            "type": 3,
+            "home": 1,
+            "away": 0
+          },
+          {
+            "type": 24,
+            "home": 14,
+            "away": 19
+          },
+          {
+            "type": 23,
+            "home": 29,
+            "away": 36
+          }
+        ],
+        "incidents": [
+          {
+            "type": 3,
+            "position": 1,
+            "time": 31
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "l7oqdehg6lgyr51",
+        "score": [
+          "l7oqdehg6lgyr51",
+          13,
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [],
+        "incidents": [],
+        "tlive": []
+      },
+      {
+        "id": "k82rekhg9y57rep",
+        "score": [
+          "k82rekhg9y57rep",
+          2,
+          [
+            1,
+            1,
+            0,
+            0,
+            3,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            0,
+            1,
+            0,
+            0
+          ],
+          1750377678,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 21,
+            "home": 4,
+            "away": 2
+          },
+          {
+            "type": 25,
+            "home": 50,
+            "away": 50
+          },
+          {
+            "type": 23,
+            "home": 30,
+            "away": 29
+          },
+          {
+            "type": 24,
+            "home": 19,
+            "away": 9
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 3,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 22,
+            "home": 2,
+            "away": 0
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 3,
+            "away": 1
+          }
+        ],
+        "incidents": [
+          {
+            "type": 1,
+            "position": 2,
+            "time": 13,
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 17,
+            "home_score": 1,
+            "away_score": 1
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "vjxm8ghegjpkr6o",
+        "score": [
+          "vjxm8ghegjpkr6o",
+          2,
+          [
+            1,
+            1,
+            0,
+            1,
+            3,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          1750376986,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 2,
+            "home": 3,
+            "away": 1
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 22,
+            "home": 2,
+            "away": 0
+          },
+          {
+            "type": 3,
+            "home": 1,
+            "away": 1
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 23,
+            "home": 36,
+            "away": 47
+          },
+          {
+            "type": 24,
+            "home": 14,
+            "away": 16
+          },
+          {
+            "type": 25,
+            "home": 55,
+            "away": 45
+          },
+          {
+            "type": 21,
+            "home": 1,
+            "away": 0
+          }
+        ],
+        "incidents": [
+          {
+            "type": 1,
+            "position": 1,
+            "time": 25,
+            "home_score": 1,
+            "away_score": 0
+          },
+          {
+            "type": 3,
+            "position": 1,
+            "time": 35
+          },
+          {
+            "type": 3,
+            "position": 2,
+            "time": 38
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "k82rekhg9ye0rep",
+        "score": [
+          "k82rekhg9ye0rep",
+          4,
+          [
+            0,
+            0,
+            0,
+            3,
+            4,
+            0,
+            0
+          ],
+          [
+            1,
+            1,
+            0,
+            2,
+            2,
+            0,
+            0
+          ],
+          1750378292,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 24,
+            "home": 29,
+            "away": 21
+          },
+          {
+            "type": 2,
+            "home": 4,
+            "away": 2
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 21,
+            "home": 0,
+            "away": 1
+          },
+          {
+            "type": 23,
+            "home": 71,
+            "away": 72
+          },
+          {
+            "type": 25,
+            "home": 50,
+            "away": 50
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 3,
+            "home": 3,
+            "away": 2
+          },
+          {
+            "type": 22,
+            "home": 4,
+            "away": 8
+          }
+        ],
+        "incidents": [
+          {
+            "type": 3,
+            "position": 2,
+            "time": 17,
+            "player_id": "l7oqdeh0lw1or51",
+            "player_name": "Andr\u00e9s Salazar",
+            "reason_type": 1
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 24,
+            "player_id": "dn1m1gh3o2lmoep",
+            "player_name": "Dairon Asprilla",
+            "assist1_id": "zp5rzghx5kyq82w",
+            "assist1_name": "Alfredo Morelos",
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 28,
+            "position": 1,
+            "time": 42,
+            "player_id": "zp5rzghpyeyvq82",
+            "player_name": "Juan Cuesta",
+            "var_reason": 3,
+            "var_result": 4
+          },
+          {
+            "type": 19,
+            "position": 0,
+            "time": 45,
+            "add_time": 2
+          },
+          {
+            "type": 3,
+            "position": 1,
+            "time": 47,
+            "add_time": 2,
+            "player_id": "jw2r09hw114vrz8",
+            "player_name": "Juan castano",
+            "reason_type": 1
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 48
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 45,
+            "in_player_id": "zp5rzghxo42eq82",
+            "in_player_name": "Cristian Enrique Uribe Caro",
+            "out_player_id": "965mkyh3o474r1g",
+            "out_player_name": "Joan Castro",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 45,
+            "in_player_id": "y0or5jh3wk8yqwz",
+            "in_player_name": "Jefry Zapata",
+            "out_player_id": "dn1m1ghnkx1ymoe",
+            "out_player_name": "Alejandro Garc\u00eda",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 57,
+            "in_player_id": "l5ergphnde25r8k",
+            "in_player_name": "Luis Miguel Land\u00e1zuri",
+            "out_player_id": "8yomo4h0j2dnq0j",
+            "out_player_name": "Juan Jos\u00e9 Rosa Arboleda",
+            "reason_type": 3
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 61,
+            "in_player_id": "ednm9whv323oryo",
+            "in_player_name": "Yeiler Stith Valencia Banguero",
+            "out_player_id": "y0or5jhez8jwqwz",
+            "out_player_name": "Esteban Beltran",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 65,
+            "in_player_id": "x7lm7ph0p1l0m2w",
+            "in_player_name": "Faber Andr\u00e9s Gil Mosquera",
+            "out_player_id": "l7oqdeh0lw1or51",
+            "out_player_name": "Andr\u00e9s Salazar",
+            "reason_type": 4
+          },
+          {
+            "type": 3,
+            "position": 1,
+            "time": 67,
+            "player_id": "4jwq2ghx81n3m0v",
+            "player_name": "Mateo Zuleta Garc\u00eda",
+            "reason_type": 1
+          },
+          {
+            "type": 3,
+            "position": 2,
+            "time": 67,
+            "player_id": "zp5rzghx5kyq82w",
+            "player_name": "Alfredo Morelos",
+            "reason_type": 18
+          }
+        ],
+        "tlive": [
+          {
+            "time": "",
+            "data": "Lineups are announced and players are warming up.",
+            "position": 0
+          },
+          {
+            "time": "",
+            "data": "First Half begins.",
+            "position": 0
+          },
+          {
+            "time": "3'",
+            "data": "3'Corner,Atl\u00e9tico Nacional.Conceded by James Aguirre.",
+            "position": 0
+          },
+          {
+            "time": "7'",
+            "data": "7'Attempt missed.Juan Zapata (Atletico Nacional Medellin)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "9'",
+            "data": "9'Dairon Asprilla (Atletico Nacional Medellin) foul.",
+            "position": 2
+          },
+          {
+            "time": "9'",
+            "data": "9'Jorge Cardona (Deportiva Once Caldas) gets a free kick in the defensive half.",
+            "position": 1
+          },
+          {
+            "time": "9'",
+            "data": "9'Alejandro Garc\u00eda (Deportiva Once Caldas) foul.",
+            "position": 1
+          },
+          {
+            "time": "9'",
+            "data": "9'Jorman Campuzano (Atletico Nacional Medellin) gets a free kick on the right wing.",
+            "position": 2
+          },
+          {
+            "time": "12'",
+            "data": "12'Attempt missed.Esteban Beltr\u00e1n (Deportiva Once Caldas)\u2019s right foot shot.",
+            "position": 1
+          },
+          {
+            "time": "14'",
+            "data": "14'Attempt missed.Juan Rosa (Atletico Nacional Medellin)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "15'",
+            "data": "15'Corner,Atl\u00e9tico Nacional.Conceded by Jorge Cardona.",
+            "position": 0
+          },
+          {
+            "time": "17'",
+            "data": "17'Andr\u00e9s Salazar (Atletico Nacional Medellin) foul.",
+            "position": 2
+          },
+          {
+            "time": "17'",
+            "data": "17'Michael Barrios (Deportiva Once Caldas) gets a free kick on the right wing.",
+            "position": 1
+          },
+          {
+            "time": "17'",
+            "data": "Yellow card by 17'Andr\u00e9s Salazar (Atletico Nacional Medellin) for a bad foul.",
+            "position": 2
+          },
+          {
+            "time": "19'",
+            "data": "19'Attempt missed.Juan Rosa (Atletico Nacional Medellin)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "23'",
+            "data": "23'Offside, Once Caldas.Mateo Zuleta is caught offside.",
+            "position": 0
+          },
+          {
+            "time": "24'",
+            "data": "24'Goal! Once Caldas 0, Atl\u00e9tico Nacional 1.Dairon Asprilla (Atletico Nacional Medellin)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "29'",
+            "data": "29'The match delays (Deportiva Once Caldas).",
+            "position": 1
+          },
+          {
+            "time": "29'",
+            "data": "29'Delay over.The match resumes.",
+            "position": 0
+          },
+          {
+            "time": "31'",
+            "data": "31'Mateo Zuleta (Deportiva Once Caldas) gets a free kick on the left wing.",
+            "position": 1
+          },
+          {
+            "time": "32'",
+            "data": "32'William Tesillo (Atletico Nacional Medellin) gets a free kick in the defensive half.",
+            "position": 2
+          },
+          {
+            "time": "38'",
+            "data": "38'Corner,Once Caldas.Conceded by Andr\u00e9s Salazar.",
+            "position": 0
+          },
+          {
+            "time": "39'",
+            "data": "39'Offside, Once Caldas.Dayro Moreno is caught offside.",
+            "position": 0
+          },
+          {
+            "time": "42'",
+            "data": "42'Penalty Once Caldas.Juan Cuesta draws a foul in the penalty area.",
+            "position": 0
+          },
+          {
+            "time": "42'",
+            "data": "42'Juan Cuesta (Deportiva Once Caldas) gets a free kick on the right wing.",
+            "position": 1
+          },
+          {
+            "time": "44'",
+            "data": "44'Corner,Once Caldas.Conceded by Dairon Asprilla.",
+            "position": 0
+          },
+          {
+            "time": "45'+1'",
+            "data": "45'+1'VAR Decision: No Penalty Once Caldas.",
+            "position": 0
+          },
+          {
+            "time": "45'+2'",
+            "data": "45'+2'Jorman Campuzano (Atletico Nacional Medellin) gets a free kick on the right wing.",
+            "position": 2
+          },
+          {
+            "time": "45'+2'",
+            "data": "Yellow card by 45'+2'Juan Casta\u00f1o (Deportiva Once Caldas) for a bad foul.",
+            "position": 1
+          },
+          {
+            "time": "45'+2'",
+            "data": "45'+2'Juan Casta\u00f1o (Deportiva Once Caldas) gets a free kick in the defensive half.",
+            "position": 1
+          },
+          {
+            "time": "45'+2'",
+            "data": "Yellow card by 45'+2'Juan Casta\u00f1o (Deportiva Once Caldas) for a bad foul.",
+            "position": 1
+          },
+          {
+            "time": "45'+3'",
+            "data": "45'+3'First Half ends, Once Caldas 0, Atl\u00e9tico Nacional 1.",
+            "position": 0
+          },
+          {
+            "time": "45'",
+            "data": "45'Substitution, Atl\u00e9tico Nacional.Substituton in Cristian Uribe,Substitution out Joan Castro.",
+            "position": 0
+          },
+          {
+            "time": "45'",
+            "data": "45'Substitution, Once Caldas.Substituton in Jefry Zapata,Substitution out Alejandro Garc\u00eda.",
+            "position": 0
+          },
+          {
+            "time": "47'",
+            "data": "47'Hand ball by Dairon Asprilla (Atletico Nacional Medellin).",
+            "position": 2
+          },
+          {
+            "time": "49'",
+            "data": "49'Dairon Asprilla (Atletico Nacional Medellin) foul.",
+            "position": 2
+          },
+          {
+            "time": "49'",
+            "data": "49'J\u00e1ider Riquett (Deportiva Once Caldas) gets a free kick in the attacking half.",
+            "position": 1
+          },
+          {
+            "time": "50'",
+            "data": "50'Attempt missed.Alfredo Morelos (Atletico Nacional Medellin)\u2019s left foot shot.Dairon Asprilla following a fast break assists.",
+            "position": 2
+          },
+          {
+            "time": "52'",
+            "data": "52'Juan Casta\u00f1o (Deportiva Once Caldas) gets a free kick in the defensive half.",
+            "position": 1
+          },
+          {
+            "time": "52'",
+            "data": "52'Offside, Once Caldas.Juan Cuesta is caught offside.",
+            "position": 0
+          },
+          {
+            "time": "55'",
+            "data": "55'Iv\u00e1n Rojas (Deportiva Once Caldas) foul.",
+            "position": 1
+          },
+          {
+            "time": "55'",
+            "data": "55'Jorman Campuzano (Atletico Nacional Medellin) foul.",
+            "position": 2
+          },
+          {
+            "time": "57'",
+            "data": "57'Substitution, Atl\u00e9tico Nacional.Substituton in Luis Land\u00e1zuri,Substitution out Juan Rosa.",
+            "position": 0
+          },
+          {
+            "time": "57'",
+            "data": "57'Attempt missed.Alfredo Morelos (Atletico Nacional Medellin)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "57'",
+            "data": "57'Cristian Uribe (Atletico Nacional Medellin) foul.",
+            "position": 2
+          },
+          {
+            "time": "57'",
+            "data": "57'Michael Barrios (Deportiva Once Caldas) gets a free kick on the left wing.",
+            "position": 1
+          },
+          {
+            "time": "59'",
+            "data": "59'Attempt blocked.Luis Land\u00e1zuri (Atletico Nacional Medellin)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "59'",
+            "data": "59'Juan Zapata (Atletico Nacional Medellin) foul.",
+            "position": 2
+          },
+          {
+            "time": "59'",
+            "data": "59'Juan Cuesta (Deportiva Once Caldas) gets a free kick in the defensive half.",
+            "position": 1
+          },
+          {
+            "time": "60'",
+            "data": "60'Alfredo Morelos (Atletico Nacional Medellin) gets a free kick on the left wing.",
+            "position": 2
+          },
+          {
+            "time": "60'",
+            "data": "60'Jorge Cardona (Deportiva Once Caldas) foul.",
+            "position": 1
+          },
+          {
+            "time": "61'",
+            "data": "61'Attempt missed.Dayro Moreno (Deportiva Once Caldas)\u2019s right foot shot.Jefry Zapata assists.",
+            "position": 1
+          },
+          {
+            "time": "61'",
+            "data": "61'Substitution, Once Caldas.Substituton in Yeiler Valencia,Substitution out Esteban Beltr\u00e1n.",
+            "position": 0
+          },
+          {
+            "time": "62'",
+            "data": "62'Offside, Once Caldas.Jefry Zapata is caught offside.",
+            "position": 0
+          },
+          {
+            "time": "63'",
+            "data": "63'Corner,Once Caldas.Conceded by William Tesillo.",
+            "position": 0
+          },
+          {
+            "time": "65'",
+            "data": "65'Attempt missed.Jefry Zapata (Deportiva Once Caldas)\u2019s right foot shot.",
+            "position": 1
+          },
+          {
+            "time": "65'",
+            "data": "65'Substitution, Atl\u00e9tico Nacional.Substituton in Faber Gil,Substitution out Andr\u00e9s Salazar.",
+            "position": 0
+          },
+          {
+            "time": "66'",
+            "data": "66'Mateo Zuleta (Deportiva Once Caldas) gets a free kick on the right wing.",
+            "position": 1
+          },
+          {
+            "time": "67'",
+            "data": "67'Alfredo Morelos (Atletico Nacional Medellin) gets a free kick in the defensive half.",
+            "position": 2
+          },
+          {
+            "time": "67'",
+            "data": "Yellow card by 67'Alfredo Morelos (Atletico Nacional Medellin).",
+            "position": 2
+          }
+        ]
+      },
+      {
+        "id": "dn1m1ghle35vmoe",
+        "score": [
+          "dn1m1ghle35vmoe",
+          4,
+          [
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            0,
+            0,
+            2,
+            0,
+            0
+          ],
+          1750377547,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 25,
+            "home": 39,
+            "away": 61
+          },
+          {
+            "type": 22,
+            "home": 5,
+            "away": 8
+          },
+          {
+            "type": 24,
+            "home": 34,
+            "away": 56
+          },
+          {
+            "type": 3,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 21,
+            "home": 2,
+            "away": 10
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 3,
+            "away": 2
+          },
+          {
+            "type": 23,
+            "home": 76,
+            "away": 108
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          }
+        ],
+        "incidents": [
+          {
+            "type": 1,
+            "position": 2,
+            "time": 19,
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 30,
+            "home_score": 0,
+            "away_score": 2
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 32,
+            "home_score": 0,
+            "away_score": 3
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 54,
+            "home_score": 0,
+            "away_score": 4
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "3glrw7hn1jznqdy",
+        "score": [
+          "3glrw7hn1jznqdy",
+          4,
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          1750378146,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 3,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 0,
+            "away": 0
+          }
+        ],
+        "incidents": [],
+        "tlive": []
+      },
+      {
+        "id": "vjxm8ghegv94r6o",
+        "score": [
+          "vjxm8ghegv94r6o",
+          4,
+          [
+            1,
+            0,
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            1,
+            1,
+            4,
+            0,
+            0
+          ],
+          1750377210,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 23,
+            "home": 62,
+            "away": 70
+          },
+          {
+            "type": 3,
+            "home": 1,
+            "away": 1
+          },
+          {
+            "type": 21,
+            "home": 2,
+            "away": 3
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 1
+          },
+          {
+            "type": 24,
+            "home": 19,
+            "away": 45
+          },
+          {
+            "type": 22,
+            "home": 5,
+            "away": 11
+          },
+          {
+            "type": 25,
+            "home": 52,
+            "away": 48
+          },
+          {
+            "type": 2,
+            "home": 2,
+            "away": 4
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 1
+          }
+        ],
+        "incidents": [
+          {
+            "type": 4,
+            "position": 2,
+            "time": 39,
+            "player_id": "vjxm8ghpyjgr6od",
+            "player_name": "Jean-Kevin Duverne"
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 42,
+            "in_player_id": "pxwrxlhj251vryk",
+            "in_player_name": "G. Metusala",
+            "out_player_id": "k82rekho00vrepz",
+            "out_player_name": "Duckens Nazon",
+            "reason_type": 4
+          },
+          {
+            "type": 19,
+            "position": 0,
+            "time": 45,
+            "add_time": 7
+          },
+          {
+            "type": 28,
+            "position": 2,
+            "time": 48,
+            "add_time": 3,
+            "player_id": "vjxm8ghj92zlr6o",
+            "player_name": "Ruben Providence",
+            "var_reason": 3,
+            "var_result": 4
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 53
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 49,
+            "player_id": "318q66hv2281qo9",
+            "player_name": "Frantzdy Pierrot",
+            "assist1_id": "ednm9whz7zngryo",
+            "assist1_name": "Louicius Don Deedson",
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 56,
+            "in_player_id": "jw2r09hn8jxrz84",
+            "in_player_name": "Kevin Molino",
+            "out_player_id": "k82rekhyg2zlrep",
+            "out_player_name": "Dante Sealy",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 56,
+            "in_player_id": "vjxm8gh8x1pkr6o",
+            "in_player_name": "Steffen Yeates",
+            "out_player_id": "zp5rzghzk54xq82",
+            "out_player_name": "Daniel Phillips",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 56,
+            "in_player_id": "zp5rzghpdx02q82",
+            "in_player_name": "R. Gill",
+            "out_player_id": "4jwq2ghx576pm0v",
+            "out_player_name": "N. James",
+            "reason_type": 4
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 68,
+            "player_id": "4wyrn4h4782vq86",
+            "player_name": "J. Garcia",
+            "assist1_id": "jw2r09hn8jxrz84",
+            "assist1_name": "Kevin Molino",
+            "home_score": 1,
+            "away_score": 1
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 70,
+            "in_player_id": "vjxm8gh86ewer6o",
+            "in_player_name": "Wilguens Paugain",
+            "out_player_id": "vjxm8gh8wxjr6od",
+            "out_player_name": "Carlens Arcus",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 71,
+            "in_player_id": "6ypq3nhz3dzemd7",
+            "in_player_name": "Christopher Attys",
+            "out_player_id": "vjxm8ghj92zlr6o",
+            "out_player_name": "Ruben Providence",
+            "reason_type": 4
+          },
+          {
+            "type": 3,
+            "position": 2,
+            "time": 72,
+            "player_id": "ednm9whz2kdwryo",
+            "player_name": "Danley Jean Jacques",
+            "reason_type": 1
+          },
+          {
+            "type": 3,
+            "position": 1,
+            "time": 72,
+            "player_id": "y39mp1hj0824moj",
+            "player_name": "Andre Rampersad",
+            "reason_type": 18
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 81,
+            "in_player_id": "k82rekhoxydxrep",
+            "in_player_name": "Mondy Prunier",
+            "out_player_id": "318q66hv2281qo9",
+            "out_player_name": "Frantzdy Pierrot",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 81,
+            "in_player_id": "3glrw7hyyx15qdy",
+            "in_player_name": "Dany Jean",
+            "out_player_id": "ednm9whz7zngryo",
+            "out_player_name": "Louicius Don Deedson",
+            "reason_type": 4
+          },
+          {
+            "type": 16,
+            "position": 2,
+            "time": 86,
+            "player_id": "k82rekhoxydxrep",
+            "player_name": "Mondy Prunier",
+            "home_score": 1,
+            "away_score": 1
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 87,
+            "in_player_id": "2y8m4zh8ez4eql0",
+            "in_player_name": "Kaihim Torell Thomas",
+            "out_player_id": "pxwrxlhz285lryk",
+            "out_player_name": "T. Spicer",
+            "reason_type": 4
+          }
+        ],
+        "tlive": [
+          {
+            "time": "",
+            "data": "Lineups are announced and players are warming up.",
+            "position": 0
+          },
+          {
+            "time": "",
+            "data": "First Half begins.",
+            "position": 0
+          },
+          {
+            "time": "2'",
+            "data": "2'Corner,Haiti.Conceded by Sheldon Bateau.",
+            "position": 0
+          },
+          {
+            "time": "3'",
+            "data": "3'Attempt missed.Ricardo Ad\u00e9 (Haiti)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "3'",
+            "data": "3'Hand ball by Louicius Deedson (Haiti).",
+            "position": 2
+          },
+          {
+            "time": "4'",
+            "data": "4'Nathaniel James (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "4'",
+            "data": "4'Ricardo Ad\u00e9 (Haiti) gets a free kick in the attacking half.",
+            "position": 2
+          },
+          {
+            "time": "4'",
+            "data": "4'Daniel Phillips (Trinidad and Tobago) gets a free kick in the defensive half.",
+            "position": 1
+          },
+          {
+            "time": "4'",
+            "data": "4'Danley Jean Jacques (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "6'",
+            "data": "6'Attempt missed.Nathaniel James (Trinidad and Tobago)\u2019s left foot shot.",
+            "position": 1
+          },
+          {
+            "time": "7'",
+            "data": "7'Andre Rampersad (Trinidad and Tobago) gets a free kick in the defensive half.",
+            "position": 1
+          },
+          {
+            "time": "7'",
+            "data": "7'Frantzdy Pierrot (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "7'",
+            "data": "7'Carlens Arcus (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "7'",
+            "data": "7'Tyrese Spicer (Trinidad and Tobago) gets a free kick on the left wing.",
+            "position": 1
+          },
+          {
+            "time": "8'",
+            "data": "8'Sheldon Bateau (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "8'",
+            "data": "8'Frantzdy Pierrot (Haiti) gets a free kick on the left wing.",
+            "position": 2
+          },
+          {
+            "time": "9'",
+            "data": "9'Attempt missed.L\u00e9verton Pierre (Haiti)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "13'",
+            "data": "13'Duckens Nazon (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "16'",
+            "data": "16'Danley Jean Jacques (Haiti) hits the woodwork with a\u2019s left foot shot.",
+            "position": 2
+          },
+          {
+            "time": "17'",
+            "data": "17'Sheldon Bateau (Trinidad and Tobago) gets a free kick in the defensive half.",
+            "position": 1
+          },
+          {
+            "time": "19'",
+            "data": "19'Delay over.The match resumes.",
+            "position": 0
+          },
+          {
+            "time": "19'",
+            "data": "19'Dante Sealy (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "19'",
+            "data": "19'Ruben Providence (Haiti) gets a free kick in the defensive half.",
+            "position": 2
+          },
+          {
+            "time": "20'",
+            "data": "20'Attempt blocked.Ruben Providence (Haiti)\u2019s left foot shot Defensive player blocked.Louicius Deedson assists.",
+            "position": 2
+          },
+          {
+            "time": "20'",
+            "data": "20'Corner,Haiti.Conceded by Sheldon Bateau.",
+            "position": 0
+          },
+          {
+            "time": "21'",
+            "data": "21'Attempt missed.Duckens Nazon (Haiti)\u2019s right foot shot.Ruben Providence with a cross following a corner assists.",
+            "position": 2
+          },
+          {
+            "time": "23'",
+            "data": "23'Corner,Haiti.Conceded by Tyrese Spicer.",
+            "position": 0
+          },
+          {
+            "time": "24'",
+            "data": "24'Corner,Haiti.Conceded by Sheldon Bateau.",
+            "position": 0
+          },
+          {
+            "time": "26'",
+            "data": "26'Danley Jean Jacques (Haiti) gets a free kick in the attacking half.",
+            "position": 2
+          },
+          {
+            "time": "27'",
+            "data": "27'Offside, Haiti.Frantzdy Pierrot is caught offside.",
+            "position": 0
+          },
+          {
+            "time": "31'",
+            "data": "31'The match delays (Trinidad and Tobago).",
+            "position": 1
+          },
+          {
+            "time": "31'",
+            "data": "31'Delay over.The match resumes.",
+            "position": 0
+          },
+          {
+            "time": "32'",
+            "data": "32'Daniel Phillips (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "32'",
+            "data": "32'Ruben Providence (Haiti) gets a free kick on the left wing.",
+            "position": 2
+          },
+          {
+            "time": "32'",
+            "data": "32'Attempt saved.Goalkeeper saves Duckens Nazon (Haiti)\u2019s right foot shot from from outside the box by %oppos_player% (Haiti).",
+            "position": 2
+          },
+          {
+            "time": "34'",
+            "data": "34'Danley Jean Jacques (Haiti) gets a free kick in the attacking half.",
+            "position": 2
+          },
+          {
+            "time": "34'",
+            "data": "34'Daniel Phillips (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "34'",
+            "data": "34'Offside, Haiti.Frantzdy Pierrot is caught offside.",
+            "position": 0
+          },
+          {
+            "time": "35'",
+            "data": "35'Daniel Phillips (Trinidad and Tobago) gets a free kick in the attacking half.",
+            "position": 1
+          },
+          {
+            "time": "35'",
+            "data": "35'Danley Jean Jacques (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "37'",
+            "data": "37'Levi Garc\u00eda (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "37'",
+            "data": "37'Jean-K\u00e9vin Duverne (Haiti) gets a free kick on the left wing.",
+            "position": 2
+          },
+          {
+            "time": "39'",
+            "data": "39'Jean-K\u00e9vin Duverne (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "39'",
+            "data": "39'Levi Garc\u00eda (Trinidad and Tobago) gets a free kick in the attacking half.",
+            "position": 1
+          },
+          {
+            "time": "39'",
+            "data": "Red card by 39'Jean-K\u00e9vin Duverne (Haiti).",
+            "position": 2
+          },
+          {
+            "time": "42'",
+            "data": "42'Substitution, Haiti.Substituton in Garven Metusala,Substitution out Duckens Nazon.",
+            "position": 0
+          },
+          {
+            "time": "43'",
+            "data": "43'Daniel Phillips (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "43'",
+            "data": "43'L\u00e9verton Pierre (Haiti) gets a free kick in the defensive half.",
+            "position": 2
+          },
+          {
+            "time": "44'",
+            "data": "44'Penalty Haiti.Ruben Providence draws a foul in the penalty area.",
+            "position": 0
+          },
+          {
+            "time": "44'",
+            "data": "44'Sheldon Bateau (Trinidad and Tobago) after a foul in the penalty area conceded the penalty.",
+            "position": 1
+          },
+          {
+            "time": "44'",
+            "data": "Yellow card by 44'Rio Cardines (Trinidad and Tobago).",
+            "position": 1
+          },
+          {
+            "time": "45'",
+            "data": "45'Fourth official has announced 3 minutes of added time.",
+            "position": 0
+          },
+          {
+            "time": "45'+3'",
+            "data": "45'+3'VAR Checking: Haiti Penalty.",
+            "position": 0
+          },
+          {
+            "time": "47'",
+            "data": "47'Attempt missed.Martin Exp\u00e9rience (Haiti)\u2019s left foot shot.",
+            "position": 2
+          },
+          {
+            "time": "48'",
+            "data": "48'Sheldon Bateau (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "48'",
+            "data": "48'Frantzdy Pierrot (Haiti) gets a free kick on the left wing.",
+            "position": 2
+          },
+          {
+            "time": "49'",
+            "data": "49'Goal! Trinidad and Tobago 0-1 Haiti.Frantzdy Pierrot (Haiti)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "51'",
+            "data": "51'Attempt missed.Danley Jean Jacques (Haiti)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "52'",
+            "data": "52'Sheldon Bateau (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "52'",
+            "data": "52'Frantzdy Pierrot (Haiti) gets a free kick in the attacking half.",
+            "position": 2
+          },
+          {
+            "time": "53'",
+            "data": "53'Daniel Phillips (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "53'",
+            "data": "53'L\u00e9verton Pierre (Haiti) gets a free kick in the defensive half.",
+            "position": 2
+          },
+          {
+            "time": "55'",
+            "data": "55'Attempt missed.Nathaniel James (Trinidad and Tobago)\u2019s left foot shot.",
+            "position": 1
+          },
+          {
+            "time": "56'",
+            "data": "56'Substitution, Trinidad and Tobago.Substituton in Kevin Molino,Substitution out Dante Sealy.",
+            "position": 0
+          },
+          {
+            "time": "56'",
+            "data": "56'Substitution, Trinidad and Tobago.Substituton in Steffen Yeates,Substitution out Daniel Phillips.",
+            "position": 0
+          },
+          {
+            "time": "56'",
+            "data": "56'Substitution, Trinidad and Tobago.Substituton in Real Gill,Substitution out Nathaniel James.",
+            "position": 0
+          },
+          {
+            "time": "65'",
+            "data": "65'Tyrese Spicer (Trinidad and Tobago) hits the woodwork with a\u2019s left foot shot.",
+            "position": 1
+          },
+          {
+            "time": "66'",
+            "data": "66'Attempt saved.Goalkeeper saves Louicius Deedson (Haiti)\u2019s left foot shot from from the right side of the box in the bottom left corner by Marvin Phillip (Haiti).Ruben Providence assists.",
+            "position": 2
+          },
+          {
+            "time": "67'",
+            "data": "67'Corner,Trinidad and Tobago.Conceded by Ricardo Ad\u00e9.",
+            "position": 0
+          },
+          {
+            "time": "68'",
+            "data": "68'Kevin Molino (Trinidad and Tobago) gets a free kick on the left wing.",
+            "position": 1
+          },
+          {
+            "time": "68'",
+            "data": "68'Louicius Deedson (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "68'",
+            "data": "68'Goal! Trinidad and Tobago 1-1 Haiti.Justin Garc\u00eda (Trinidad and Tobago)\u2019s header from the centre of the box following a set piece situation.",
+            "position": 1
+          },
+          {
+            "time": "70'",
+            "data": "70'Substitution, Haiti.Substituton in Wilguens Paugain,Substitution out Carlens Arcus.",
+            "position": 0
+          },
+          {
+            "time": "71'",
+            "data": "71'Substitution, Haiti.Substituton in Christopher Attys,Substitution out Ruben Providence.",
+            "position": 0
+          },
+          {
+            "time": "72'",
+            "data": "72'Danley Jean Jacques (Haiti) foul.",
+            "position": 2
+          },
+          {
+            "time": "72'",
+            "data": "Yellow card by 72'Danley Jean Jacques (Haiti) for a bad foul.",
+            "position": 2
+          },
+          {
+            "time": "72'",
+            "data": "72'Kevin Molino (Trinidad and Tobago) gets a free kick on the left wing.",
+            "position": 1
+          },
+          {
+            "time": "72'",
+            "data": "Yellow card by 72'Andre Rampersad (Trinidad and Tobago).",
+            "position": 1
+          },
+          {
+            "time": "74'",
+            "data": "74'Andr\u00e9 Raymond (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "74'",
+            "data": "74'Louicius Deedson (Haiti) gets a free kick on the right wing.",
+            "position": 2
+          },
+          {
+            "time": "74'",
+            "data": "74'Andr\u00e9 Raymond (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "74'",
+            "data": "74'Louicius Deedson (Haiti) gets a free kick on the right wing.",
+            "position": 2
+          },
+          {
+            "time": "75'",
+            "data": "75'The match delays (Trinidad and Tobago).",
+            "position": 1
+          },
+          {
+            "time": "76'",
+            "data": "76'Delay over.The match resumes.",
+            "position": 0
+          },
+          {
+            "time": "79'",
+            "data": "79'Tyrese Spicer (Trinidad and Tobago) foul.",
+            "position": 1
+          },
+          {
+            "time": "79'",
+            "data": "79'Wilguens Paugain (Haiti) gets a free kick in the defensive half.",
+            "position": 2
+          },
+          {
+            "time": "80'",
+            "data": "80'Attempt blocked.L\u00e9verton Pierre (Haiti)\u2019s right foot shot.",
+            "position": 2
+          },
+          {
+            "time": "80'",
+            "data": "80'Corner,Trinidad and Tobago.Conceded by Ricardo Ad\u00e9.",
+            "position": 0
+          },
+          {
+            "time": "81'",
+            "data": "81'Substitution, Haiti.Substituton in Mondy Prunier,Substitution out Frantzdy Pierrot.",
+            "position": 0
+          },
+          {
+            "time": "81'",
+            "data": "81'Substitution, Haiti.Substituton in Dany Jean,Substitution out Louicius Deedson.",
+            "position": 0
+          },
+          {
+            "time": "83'",
+            "data": "83'Penalty Haiti.Wilguens Paugain draws a foul in the penalty area.",
+            "position": 0
+          }
+        ]
+      },
+      {
+        "id": "6ypq3nhv5wxgmd7",
+        "score": [
+          "6ypq3nhv5wxgmd7",
+          8,
+          [
+            0,
+            0,
+            1,
+            3,
+            5,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            3,
+            7,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 21,
+            "home": 6,
+            "away": 4
+          },
+          {
+            "type": 25,
+            "home": 49,
+            "away": 51
+          },
+          {
+            "type": 24,
+            "home": 64,
+            "away": 80
+          },
+          {
+            "type": 23,
+            "home": 92,
+            "away": 112
+          },
+          {
+            "type": 4,
+            "home": 1,
+            "away": 0
+          },
+          {
+            "type": 3,
+            "home": 3,
+            "away": 3
+          },
+          {
+            "type": 22,
+            "home": 3,
+            "away": 15
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 5,
+            "away": 7
+          }
+        ],
+        "incidents": [
+          {
+            "type": 4,
+            "position": 1,
+            "time": 31
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 45
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 55,
+            "player_id": "k82rekh386d0rep",
+            "player_name": "tanque iury",
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 12,
+            "position": 0,
+            "time": 90
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "vjxm8ghlyx7jr6o",
+        "score": [
+          "vjxm8ghlyx7jr6o",
+          8,
+          [
+            1,
+            0,
+            0,
+            1,
+            9,
+            0,
+            0
+          ],
+          [
+            5,
+            2,
+            0,
+            1,
+            2,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 21,
+            "home": 1,
+            "away": 13
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 22,
+            "home": 6,
+            "away": 19
+          },
+          {
+            "type": 24,
+            "home": 33,
+            "away": 111
+          },
+          {
+            "type": 2,
+            "home": 2,
+            "away": 9
+          },
+          {
+            "type": 23,
+            "home": 89,
+            "away": 163
+          },
+          {
+            "type": 25,
+            "home": 35,
+            "away": 65
+          },
+          {
+            "type": 3,
+            "home": 1,
+            "away": 1
+          },
+          {
+            "type": 8,
+            "home": 1,
+            "away": 1
+          }
+        ],
+        "incidents": [
+          {
+            "type": 17,
+            "position": 2,
+            "time": 15,
+            "player_id": "1l4rjnhxxzy2m7v",
+            "player_name": "Triin kaisa arike",
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 33,
+            "player_id": "y39mp1hjvexomoj",
+            "player_name": "Grete Daut",
+            "home_score": 0,
+            "away_score": 2
+          },
+          {
+            "type": 3,
+            "position": 2,
+            "time": 44,
+            "player_id": "4jwq2gh75d8nm0v",
+            "player_name": "gertrud elise polluvee"
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 45
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 46,
+            "in_player_id": "pxwrxlhj2x6gryk",
+            "in_player_name": "Valeria liik",
+            "out_player_id": "y39mp1hjvexomoj",
+            "out_player_name": "Grete Daut"
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 46,
+            "in_player_id": "y39mp1hy440zmoj",
+            "in_player_name": "anna juksar",
+            "out_player_id": "965mkyhe8e21r1g",
+            "out_player_name": "viktoria toding"
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 56,
+            "player_id": "dn1m1gh3opzpmoe",
+            "player_name": "lisandra rannasto",
+            "home_score": 0,
+            "away_score": 3
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 57,
+            "in_player_id": "1l4rjnhkd2gjm7v",
+            "in_player_name": "kart kallip",
+            "out_player_id": "965mkyhn01w8r1g",
+            "out_player_name": "olivia paet"
+          },
+          {
+            "type": 8,
+            "position": 2,
+            "time": 65,
+            "player_id": "y39mp1hy440zmoj",
+            "player_name": "anna juksar",
+            "home_score": 0,
+            "away_score": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 69,
+            "in_player_id": "4jwq2gh756eem0v",
+            "in_player_name": "sanna lindeberg",
+            "out_player_id": "y0or5jhew1d1qwz",
+            "out_player_name": "Emma Treiberg"
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 69,
+            "in_player_id": "zp5rzghxd05wq82",
+            "in_player_name": "angela raidmets",
+            "out_player_id": "k82rekh3jnwjrep",
+            "out_player_name": "liisi maesalu"
+          },
+          {
+            "type": 8,
+            "position": 1,
+            "time": 76,
+            "player_id": "3glrw7hypp68qdy",
+            "player_name": "marie kiivit",
+            "home_score": 1,
+            "away_score": 4
+          },
+          {
+            "type": 3,
+            "position": 1,
+            "time": 82,
+            "player_id": "1l4rjnhxxzy2m7v",
+            "player_name": "Triin kaisa arike"
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 87,
+            "player_id": "4jwq2gh75d8nm0v",
+            "player_name": "gertrud elise polluvee",
+            "home_score": 1,
+            "away_score": 5
+          },
+          {
+            "type": 12,
+            "position": 0,
+            "time": 90
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "4wyrn4h68pnvq86",
+        "score": [
+          "4wyrn4h68pnvq86",
+          8,
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            3,
+            0,
+            0,
+            5,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 23,
+            "home": 78,
+            "away": 88
+          },
+          {
+            "type": 25,
+            "home": 28,
+            "away": 72
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 1,
+            "away": 5
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 3,
+            "home": 1,
+            "away": 0
+          },
+          {
+            "type": 21,
+            "home": 0,
+            "away": 11
+          },
+          {
+            "type": 22,
+            "home": 6,
+            "away": 8
+          },
+          {
+            "type": 24,
+            "home": 24,
+            "away": 61
+          }
+        ],
+        "incidents": [
+          {
+            "type": 1,
+            "position": 2,
+            "time": 6,
+            "player_id": "l5ergphe2gz7r8k",
+            "player_name": "Angelique Montserrat Sald\u00edvar Pav\u00f3n",
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 26,
+            "player_id": "dj2ryohnll94q1z",
+            "player_name": "Natalia Munoz",
+            "home_score": 0,
+            "away_score": 2
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 44,
+            "player_id": "2y8m4zh84257ql0",
+            "player_name": "Alice Fernanda Soto Gallegos",
+            "home_score": 0,
+            "away_score": 3
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 45
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 78,
+            "player_id": "2y8m4zh84257ql0",
+            "player_name": "Alice Fernanda Soto Gallegos",
+            "home_score": 0,
+            "away_score": 4
+          },
+          {
+            "type": 12,
+            "position": 0,
+            "time": 90
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "y39mp1h6366nmoj",
+        "score": [
+          "y39mp1h6366nmoj",
+          8,
+          [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+          ],
+          [
+            4,
+            1,
+            0,
+            1,
+            7,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 21,
+            "home": 1,
+            "away": 8
+          },
+          {
+            "type": 24,
+            "home": 20,
+            "away": 62
+          },
+          {
+            "type": 3,
+            "home": 1,
+            "away": 1
+          },
+          {
+            "type": 23,
+            "home": 66,
+            "away": 93
+          },
+          {
+            "type": 2,
+            "home": 1,
+            "away": 7
+          },
+          {
+            "type": 22,
+            "home": 3,
+            "away": 10
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 25,
+            "home": 29,
+            "away": 71
+          }
+        ],
+        "incidents": [
+          {
+            "type": 1,
+            "position": 2,
+            "time": 22,
+            "player_id": "dj2ryohn4998q1z",
+            "player_name": "linda ullmark",
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 45
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 60,
+            "player_id": "jw2r09hwk2e6rz8",
+            "player_name": "Mary Long",
+            "home_score": 0,
+            "away_score": 2
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 65,
+            "player_id": "3glrw7hz65zwqdy",
+            "player_name": "Grace Restovich",
+            "home_score": 0,
+            "away_score": 3
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 87,
+            "player_id": "318q66hjnogoqo9",
+            "player_name": "Kennedy Fuller",
+            "home_score": 0,
+            "away_score": 4
+          },
+          {
+            "type": 12,
+            "position": 0,
+            "time": 90
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "ednm9whwkwwpryo",
+        "score": [
+          "ednm9whwkwwpryo",
+          8,
+          [
+            9,
+            5,
+            0,
+            0,
+            3,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0,
+            12,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 24,
+            "home": 102,
+            "away": 23
+          },
+          {
+            "type": 25,
+            "home": 73,
+            "away": 27
+          },
+          {
+            "type": 21,
+            "home": 14,
+            "away": 2
+          },
+          {
+            "type": 2,
+            "home": 12,
+            "away": 3
+          },
+          {
+            "type": 22,
+            "home": 14,
+            "away": 3
+          },
+          {
+            "type": 3,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 8,
+            "home": 2,
+            "away": 0
+          },
+          {
+            "type": 23,
+            "home": 125,
+            "away": 81
+          }
+        ],
+        "incidents": [
+          {
+            "type": 8,
+            "position": 1,
+            "time": 5,
+            "player_id": "vjxm8gh8o67xr6o",
+            "player_name": "Sheika Scott",
+            "home_score": 1,
+            "away_score": 0
+          },
+          {
+            "type": 28,
+            "position": 1,
+            "time": 19,
+            "player_id": "vjxm8gh8o67xr6o",
+            "player_name": "Sheika Scott",
+            "var_reason": 4,
+            "var_result": 3
+          },
+          {
+            "type": 8,
+            "position": 1,
+            "time": 22,
+            "player_id": "vjxm8gh8o67xr6o",
+            "player_name": "Sheika Scott",
+            "home_score": 2,
+            "away_score": 0
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 25,
+            "player_id": "vjxm8gh8o67xr6o",
+            "player_name": "Sheika Scott",
+            "assist1_id": "3glrw7hz3go9qdy",
+            "assist1_name": "L. Paniagua",
+            "home_score": 3,
+            "away_score": 0
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 29,
+            "player_id": "y39mp1h1oy7xmoj",
+            "player_name": "Ema Azofeifa Luzuriaga",
+            "assist1_id": "3glrw7hzepvpqdy",
+            "assist1_name": "Odette Samantha Pitty Araya",
+            "home_score": 4,
+            "away_score": 0
+          },
+          {
+            "type": 19,
+            "position": 0,
+            "time": 45,
+            "add_time": 6
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 51,
+            "add_time": 6,
+            "player_id": "vjxm8gh8o67xr6o",
+            "player_name": "Sheika Scott",
+            "assist1_id": "3glrw7hz3go9qdy",
+            "assist1_name": "L. Paniagua",
+            "home_score": 5,
+            "away_score": 0
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 52
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 45,
+            "in_player_id": "dj2ryohne92xq1z",
+            "in_player_name": "A. Gonz\u00e1lez",
+            "out_player_id": "dn1m1gh8xxdzmoe",
+            "out_player_name": "Keisy Viviana Taylor Marin",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 45,
+            "in_player_id": "965mkyhn20z7r1g",
+            "in_player_name": "A. Lindo",
+            "out_player_id": "1l4rjnhxv281m7v",
+            "out_player_name": "Brittany Pamela V\u00e1squez Sanchez",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 45,
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 45,
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 53,
+            "reason_type": 4
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 63,
+            "player_id": "3glrw7hz3go9qdy",
+            "player_name": "L. Paniagua",
+            "assist1_id": "y39mp1h1oy7xmoj",
+            "assist1_name": "Ema Azofeifa Luzuriaga",
+            "home_score": 6,
+            "away_score": 0
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 68,
+            "in_player_id": "318q66h4ln9nqo9",
+            "in_player_name": "Josselyn Andrea Brice\u00f1o Boes",
+            "out_player_id": "2y8m4zhzwe1wql0",
+            "out_player_name": "F. Alfaro",
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 68,
+            "in_player_id": "pxwrxlhznnw9ryk",
+            "in_player_name": "Stacy Thanicha Thomas G\u00f3mez",
+            "out_player_id": "3glrw7hz3go9qdy",
+            "out_player_name": "L. Paniagua",
+            "reason_type": 4
+          },
+          {
+            "type": 28,
+            "position": 1,
+            "time": 72,
+            "player_id": "jw2r09hw6g17rz8",
+            "player_name": "T. Ruiz",
+            "var_reason": 1,
+            "var_result": 2
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 74,
+            "reason_type": 4
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 81,
+            "reason_type": 3
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 81,
+            "in_player_id": "965mkyhep1jnr1g",
+            "in_player_name": "Jimena Mar\u00eda Jim\u00e9nez Alvarado",
+            "out_player_id": "zp5rzghx6dxlq82",
+            "out_player_name": "Valeria Vargas Mena",
+            "reason_type": 4
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 84,
+            "player_id": "8yomo4h0g6z3q0j",
+            "player_name": "D. Ocampo",
+            "assist1_id": "vjxm8gh8o67xr6o",
+            "assist1_name": "Sheika Scott",
+            "home_score": 7,
+            "away_score": 0
+          },
+          {
+            "type": 19,
+            "position": 0,
+            "time": 90,
+            "add_time": 5
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 93,
+            "add_time": 3,
+            "player_id": "y39mp1h1oy7xmoj",
+            "player_name": "Ema Azofeifa Luzuriaga",
+            "home_score": 8,
+            "away_score": 0
+          },
+          {
+            "type": 1,
+            "position": 1,
+            "time": 95,
+            "add_time": 5,
+            "player_id": "vjxm8gh8o67xr6o",
+            "player_name": "Sheika Scott",
+            "assist1_id": "3glrw7hzepvpqdy",
+            "assist1_name": "Odette Samantha Pitty Araya",
+            "home_score": 9,
+            "away_score": 0
+          },
+          {
+            "type": 12,
+            "position": 0,
+            "time": 96
+          }
+        ],
+        "tlive": []
+      },
+      {
+        "id": "pxwrxlhyp89jryk",
+        "score": [
+          "pxwrxlhyp89jryk",
+          8,
+          [
+            0,
+            0,
+            0,
+            2,
+            4,
+            0,
+            0
+          ],
+          [
+            2,
+            1,
+            0,
+            0,
+            4,
+            0,
+            0
+          ],
+          0,
+          ""
+        ],
+        "stats": [
+          {
+            "type": 22,
+            "home": 3,
+            "away": 3
+          },
+          {
+            "type": 25,
+            "home": 49,
+            "away": 51
+          },
+          {
+            "type": 23,
+            "home": 115,
+            "away": 141
+          },
+          {
+            "type": 4,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 8,
+            "home": 0,
+            "away": 0
+          },
+          {
+            "type": 2,
+            "home": 4,
+            "away": 4
+          },
+          {
+            "type": 3,
+            "home": 0,
+            "away": 2
+          },
+          {
+            "type": 24,
+            "home": 53,
+            "away": 59
+          },
+          {
+            "type": 21,
+            "home": 4,
+            "away": 2
+          }
+        ],
+        "incidents": [
+          {
+            "type": 1,
+            "position": 2,
+            "time": 26,
+            "player_id": "k82rekho05okrep",
+            "player_name": "Mihail Talevski",
+            "home_score": 0,
+            "away_score": 1
+          },
+          {
+            "type": 3,
+            "position": 2,
+            "time": 46,
+            "add_time": 1,
+            "player_id": "y39mp1hypw3nmoj",
+            "player_name": "mihael manevski"
+          },
+          {
+            "type": 11,
+            "position": 0,
+            "time": 45
+          },
+          {
+            "type": 1,
+            "position": 2,
+            "time": 49,
+            "player_id": "k82rekho05okrep",
+            "player_name": "Mihail Talevski",
+            "home_score": 0,
+            "away_score": 2
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 49,
+            "in_player_id": "x7lm7php4g3m2wd",
+            "in_player_name": "Bassirou Compaor\u00e9",
+            "out_player_id": "pxwrxlh9oxozryk",
+            "out_player_name": "hogan effiong"
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 57,
+            "in_player_id": "dj2ryohyz9d3q1z",
+            "in_player_name": "Lanre\u00b7Kehinde",
+            "out_player_id": "y0or5jhelkwqwzv",
+            "out_player_name": "Marjan Radeski"
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 57,
+            "in_player_id": "y0or5jhl97oqwzv",
+            "in_player_name": "Stefan Spirovski",
+            "out_player_id": "1l4rjnhxpgv5m7v",
+            "out_player_name": "Ard Kasami"
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 62,
+            "in_player_id": "zp5rzgh255dq82w",
+            "in_player_name": "Filip Najdovski",
+            "out_player_id": "2y8m4zhg6z65ql0",
+            "out_player_name": "Dimitar Todorovski"
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 70,
+            "in_player_id": "y39mp1hj70ydmoj",
+            "in_player_name": "Shaban Zenku",
+            "out_player_id": "6ypq3nhwn32jmd7",
+            "out_player_name": "memetriza hamza"
+          },
+          {
+            "type": 9,
+            "position": 1,
+            "time": 70,
+            "in_player_id": "dn1m1gh86v0moep",
+            "in_player_name": "Maudo",
+            "out_player_id": "y39mp1h1ekwmojx",
+            "out_player_name": "Sava Radic"
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 72,
+            "in_player_id": "l5ergphew380r8k",
+            "in_player_name": "Mato rogers",
+            "out_player_id": "4wyrn4h41y4wq86",
+            "out_player_name": "Danel Dongmo"
+          },
+          {
+            "type": 3,
+            "position": 2,
+            "time": 89,
+            "player_id": "2y8m4zhgjxzql07",
+            "player_name": "Davor Taleski"
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 90,
+            "in_player_id": "4wyrn4he4gyq86p",
+            "in_player_name": "Filip Duranski",
+            "out_player_id": "23xmvkhkjxnqg8n",
+            "out_player_name": "Nemanja Bosancic"
+          },
+          {
+            "type": 9,
+            "position": 2,
+            "time": 90,
+            "in_player_id": "2y8m4zh8x3gjql0",
+            "in_player_name": "ediz spahiu",
+            "out_player_id": "dn1m1ghe1zxmoep",
+            "out_player_name": "Goran Zakari\u0107"
+          },
+          {
+            "type": 12,
+            "position": 0,
+            "time": 90
+          }
+        ],
+        "tlive": []
+      }
+    ]
+  },
+  "fetch_timestamp": "06/19/2025 08:35:40 PM EST"
+}

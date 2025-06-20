@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:53:55.342825",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "z8yomo4h92q0j6l"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 762,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'z8yomo4h92q0j6l', 'category_id': '49vjxm8ghgr6odg', 'country_id': '0l965mkyh2r1ge4', 'name': 'Finnish Veikkausliiga', 'short_name': 'FIN Veikkausliiga', 'logo': 'https://img.thesports.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png', 'type': 1, 'cur_season_id': 'v2y8m4zh2w5ql07', 'cur_stage_id': 'k82rekhj2x7repz', 'cur_round': 12, 'round_count': 22, 'title_holder': ['z318q66hp13qo9j', 7], 'most_titles': [['9k82rekh4zprepz'], 33], 'newcomers': [['p4jwq2ghjk2m0ve', '6ypq3nh09..."
+  }
+]

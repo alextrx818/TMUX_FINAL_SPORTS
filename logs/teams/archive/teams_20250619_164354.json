@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:43:54.444880",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y0or5jh4l1nqwzv"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 577,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'y0or5jh4l1nqwzv', 'competition_id': '', 'country_id': 'p4jwq2ghkpm0veo', 'name': 'Silvio Pettirossi', 'short_name': '', 'logo': 'https://img.thesports.com/football/team/691bd62beea56a23df075a34b134a02e.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'gender': 1, 'updated_at': 1730183133}"
+  }
+]

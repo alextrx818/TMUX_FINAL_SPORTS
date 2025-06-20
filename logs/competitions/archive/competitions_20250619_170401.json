@@ -1,0 +1,76 @@
+[
+  {
+    "timestamp": "2025-06-19T17:02:34.273284",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "yl5ergphx4r8k0o"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 773,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "yl5ergphx4r8k0o"
+      },
+      "results": [
+        {
+          "id": "yl5ergphx4r8k0o",
+          "category_id": "0gx7lm7ph0m2wdk",
+          "country_id": "p4jwq2ghkpm0veo",
+          "name": "Paraguayan Primera Division",
+          "short_name": "PAR Primera Division",
+          "logo": "https://img.thesports.com/football/competition/f6ee5b5c991ae7af40af139efa05a07f.png",
+          "type": 1,
+          "cur_season_id": "4zp5rzghn68q82w",
+          "cur_stage_id": "k82rekhj207repz",
+          "cur_round": 22,
+          "round_count": 22,
+          "title_holder": [
+            "v2y8m4zhk64ql07",
+            32
+          ],
+          "most_titles": [
+            [
+              "vjxm8gh421dr6od"
+            ],
+            40
+          ],
+          "newcomers": [
+            [
+              "y39mp1hy0wvmojx",
+              "965mkyh3v4vr1ge"
+            ],
+            []
+          ],
+          "divisions": [
+            [],
+            [
+              "kjw2r09hy5rz84o"
+            ]
+          ],
+          "host": {
+            "country": "Paraguay"
+          },
+          "primary_color": "#d50707",
+          "secondary_color": "#032263",
+          "updated_at": 1748335184
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"yl5ergphx4r8k0o\", \"category_id\": \"0gx7lm7ph0m2wdk\", \"country_id\": \"p4jwq2ghkpm0veo\", \"name\": \"Paraguayan Primera Division\", \"short_name\": \"PAR Primera Division\", \"logo\": \"https://img.thesports.com/football/competition/f6ee5b5c991ae7af40af139efa05a07f.png\", \"type\": 1, \"cur_season_id\": \"4zp5rzghn68q82w\", \"cur_stage_id\": \"k82rekhj207repz\", \"cur_round\": 22, \"round_count\": 22, \"title_holder\": [\"v2y8m4zhk64ql07\", 32], \"most_titles\": [[\"vjxm8gh421dr6od\"], 40], \"newcomers\": [[\"y39mp1hy0wvmojx\", ..."
+  }
+]

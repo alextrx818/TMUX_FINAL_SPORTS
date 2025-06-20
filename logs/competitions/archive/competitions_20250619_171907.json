@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-06-19T17:17:43.810717",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "p3glrw7hwo7qdyj"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 628,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "p3glrw7hwo7qdyj"
+      },
+      "results": [
+        {
+          "id": "p3glrw7hwo7qdyj",
+          "category_id": "9d23xmvkhxqg8ny",
+          "country_id": "9vjxm8gh8gr6odg",
+          "name": "Libyan Premier League",
+          "short_name": "LIB Premier League",
+          "logo": "https://img.thesports.com/football/competition/3a552b2e7d7e817c48128a9a57b34141.png",
+          "type": 1,
+          "cur_season_id": "d23xmvkh5j5qg8n",
+          "cur_stage_id": "l5ergphevdor8k0",
+          "cur_round": 5,
+          "round_count": 5,
+          "title_holder": [],
+          "most_titles": [],
+          "newcomers": [],
+          "divisions": [],
+          "host": {},
+          "primary_color": "#21a4bcff",
+          "secondary_color": "",
+          "updated_at": 1749474481
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"p3glrw7hwo7qdyj\", \"category_id\": \"9d23xmvkhxqg8ny\", \"country_id\": \"9vjxm8gh8gr6odg\", \"name\": \"Libyan Premier League\", \"short_name\": \"LIB Premier League\", \"logo\": \"https://img.thesports.com/football/competition/3a552b2e7d7e817c48128a9a57b34141.png\", \"type\": 1, \"cur_season_id\": \"d23xmvkh5j5qg8n\", \"cur_stage_id\": \"l5ergphevdor8k0\", \"cur_round\": 5, \"round_count\": 5, \"title_holder\": [], \"most_titles\": [], \"newcomers\": [], \"divisions\": [], \"host\": {}, \"primary_color\": \"#21a4bcff\", \"secondary_c..."
+  }
+]

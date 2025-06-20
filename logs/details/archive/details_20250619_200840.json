@@ -1,0 +1,913 @@
+{
+  "api_response": [
+    {
+      "id": "x7lm7phjo09vm2w",
+      "season_id": "gy0or5jhv71qwzv",
+      "competition_id": "gx7lm7ph9lgm2wd",
+      "home_team_id": "4jwq2ghk8d6m0ve",
+      "away_team_id": "2y8m4zhzpvkql07",
+      "status_id": 13,
+      "match_time": 1750377600,
+      "venue_id": "d23xmvkh7nyqg8n",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "vjxm8gh77y9r6od",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 1,
+        "pressure": "763mmHg",
+        "temperature": "32\u00b0C",
+        "wind": "6.5m/s",
+        "humidity": "67%"
+      },
+      "updated_at": 1750377967
+    },
+    {
+      "id": "n54qllhnexjyqvy",
+      "season_id": "gy0or5jhv71qwzv",
+      "competition_id": "gx7lm7ph9lgm2wd",
+      "home_team_id": "y39mp1h32vlmojx",
+      "away_team_id": "n54qllhd1eeqvy9",
+      "status_id": 13,
+      "match_time": 1750377600,
+      "venue_id": "k82rekhvz99repz",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 0,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "vjxm8gh77y9r6od",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "updated_at": 1750377984
+    },
+    {
+      "id": "23xmvkh6od4jqg8",
+      "season_id": "gy0or5jhv71qwzv",
+      "competition_id": "gx7lm7ph9lgm2wd",
+      "home_team_id": "23xmvkh475oqg8n",
+      "away_team_id": "l7oqdehl3l2r510",
+      "status_id": 2,
+      "match_time": 1750377600,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "vjxm8gh77y9r6od",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 1,
+        "pressure": "751mmHg",
+        "temperature": "34\u00b0C",
+        "wind": "6.5m/s",
+        "humidity": "12%"
+      },
+      "updated_at": 1750377786
+    },
+    {
+      "id": "n54qllh7vd0pqvy",
+      "season_id": "kdj2ryohw33q1zp",
+      "competition_id": "vl7oqdeh6v4r510",
+      "home_team_id": "y0or5jh3lx6qwzv",
+      "away_team_id": "vjxm8ghg4l1r6od",
+      "status_id": 2,
+      "match_time": 1750377600,
+      "venue_id": "kjw2r09hoz5rz84",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "2",
+      "away_position": "4",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "1l4rjnhdgepm7vx",
+        "round_num": 14,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 1,
+        "pressure": "762mmHg",
+        "temperature": "25\u00b0C",
+        "wind": "3.2m/s",
+        "humidity": "74%"
+      },
+      "updated_at": 1750377667
+    },
+    {
+      "id": "k82rekhg9y57rep",
+      "season_id": "",
+      "competition_id": "jednm9whz6xryox",
+      "home_team_id": "4jwq2gh1od1m0ve",
+      "away_team_id": "6ypq3nh5x5gmd7o",
+      "status_id": 2,
+      "match_time": 1750377600,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "updated_at": 1750378026
+    },
+    {
+      "id": "vjxm8ghegjpkr6o",
+      "season_id": "gy0or5jhv71qwzv",
+      "competition_id": "gx7lm7ph9lgm2wd",
+      "home_team_id": "k82rekhy62xrepz",
+      "away_team_id": "8yomo4h03o8q0j6",
+      "status_id": 2,
+      "match_time": 1750376400,
+      "venue_id": "ednm9whk8k1ryox",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "vjxm8gh77y9r6od",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 5,
+        "pressure": "761mmHg",
+        "temperature": "23\u00b0C",
+        "wind": "2.3m/s",
+        "humidity": "63%"
+      },
+      "updated_at": 1750377805
+    },
+    {
+      "id": "k82rekhg9ye0rep",
+      "season_id": "kn54qllhlpoqvy9",
+      "competition_id": "56ypq3nhyymd7oj",
+      "home_team_id": "pxwrxlhgp2oryk0",
+      "away_team_id": "jw2r09hll85rz84",
+      "status_id": 3,
+      "match_time": 1750374300,
+      "venue_id": "p3glrw7h1gyqdyj",
+      "referee_id": "vl7oqdehddjr510",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        2,
+        2,
+        0,
+        0
+      ],
+      "away_scores": [
+        1,
+        1,
+        0,
+        1,
+        2,
+        0,
+        0
+      ],
+      "home_position": "4",
+      "away_position": "3",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 1
+      },
+      "round": {
+        "stage_id": "6ypq3nhppy6md7o",
+        "round_num": 6,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 10,
+        "pressure": "770mmHg",
+        "temperature": "21\u00b0C",
+        "wind": "2.6m/s",
+        "humidity": "69%"
+      },
+      "updated_at": 1750377445
+    },
+    {
+      "id": "dn1m1ghle35vmoe",
+      "season_id": "",
+      "competition_id": "z8yomo4h24dq0j6",
+      "home_team_id": "l7oqdeh1n06r510",
+      "away_team_id": "y0or5jh16kwqwzv",
+      "status_id": 4,
+      "match_time": 1750374000,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "away_scores": [
+        3,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 1,
+        "pressure": "758mmHg",
+        "temperature": "23\u00b0C",
+        "wind": "2.1m/s",
+        "humidity": "89%"
+      },
+      "updated_at": 1750377625
+    },
+    {
+      "id": "3glrw7hn1jznqdy",
+      "season_id": "gy0or5jhv71qwzv",
+      "competition_id": "gx7lm7ph9lgm2wd",
+      "home_team_id": "k82rekh3ldorepz",
+      "away_team_id": "zp5rzghzepzq82w",
+      "status_id": 3,
+      "match_time": 1750374000,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 0,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "vjxm8gh77y9r6od",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "updated_at": 1750377727
+    },
+    {
+      "id": "vjxm8ghegv94r6o",
+      "season_id": "gx7lm7phlegm2wd",
+      "competition_id": "z8yomo4h61q0j6l",
+      "home_team_id": "kn54qllh6peqvy9",
+      "away_team_id": "j1l4rjnhoe6m7vx",
+      "status_id": 4,
+      "match_time": 1750373100,
+      "venue_id": "v2y8m4zhy4yql07",
+      "referee_id": "4zp5rzghx1gq82w",
+      "neutral": 1,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        1,
+        0,
+        1,
+        0,
+        4,
+        0,
+        0
+      ],
+      "home_position": "100",
+      "away_position": "83",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 1
+      },
+      "round": {
+        "stage_id": "k82rekhjdvzrepz",
+        "round_num": 2,
+        "group_num": 4
+      },
+      "environment": {
+        "weather": 1,
+        "pressure": "763mmHg",
+        "temperature": "32\u00b0C",
+        "wind": "6.1m/s",
+        "humidity": "66%"
+      },
+      "updated_at": 1750377667
+    },
+    {
+      "id": "y39mp1h65jxlmoj",
+      "season_id": "",
+      "competition_id": "jednm9whz6xryox",
+      "home_team_id": "vjxm8ghx353r6od",
+      "away_team_id": "y39mp1h1v73mojx",
+      "status_id": 13,
+      "match_time": 1750372200,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 0,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "updated_at": 1750374667
+    },
+    {
+      "id": "8yomo4h1kvn5q0j",
+      "season_id": "",
+      "competition_id": "gpxwrxlh217ryk0",
+      "home_team_id": "k82rekhv7wwrepz",
+      "away_team_id": "dn1m1gh816pmoep",
+      "status_id": 8,
+      "match_time": 1750359600,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        3,
+        7,
+        0,
+        0
+      ],
+      "away_scores": [
+        3,
+        1,
+        0,
+        1,
+        3,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 1,
+        "pressure": "765mmHg",
+        "temperature": "26\u00b0C",
+        "wind": "2.6m/s",
+        "humidity": "42%"
+      },
+      "ended": 1750366411,
+      "updated_at": 1750366447
+    },
+    {
+      "id": "3glrw7h7x5y1qdy",
+      "season_id": "4zp5rzghndpq82w",
+      "competition_id": "l965mkyhw4r1ge4",
+      "home_team_id": "n54qllh2p7kqvy9",
+      "away_team_id": "vjxm8gh477pr6od",
+      "status_id": 8,
+      "match_time": 1750345200,
+      "venue_id": "v2y8m4zhj1xql07",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        2,
+        0,
+        1,
+        4,
+        6,
+        0,
+        0
+      ],
+      "away_scores": [
+        2,
+        1,
+        0,
+        2,
+        12,
+        0,
+        0
+      ],
+      "home_position": "5",
+      "away_position": "9",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 1
+      },
+      "round": {
+        "stage_id": "pxwrxlh0l6dryk0",
+        "round_num": 16,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 3,
+        "pressure": "754mmHg",
+        "temperature": "14\u00b0C",
+        "wind": "6.8m/s",
+        "humidity": "83%"
+      },
+      "ended": 1750351853,
+      "updated_at": 1750351868
+    },
+    {
+      "id": "dn1m1ghlvz93moe",
+      "season_id": "d23xmvkhewzqg8n",
+      "competition_id": "p3glrw7hwo7qdyj",
+      "home_team_id": "4jwq2ghk6j5m0ve",
+      "away_team_id": "8yomo4hzznkq0j6",
+      "status_id": 13,
+      "match_time": 1750185000,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "8",
+      "away_position": "8",
+      "coverage": {
+        "mlive": 0,
+        "lineup": 1
+      },
+      "round": {
+        "stage_id": "x7lm7ph22onm2wd",
+        "round_num": 2,
+        "group_num": 0
+      },
+      "updated_at": 1750377786
+    },
+    {
+      "id": "318q66hxzp8vqo9",
+      "season_id": "d23xmvkhewzqg8n",
+      "competition_id": "p3glrw7hwo7qdyj",
+      "home_team_id": "4wyrn4he692q86p",
+      "away_team_id": "x7lm7ph92d7m2wd",
+      "status_id": 13,
+      "match_time": 1750174200,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "home_position": "6",
+      "away_position": "7",
+      "coverage": {
+        "mlive": 0,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "x7lm7ph22onm2wd",
+        "round_num": 2,
+        "group_num": 0
+      },
+      "updated_at": 1750377786
+    },
+    {
+      "id": "4wyrn4h68pnvq86",
+      "season_id": "j1l4rjnh8pkm7vx",
+      "competition_id": "kn54qllhy2qvy9d",
+      "home_team_id": "8yomo4h7d2gq0j6",
+      "away_team_id": "dj2ryohkk32q1zp",
+      "status_id": 8,
+      "match_time": 1749234600,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        5,
+        0,
+        0
+      ],
+      "away_scores": [
+        4,
+        3,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "1l4rjnhddvnm7vx",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "ended": 1749241284,
+      "updated_at": 1750377908
+    },
+    {
+      "id": "y39mp1h6366nmoj",
+      "season_id": "j1l4rjnh8pkm7vx",
+      "competition_id": "kn54qllhy2qvy9d",
+      "home_team_id": "8yomo4h7d2gq0j6",
+      "away_team_id": "y39mp1h36gkmojx",
+      "status_id": 8,
+      "match_time": 1748980800,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        1,
+        7,
+        0,
+        0
+      ],
+      "away_scores": [
+        4,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 1
+      },
+      "round": {
+        "stage_id": "dn1m1ghggdgmoep",
+        "round_num": 0,
+        "group_num": 1
+      },
+      "environment": {
+        "weather": 7,
+        "pressure": "761mmHg",
+        "temperature": "23\u00b0C",
+        "wind": "4.1m/s",
+        "humidity": "91%"
+      },
+      "ended": 1748987847,
+      "updated_at": 1750377908
+    },
+    {
+      "id": "ednm9whwkwwpryo",
+      "season_id": "j1l4rjnh8pkm7vx",
+      "competition_id": "kn54qllhy2qvy9d",
+      "home_team_id": "8yomo4h7d2gq0j6",
+      "away_team_id": "23xmvkho474qg8n",
+      "status_id": 8,
+      "match_time": 1748808000,
+      "venue_id": "",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        9,
+        5,
+        0,
+        0,
+        12,
+        0,
+        0
+      ],
+      "away_scores": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        0
+      ],
+      "home_position": "",
+      "away_position": "",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 0
+      },
+      "round": {
+        "stage_id": "dn1m1ghggdgmoep",
+        "round_num": 0,
+        "group_num": 1
+      },
+      "environment": {
+        "weather": 7,
+        "pressure": "763mmHg",
+        "temperature": "21\u00b0C",
+        "wind": "6.1m/s",
+        "humidity": "101%"
+      },
+      "ended": 1748818993,
+      "updated_at": 1750377908
+    },
+    {
+      "id": "pxwrxlhyp89jryk",
+      "season_id": "56ypq3nh2zlmd7o",
+      "competition_id": "yl5ergph72r8k0o",
+      "home_team_id": "y39mp1h3d6jmojx",
+      "away_team_id": "kdj2ryoh38yq1zp",
+      "status_id": 8,
+      "match_time": 1747850400,
+      "venue_id": "j1l4rjnh1djm7vx",
+      "referee_id": "",
+      "neutral": 0,
+      "note": "",
+      "home_scores": [
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      "away_scores": [
+        2,
+        1,
+        0,
+        2,
+        4,
+        0,
+        0
+      ],
+      "home_position": "4",
+      "away_position": "5",
+      "coverage": {
+        "mlive": 1,
+        "lineup": 1
+      },
+      "round": {
+        "stage_id": "l7oqdeh994yr510",
+        "round_num": 0,
+        "group_num": 0
+      },
+      "environment": {
+        "weather": 7,
+        "pressure": "762mmHg",
+        "temperature": "16\u00b0C",
+        "wind": "1.1m/s",
+        "humidity": "91%"
+      },
+      "ended": 1747857572,
+      "updated_at": 1750377847
+    }
+  ],
+  "fetch_timestamp": "06/19/2025 08:07:40 PM EST",
+  "footer_completion": "--- Details.py fetch completed: 06/19/2025 08:07:40 PM EST ---"
+}

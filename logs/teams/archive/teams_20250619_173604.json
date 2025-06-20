@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:36:03.648870",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "9k82rekh57erepz"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 650,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "9k82rekh57erepz"
+      },
+      "results": [
+        {
+          "id": "9k82rekh57erepz",
+          "competition_id": "p4jwq2ghgom0veo",
+          "country_id": "jednm9whk0ryox8",
+          "name": "ND Primorje",
+          "short_name": "ND Primorje",
+          "logo": "https://img.thesports.com/football/team/67d9980720aaf9c72aa0c7279414ed09.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1924,
+          "website": "http://www.nkprimorje.com/",
+          "coach_id": "p3glrw7hx07qdyj",
+          "venue_id": "",
+          "market_value": 4200000,
+          "market_value_currency": "\u20ac",
+          "total_players": 29,
+          "foreign_players": 13,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1748382427
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"9k82rekh57erepz\", \"competition_id\": \"p4jwq2ghgom0veo\", \"country_id\": \"jednm9whk0ryox8\", \"name\": \"ND Primorje\", \"short_name\": \"ND Primorje\", \"logo\": \"https://img.thesports.com/football/team/67d9980720aaf9c72aa0c7279414ed09.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1924, \"website\": \"http://www.nkprimorje.com/\", \"coach_id\": \"p3glrw7hx07qdyj\", \"venue_id\": \"\", \"market_value\": 4200000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 29, \"foreign_players\": 13, \"national_pl..."
+  }
+]

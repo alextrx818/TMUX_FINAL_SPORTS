@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:36:53.434168",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4wyrn4hee49q86p"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 630,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': '4wyrn4hee49q86p', 'competition_id': '8y39mp1hojmojxg', 'country_id': 'yl5ergphojr8k0o', 'name': 'Laanemaa Haapsalu', 'short_name': 'Laanemaa Haapsalu', 'logo': 'https://img.thesports.com/football/team/5e36eb4d95351b6173b02f3183e6bdd5.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '3glrw7h60neqdyj', 'venue_id': '', 'market_value': 10000, 'market_value_currency': '', 'total_players': 59, 'foreign_players': 21, 'national_players': 0, 'virtual': 0, ..."
+  }
+]

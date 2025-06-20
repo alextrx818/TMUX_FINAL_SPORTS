@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T02:34:22.755769",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "yl5ergph72r8k0o"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 691,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'yl5ergph72r8k0o', 'category_id': '49vjxm8ghgr6odg', 'country_id': '9vjxm8ghggr6odg', 'name': 'North Macedonia Cup', 'short_name': 'NMKD Cup', 'logo': 'https://img.thesports.com/football/competition/52ca7e6a6c29bec20a52bc983a550b7c.png', 'type': 2, 'cur_season_id': '56ypq3nh2zlmd7o', 'cur_stage_id': 'l7oqdeh994yr510', 'cur_round': 0, 'round_count': 0, 'title_holder': ['318q66h0zd7qo9j', 1], 'most_titles': [['kdj2ryoh38yq1zp'], 5], 'newcomers': [], 'divisions': [], 'host': {'country': 'Nor..."
+  }
+]

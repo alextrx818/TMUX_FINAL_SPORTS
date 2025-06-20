@@ -1,0 +1,30 @@
+[
+  {
+    "timestamp": "2025-06-19T22:35:01.686117",
+    "endpoint": "test_endpoint",
+    "status": "success",
+    "request": {
+      "url": "https://test.com",
+      "method": "GET",
+      "params": {
+        "test": "value"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 42,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "results": [
+        {
+          "test": "data"
+        }
+      ]
+    },
+    "sample_data": "{\"test\": \"data\"}"
+  }
+]

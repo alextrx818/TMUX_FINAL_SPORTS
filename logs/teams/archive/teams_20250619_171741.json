@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:17:41.389984",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "vjxm8ghj7e2r6od"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 601,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "vjxm8ghj7e2r6od"
+      },
+      "results": [
+        {
+          "id": "vjxm8ghj7e2r6od",
+          "competition_id": "z318q66hvdlqo9j",
+          "country_id": "vl7oqdeheyr510j",
+          "name": "Team Rhino FC",
+          "short_name": "Team Rhino FC",
+          "logo": "https://img.thesports.com/football/team/91866ec10d7422342c28eaf32baa3f40.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1682327142
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"vjxm8ghj7e2r6od\", \"competition_id\": \"z318q66hvdlqo9j\", \"country_id\": \"vl7oqdeheyr510j\", \"name\": \"Team Rhino FC\", \"short_name\": \"Team Rhino FC\", \"logo\": \"https://img.thesports.com/football/team/91866ec10d7422342c28eaf32baa3f40.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 16..."
+  }
+]

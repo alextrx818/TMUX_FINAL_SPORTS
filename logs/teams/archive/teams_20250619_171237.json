@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:12:36.665079",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "v2y8m4zho71ql07"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 680,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "v2y8m4zho71ql07"
+      },
+      "results": [
+        {
+          "id": "v2y8m4zho71ql07",
+          "competition_id": "9vjxm8ghllr6odg",
+          "country_id": "gy0or5jhl3qwzv3",
+          "name": "FK Zalgiris Vilnius",
+          "short_name": "FK Zalgiris Vilnius",
+          "logo": "https://img.thesports.com/football/team/c44fca0a4232a01fc936277c51f0fdcb.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1947,
+          "website": "http://www.fkzalgiris.lt/",
+          "coach_id": "kn54qllhdl9qvy9",
+          "venue_id": "p4jwq2ghv3lm0ve",
+          "market_value": 5950000,
+          "market_value_currency": "\u20ac",
+          "total_players": 27,
+          "foreign_players": 15,
+          "national_players": 2,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749845167
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"v2y8m4zho71ql07\", \"competition_id\": \"9vjxm8ghllr6odg\", \"country_id\": \"gy0or5jhl3qwzv3\", \"name\": \"FK Zalgiris Vilnius\", \"short_name\": \"FK Zalgiris Vilnius\", \"logo\": \"https://img.thesports.com/football/team/c44fca0a4232a01fc936277c51f0fdcb.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1947, \"website\": \"http://www.fkzalgiris.lt/\", \"coach_id\": \"kn54qllhdl9qvy9\", \"venue_id\": \"p4jwq2ghv3lm0ve\", \"market_value\": 5950000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 27, \"fore..."
+  }
+]

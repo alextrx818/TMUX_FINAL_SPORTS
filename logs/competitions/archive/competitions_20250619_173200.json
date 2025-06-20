@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-06-19T17:30:37.983166",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "z318q66hvdlqo9j"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 635,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "z318q66hvdlqo9j"
+      },
+      "results": [
+        {
+          "id": "z318q66hvdlqo9j",
+          "category_id": "9d23xmvkhxqg8ny",
+          "country_id": "vl7oqdeheyr510j",
+          "name": "Gambia League First Division",
+          "short_name": "GFA First Division",
+          "logo": "https://img.thesports.com/football/competition/6472153e4db9446db18cfa88de41946b.png",
+          "type": 1,
+          "cur_season_id": "56ypq3nh24nmd7o",
+          "cur_stage_id": "4jwq2gh13w4m0ve",
+          "cur_round": 0,
+          "round_count": 0,
+          "title_holder": [],
+          "most_titles": [],
+          "newcomers": [],
+          "divisions": [],
+          "host": {},
+          "primary_color": "#dc562fff",
+          "secondary_color": "",
+          "updated_at": 1732788013
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"z318q66hvdlqo9j\", \"category_id\": \"9d23xmvkhxqg8ny\", \"country_id\": \"vl7oqdeheyr510j\", \"name\": \"Gambia League First Division\", \"short_name\": \"GFA First Division\", \"logo\": \"https://img.thesports.com/football/competition/6472153e4db9446db18cfa88de41946b.png\", \"type\": 1, \"cur_season_id\": \"56ypq3nh24nmd7o\", \"cur_stage_id\": \"4jwq2gh13w4m0ve\", \"cur_round\": 0, \"round_count\": 0, \"title_holder\": [], \"most_titles\": [], \"newcomers\": [], \"divisions\": [], \"host\": {}, \"primary_color\": \"#dc562fff\", \"seco..."
+  }
+]

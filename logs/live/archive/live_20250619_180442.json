@@ -1,0 +1,7283 @@
+[
+  {
+    "timestamp": "2025-06-19T16:59:34.702141",
+    "endpoint": "live",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/match/detail_live",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 72413,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 62,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "results": [
+        {
+          "id": "318q66hw5gpnqo9",
+          "score": [
+            "318q66hw5gpnqo9",
+            2,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            1750352301,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 24,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 53,
+              "away": 47
+            },
+            {
+              "type": 22,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "dj2ryoh1zkjjq1z",
+          "score": [
+            "dj2ryoh1zkjjq1z",
+            2,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            1750350606,
+            ""
+          ],
+          "stats": [],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 29,
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 29,
+              "home_score": 0,
+              "away_score": 2
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "3glrw7hn1jxyqdy",
+          "score": [
+            "3glrw7hn1jxyqdy",
+            2,
+            [
+              0,
+              0,
+              0,
+              0,
+              4,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            1750350578,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 6,
+              "away": 1
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 24,
+              "home": 30,
+              "away": 24
+            },
+            {
+              "type": 22,
+              "home": 2,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 44,
+              "away": 56
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 20,
+              "away": 23
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 15,
+              "home_score": 0,
+              "away_score": 1
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "965mkyhyj067r1g",
+          "score": [
+            "965mkyhyj067r1g",
+            2,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            1750350528,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 25,
+              "home": 49,
+              "away": 51
+            },
+            {
+              "type": 23,
+              "home": 45,
+              "away": 19
+            },
+            {
+              "type": 24,
+              "home": 15,
+              "away": 9
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "y39mp1hzxe25moj",
+          "score": [
+            "y39mp1hzxe25moj",
+            2,
+            [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            1750350598,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 3,
+              "away": 4
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 51,
+              "away": 49
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 3
+            },
+            {
+              "type": 24,
+              "home": 10,
+              "away": 14
+            },
+            {
+              "type": 23,
+              "home": 22,
+              "away": 28
+            },
+            {
+              "type": 22,
+              "home": 0,
+              "away": 4
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 23,
+              "player_id": "k82rekhyn8lrepz",
+              "player_name": "Nemanja Mihajlovi\u0107",
+              "assist1_id": "k82rekhyw2lrepz",
+              "assist1_name": "Giedrius Matulevicius",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 26,
+              "player_id": "2y8m4zh8golvql0",
+              "player_name": "Amar haidara",
+              "assist1_id": "1l4rjnhko4vm7vx",
+              "assist1_name": "Nauris Petkevi\u010dius",
+              "home_score": 1,
+              "away_score": 1
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "2y8m4zh6yyg5ql0",
+          "score": [
+            "2y8m4zh6yyg5ql0",
+            9,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "3glrw7h722k7qdy",
+          "score": [
+            "3glrw7h722k7qdy",
+            9,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "318q66hwyyokqo9",
+          "score": [
+            "318q66hwyyokqo9",
+            9,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "l5ergph43e0or8k",
+          "score": [
+            "l5ergph43e0or8k",
+            3,
+            [
+              2,
+              2,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            [
+              2,
+              2,
+              0,
+              0,
+              6,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 22,
+              "home": 1,
+              "away": 2
+            },
+            {
+              "type": 24,
+              "home": 34,
+              "away": 52
+            },
+            {
+              "type": 23,
+              "home": 31,
+              "away": 43
+            },
+            {
+              "type": 25,
+              "home": 52,
+              "away": 48
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 3,
+              "away": 6
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 3,
+              "away": 5
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 5,
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 13,
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 43,
+              "player_id": "23xmvkhkd5veqg8",
+              "player_name": "Adama kanteh",
+              "home_score": 2,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 47,
+              "add_time": 2,
+              "player_id": "ednm9whv3nvoryo",
+              "player_name": "Salifu colley",
+              "home_score": 2,
+              "away_score": 2
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "jw2r09hknj4nrz8",
+          "score": [
+            "jw2r09hknj4nrz8",
+            3,
+            [
+              1,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              3,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 24,
+              "home": 27,
+              "away": 27
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 3
+            },
+            {
+              "type": 25,
+              "home": 56,
+              "away": 44
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 2,
+              "away": 2
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 3
+            },
+            {
+              "type": 23,
+              "home": 43,
+              "away": 51
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 28,
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "3glrw7hn1yk6qdy",
+          "score": [
+            "3glrw7hn1yk6qdy",
+            3,
+            [
+              6,
+              6,
+              0,
+              1,
+              8,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              1,
+              3,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 3,
+              "home": 1,
+              "away": 3
+            },
+            {
+              "type": 23,
+              "home": 21,
+              "away": 34
+            },
+            {
+              "type": 2,
+              "home": 8,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 69,
+              "away": 31
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 21,
+              "home": 13,
+              "away": 0
+            },
+            {
+              "type": 24,
+              "home": 51,
+              "away": 15
+            }
+          ],
+          "incidents": [
+            {
+              "type": 8,
+              "position": 1,
+              "time": 7,
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 14,
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 30
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 37,
+              "home_score": 3,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 39,
+              "home_score": 4,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 41
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 42
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 42
+            },
+            {
+              "type": 4,
+              "position": 2,
+              "time": 42
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 45,
+              "home_score": 5,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 45,
+              "home_score": 6,
+              "away_score": 0
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "3glrw7h7v7woqdy",
+          "score": [
+            "3glrw7h7v7woqdy",
+            3,
+            [
+              0,
+              0,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 25,
+              "home": 65,
+              "away": 35
+            },
+            {
+              "type": 23,
+              "home": 43,
+              "away": 25
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 24,
+              "home": 25,
+              "away": 3
+            },
+            {
+              "type": 22,
+              "home": 5,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 7,
+              "player_id": "dj2ryohjeyjvq1z",
+              "player_name": "Alexandra J\u00f3hannsd\u00f3ttir"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 12,
+              "player_id": "965mkyhe2k51r1g",
+              "player_name": "lilli halttunen",
+              "assist1_id": "2y8m4zhge653ql0",
+              "assist1_name": "Sara Ericsson",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "318q66hwejylqo9",
+          "score": [
+            "318q66hwejylqo9",
+            3,
+            [
+              2,
+              2,
+              0,
+              0,
+              6,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 69,
+              "away": 31
+            },
+            {
+              "type": 23,
+              "home": 40,
+              "away": 27
+            },
+            {
+              "type": 24,
+              "home": 29,
+              "away": 7
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 4,
+              "away": 1
+            },
+            {
+              "type": 2,
+              "home": 6,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 5,
+              "away": 1
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 11,
+              "player_id": "1l4rjnhz0zl0m7v",
+              "player_name": "Thea kyvag",
+              "assist1_id": "2y8m4zh81yllql0",
+              "assist1_name": "Rosendal Nyhagen",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 42,
+              "player_id": "jw2r09hnenxprz8",
+              "player_name": "Tonje Pedersen",
+              "assist1_id": "3glrw7hz7wyoqdy",
+              "assist1_name": "Hoftun Bjerksaeter",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "4wyrn4hx3v38q86",
+          "score": [
+            "4wyrn4hx3v38q86",
+            3,
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 2,
+              "away": 9
+            },
+            {
+              "type": 24,
+              "home": 15,
+              "away": 26
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 4,
+              "away": 5
+            },
+            {
+              "type": 23,
+              "home": 32,
+              "away": 56
+            },
+            {
+              "type": 25,
+              "home": 33,
+              "away": 67
+            }
+          ],
+          "incidents": [
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "pxwrxlh5k5g3ryk",
+          "score": [
+            "pxwrxlh5k5g3ryk",
+            3,
+            [
+              1,
+              1,
+              0,
+              0,
+              2,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 2,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 51,
+              "away": 49
+            },
+            {
+              "type": 23,
+              "home": 38,
+              "away": 41
+            },
+            {
+              "type": 24,
+              "home": 14,
+              "away": 20
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 22,
+              "home": 3,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 2,
+              "away": 4
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 2,
+              "time": 12,
+              "player_id": "3glrw7hzlnljqdy",
+              "player_name": "jaida nyby"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 25,
+              "player_id": "965mkyh46dxgr1g",
+              "player_name": "Emma Jansson",
+              "assist1_id": "l7oqdeh4989vr51",
+              "assist1_name": "Emilia Larsson",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 49,
+              "add_time": 4,
+              "player_id": "2y8m4zhgdxk1ql0",
+              "player_name": "olivia wanglund",
+              "assist1_id": "318q66hj1ewnqo9",
+              "assist1_name": "anna haddock",
+              "home_score": 1,
+              "away_score": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "2y8m4zh6ozo1ql0",
+          "score": [
+            "2y8m4zh6ozo1ql0",
+            3,
+            [
+              4,
+              4,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 5,
+              "away": 1
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 70,
+              "away": 30
+            },
+            {
+              "type": 23,
+              "home": 22,
+              "away": 20
+            },
+            {
+              "type": 24,
+              "home": 15,
+              "away": 6
+            },
+            {
+              "type": 22,
+              "home": 2,
+              "away": 1
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 6,
+              "player_id": "2y8m4zh84j7kql0",
+              "player_name": "Monica Isaksen",
+              "assist1_id": "zp5rzghp02dlq82",
+              "assist1_name": "signe gaupset",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 37,
+              "player_id": "zp5rzghzw0zyq82",
+              "player_name": "Amalie Eikeland",
+              "assist1_id": "6ypq3nhzxzd5md7",
+              "assist1_name": "Lauren Davidson",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 40,
+              "player_id": "6ypq3nhzxzd5md7",
+              "player_name": "Lauren Davidson",
+              "assist1_id": "zp5rzghzw0zyq82",
+              "assist1_name": "Amalie Eikeland",
+              "home_score": 3,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 45,
+              "player_id": "zp5rzghp02dlq82",
+              "player_name": "signe gaupset",
+              "assist1_id": "2y8m4zh84j7kql0",
+              "assist1_name": "Monica Isaksen",
+              "home_score": 4,
+              "away_score": 0
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "jw2r09h2zwoxrz8",
+          "score": [
+            "jw2r09h2zwoxrz8",
+            3,
+            [
+              2,
+              2,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              3,
+              3,
+              0,
+              0,
+              4,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 24,
+              "home": 11,
+              "away": 25
+            },
+            {
+              "type": 21,
+              "home": 3,
+              "away": 4
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 32,
+              "away": 34
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 4
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 3,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 37,
+              "away": 63
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 5,
+              "player_id": "l7oqdeh01w75r51",
+              "player_name": "cille nilsen",
+              "assist1_id": "zp5rzghzeezwq82",
+              "assist1_name": "rebecka holum",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 7,
+              "player_id": "n54qllhxwjk0qvy",
+              "player_name": "Beate Marcussen",
+              "assist1_id": "l7oqdeh01w75r51",
+              "assist1_name": "cille nilsen",
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 13,
+              "player_id": "318q66hvw7dlqo9",
+              "player_name": "Camilla Linberg",
+              "home_score": 1,
+              "away_score": 2
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 16,
+              "player_id": "3glrw7hjeeyyqdy",
+              "player_name": "oline fuglem",
+              "assist1_id": "dn1m1ghejo3nmoe",
+              "assist1_name": "Hanna Dahl",
+              "home_score": 1,
+              "away_score": 3
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 38,
+              "in_player_id": "318q66hvow0gqo9",
+              "in_player_name": "Linn Huseby",
+              "out_player_id": "dj2ryohnd6zoq1z",
+              "out_player_name": "sigrid gamst"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 44,
+              "player_id": "l7oqdehl91kpr51",
+              "player_name": "tiril haga",
+              "assist1_id": "318q66hvw7dlqo9",
+              "assist1_name": "Camilla Linberg",
+              "home_score": 2,
+              "away_score": 3
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "k82rekhg9v76rep",
+          "score": [
+            "k82rekhg9v76rep",
+            3,
+            [
+              1,
+              1,
+              0,
+              0,
+              4,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 2,
+              "away": 2
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 24,
+              "home": 43,
+              "away": 34
+            },
+            {
+              "type": 23,
+              "home": 40,
+              "away": 33
+            },
+            {
+              "type": 25,
+              "home": 71,
+              "away": 29
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 1
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 21,
+              "home_score": 1,
+              "away_score": 0
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "ednm9wh7ng18ryo",
+          "score": [
+            "ednm9wh7ng18ryo",
+            3,
+            [
+              1,
+              1,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              2,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 46,
+              "away": 17
+            },
+            {
+              "type": 22,
+              "home": 11,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 62,
+              "away": 38
+            },
+            {
+              "type": 21,
+              "home": 8,
+              "away": 2
+            },
+            {
+              "type": 24,
+              "home": 26,
+              "away": 6
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 2,
+              "home": 3,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 6,
+              "player_id": "6ypq3nhw1vxxmd7",
+              "player_name": "saedis heidarsdottir",
+              "assist1_id": "4jwq2ghvl3ejm0v",
+              "assist1_name": "selma pettersen",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 48,
+              "add_time": 3,
+              "player_id": "2y8m4zhzwyg0ql0",
+              "player_name": "Oda Stalesen"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "y39mp1hz794jmoj",
+          "score": [
+            "y39mp1hz794jmoj",
+            3,
+            [
+              1,
+              1,
+              0,
+              2,
+              4,
+              0,
+              0
+            ],
+            [
+              4,
+              4,
+              0,
+              2,
+              4,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 1,
+              "away": 7
+            },
+            {
+              "type": 25,
+              "home": 36,
+              "away": 64
+            },
+            {
+              "type": 24,
+              "home": 17,
+              "away": 24
+            },
+            {
+              "type": 23,
+              "home": 28,
+              "away": 37
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 2,
+              "away": 2
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 4
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 3,
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 28
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 30,
+              "home_score": 1,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 33,
+              "home_score": 1,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 35
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 37,
+              "home_score": 1,
+              "away_score": 3
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 39
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 40,
+              "home_score": 1,
+              "away_score": 4
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 42
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "4wyrn4hxp018q86",
+          "score": [
+            "4wyrn4hxp018q86",
+            3,
+            [
+              0,
+              0,
+              0,
+              2,
+              2,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              2,
+              3,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 3,
+              "away": 4
+            },
+            {
+              "type": 24,
+              "home": 11,
+              "away": 16
+            },
+            {
+              "type": 2,
+              "home": 2,
+              "away": 3
+            },
+            {
+              "type": 23,
+              "home": 28,
+              "away": 47
+            },
+            {
+              "type": 25,
+              "home": 35,
+              "away": 65
+            },
+            {
+              "type": 3,
+              "home": 2,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 28,
+              "position": 1,
+              "time": 38,
+              "player_id": "pxwrxlhzwdoryk0",
+              "player_name": "Raphael Cavalcante Veiga",
+              "var_reason": 5,
+              "var_result": 6
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 39,
+              "player_id": "pxwrxlhzwdoryk0",
+              "player_name": "Raphael Cavalcante Veiga",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 42,
+              "player_id": "n54qllh9284qvy9",
+              "player_name": "Hamdy Fathy",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 43,
+              "player_id": "l5ergphed0pvr8k",
+              "player_name": "Agustin Giay",
+              "reason_type": 1
+            },
+            {
+              "type": 19,
+              "position": 0,
+              "time": 45,
+              "add_time": 6
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 48,
+              "add_time": 3,
+              "player_id": "y39mp1hp3xxmojx",
+              "player_name": "Yahia Attiyat allah",
+              "reason_type": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 52
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "y0or5jh8lyo0qwz",
+          "score": [
+            "y0or5jh8lyo0qwz",
+            13,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "23xmvkh6o32nqg8",
+          "score": [
+            "23xmvkh6o32nqg8",
+            3,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 22,
+              "home": 0,
+              "away": 3
+            },
+            {
+              "type": 24,
+              "home": 3,
+              "away": 18
+            },
+            {
+              "type": 23,
+              "home": 46,
+              "away": 46
+            },
+            {
+              "type": 25,
+              "home": 52,
+              "away": 48
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 0,
+              "away": 4
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 1,
+              "away": 2
+            }
+          ],
+          "incidents": [
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "vjxm8ghegjnpr6o",
+          "score": [
+            "vjxm8ghegjnpr6o",
+            4,
+            [
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              3,
+              3,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            1750352308,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 3,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 29,
+              "away": 31
+            },
+            {
+              "type": 2,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 37,
+              "away": 63
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 1,
+              "away": 5
+            },
+            {
+              "type": 24,
+              "home": 14,
+              "away": 24
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 16,
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 17,
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 30,
+              "home_score": 0,
+              "away_score": 3
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 37
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "1l4rjnh91xopm7v",
+          "score": [
+            "1l4rjnh91xopm7v",
+            13,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "4jwq2ghnkxyjm0v",
+          "score": [
+            "4jwq2ghnkxyjm0v",
+            3,
+            [
+              1,
+              1,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 2,
+              "home": 3,
+              "away": 1
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 2,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 3,
+              "away": 2
+            },
+            {
+              "type": 24,
+              "home": 25,
+              "away": 21
+            },
+            {
+              "type": 23,
+              "home": 24,
+              "away": 27
+            },
+            {
+              "type": 25,
+              "home": 57,
+              "away": 43
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 10,
+              "home_score": 1,
+              "away_score": 0
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "x7lm7phzlewwm2w",
+          "score": [
+            "x7lm7phzlewwm2w",
+            3,
+            [
+              1,
+              1,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              2,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 24,
+              "home": 35,
+              "away": 20
+            },
+            {
+              "type": 23,
+              "home": 53,
+              "away": 47
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 2
+            },
+            {
+              "type": 22,
+              "home": 4,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 3,
+              "away": 1
+            },
+            {
+              "type": 21,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 57,
+              "away": 43
+            }
+          ],
+          "incidents": [
+            {
+              "type": 9,
+              "position": 2,
+              "time": 10,
+              "in_player_id": "l7oqdeh4ggvyr51",
+              "in_player_name": "Robert\u00b7Laidvee",
+              "out_player_id": "23xmvkhdlnx5qg8",
+              "out_player_name": "Martin Jalle"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 31,
+              "player_id": "y0or5jh1w09qwzv",
+              "player_name": "Joonas Luts"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 33,
+              "player_id": "965mkyhe2ezyr1g",
+              "player_name": "mauris villems",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 44
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "n54qllh7l68dqvy",
+          "score": [
+            "n54qllh7l68dqvy",
+            3,
+            [
+              0,
+              0,
+              0,
+              0,
+              6,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 22,
+              "home": 13,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 70,
+              "away": 30
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 3,
+              "away": 2
+            },
+            {
+              "type": 24,
+              "home": 56,
+              "away": 4
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 83,
+              "away": 22
+            },
+            {
+              "type": 2,
+              "home": 6,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 36,
+              "player_id": "jw2r09hwx3j8rz8",
+              "player_name": "Tiago baptista",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "1l4rjnh91k3zm7v",
+          "score": [
+            "1l4rjnh91k3zm7v",
+            13,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "4jwq2ghnk70xm0v",
+          "score": [
+            "4jwq2ghnk70xm0v",
+            3,
+            [
+              0,
+              0,
+              0,
+              1,
+              3,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 54,
+              "away": 46
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 23,
+              "home": 57,
+              "away": 50
+            },
+            {
+              "type": 4,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 24,
+              "home": 33,
+              "away": 26
+            },
+            {
+              "type": 2,
+              "home": 3,
+              "away": 1
+            },
+            {
+              "type": 22,
+              "home": 3,
+              "away": 1
+            }
+          ],
+          "incidents": [
+            {
+              "type": 4,
+              "position": 1,
+              "time": 47,
+              "add_time": 2
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "ednm9whw9gdgryo",
+          "score": [
+            "ednm9whw9gdgryo",
+            3,
+            [
+              0,
+              0,
+              0,
+              2,
+              6,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 3,
+              "home": 2,
+              "away": 1
+            },
+            {
+              "type": 23,
+              "home": 71,
+              "away": 72
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 2,
+              "home": 6,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 50,
+              "away": 50
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 24,
+              "home": 41,
+              "away": 39
+            }
+          ],
+          "incidents": [
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "965mkyhk4ngzr1g",
+          "score": [
+            "965mkyhk4ngzr1g",
+            3,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 6,
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "zp5rzghg7pkdq82",
+          "score": [
+            "zp5rzghg7pkdq82",
+            3,
+            [
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 44,
+              "away": 56
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 3
+            },
+            {
+              "type": 24,
+              "home": 26,
+              "away": 20
+            },
+            {
+              "type": 23,
+              "home": 54,
+              "away": 52
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 5
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 31,
+              "home_score": 0,
+              "away_score": 1
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "3glrw7hn1jd6qdy",
+          "score": [
+            "3glrw7hn1jd6qdy",
+            3,
+            [
+              0,
+              0,
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 23,
+              "home": 35,
+              "away": 40
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 5
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 2,
+              "away": 4
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 45,
+              "away": 55
+            },
+            {
+              "type": 2,
+              "home": 5,
+              "away": 1
+            },
+            {
+              "type": 24,
+              "home": 21,
+              "away": 14
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 7,
+              "home_score": 0,
+              "away_score": 1
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "318q66hx04elqo9",
+          "score": [
+            "318q66hx04elqo9",
+            3,
+            [
+              0,
+              0,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              4,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 42,
+              "away": 58
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 24,
+              "home": 36,
+              "away": 30
+            },
+            {
+              "type": 21,
+              "home": 2,
+              "away": 1
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 75,
+              "away": 74
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 4
+            },
+            {
+              "type": 22,
+              "home": 0,
+              "away": 5
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 21
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "y0or5jh8xnvlqwz",
+          "score": [
+            "y0or5jh8xnvlqwz",
+            4,
+            [
+              2,
+              0,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            1750350750,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 4,
+              "away": 3
+            },
+            {
+              "type": 24,
+              "home": 57,
+              "away": 52
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 4
+            },
+            {
+              "type": 23,
+              "home": 65,
+              "away": 93
+            },
+            {
+              "type": 25,
+              "home": 59,
+              "away": 41
+            },
+            {
+              "type": 8,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 21,
+              "home": 4,
+              "away": 6
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 2,
+              "time": 6,
+              "player_id": "4wyrn4hv5pl1q86",
+              "player_name": "juuso makelainen"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 30,
+              "player_id": "k82rekh3jpx2rep",
+              "player_name": "juho karsama",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 46,
+              "in_player_id": "vjxm8ghj729vr6o",
+              "in_player_name": "Pietro Kyt\u00f6laakso",
+              "out_player_id": "x7lm7ph05llm2wd",
+              "out_player_name": "Jasper Uwa"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 46,
+              "in_player_id": "23xmvkhkg6k7qg8",
+              "in_player_name": "lubunga etoka",
+              "out_player_id": "dn1m1gh36x9omoe",
+              "out_player_name": "Roni enlund"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 46,
+              "in_player_id": "x7lm7ph98pwem2w",
+              "in_player_name": "olle lamsa",
+              "out_player_id": "l5ergphn7x86r8k",
+              "out_player_name": "alex munoz"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 49,
+              "player_id": "4wyrn4h4gwy0q86",
+              "player_name": "alex bjorkgren"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 53,
+              "player_id": "3glrw7hz09w5qdy",
+              "player_name": "vertti akerblom",
+              "home_score": 1,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 61,
+              "player_id": "3glrw7hz09w5qdy",
+              "player_name": "vertti akerblom",
+              "home_score": 2,
+              "away_score": 1
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 68,
+              "in_player_id": "965mkyhn0j92r1g",
+              "in_player_name": "niilo hirvikoski",
+              "out_player_id": "965mkyhn564dr1g",
+              "out_player_name": "otto paananen"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 69,
+              "in_player_id": "x7lm7ph9dk06m2w",
+              "in_player_name": "solomon nwachukwu",
+              "out_player_id": "pxwrxlhz7nj6ryk",
+              "out_player_name": "touko ridanpaa"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "8yomo4h1kvw5q0j",
+          "score": [
+            "8yomo4h1kvw5q0j",
+            4,
+            [
+              0,
+              0,
+              0,
+              1,
+              2,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              2,
+              4,
+              0,
+              0
+            ],
+            1750350719,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 23,
+              "home": 81,
+              "away": 104
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 55,
+              "away": 45
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 2
+            },
+            {
+              "type": 22,
+              "home": 7,
+              "away": 7
+            },
+            {
+              "type": 24,
+              "home": 24,
+              "away": 40
+            },
+            {
+              "type": 2,
+              "home": 2,
+              "away": 4
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 2,
+              "away": 4
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 2,
+              "time": 25
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 25
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 39,
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 67
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "318q66hxzwl6qo9",
+          "score": [
+            "318q66hxzwl6qo9",
+            4,
+            [
+              5,
+              3,
+              0,
+              5,
+              4,
+              0,
+              0
+            ],
+            [
+              2,
+              2,
+              0,
+              1,
+              5,
+              0,
+              0
+            ],
+            1750350645,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 22,
+              "home": 11,
+              "away": 8
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 9,
+              "away": 3
+            },
+            {
+              "type": 3,
+              "home": 5,
+              "away": 1
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 5
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 61,
+              "away": 39
+            },
+            {
+              "type": 23,
+              "home": 78,
+              "away": 67
+            },
+            {
+              "type": 24,
+              "home": 46,
+              "away": 45
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 4,
+              "player_id": "318q66hj6on6qo9",
+              "player_name": "noah rantasalmi",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 11,
+              "player_id": "318q66hj6on6qo9",
+              "player_name": "noah rantasalmi",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 24,
+              "player_id": "jw2r09hwnl18rz8",
+              "player_name": "Kalle huhta"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 27,
+              "player_id": "jw2r09hwnl18rz8",
+              "player_name": "Kalle huhta",
+              "home_score": 2,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 35,
+              "player_id": "jw2r09hwnl18rz8",
+              "player_name": "Kalle huhta",
+              "home_score": 2,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 38,
+              "player_id": "x7lm7ph97jvkm2w",
+              "player_name": "luka kuusisto"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 45,
+              "player_id": "dn1m1gh8xg79moe",
+              "player_name": "umeh chinedu",
+              "home_score": 3,
+              "away_score": 2
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 52,
+              "player_id": "l5ergphnozznr8k",
+              "player_name": "Jore nikkila",
+              "home_score": 4,
+              "away_score": 2
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 54,
+              "in_player_id": "dn1m1gh8p4pdmoe",
+              "in_player_name": "alex myntii",
+              "out_player_id": "k82rekh3d0e4rep",
+              "out_player_name": "iiro heikkila ala"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 55,
+              "in_player_id": "jw2r09hw3081rz8",
+              "in_player_name": "alexander wik",
+              "out_player_id": "8yomo4h2plvnq0j",
+              "out_player_name": "Andreas jarv"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 56,
+              "player_id": "pxwrxlhz3okjryk",
+              "player_name": "lassi rintamaki"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 60,
+              "player_id": "pxwrxlhz3dvlryk",
+              "player_name": "abdu muchipay"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 66,
+              "player_id": "y0or5jhg6d2kqwz",
+              "player_name": "oliver etelaaho"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 66,
+              "player_id": "zp5rzghx747lq82",
+              "player_name": "sander korsunov",
+              "home_score": 5,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 70,
+              "player_id": "318q66hj6on6qo9",
+              "player_name": "noah rantasalmi"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "vjxm8ghe4lkgr6o",
+          "score": [
+            "vjxm8ghe4lkgr6o",
+            4,
+            [
+              1,
+              1,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              2,
+              2,
+              0,
+              0
+            ],
+            1750350699,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 24,
+              "home": 64,
+              "away": 38
+            },
+            {
+              "type": 23,
+              "home": 94,
+              "away": 87
+            },
+            {
+              "type": 22,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 2
+            },
+            {
+              "type": 21,
+              "home": 3,
+              "away": 3
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 3,
+              "away": 2
+            },
+            {
+              "type": 25,
+              "home": 49,
+              "away": 51
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 2,
+              "time": 13,
+              "player_id": "n54qllhxg4g7qvy",
+              "player_name": "Lucas Maximiliano\u00b7Lemos Mayuncaldi"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 38,
+              "player_id": "y0or5jh311woqwz",
+              "player_name": "Mateo Baltasar Barcia Fern\u00e1ndez"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 46,
+              "add_time": 1,
+              "player_id": "jw2r09hw1wg7rz8",
+              "player_name": "Matteo copelotti",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 46,
+              "in_player_id": "dj2ryohgz68pq1z",
+              "in_player_name": "Felipe Chiappini",
+              "out_player_id": "n54qllhxg4g7qvy",
+              "out_player_name": "Lucas Maximiliano\u00b7Lemos Mayuncaldi"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 63,
+              "in_player_id": "l7oqdeh0gl20r51",
+              "in_player_name": "valentin adamo",
+              "out_player_id": "y0or5jh311woqwz",
+              "out_player_name": "Mateo Baltasar Barcia Fern\u00e1ndez"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 63,
+              "in_player_id": "zp5rzgh1dx5q82w",
+              "in_player_name": "Gustavo Viera",
+              "out_player_id": "zp5rzghpnz1kq82",
+              "out_player_name": "Guillermo L\u00f3pez Matturo"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "ednm9whw8978ryo",
+          "score": [
+            "ednm9whw8978ryo",
+            4,
+            [
+              3,
+              3,
+              0,
+              0,
+              4,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              3,
+              0,
+              0
+            ],
+            1750350664,
+            ""
+          ],
+          "stats": [],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 8,
+              "player_id": "318q66hjd47oqo9",
+              "player_name": "blessing okpe",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 16,
+              "player_id": "l7oqdeh496e9r51",
+              "player_name": "Daria manyukova",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 37,
+              "player_id": "1l4rjnh10ly1m7v",
+              "player_name": "Emueje Ogbiagbevha",
+              "home_score": 3,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 42,
+              "player_id": "n54qllhxwekeqvy",
+              "player_name": "ulyana asaula"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "965mkyhy6y14r1g",
+          "score": [
+            "965mkyhy6y14r1g",
+            4,
+            [
+              0,
+              0,
+              0,
+              2,
+              2,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            1750350925,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 23,
+              "home": 97,
+              "away": 92
+            },
+            {
+              "type": 24,
+              "home": 36,
+              "away": 28
+            },
+            {
+              "type": 22,
+              "home": 4,
+              "away": 6
+            },
+            {
+              "type": 21,
+              "home": 3,
+              "away": 3
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 2,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 2,
+              "away": 0
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 48,
+              "away": 52
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 24,
+              "player_id": "3glrw7ho7woqdyj",
+              "player_name": "Henrik Olander"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 46,
+              "in_player_id": "6ypq3nhzpe0xmd7",
+              "in_player_name": "santeri stenius",
+              "out_player_id": "y0or5jhe18nqwzv",
+              "out_player_name": "Nasiru Mohammed"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 46,
+              "in_player_id": "965mkyhepn3vr1g",
+              "in_player_name": "Peetu haikonen",
+              "out_player_id": "3glrw7ho7woqdyj",
+              "out_player_name": "Henrik Olander"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 57,
+              "player_id": "l7oqdeh4oj69r51",
+              "player_name": "Mosawer Ahadi"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "y39mp1hz2zpjmoj",
+          "score": [
+            "y39mp1hz2zpjmoj",
+            4,
+            [
+              1,
+              1,
+              0,
+              3,
+              6,
+              0,
+              0
+            ],
+            [
+              2,
+              2,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            1750350738,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 2,
+              "away": 10
+            },
+            {
+              "type": 24,
+              "home": 52,
+              "away": 64
+            },
+            {
+              "type": 3,
+              "home": 3,
+              "away": 1
+            },
+            {
+              "type": 23,
+              "home": 72,
+              "away": 64
+            },
+            {
+              "type": 2,
+              "home": 6,
+              "away": 4
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 9,
+              "away": 7
+            },
+            {
+              "type": 25,
+              "home": 49,
+              "away": 51
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 21,
+              "player_id": "zp5rzghpo4v8q82",
+              "player_name": "Tuomas Pippola",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 21,
+              "player_id": "jw2r09hx1xpgrz8",
+              "player_name": "Roope Huhtala"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 28,
+              "player_id": "n54qllh8v67qvy9",
+              "player_name": "Nuutti Tykkylainen",
+              "assist1_id": "dj2ryohn9kdq1zp",
+              "assist1_name": "Jyri Kiuru",
+              "home_score": 1,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 31,
+              "player_id": "zp5rzghpo4v8q82",
+              "player_name": "Tuomas Pippola",
+              "home_score": 1,
+              "away_score": 2
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 53,
+              "player_id": "8yomo4hvlzd0q0j",
+              "player_name": "aapo bostrom"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 56,
+              "player_id": "n54qllh8v67qvy9",
+              "player_name": "Nuutti Tykkylainen"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 64,
+              "player_id": "dj2ryohg2ddwq1z",
+              "player_name": "niklas haataja"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 66,
+              "in_player_id": "23xmvkhd0wj1qg8",
+              "in_player_name": "Pasi\u00b7Forsman",
+              "out_player_id": "dn1m1ghnk48nmoe",
+              "out_player_name": "Lassi Forss"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "k82rekhw7wnorep",
+          "score": [
+            "k82rekhw7wnorep",
+            4,
+            [
+              2,
+              2,
+              0,
+              1,
+              4,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              2,
+              0,
+              0
+            ],
+            1750350819,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 2,
+              "away": 3
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 2
+            },
+            {
+              "type": 22,
+              "home": 4,
+              "away": 1
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 24,
+              "home": 34,
+              "away": 34
+            },
+            {
+              "type": 23,
+              "home": 62,
+              "away": 92
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 43,
+              "away": 57
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 21,
+              "player_id": "ednm9whzpozlryo",
+              "player_name": "Jonathan Muzinga",
+              "assist1_id": "x7lm7phwd1dkm2w",
+              "assist1_name": "kante abdoulaye",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 28,
+              "player_id": "ednm9whv8x5vryo",
+              "player_name": "Manuel Pami Costa",
+              "assist1_id": "3glrw7hjv624qdy",
+              "assist1_name": "Casagrande",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 35,
+              "in_player_id": "4wyrn4hve89kq86",
+              "in_player_name": "adam conan goff le",
+              "out_player_id": "pxwrxlhj3823ryk",
+              "out_player_name": "aaro toivonen"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 55,
+              "player_id": "l5ergphe78kgr8k",
+              "player_name": "emil ingman"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 60,
+              "player_id": "1l4rjnhz972em7v",
+              "player_name": "Otso\u00b7Koskinen"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 60,
+              "in_player_id": "318q66hj8y7nqo9",
+              "in_player_name": "rippon liam",
+              "out_player_id": "l5ergphe78kgr8k",
+              "out_player_name": "emil ingman"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 60,
+              "in_player_id": "x7lm7phw16jem2w",
+              "in_player_name": "francis etu",
+              "out_player_id": "1l4rjnhx0676m7v",
+              "out_player_name": "Hadi Noori"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "x7lm7phjo0lpm2w",
+          "score": [
+            "x7lm7phjo0lpm2w",
+            4,
+            [
+              1,
+              0,
+              0,
+              1,
+              10,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              2,
+              0,
+              0,
+              0
+            ],
+            1750350814,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 10,
+              "away": 2
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 2
+            },
+            {
+              "type": 2,
+              "home": 10,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 53,
+              "away": 47
+            },
+            {
+              "type": 23,
+              "home": 92,
+              "away": 50
+            },
+            {
+              "type": 24,
+              "home": 67,
+              "away": 28
+            },
+            {
+              "type": 22,
+              "home": 11,
+              "away": 1
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 11
+            },
+            {
+              "type": 8,
+              "position": 2,
+              "time": 20,
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 33
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 45
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 61,
+              "home_score": 1,
+              "away_score": 1
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "y0or5jh84ev0qwz",
+          "score": [
+            "y0or5jh84ev0qwz",
+            13,
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [],
+          "incidents": [],
+          "tlive": []
+        },
+        {
+          "id": "y39mp1h63negmoj",
+          "score": [
+            "y39mp1h63negmoj",
+            4,
+            [
+              3,
+              2,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            1750349671,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 2,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 24,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 6,
+              "player_id": "dn1m1gh8gw8zmoe",
+              "player_name": "zaid qunbar al",
+              "assist1_id": "pxwrxlh9lg4eryk",
+              "assist1_name": "Moftah Taktak",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 9,
+              "player_id": "pxwrxlh9lg4eryk",
+              "player_name": "Moftah Taktak",
+              "assist1_id": "l5ergphn79n1r8k",
+              "assist1_name": "redwan tawfiq",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 35,
+              "player_id": "6ypq3nhlpjpdmd7",
+              "player_name": "abdulkader ehuailat"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 65,
+              "in_player_id": "dj2ryohgypwgq1z",
+              "in_player_name": "Zakaria Mansouri",
+              "out_player_id": "318q66hj35jdqo9",
+              "out_player_name": "osama belaid"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 65,
+              "in_player_id": "dj2ryohgye0gq1z",
+              "in_player_name": "Gabriel orok",
+              "out_player_id": "pxwrxlh9lg4eryk",
+              "out_player_name": "Moftah Taktak"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 65,
+              "in_player_id": "y39mp1h1e21omoj",
+              "in_player_name": "mansour rizq",
+              "out_player_id": "y39mp1h1889wmoj",
+              "out_player_name": "mustafa hamza"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 71,
+              "in_player_id": "8yomo4h0j519q0j",
+              "in_player_name": "john mano",
+              "out_player_id": "dn1m1gh8gw8zmoe",
+              "out_player_name": "zaid qunbar al"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 72,
+              "player_id": "dj2ryohgypwgq1z",
+              "player_name": "Zakaria Mansouri",
+              "home_score": 3,
+              "away_score": 0
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 76,
+              "in_player_id": "4wyrn4hdxy9nq86",
+              "in_player_name": "Mohamed Adam",
+              "out_player_id": "3glrw7hzgvzyqdy",
+              "out_player_name": "aboubakr bouagila"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 76,
+              "in_player_id": "x7lm7ph999x4m2w",
+              "in_player_name": "Fadel salama",
+              "out_player_id": "4wyrn4hv5kvpq86",
+              "out_player_name": "abdulrahman hreibesh"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 84,
+              "in_player_id": "l5ergphn79jlr8k",
+              "in_player_name": "abdulhakim boushanna",
+              "out_player_id": "l7oqdehl950vr51",
+              "out_player_name": "ahmed gaagaa"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 84,
+              "in_player_id": "8yomo4h06dj6q0j",
+              "in_player_name": "khaled areibi al",
+              "out_player_id": "1l4rjnhkdwp1m7v",
+              "out_player_name": "maydi boraasi al"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "x7lm7phjo0vkm2w",
+          "score": [
+            "x7lm7phjo0vkm2w",
+            8,
+            [
+              1,
+              1,
+              0,
+              2,
+              6,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              3,
+              6,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 23,
+              "home": 124,
+              "away": 122
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 11,
+              "away": 4
+            },
+            {
+              "type": 25,
+              "home": 59,
+              "away": 41
+            },
+            {
+              "type": 3,
+              "home": 2,
+              "away": 3
+            },
+            {
+              "type": 21,
+              "home": 5,
+              "away": 6
+            },
+            {
+              "type": 24,
+              "home": 77,
+              "away": 61
+            },
+            {
+              "type": 2,
+              "home": 6,
+              "away": 6
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 2,
+              "time": 3
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 26
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 34
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 45,
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 87
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 87
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "vjxm8ghl10por6o",
+          "score": [
+            "vjxm8ghl10por6o",
+            8,
+            [
+              5,
+              2,
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 50,
+              "away": 50
+            },
+            {
+              "type": 23,
+              "home": 108,
+              "away": 79
+            },
+            {
+              "type": 21,
+              "home": 8,
+              "away": 4
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 5,
+              "away": 1
+            },
+            {
+              "type": 24,
+              "home": 52,
+              "away": 26
+            },
+            {
+              "type": 22,
+              "home": 12,
+              "away": 5
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 1,
+              "time": 18,
+              "player_id": "4wyrn4h41kenq86",
+              "player_name": "Antoin Loic Essomba Bikoula",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 44,
+              "player_id": "zp5rzghpzlejq82",
+              "player_name": "Jean Botu\u00e9",
+              "assist1_id": "l5ergph3e18r8k0",
+              "assist1_name": "Albin Granlund",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 49,
+              "in_player_id": "23xmvkhd8ezwqg8",
+              "in_player_name": "Sami Sipola",
+              "out_player_id": "l5ergph3e18r8k0",
+              "out_player_name": "Albin Granlund"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 53,
+              "player_id": "n54qllh8v72yqvy",
+              "player_name": "Mitchell Glasson"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 62,
+              "player_id": "965mkyhepvp8r1g",
+              "player_name": "Christian Dimitri Legbo Ouguehi",
+              "assist1_id": "4wyrn4h41kenq86",
+              "assist1_name": "Antoin Loic Essomba Bikoula",
+              "home_score": 3,
+              "away_score": 0
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 70,
+              "in_player_id": "y0or5jhen7xqwzv",
+              "in_player_name": "Jasse Tuominen",
+              "out_player_id": "zp5rzghpzlejq82",
+              "out_player_name": "Jean Botu\u00e9"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 70,
+              "in_player_id": "l5ergphnn9djr8k",
+              "in_player_name": "Joonas\u00b7Kekarainen",
+              "out_player_id": "318q66hj0gkgqo9",
+              "out_player_name": "axel kouame"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 70,
+              "in_player_id": "zp5rzghzg5l1q82",
+              "in_player_name": "Brian Oddei",
+              "out_player_id": "8yomo4hv9weyq0j",
+              "out_player_name": "Assan Seck"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 71,
+              "in_player_id": "y39mp1hj9xgnmoj",
+              "in_player_name": "Matias Paavola",
+              "out_player_id": "dn1m1ghng7g1moe",
+              "out_player_name": "juho lehtiranta"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 71,
+              "in_player_id": "dj2ryohn200oq1z",
+              "in_player_name": "constantine edlund",
+              "out_player_id": "l7oqdehn18pr510",
+              "out_player_name": "Mikko Sumusalo"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 76,
+              "in_player_id": "dj2ryohy0ygq1zp",
+              "in_player_name": "Aleksi Tarvonen",
+              "out_player_id": "n54qllh8v72yqvy",
+              "out_player_name": "Mitchell Glasson"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 80,
+              "in_player_id": "965mkyhngjger1g",
+              "in_player_name": "otto eloluoto",
+              "out_player_id": "965mkyhepvp8r1g",
+              "out_player_name": "Christian Dimitri Legbo Ouguehi"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 83,
+              "player_id": "zp5rzghzo9x3q82",
+              "player_name": "Jussi Niska",
+              "assist1_id": "318q66hv002wqo9",
+              "assist1_name": "Florian Krebs",
+              "home_score": 4,
+              "away_score": 0
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 85,
+              "in_player_id": "23xmvkhkkvvqg8n",
+              "in_player_name": "Bart Straalman",
+              "out_player_id": "pxwrxlh955zryk0",
+              "out_player_name": "Juuso H\u00e4m\u00e4l\u00e4inen"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 93,
+              "add_time": 3,
+              "player_id": "y0or5jhen7xqwzv",
+              "player_name": "Jasse Tuominen",
+              "assist1_id": "8yomo4h2j40jq0j",
+              "assist1_name": "luka kuittinen",
+              "home_score": 5,
+              "away_score": 0
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "ednm9wh71e0kryo",
+          "score": [
+            "ednm9wh71e0kryo",
+            8,
+            [
+              2,
+              1,
+              0,
+              2,
+              7,
+              0,
+              0
+            ],
+            [
+              2,
+              2,
+              0,
+              3,
+              7,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 2,
+              "home": 7,
+              "away": 7
+            },
+            {
+              "type": 24,
+              "home": 112,
+              "away": 73
+            },
+            {
+              "type": 23,
+              "home": 175,
+              "away": 133
+            },
+            {
+              "type": 22,
+              "home": 10,
+              "away": 8
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 4,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 2,
+              "away": 3
+            },
+            {
+              "type": 25,
+              "home": 53,
+              "away": 47
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 14,
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 27,
+              "home_score": 1,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 28,
+              "home_score": 1,
+              "away_score": 2
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 54
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 59
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 70,
+              "home_score": 2,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 71
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 92,
+              "add_time": 2
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 92,
+              "add_time": 2
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "965mkyhypzo4r1g",
+          "score": [
+            "965mkyhypzo4r1g",
+            8,
+            [
+              1,
+              0,
+              0,
+              1,
+              12,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              2,
+              5,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 22,
+              "home": 19,
+              "away": 5
+            },
+            {
+              "type": 2,
+              "home": 12,
+              "away": 5
+            },
+            {
+              "type": 23,
+              "home": 161,
+              "away": 90
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 2
+            },
+            {
+              "type": 24,
+              "home": 117,
+              "away": 54
+            },
+            {
+              "type": 21,
+              "home": 9,
+              "away": 2
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 64,
+              "away": 36
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            }
+          ],
+          "incidents": [
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 52,
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 58
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 76
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 79
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "x7lm7phzle1gm2w",
+          "score": [
+            "x7lm7phzle1gm2w",
+            4,
+            [
+              1,
+              0,
+              0,
+              2,
+              9,
+              0,
+              0
+            ],
+            [
+              1,
+              1,
+              0,
+              2,
+              5,
+              0,
+              0
+            ],
+            1750349288,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 3,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 2,
+              "away": 2
+            },
+            {
+              "type": 2,
+              "home": 9,
+              "away": 5
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 46,
+              "away": 54
+            },
+            {
+              "type": 23,
+              "home": 64,
+              "away": 60
+            },
+            {
+              "type": 24,
+              "home": 87,
+              "away": 42
+            },
+            {
+              "type": 22,
+              "home": 9,
+              "away": 5
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 5,
+              "player_id": "8yomo4h261g2q0j",
+              "player_name": "farxod bekmurodov",
+              "assist1_id": "1l4rjnhx39wwm7v",
+              "assist1_name": "Roman Paparyga",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 15,
+              "player_id": "l7oqdeh495e2r51",
+              "player_name": "davron anvarov"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 19,
+              "player_id": "318q66h4kk61qo9",
+              "player_name": "Islambek Mamatkazin"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 26,
+              "player_id": "pxwrxlh90yxzryk",
+              "player_name": "usmonali ismonaliyev"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 26,
+              "player_id": "8yomo4h261g2q0j",
+              "player_name": "farxod bekmurodov"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 67,
+              "out_player_id": "1l4rjnhzwlx3m7v",
+              "out_player_name": "Ilkhomzhon kenzhaev"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 76,
+              "in_player_id": "y0or5jhgdgynqwz",
+              "in_player_name": "sirojiddin solijonov",
+              "out_player_id": "vjxm8gh856vr6od",
+              "out_player_name": "Sardorbek Azimov"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 76,
+              "in_player_id": "6ypq3nhl8ljnmd7",
+              "in_player_name": "shohjahon yorqinboyev",
+              "out_player_id": "4jwq2ghx35n7m0v",
+              "out_player_name": "Ilkhomzhon abduganiev"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 77,
+              "player_id": "6ypq3nhl8ljnmd7",
+              "player_name": "shohjahon yorqinboyev",
+              "assist1_id": "y0or5jh33593qwz",
+              "assist1_name": "Damir temirov",
+              "home_score": 1,
+              "away_score": 1
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 79,
+              "in_player_id": "l7oqdehl671nr51",
+              "in_player_name": "Akmal muzaffarov",
+              "out_player_id": "1l4rjnhx39wwm7v",
+              "out_player_name": "Roman Paparyga"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 89,
+              "in_player_id": "ednm9whgldlkryo",
+              "in_player_name": "miraziz mahamadaliyev",
+              "out_player_id": "dn1m1gh3pvd2moe",
+              "out_player_name": "bektemir abdumannonov"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 89,
+              "in_player_id": "l5ergphnkwzgr8k",
+              "in_player_name": "asadbek habibullayev",
+              "out_player_id": "y0or5jh33593qwz",
+              "out_player_name": "Damir temirov"
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "ednm9wh7j43dryo",
+          "score": [
+            "ednm9wh7j43dryo",
+            8,
+            [
+              1,
+              0,
+              0,
+              1,
+              7,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              1,
+              2,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 2,
+              "home": 7,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 13,
+              "away": 14
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 87,
+              "away": 78
+            },
+            {
+              "type": 24,
+              "home": 49,
+              "away": 43
+            },
+            {
+              "type": 25,
+              "home": 50,
+              "away": 50
+            },
+            {
+              "type": 21,
+              "home": 6,
+              "away": 5
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 2,
+              "time": 23,
+              "player_id": "dj2ryohj6e67q1z",
+              "player_name": "Jasur azimov"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 65,
+              "player_id": "vjxm8ghjneker6o",
+              "player_name": "Javoxir Kaxramonov"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 69,
+              "in_player_id": "318q66h48vwjqo9",
+              "in_player_name": "Timur ismailov",
+              "out_player_id": "4wyrn4hd5lknq86",
+              "out_player_name": "sunnatilla abdullajonov"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 69,
+              "in_player_id": "l5ergphvkn0r8k0",
+              "in_player_name": "Francis Narh",
+              "out_player_id": "dj2ryohj6e67q1z",
+              "out_player_name": "Jasur azimov"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 76,
+              "in_player_id": "n54qllhx2e28qvy",
+              "in_player_name": "Ehsoni Panshanbe",
+              "out_player_id": "3glrw7h1ne6qdyj",
+              "out_player_name": "Stanislav Andreev"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 78,
+              "in_player_id": "4wyrn4hd3734q86",
+              "in_player_name": "S. Shaakhmedov",
+              "out_player_id": "dj2ryohjee1kq1z",
+              "out_player_name": "Khumoyunmirzo Iminov"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 81,
+              "in_player_id": "vjxm8ghj90ngr6o",
+              "in_player_name": "Oybek\u00b7Nurmatov",
+              "out_player_id": "n54qllhewzwqvy9",
+              "out_player_name": "Luka \u0110or\u0111evi\u0107"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 84,
+              "player_id": "l5ergphe0n9r8k0",
+              "player_name": "Ljupche Doriev",
+              "assist1_id": "vjxm8ghj90ngr6o",
+              "assist1_name": "Oybek\u00b7Nurmatov",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 85,
+              "in_player_id": "n54qllhxwnpzqvy",
+              "in_player_name": "Abror khusinov",
+              "out_player_id": "4jwq2ghv5ngym0v",
+              "out_player_name": "farrukzhon ibrokhimov"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 91,
+              "add_time": 1,
+              "in_player_id": "965mkyhnn7djr1g",
+              "in_player_name": "Bekhruz Djumatov",
+              "out_player_id": "l5ergphe0n9r8k0",
+              "out_player_name": "Ljupche Doriev"
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "3glrw7h7x5y1qdy",
+          "score": [
+            "3glrw7h7x5y1qdy",
+            8,
+            [
+              2,
+              0,
+              1,
+              4,
+              6,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0,
+              2,
+              12,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 4,
+              "away": 2
+            },
+            {
+              "type": 25,
+              "home": 43,
+              "away": 57
+            },
+            {
+              "type": 23,
+              "home": 75,
+              "away": 118
+            },
+            {
+              "type": 2,
+              "home": 6,
+              "away": 12
+            },
+            {
+              "type": 24,
+              "home": 59,
+              "away": 86
+            },
+            {
+              "type": 22,
+              "home": 8,
+              "away": 6
+            },
+            {
+              "type": 4,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 7,
+              "away": 13
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 12,
+              "player_id": "pxwrxlhznde2ryk",
+              "player_name": "mikk ollisaar"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 15,
+              "player_id": "jw2r09hxgnx0rz8",
+              "player_name": "Andreas Vaher"
+            },
+            {
+              "type": 15,
+              "position": 1,
+              "time": 18,
+              "player_id": "jw2r09hxgnx0rz8",
+              "player_name": "Andreas Vaher"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 24,
+              "in_player_id": "965mkyhn0doyr1g",
+              "in_player_name": "karel isok",
+              "out_player_id": "pxwrxlhznde2ryk",
+              "out_player_name": "mikk ollisaar"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 31,
+              "player_id": "318q66hj1w6pqo9",
+              "player_name": "oscar pizzol de"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 35,
+              "player_id": "k82rekh336xlrep",
+              "player_name": "Rasmus talu",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 50,
+              "player_id": "4jwq2gh7e8eom0v",
+              "player_name": "marten kukkonen"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 57,
+              "player_id": "965mkyhe0v88r1g",
+              "player_name": "Johann Vaherm\u00e4gi"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 58,
+              "in_player_id": "dj2ryohg8pedq1z",
+              "in_player_name": "Dylan saller al sal",
+              "out_player_id": "318q66hj1w6pqo9",
+              "out_player_name": "oscar pizzol de"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 64,
+              "player_id": "4wyrn4h4k410q86",
+              "player_name": "Aleksandr surogin",
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 67,
+              "player_id": "2y8m4zh8ep62ql0",
+              "player_name": "aron kirt"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 67,
+              "in_player_id": "ednm9whg58v2ryo",
+              "in_player_name": "lucas leis",
+              "out_player_id": "k82rekh336xlrep",
+              "out_player_name": "Rasmus talu"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 70,
+              "player_id": "4wyrn4hv7xndq86",
+              "player_name": "rico piil",
+              "home_score": 1,
+              "away_score": 2
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 70,
+              "in_player_id": "zp5rzghxd74zq82",
+              "in_player_name": "uku korjus",
+              "out_player_id": "1l4rjnhkg4e3m7v",
+              "out_player_name": "tevan eensalu"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 70,
+              "in_player_id": "1l4rjnhx811lm7v",
+              "in_player_name": "Mattias luup",
+              "out_player_id": "4jwq2gh7e8eom0v",
+              "out_player_name": "marten kukkonen"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 76,
+              "in_player_id": "3glrw7hz9d60qdy",
+              "in_player_name": "tristan karl lorenz",
+              "out_player_id": "318q66hj1e09qo9",
+              "out_player_name": "johannes alemaa"
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 85,
+              "player_id": "3glrw7hz9d60qdy",
+              "player_name": "tristan karl lorenz",
+              "home_score": 2,
+              "away_score": 2
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 89,
+              "in_player_id": "l7oqdehld145r51",
+              "in_player_name": "oskar lasn",
+              "out_player_id": "4wyrn4h4k410q86",
+              "out_player_name": "Aleksandr surogin"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 89,
+              "in_player_id": "6ypq3nhl893dmd7",
+              "in_player_name": "miko mandlo",
+              "out_player_id": "y0or5jh323wpqwz",
+              "out_player_name": "Romet nigula"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 89,
+              "in_player_id": "dn1m1gh8xj27moe",
+              "in_player_name": "jesse esna",
+              "out_player_id": "l7oqdeh0pn6kr51",
+              "out_player_name": "Raiko ilves"
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "vjxm8ghln68jr6o",
+          "score": [
+            "vjxm8ghln68jr6o",
+            8,
+            [
+              0,
+              0,
+              0,
+              3,
+              11,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0,
+              5,
+              3,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 3,
+              "away": 5
+            },
+            {
+              "type": 21,
+              "home": 7,
+              "away": 12
+            },
+            {
+              "type": 2,
+              "home": 11,
+              "away": 3
+            },
+            {
+              "type": 23,
+              "home": 79,
+              "away": 58
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 1
+            },
+            {
+              "type": 25,
+              "home": 66,
+              "away": 34
+            },
+            {
+              "type": 22,
+              "home": 11,
+              "away": 4
+            },
+            {
+              "type": 24,
+              "home": 82,
+              "away": 67
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 2,
+              "time": 5,
+              "player_id": "dj2ryohj20wdq1z",
+              "player_name": "Vladimir Malinin"
+            },
+            {
+              "type": 16,
+              "position": 2,
+              "time": 9,
+              "player_id": "1l4rjnh6gwgm7vx",
+              "player_name": "Viktor Plotnikov"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 23,
+              "player_id": "1l4rjnh6gwgm7vx",
+              "player_name": "Viktor Plotnikov",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 27,
+              "player_id": "8yomo4hv643nq0j",
+              "player_name": "matvei jekimov"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 40,
+              "player_id": "vjxm8gh882jzr6o",
+              "player_name": "Romeo Aan"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 46,
+              "in_player_id": "ednm9whvwyo3ryo",
+              "in_player_name": "Alex Dunits",
+              "out_player_id": "pxwrxlhjj7l0ryk",
+              "out_player_name": "Nikita Kondratski"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 58,
+              "player_id": "1l4rjnh6gwgm7vx",
+              "player_name": "Viktor Plotnikov"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 71,
+              "in_player_id": "n54qllhdoxdqvy9",
+              "in_player_name": "Nikita Grankin",
+              "out_player_id": "ednm9whgwgwxryo",
+              "out_player_name": "artem fesenko"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 76,
+              "in_player_id": "y0or5jhgz400qwz",
+              "in_player_name": "bogdan mirosnitsenko",
+              "out_player_id": "y39mp1hy6go7moj",
+              "out_player_name": "Maksim Laskov"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 80,
+              "player_id": "y0or5jh3vgjgqwz",
+              "player_name": "Mykyta tinyakov"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 81,
+              "player_id": "pxwrxlhz250xryk",
+              "player_name": "artjom toropov"
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 83,
+              "player_id": "y0or5jh3wo8gqwz",
+              "player_name": "mihhail jumankin"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 85,
+              "player_id": "jw2r09hx2lp0rz8",
+              "player_name": "Leonid Arhipov",
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 93,
+              "add_time": 3,
+              "player_id": "3glrw7hygnxwqdy",
+              "player_name": "Artur Sibul"
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "23xmvkh6ok52qg8",
+          "score": [
+            "23xmvkh6ok52qg8",
+            8,
+            [
+              1,
+              0,
+              1,
+              4,
+              4,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              1,
+              3,
+              2,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 3,
+              "home": 4,
+              "away": 3
+            },
+            {
+              "type": 21,
+              "home": 5,
+              "away": 5
+            },
+            {
+              "type": 24,
+              "home": 92,
+              "away": 80
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 2
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 104,
+              "away": 118
+            },
+            {
+              "type": 4,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 22,
+              "home": 9,
+              "away": 4
+            },
+            {
+              "type": 25,
+              "home": 44,
+              "away": 56
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 10
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 15
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 27
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 40,
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 52,
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 56
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 60,
+              "home_score": 1,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 68
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 70
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 88
+            },
+            {
+              "type": 4,
+              "position": 1,
+              "time": 89
+            },
+            {
+              "type": 4,
+              "position": 2,
+              "time": 89
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "2y8m4zh5j8k1ql0",
+          "score": [
+            "2y8m4zh5j8k1ql0",
+            8,
+            [
+              1,
+              0,
+              0,
+              5,
+              4,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              2,
+              4,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 8,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 5,
+              "away": 6
+            },
+            {
+              "type": 3,
+              "home": 5,
+              "away": 2
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 65,
+              "away": 72
+            },
+            {
+              "type": 24,
+              "home": 34,
+              "away": 32
+            },
+            {
+              "type": 25,
+              "home": 54,
+              "away": 46
+            },
+            {
+              "type": 21,
+              "home": 5,
+              "away": 2
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 4
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 28
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 47
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 64
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 64
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 73
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 76,
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 90
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "vjxm8ghlyx7jr6o",
+          "score": [
+            "vjxm8ghlyx7jr6o",
+            8,
+            [
+              1,
+              0,
+              0,
+              1,
+              2,
+              0,
+              0
+            ],
+            [
+              5,
+              2,
+              0,
+              1,
+              9,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 21,
+              "home": 1,
+              "away": 13
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 22,
+              "home": 6,
+              "away": 19
+            },
+            {
+              "type": 24,
+              "home": 33,
+              "away": 111
+            },
+            {
+              "type": 2,
+              "home": 2,
+              "away": 9
+            },
+            {
+              "type": 23,
+              "home": 89,
+              "away": 163
+            },
+            {
+              "type": 25,
+              "home": 35,
+              "away": 65
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 8,
+              "home": 1,
+              "away": 1
+            }
+          ],
+          "incidents": [
+            {
+              "type": 17,
+              "position": 2,
+              "time": 15,
+              "player_id": "1l4rjnhxxzy2m7v",
+              "player_name": "Triin kaisa arike",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 33,
+              "player_id": "y39mp1hjvexomoj",
+              "player_name": "Grete Daut",
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 44,
+              "player_id": "4jwq2gh75d8nm0v",
+              "player_name": "gertrud elise polluvee"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 46,
+              "in_player_id": "pxwrxlhj2x6gryk",
+              "in_player_name": "Valeria liik",
+              "out_player_id": "y39mp1hjvexomoj",
+              "out_player_name": "Grete Daut"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 46,
+              "in_player_id": "y39mp1hy440zmoj",
+              "in_player_name": "anna juksar",
+              "out_player_id": "965mkyhe8e21r1g",
+              "out_player_name": "viktoria toding"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 56,
+              "player_id": "dn1m1gh3opzpmoe",
+              "player_name": "lisandra rannasto",
+              "home_score": 0,
+              "away_score": 3
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 57,
+              "in_player_id": "1l4rjnhkd2gjm7v",
+              "in_player_name": "kart kallip",
+              "out_player_id": "965mkyhn01w8r1g",
+              "out_player_name": "olivia paet"
+            },
+            {
+              "type": 8,
+              "position": 2,
+              "time": 65,
+              "player_id": "y39mp1hy440zmoj",
+              "player_name": "anna juksar",
+              "home_score": 0,
+              "away_score": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 69,
+              "in_player_id": "4jwq2gh756eem0v",
+              "in_player_name": "sanna lindeberg",
+              "out_player_id": "y0or5jhew1d1qwz",
+              "out_player_name": "Emma Treiberg"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 69,
+              "in_player_id": "zp5rzghxd05wq82",
+              "in_player_name": "angela raidmets",
+              "out_player_id": "k82rekh3jnwjrep",
+              "out_player_name": "liisi maesalu"
+            },
+            {
+              "type": 8,
+              "position": 1,
+              "time": 76,
+              "player_id": "3glrw7hypp68qdy",
+              "player_name": "marie kiivit",
+              "home_score": 1,
+              "away_score": 4
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 82,
+              "player_id": "1l4rjnhxxzy2m7v",
+              "player_name": "Triin kaisa arike"
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 87,
+              "player_id": "4jwq2gh75d8nm0v",
+              "player_name": "gertrud elise polluvee",
+              "home_score": 1,
+              "away_score": 5
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "4wyrn4h68pnvq86",
+          "score": [
+            "4wyrn4h68pnvq86",
+            8,
+            [
+              0,
+              0,
+              0,
+              0,
+              5,
+              0,
+              0
+            ],
+            [
+              4,
+              3,
+              0,
+              1,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 23,
+              "home": 78,
+              "away": 88
+            },
+            {
+              "type": 25,
+              "home": 28,
+              "away": 72
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 5
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 0,
+              "away": 11
+            },
+            {
+              "type": 22,
+              "home": 6,
+              "away": 8
+            },
+            {
+              "type": 24,
+              "home": 24,
+              "away": 61
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 6,
+              "player_id": "l5ergphe2gz7r8k",
+              "player_name": "Angelique Montserrat Sald\u00edvar Pav\u00f3n",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 26,
+              "player_id": "dj2ryohnll94q1z",
+              "player_name": "Natalia Munoz",
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 44,
+              "player_id": "2y8m4zh84257ql0",
+              "player_name": "Alice Fernanda Soto Gallegos",
+              "home_score": 0,
+              "away_score": 3
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 78,
+              "player_id": "2y8m4zh84257ql0",
+              "player_name": "Alice Fernanda Soto Gallegos",
+              "home_score": 0,
+              "away_score": 4
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "y39mp1h6366nmoj",
+          "score": [
+            "y39mp1h6366nmoj",
+            8,
+            [
+              0,
+              0,
+              0,
+              1,
+              7,
+              0,
+              0
+            ],
+            [
+              4,
+              1,
+              0,
+              1,
+              1,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 1,
+              "away": 8
+            },
+            {
+              "type": 24,
+              "home": 20,
+              "away": 62
+            },
+            {
+              "type": 3,
+              "home": 1,
+              "away": 1
+            },
+            {
+              "type": 23,
+              "home": 66,
+              "away": 93
+            },
+            {
+              "type": 2,
+              "home": 1,
+              "away": 7
+            },
+            {
+              "type": 22,
+              "home": 3,
+              "away": 10
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 29,
+              "away": 71
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 22,
+              "player_id": "dj2ryohn4998q1z",
+              "player_name": "linda ullmark",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 60,
+              "player_id": "jw2r09hwk2e6rz8",
+              "player_name": "Mary Long",
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 65,
+              "player_id": "3glrw7hz65zwqdy",
+              "player_name": "Grace Restovich",
+              "home_score": 0,
+              "away_score": 3
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 87,
+              "player_id": "318q66hjnogoqo9",
+              "player_name": "Kennedy Fuller",
+              "home_score": 0,
+              "away_score": 4
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "ednm9whwkwwpryo",
+          "score": [
+            "ednm9whwkwwpryo",
+            8,
+            [
+              9,
+              5,
+              0,
+              0,
+              12,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              3,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 24,
+              "home": 102,
+              "away": 23
+            },
+            {
+              "type": 25,
+              "home": 73,
+              "away": 27
+            },
+            {
+              "type": 21,
+              "home": 14,
+              "away": 2
+            },
+            {
+              "type": 2,
+              "home": 12,
+              "away": 3
+            },
+            {
+              "type": 22,
+              "home": 14,
+              "away": 3
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 2,
+              "away": 0
+            },
+            {
+              "type": 23,
+              "home": 125,
+              "away": 81
+            }
+          ],
+          "incidents": [
+            {
+              "type": 8,
+              "position": 1,
+              "time": 5,
+              "player_id": "vjxm8gh8o67xr6o",
+              "player_name": "Sheika Scott",
+              "home_score": 1,
+              "away_score": 0
+            },
+            {
+              "type": 28,
+              "position": 1,
+              "time": 19,
+              "player_id": "vjxm8gh8o67xr6o",
+              "player_name": "Sheika Scott",
+              "var_reason": 4,
+              "var_result": 3
+            },
+            {
+              "type": 8,
+              "position": 1,
+              "time": 22,
+              "player_id": "vjxm8gh8o67xr6o",
+              "player_name": "Sheika Scott",
+              "home_score": 2,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 25,
+              "player_id": "vjxm8gh8o67xr6o",
+              "player_name": "Sheika Scott",
+              "assist1_id": "3glrw7hz3go9qdy",
+              "assist1_name": "L. Paniagua",
+              "home_score": 3,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 29,
+              "player_id": "y39mp1h1oy7xmoj",
+              "player_name": "Ema Azofeifa Luzuriaga",
+              "assist1_id": "3glrw7hzepvpqdy",
+              "assist1_name": "Odette Samantha Pitty Araya",
+              "home_score": 4,
+              "away_score": 0
+            },
+            {
+              "type": 19,
+              "position": 0,
+              "time": 45,
+              "add_time": 6
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 51,
+              "add_time": 6,
+              "player_id": "vjxm8gh8o67xr6o",
+              "player_name": "Sheika Scott",
+              "assist1_id": "3glrw7hz3go9qdy",
+              "assist1_name": "L. Paniagua",
+              "home_score": 5,
+              "away_score": 0
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 52
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 45,
+              "in_player_id": "dj2ryohne92xq1z",
+              "in_player_name": "A. Gonz\u00e1lez",
+              "out_player_id": "dn1m1gh8xxdzmoe",
+              "out_player_name": "Keisy Viviana Taylor Marin",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 45,
+              "in_player_id": "965mkyhn20z7r1g",
+              "in_player_name": "A. Lindo",
+              "out_player_id": "1l4rjnhxv281m7v",
+              "out_player_name": "Brittany Pamela V\u00e1squez Sanchez",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 45,
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 45,
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 53,
+              "reason_type": 4
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 63,
+              "player_id": "3glrw7hz3go9qdy",
+              "player_name": "L. Paniagua",
+              "assist1_id": "y39mp1h1oy7xmoj",
+              "assist1_name": "Ema Azofeifa Luzuriaga",
+              "home_score": 6,
+              "away_score": 0
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 68,
+              "in_player_id": "318q66h4ln9nqo9",
+              "in_player_name": "Josselyn Andrea Brice\u00f1o Boes",
+              "out_player_id": "2y8m4zhzwe1wql0",
+              "out_player_name": "F. Alfaro",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 68,
+              "in_player_id": "pxwrxlhznnw9ryk",
+              "in_player_name": "Stacy Thanicha Thomas G\u00f3mez",
+              "out_player_id": "3glrw7hz3go9qdy",
+              "out_player_name": "L. Paniagua",
+              "reason_type": 4
+            },
+            {
+              "type": 28,
+              "position": 1,
+              "time": 72,
+              "player_id": "jw2r09hw6g17rz8",
+              "player_name": "T. Ruiz",
+              "var_reason": 1,
+              "var_result": 2
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 74,
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 81,
+              "reason_type": 3
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 81,
+              "in_player_id": "965mkyhep1jnr1g",
+              "in_player_name": "Jimena Mar\u00eda Jim\u00e9nez Alvarado",
+              "out_player_id": "zp5rzghx6dxlq82",
+              "out_player_name": "Valeria Vargas Mena",
+              "reason_type": 4
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 84,
+              "player_id": "8yomo4h0g6z3q0j",
+              "player_name": "D. Ocampo",
+              "assist1_id": "vjxm8gh8o67xr6o",
+              "assist1_name": "Sheika Scott",
+              "home_score": 7,
+              "away_score": 0
+            },
+            {
+              "type": 19,
+              "position": 0,
+              "time": 90,
+              "add_time": 5
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 93,
+              "add_time": 3,
+              "player_id": "y39mp1h1oy7xmoj",
+              "player_name": "Ema Azofeifa Luzuriaga",
+              "home_score": 8,
+              "away_score": 0
+            },
+            {
+              "type": 1,
+              "position": 1,
+              "time": 95,
+              "add_time": 5,
+              "player_id": "vjxm8gh8o67xr6o",
+              "player_name": "Sheika Scott",
+              "assist1_id": "3glrw7hzepvpqdy",
+              "assist1_name": "Odette Samantha Pitty Araya",
+              "home_score": 9,
+              "away_score": 0
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 96
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "965mkyhk7gvvr1g",
+          "score": [
+            "965mkyhk7gvvr1g",
+            8,
+            [
+              0,
+              0,
+              0,
+              7,
+              2,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              4,
+              5,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 22,
+              "home": 8,
+              "away": 8
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 21,
+              "home": 0,
+              "away": 3
+            },
+            {
+              "type": 3,
+              "home": 7,
+              "away": 4
+            },
+            {
+              "type": 2,
+              "home": 2,
+              "away": 5
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 25,
+              "home": 50,
+              "away": 50
+            },
+            {
+              "type": 23,
+              "home": 87,
+              "away": 112
+            },
+            {
+              "type": 24,
+              "home": 38,
+              "away": 49
+            }
+          ],
+          "incidents": [
+            {
+              "type": 3,
+              "position": 1,
+              "time": 22,
+              "player_id": "8yomo4h05gp9q0j",
+              "player_name": "Clever Domingo Ferreira \u00d1amandu",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 37,
+              "player_id": "1l4rjnhzjw1ym7v",
+              "player_name": "Diego Valdez",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 40,
+              "player_id": "23xmvkhd41v9qg8",
+              "player_name": "Francisco Javier Baez",
+              "reason_type": 1
+            },
+            {
+              "type": 19,
+              "position": 0,
+              "time": 45,
+              "add_time": 3
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 49
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 45,
+              "in_player_id": "2y8m4zh1z18ql07",
+              "in_player_name": "\u00c9dgar Zaracho",
+              "out_player_id": "1l4rjnhx7yndm7v",
+              "out_player_name": "Allan Steven Wlk Dur\u00e9",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 45,
+              "in_player_id": "l5ergphv2k4or8k",
+              "in_player_name": "Luis Ortiz",
+              "out_player_id": "23xmvkhdxwn5qg8",
+              "out_player_name": "Sergio Fretes",
+              "reason_type": 4
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 47,
+              "player_id": "dj2ryohgvyoeq1z",
+              "player_name": "Jonathan Gabriel Torres",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 52,
+              "player_id": "4jwq2gh18ldm0ve",
+              "player_name": "Giovanni Bogado",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 56,
+              "player_id": "965mkyh3wjvr1ge",
+              "player_name": "Federico Carrizo",
+              "reason_type": 1
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 60,
+              "in_player_id": "318q66hj7wlkqo9",
+              "in_player_name": "Gabriel Aguayo D\u00edaz",
+              "out_player_id": "dj2ryohgvyoeq1z",
+              "out_player_name": "Jonathan Gabriel Torres",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 60,
+              "in_player_id": "x7lm7ph0j043m2w",
+              "in_player_name": "W\u00edlder Viera",
+              "out_player_id": "965mkyh3wjvr1ge",
+              "out_player_name": "Federico Carrizo",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 60,
+              "in_player_id": "2y8m4zh85gyxql0",
+              "in_player_name": "Hugo Valdez",
+              "out_player_id": "23xmvkhdp723qg8",
+              "out_player_name": "Fredy Vera",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 61,
+              "in_player_id": "3glrw7hyky8yqdy",
+              "in_player_name": "Pablo Ezequiel Aranda",
+              "out_player_id": "ednm9whz36eryox",
+              "out_player_name": "Victor Salazar",
+              "reason_type": 4
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 66,
+              "player_id": "2y8m4zh85gyxql0",
+              "player_name": "Hugo Valdez",
+              "reason_type": 18
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 66,
+              "player_id": "x7lm7phw1dg8m2w",
+              "player_name": "Lucas Ariel\u00b7Quintana Rodr\u00edguez",
+              "reason_type": 18
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 68,
+              "in_player_id": "pxwrxlh95p1zryk",
+              "in_player_name": "Chico",
+              "out_player_id": "x7lm7phw1dg8m2w",
+              "out_player_name": "Lucas Ariel\u00b7Quintana Rodr\u00edguez",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 76,
+              "in_player_id": "n54qllhxp6p6qvy",
+              "in_player_name": "Alejandro Samudio",
+              "out_player_id": "k82rekhow848rep",
+              "out_player_name": "Elias Sarquis",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 82,
+              "in_player_id": "k82rekh31korepz",
+              "in_player_name": "Jorge Morel",
+              "out_player_id": "1l4rjnhkg0dym7v",
+              "out_player_name": "Rodrigo Antonio G\u00f3mez Villalba",
+              "reason_type": 4
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 83,
+              "in_player_id": "l7oqdehlxpjkr51",
+              "in_player_name": "R. Marecos",
+              "out_player_id": "y39mp1h5d19mojx",
+              "out_player_name": "Juan Iturbe",
+              "reason_type": 4
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 84,
+              "player_id": "pxwrxlhjongryk0",
+              "player_name": "Piris da Motta",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 88,
+              "player_id": "2y8m4zh1z18ql07",
+              "player_name": "\u00c9dgar Zaracho",
+              "reason_type": 1
+            },
+            {
+              "type": 3,
+              "position": 1,
+              "time": 89,
+              "player_id": "8yomo4h95glq0j6",
+              "player_name": "Marcos Martinich",
+              "reason_type": 18
+            },
+            {
+              "type": 19,
+              "position": 0,
+              "time": 90,
+              "add_time": 6
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 97
+            }
+          ],
+          "tlive": []
+        },
+        {
+          "id": "pxwrxlhyp89jryk",
+          "score": [
+            "pxwrxlhyp89jryk",
+            8,
+            [
+              0,
+              0,
+              0,
+              0,
+              4,
+              0,
+              0
+            ],
+            [
+              2,
+              1,
+              0,
+              2,
+              4,
+              0,
+              0
+            ],
+            0,
+            ""
+          ],
+          "stats": [
+            {
+              "type": 22,
+              "home": 3,
+              "away": 3
+            },
+            {
+              "type": 25,
+              "home": 49,
+              "away": 51
+            },
+            {
+              "type": 23,
+              "home": 115,
+              "away": 141
+            },
+            {
+              "type": 4,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 8,
+              "home": 0,
+              "away": 0
+            },
+            {
+              "type": 2,
+              "home": 4,
+              "away": 4
+            },
+            {
+              "type": 3,
+              "home": 0,
+              "away": 2
+            },
+            {
+              "type": 24,
+              "home": 53,
+              "away": 59
+            },
+            {
+              "type": 21,
+              "home": 4,
+              "away": 2
+            }
+          ],
+          "incidents": [
+            {
+              "type": 1,
+              "position": 2,
+              "time": 26,
+              "player_id": "k82rekho05okrep",
+              "player_name": "Mihail Talevski",
+              "home_score": 0,
+              "away_score": 1
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 46,
+              "add_time": 1,
+              "player_id": "y39mp1hypw3nmoj",
+              "player_name": "mihael manevski"
+            },
+            {
+              "type": 11,
+              "position": 0,
+              "time": 45
+            },
+            {
+              "type": 1,
+              "position": 2,
+              "time": 49,
+              "player_id": "k82rekho05okrep",
+              "player_name": "Mihail Talevski",
+              "home_score": 0,
+              "away_score": 2
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 49,
+              "in_player_id": "x7lm7php4g3m2wd",
+              "in_player_name": "Bassirou Compaor\u00e9",
+              "out_player_id": "pxwrxlh9oxozryk",
+              "out_player_name": "hogan effiong"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 57,
+              "in_player_id": "dj2ryohyz9d3q1z",
+              "in_player_name": "Lanre\u00b7Kehinde",
+              "out_player_id": "y0or5jhelkwqwzv",
+              "out_player_name": "Marjan Radeski"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 57,
+              "in_player_id": "y0or5jhl97oqwzv",
+              "in_player_name": "Stefan Spirovski",
+              "out_player_id": "1l4rjnhxpgv5m7v",
+              "out_player_name": "Ard Kasami"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 62,
+              "in_player_id": "zp5rzgh255dq82w",
+              "in_player_name": "Filip Najdovski",
+              "out_player_id": "2y8m4zhg6z65ql0",
+              "out_player_name": "Dimitar Todorovski"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 70,
+              "in_player_id": "y39mp1hj70ydmoj",
+              "in_player_name": "Shaban Zenku",
+              "out_player_id": "6ypq3nhwn32jmd7",
+              "out_player_name": "memetriza hamza"
+            },
+            {
+              "type": 9,
+              "position": 1,
+              "time": 70,
+              "in_player_id": "dn1m1gh86v0moep",
+              "in_player_name": "Maudo",
+              "out_player_id": "y39mp1h1ekwmojx",
+              "out_player_name": "Sava Radic"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 72,
+              "in_player_id": "l5ergphew380r8k",
+              "in_player_name": "Mato rogers",
+              "out_player_id": "4wyrn4h41y4wq86",
+              "out_player_name": "Danel Dongmo"
+            },
+            {
+              "type": 3,
+              "position": 2,
+              "time": 89,
+              "player_id": "2y8m4zhgjxzql07",
+              "player_name": "Davor Taleski"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 90,
+              "in_player_id": "4wyrn4he4gyq86p",
+              "in_player_name": "Filip Duranski",
+              "out_player_id": "23xmvkhkjxnqg8n",
+              "out_player_name": "Nemanja Bosancic"
+            },
+            {
+              "type": 9,
+              "position": 2,
+              "time": 90,
+              "in_player_id": "2y8m4zh8x3gjql0",
+              "in_player_name": "ediz spahiu",
+              "out_player_id": "dn1m1ghe1zxmoep",
+              "out_player_name": "Goran Zakari\u0107"
+            },
+            {
+              "type": 12,
+              "position": 0,
+              "time": 90
+            }
+          ],
+          "tlive": []
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"318q66hw5gpnqo9\", \"score\": [\"318q66hw5gpnqo9\", 2, [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], 1750352301, \"\"], \"stats\": [{\"type\": 24, \"home\": 1, \"away\": 0}, {\"type\": 4, \"home\": 0, \"away\": 0}, {\"type\": 21, \"home\": 0, \"away\": 0}, {\"type\": 3, \"home\": 0, \"away\": 0}, {\"type\": 23, \"home\": 1, \"away\": 0}, {\"type\": 8, \"home\": 0, \"away\": 0}, {\"type\": 2, \"home\": 0, \"away\": 0}, {\"type\": 25, \"home\": 53, \"away\": 47}, {\"type\": 22, \"home\": 0, \"away\": 0}], \"incidents\": [], \"tlive\": []}"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-06-19T17:13:48.968048",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "jednm9whk0ryox8"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 608,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "jednm9whk0ryox8"
+      },
+      "results": [
+        {
+          "id": "jednm9whk0ryox8",
+          "category_id": "kp3glrw7hwqdyjv",
+          "country_id": "",
+          "name": "International Friendly",
+          "short_name": "INT FRL",
+          "logo": "https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+          "type": 3,
+          "cur_season_id": "v2y8m4zh2pnql07",
+          "cur_stage_id": "8yomo4h66wvq0j6",
+          "cur_round": 0,
+          "round_count": 0,
+          "title_holder": [],
+          "most_titles": [],
+          "newcomers": [],
+          "divisions": [],
+          "host": {},
+          "primary_color": "#25497d",
+          "secondary_color": "#d38f1d",
+          "updated_at": 1748973547
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"jednm9whk0ryox8\", \"category_id\": \"kp3glrw7hwqdyjv\", \"country_id\": \"\", \"name\": \"International Friendly\", \"short_name\": \"INT FRL\", \"logo\": \"https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png\", \"type\": 3, \"cur_season_id\": \"v2y8m4zh2pnql07\", \"cur_stage_id\": \"8yomo4h66wvq0j6\", \"cur_round\": 0, \"round_count\": 0, \"title_holder\": [], \"most_titles\": [], \"newcomers\": [], \"divisions\": [], \"host\": {}, \"primary_color\": \"#25497d\", \"secondary_color\": \"#d38f1d\", \"updated_..."
+  }
+]

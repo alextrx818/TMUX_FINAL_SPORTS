@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T02:40:13.802288",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "gpxwrxlh43jryk0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 703,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'gpxwrxlh43jryk0', 'competition_id': '', 'country_id': 'j1l4rjnh12m7vx5', 'name': 'Mexico', 'short_name': 'Mexico', 'logo': 'https://img.thesports.com/football/team/e399c54b84794822f6e5e3c02c7f3b6e.png', 'national': 1, 'country_logo': 'https://img.thesports.com/football/team/3653cce234494bfbd33e077f4a028f66.png', 'foundation_time': 1927, 'website': 'http://www.femexfut.org.mx', 'coach_id': 'p3glrw7hlkyqdyj', 'venue_id': '', 'market_value': 200700000, 'market_value_currency': '\u20ac', 'total_p..."
+  }
+]

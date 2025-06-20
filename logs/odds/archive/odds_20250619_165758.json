@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2025-06-19T16:56:58.326794",
+    "endpoint": "odds",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/odds/history",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "2y8m4zh6yyg5ql0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 26,
+      "type": "dict",
+      "has_results": false,
+      "result_keys": [],
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "results": {}
+    }
+  }
+]

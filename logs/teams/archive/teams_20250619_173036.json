@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:30:36.368307",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "3glrw7hwl1xqdyj"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 617,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "3glrw7hwl1xqdyj"
+      },
+      "results": [
+        {
+          "id": "3glrw7hwl1xqdyj",
+          "competition_id": "yl5ergph5zr8k0o",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Pitea IF (w)",
+          "short_name": "Pitea(w)",
+          "logo": "https://img.thesports.com/football/team/ecd5fc06cf00dab3212cfa216532430c.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.piteaif.se",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 18,
+          "foreign_players": 5,
+          "national_players": 5,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1744351868
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"3glrw7hwl1xqdyj\", \"competition_id\": \"yl5ergph5zr8k0o\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Pitea IF (w)\", \"short_name\": \"Pitea(w)\", \"logo\": \"https://img.thesports.com/football/team/ecd5fc06cf00dab3212cfa216532430c.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.piteaif.se\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 18, \"foreign_players\": 5, \"national_players\": 5, \"virtual\": 0, \"gender\": 2, ..."
+  }
+]

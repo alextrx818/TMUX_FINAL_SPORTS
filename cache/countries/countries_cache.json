@@ -1,0 +1,21 @@
+{
+  "cache_metadata": {
+    "created_at": "2025-06-20T00:12:41.213376",
+    "last_updated": "2025-06-20T00:12:46.556896",
+    "cache_version": "1.0",
+    "total_countries": 2,
+    "cache_duration_hours": 24
+  },
+  "countries": {
+    "country1": {
+      "id": "country1",
+      "name": "Test Country 1",
+      "logo": "test1.png"
+    },
+    "country2": {
+      "id": "country2",
+      "name": "Test Country 2",
+      "logo": "test2.png"
+    }
+  }
+}

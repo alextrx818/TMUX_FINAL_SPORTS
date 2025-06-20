@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:01:00.453605",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "6ypq3nh098jmd7o"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 632,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "6ypq3nh098jmd7o"
+      },
+      "results": [
+        {
+          "id": "6ypq3nh098jmd7o",
+          "competition_id": "z8yomo4h92q0j6l",
+          "country_id": "0l965mkyh2r1ge4",
+          "name": "KTP Kotka",
+          "short_name": "KTP Kotka",
+          "logo": "https://img.thesports.com/football/team/8cb20ccb4136279d11c5a40c3015a561.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "4zp5rzghlz2q82w",
+          "venue_id": "gy0or5jhed8qwzv",
+          "market_value": 1530000,
+          "market_value_currency": "\u20ac",
+          "total_players": 21,
+          "foreign_players": 11,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749762277
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"6ypq3nh098jmd7o\", \"competition_id\": \"z8yomo4h92q0j6l\", \"country_id\": \"0l965mkyh2r1ge4\", \"name\": \"KTP Kotka\", \"short_name\": \"KTP Kotka\", \"logo\": \"https://img.thesports.com/football/team/8cb20ccb4136279d11c5a40c3015a561.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"4zp5rzghlz2q82w\", \"venue_id\": \"gy0or5jhed8qwzv\", \"market_value\": 1530000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 21, \"foreign_players\": 11, \"national_players\": 1, \"virtua..."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:01:00.124548",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dn1m1gh41e1moep"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 595,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dn1m1gh41e1moep"
+      },
+      "results": [
+        {
+          "id": "dn1m1gh41e1moep",
+          "competition_id": "gpxwrxlh7zryk0j",
+          "country_id": "0l965mkyh2r1ge4",
+          "name": "VPS Vaasa-J",
+          "short_name": "VPS Vaasa",
+          "logo": "https://img.thesports.com/football/team/d39c784066584d10d783911d634a0f8b.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744778539
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dn1m1gh41e1moep\", \"competition_id\": \"gpxwrxlh7zryk0j\", \"country_id\": \"0l965mkyh2r1ge4\", \"name\": \"VPS Vaasa-J\", \"short_name\": \"VPS Vaasa\", \"logo\": \"https://img.thesports.com/football/team/d39c784066584d10d783911d634a0f8b.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 17447785..."
+  }
+]

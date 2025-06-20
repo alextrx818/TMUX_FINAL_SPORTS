@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:13:47.273779",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "1l4rjnh1w1lm7vx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 601,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "1l4rjnh1w1lm7vx"
+      },
+      "results": [
+        {
+          "id": "1l4rjnh1w1lm7vx",
+          "competition_id": "kn54qllhelnqvy9",
+          "country_id": "8y39mp1h18mojxg",
+          "name": "Jamono Fatick",
+          "short_name": "Jamono Fatick",
+          "logo": "https://img.thesports.com/football/team/d0d1c242d8acd3dee21cf822a4bfbd0f.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1750042747
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"1l4rjnh1w1lm7vx\", \"competition_id\": \"kn54qllhelnqvy9\", \"country_id\": \"8y39mp1h18mojxg\", \"name\": \"Jamono Fatick\", \"short_name\": \"Jamono Fatick\", \"logo\": \"https://img.thesports.com/football/team/d0d1c242d8acd3dee21cf822a4bfbd0f.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 17..."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:33:22.345562",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l5ergph3j48r8k0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 621,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l5ergph3j48r8k0"
+      },
+      "results": [
+        {
+          "id": "l5ergph3j48r8k0",
+          "competition_id": "l965mkyh4jdr1ge",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "Excursionistas Reserves",
+          "short_name": "Excursionistas Reserves",
+          "logo": "https://img.thesports.com/football/team/d3dcaf62f4342c71aefa9e58c937de47.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1730182706
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l5ergph3j48r8k0\", \"competition_id\": \"l965mkyh4jdr1ge\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"Excursionistas Reserves\", \"short_name\": \"Excursionistas Reserves\", \"logo\": \"https://img.thesports.com/football/team/d3dcaf62f4342c71aefa9e58c937de47.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\":..."
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:44:53.434723",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dn1m1ghn8eemoep"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 582,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'dn1m1ghn8eemoep', 'competition_id': 'z318q66hvdlqo9j', 'country_id': 'vl7oqdeheyr510j', 'name': 'Marimoo', 'short_name': '', 'logo': 'https://img.thesports.com/football/team/cd48e6f60998b6645482ad060bfaf7bb.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'gender': 1, 'updated_at': 1621338710}"
+  }
+]

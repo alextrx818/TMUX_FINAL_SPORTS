@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:54:54.712559",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y39mp1h3d6jmojx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 617,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'y39mp1h3d6jmojx', 'competition_id': '9dn1m1ghg1moepl', 'country_id': '9vjxm8ghggr6odg', 'name': 'FC Struga', 'short_name': 'FC Struga', 'logo': 'https://img.thesports.com/football/team/74d3ed50a961f8b45079ebc3806c7eb8.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '3glrw7hw481qdyj', 'venue_id': '', 'market_value': 4940000, 'market_value_currency': '\u20ac', 'total_players': 27, 'foreign_players': 11, 'national_players': 5, 'virtual': 0, 'gender': 1, ..."
+  }
+]

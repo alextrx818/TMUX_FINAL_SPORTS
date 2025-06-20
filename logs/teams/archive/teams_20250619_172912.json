@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:29:12.444941",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "n54qllh2v1pqvy9"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 640,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "n54qllh2v1pqvy9"
+      },
+      "results": [
+        {
+          "id": "n54qllh2v1pqvy9",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Eskilsminne IF",
+          "short_name": "Eskilsminne IF",
+          "logo": "https://img.thesports.com/football/team/dfb61b74af460c2fd68bb8266f9f0814.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "dj2ryohkg44q1zp",
+          "venue_id": "8y39mp1h1lwmojx",
+          "market_value": 100000,
+          "market_value_currency": "\u20ac",
+          "total_players": 25,
+          "foreign_players": 2,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744028075
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"n54qllh2v1pqvy9\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Eskilsminne IF\", \"short_name\": \"Eskilsminne IF\", \"logo\": \"https://img.thesports.com/football/team/dfb61b74af460c2fd68bb8266f9f0814.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"dj2ryohkg44q1zp\", \"venue_id\": \"8y39mp1h1lwmojx\", \"market_value\": 100000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 25, \"foreign_players\": 2, \"national_players\": 1,..."
+  }
+]

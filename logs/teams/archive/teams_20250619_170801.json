@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:08:01.417675",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l965mkyhdjlr1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 662,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l965mkyhdjlr1ge"
+      },
+      "results": [
+        {
+          "id": "l965mkyhdjlr1ge",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Vasalunds IF",
+          "short_name": "Vasalunds IF",
+          "logo": "https://img.thesports.com/football/team/afd42bc09f8a3f97a4ab60dcfb991e89.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.vasalundsif.se/",
+          "coach_id": "kdj2ryohzwzq1zp",
+          "venue_id": "56ypq3nh8p3md7o",
+          "market_value": 250000,
+          "market_value_currency": "",
+          "total_players": 28,
+          "foreign_players": 15,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744743487
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l965mkyhdjlr1ge\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Vasalunds IF\", \"short_name\": \"Vasalunds IF\", \"logo\": \"https://img.thesports.com/football/team/afd42bc09f8a3f97a4ab60dcfb991e89.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.vasalundsif.se/\", \"coach_id\": \"kdj2ryohzwzq1zp\", \"venue_id\": \"56ypq3nh8p3md7o\", \"market_value\": 250000, \"market_value_currency\": \"\", \"total_players\": 28, \"foreign_players\": 15, \"nati..."
+  }
+]

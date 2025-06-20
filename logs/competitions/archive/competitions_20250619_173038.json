@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "2025-06-19T17:29:14.862893",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "9k82rekh84repzj"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 920,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "9k82rekh84repzj"
+      },
+      "results": [
+        {
+          "id": "9k82rekh84repzj",
+          "category_id": "49vjxm8ghgr6odg",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Sweden Division 1",
+          "short_name": "SWE Division 1",
+          "logo": "https://img.thesports.com/football/competition/db8c32fba6d3773eb031b2d2d9fc7664.png",
+          "type": 1,
+          "cur_season_id": "gx7lm7phl3ym2wd",
+          "cur_stage_id": "zp5rzghd36oq82w",
+          "cur_round": 14,
+          "round_count": 30,
+          "title_holder": [
+            "v2y8m4zh9o8ql07",
+            1
+          ],
+          "most_titles": [
+            [
+              "kn54qllhy32qvy9",
+              "9k82rekh4ozrepz"
+            ],
+            3
+          ],
+          "newcomers": [
+            [
+              "l5ergph3y6pr8k0",
+              "3glrw7hjzdnqdyj",
+              "pxwrxlh1zkdryk0",
+              "1l4rjnh1603m7vx",
+              "4wyrn4hege8q86p",
+              "4jwq2gh4686m0ve",
+              "y39mp1h5dd2mojx"
+            ],
+            [
+              "9dn1m1gh666moep",
+              "kdj2ryoh041q1zp"
+            ]
+          ],
+          "divisions": [
+            [
+              "8y39mp1hk8mojxg"
+            ],
+            [
+              "z318q66h7yqo9jd"
+            ]
+          ],
+          "host": {
+            "country": "Sweden"
+          },
+          "primary_color": "#002b4c",
+          "secondary_color": "#0061a8",
+          "updated_at": 1750353924
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"9k82rekh84repzj\", \"category_id\": \"49vjxm8ghgr6odg\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Sweden Division 1\", \"short_name\": \"SWE Division 1\", \"logo\": \"https://img.thesports.com/football/competition/db8c32fba6d3773eb031b2d2d9fc7664.png\", \"type\": 1, \"cur_season_id\": \"gx7lm7phl3ym2wd\", \"cur_stage_id\": \"zp5rzghd36oq82w\", \"cur_round\": 14, \"round_count\": 30, \"title_holder\": [\"v2y8m4zh9o8ql07\", 1], \"most_titles\": [[\"kn54qllhy32qvy9\", \"9k82rekh4ozrepz\"], 3], \"newcomers\": [[\"l5ergph3y6pr8k0\",..."
+  }
+]

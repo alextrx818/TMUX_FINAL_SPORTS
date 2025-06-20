@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T16:58:15.620337",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4jwq2gh10vlm0ve"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 578,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4jwq2gh10vlm0ve"
+      },
+      "results": [
+        {
+          "id": "4jwq2gh10vlm0ve",
+          "competition_id": "kdj2ryoh2vwq1zp",
+          "country_id": "",
+          "name": "Star Sport Academy",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/971eddadae89533f7a711ce91ca2c689.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1734915487
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4jwq2gh10vlm0ve\", \"competition_id\": \"kdj2ryoh2vwq1zp\", \"country_id\": \"\", \"name\": \"Star Sport Academy\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/971eddadae89533f7a711ce91ca2c689.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1734915487}"
+  }
+]

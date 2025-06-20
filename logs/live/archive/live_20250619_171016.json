@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-06-19T02:31:11.785881",
+    "endpoint": "live",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/match/detail_live",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 43412,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 27,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'x7lm7phjowyzm2w', 'score': ['x7lm7phjowyzm2w', 13, [0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0], 0, ''], 'stats': [], 'incidents': [], 'tlive': []}"
+  }
+]

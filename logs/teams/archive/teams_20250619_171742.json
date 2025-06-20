@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:17:42.485396",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "zp5rzghjv9pq82w"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 609,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "zp5rzghjv9pq82w"
+      },
+      "results": [
+        {
+          "id": "zp5rzghjv9pq82w",
+          "competition_id": "v2y8m4zhw4ql074",
+          "country_id": "156ypq3nhxmd7oj",
+          "name": "Arges",
+          "short_name": "Arges",
+          "logo": "https://img.thesports.com/football/team/f5d0b3f174168088f64f65b47af718fa.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "vl7oqdehg13r510",
+          "venue_id": "",
+          "market_value": 3800000,
+          "market_value_currency": "\u20ac",
+          "total_players": 20,
+          "foreign_players": 10,
+          "national_players": 2,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1750223346
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"zp5rzghjv9pq82w\", \"competition_id\": \"v2y8m4zhw4ql074\", \"country_id\": \"156ypq3nhxmd7oj\", \"name\": \"Arges\", \"short_name\": \"Arges\", \"logo\": \"https://img.thesports.com/football/team/f5d0b3f174168088f64f65b47af718fa.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"vl7oqdehg13r510\", \"venue_id\": \"\", \"market_value\": 3800000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 20, \"foreign_players\": 10, \"national_players\": 2, \"virtual\": 0, \"gender\": 1, \"up..."
+  }
+]

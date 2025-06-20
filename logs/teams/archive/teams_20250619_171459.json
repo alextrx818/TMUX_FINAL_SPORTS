@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:14:59.514291",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dj2ryohkk32q1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 665,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dj2ryohkk32q1zp"
+      },
+      "results": [
+        {
+          "id": "dj2ryohkk32q1zp",
+          "competition_id": "",
+          "country_id": "j1l4rjnh12m7vx5",
+          "name": "Mexico (w) U20",
+          "short_name": "Mexico U20(w)",
+          "logo": "https://img.thesports.com/football/team/fb4a02dc54ada17d08f90d60bd4a69e3.png",
+          "national": 1,
+          "country_logo": "https://img.thesports.com/football/team/3653cce234494bfbd33e077f4a028f66.png",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 18,
+          "foreign_players": 8,
+          "national_players": 18,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1743591200
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dj2ryohkk32q1zp\", \"competition_id\": \"\", \"country_id\": \"j1l4rjnh12m7vx5\", \"name\": \"Mexico (w) U20\", \"short_name\": \"Mexico U20(w)\", \"logo\": \"https://img.thesports.com/football/team/fb4a02dc54ada17d08f90d60bd4a69e3.png\", \"national\": 1, \"country_logo\": \"https://img.thesports.com/football/team/3653cce234494bfbd33e077f4a028f66.png\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 18, \"foreign_players\": 8, \"na..."
+  }
+]

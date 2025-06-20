@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2025-06-19T17:36:03.301833",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dj2ryohy3llq1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 627,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dj2ryohy3llq1zp"
+      },
+      "results": [
+        {
+          "id": "dj2ryohy3llq1zp",
+          "competition_id": "l965mkyh4jdr1ge",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "Deportivo Espanol Reserves",
+          "short_name": "Deportivo Espanol Reserves",
+          "logo": "https://img.thesports.com/football/team/e1e8e7862b44da5042ccce0d2b7a45f2.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1621338508
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dj2ryohy3llq1zp\", \"competition_id\": \"l965mkyh4jdr1ge\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"Deportivo Espanol Reserves\", \"short_name\": \"Deportivo Espanol Reserves\", \"logo\": \"https://img.thesports.com/football/team/e1e8e7862b44da5042ccce0d2b7a45f2.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"ge..."
+  }
+]

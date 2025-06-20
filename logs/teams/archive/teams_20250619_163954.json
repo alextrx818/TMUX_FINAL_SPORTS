@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T16:39:54.533810",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "23xmvkhdookqg8n"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 608,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': '23xmvkhdookqg8n', 'competition_id': '9k82rekheorepzj', 'country_id': 'yl5ergphojr8k0o', 'name': 'Saku Sporting (w)', 'short_name': 'Saku Sporting(w)', 'logo': 'https://img.thesports.com/football/team/6caa95f218373a924e450afa78c45c27.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'gender': 2, 'updated_..."
+  }
+]

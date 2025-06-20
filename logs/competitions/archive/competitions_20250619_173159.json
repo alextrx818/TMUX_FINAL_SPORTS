@@ -1,0 +1,55 @@
+[
+  {
+    "timestamp": "2025-06-19T17:29:14.904502",
+    "endpoint": "competitions",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/competition/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "gpxwrxlhgpryk0j"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 612,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "gpxwrxlhgpryk0j"
+      },
+      "results": [
+        {
+          "id": "gpxwrxlhgpryk0j",
+          "category_id": "kp3glrw7hwqdyjv",
+          "country_id": "",
+          "name": "International Club Friendly",
+          "short_name": "INT CF",
+          "logo": "https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",
+          "type": 3,
+          "cur_season_id": "kdj2ryohwxdq1zp",
+          "cur_stage_id": "vjxm8gh7ov9r6od",
+          "cur_round": 0,
+          "round_count": 0,
+          "title_holder": [],
+          "most_titles": [],
+          "newcomers": [],
+          "divisions": [],
+          "host": {},
+          "primary_color": "#25497d",
+          "secondary_color": "#d38f1d",
+          "updated_at": 1749793327
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"gpxwrxlhgpryk0j\", \"category_id\": \"kp3glrw7hwqdyjv\", \"country_id\": \"\", \"name\": \"International Club Friendly\", \"short_name\": \"INT CF\", \"logo\": \"https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png\", \"type\": 3, \"cur_season_id\": \"kdj2ryohwxdq1zp\", \"cur_stage_id\": \"vjxm8gh7ov9r6od\", \"cur_round\": 0, \"round_count\": 0, \"title_holder\": [], \"most_titles\": [], \"newcomers\": [], \"divisions\": [], \"host\": {}, \"primary_color\": \"#25497d\", \"secondary_color\": \"#d38f1d\", \"upda..."
+  }
+]

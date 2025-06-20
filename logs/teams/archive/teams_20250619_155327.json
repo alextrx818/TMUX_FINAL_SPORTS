@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-06-19T15:53:27.133381",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "jw2r09hndk6rz84"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 627,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "sample_data": "{'id': 'jw2r09hndk6rz84', 'competition_id': 'l965mkyh4jdr1ge', 'country_id': 'gy0or5jh43qwzv3', 'name': 'Talleres Remedios Reserves', 'short_name': 'Talleres Remedios Reserves', 'logo': 'https://img.thesports.com/football/team/031969e96def2e7d9ce0c2062e1b3028.png', 'national': 0, 'country_logo': '', 'foundation_time': 0, 'website': '', 'coach_id': '', 'venue_id': '', 'market_value': 0, 'market_value_currency': '', 'total_players': 0, 'foreign_players': 0, 'national_players': 0, 'virtual': 0, 'ge..."
+  }
+]

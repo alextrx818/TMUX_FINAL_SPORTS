@@ -1,0 +1,2702 @@
+[
+  {
+    "timestamp": "2025-06-19T17:42:52.301715",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l5ergphe2vpr8k0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 634,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l5ergphe2vpr8k0"
+      },
+      "results": [
+        {
+          "id": "l5ergphe2vpr8k0",
+          "competition_id": "l965mkyh4jdr1ge",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "Deportivo Camioneros Reserves",
+          "short_name": "Deportivo Camioneros Reserves",
+          "logo": "https://img.thesports.com/football/team/ac177c5355154278cfc3694ddead72f0.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 28,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1737874270
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l5ergphe2vpr8k0\", \"competition_id\": \"l965mkyh4jdr1ge\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"Deportivo Camioneros Reserves\", \"short_name\": \"Deportivo Camioneros Reserves\", \"logo\": \"https://img.thesports.com/football/team/ac177c5355154278cfc3694ddead72f0.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 28, \"foreign_players\": 1, \"national_players\": 0, \"virtual\":..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.297696",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "x7lm7phk59gm2wd"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 591,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "x7lm7phk59gm2wd"
+      },
+      "results": [
+        {
+          "id": "x7lm7phk59gm2wd",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "IK Tord",
+          "short_name": "IK Tord",
+          "logo": "https://img.thesports.com/football/team/745783d2b5a56d9df722c717224e941e.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 17,
+          "foreign_players": 14,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1743005314
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"x7lm7phk59gm2wd\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"IK Tord\", \"short_name\": \"IK Tord\", \"logo\": \"https://img.thesports.com/football/team/745783d2b5a56d9df722c717224e941e.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 17, \"foreign_players\": 14, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1743005314}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.293645",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "2y8m4zhz0lpql07"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 587,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "2y8m4zhz0lpql07"
+      },
+      "results": [
+        {
+          "id": "2y8m4zhz0lpql07",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "",
+          "name": "Ariana",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/ca12e8bdae01ac6f251d59ea6472a476.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "gpxwrxlhykxryk0",
+          "venue_id": "",
+          "market_value": 125000,
+          "market_value_currency": "\u20ac",
+          "total_players": 5,
+          "foreign_players": 5,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749343507
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"2y8m4zhz0lpql07\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"\", \"name\": \"Ariana\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/ca12e8bdae01ac6f251d59ea6472a476.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"gpxwrxlhykxryk0\", \"venue_id\": \"\", \"market_value\": 125000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 5, \"foreign_players\": 5, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1749343507}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.289614",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l7oqdeh4ez2r510"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 604,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l7oqdeh4ez2r510"
+      },
+      "results": [
+        {
+          "id": "l7oqdeh4ez2r510",
+          "competition_id": "p4jwq2ghzym0veo",
+          "country_id": "p3glrw7hwwqdyjv",
+          "name": "West Manal's (w)",
+          "short_name": "West Manal(w)",
+          "logo": "https://img.thesports.com/football/team/fe8b1dc2c155dea4f6618be563e573b9.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1749796027
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l7oqdeh4ez2r510\", \"competition_id\": \"p4jwq2ghzym0veo\", \"country_id\": \"p3glrw7hwwqdyjv\", \"name\": \"West Manal's (w)\", \"short_name\": \"West Manal(w)\", \"logo\": \"https://img.thesports.com/football/team/fe8b1dc2c155dea4f6618be563e573b9.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 2, \"updated_at\":..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.285107",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4jwq2gh4l6wm0ve"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 620,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4jwq2gh4l6wm0ve"
+      },
+      "results": [
+        {
+          "id": "4jwq2gh4l6wm0ve",
+          "competition_id": "gx7lm7phnjm2wdk",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "LSK Kvinner (w)",
+          "short_name": "Lsk Kvinner(w)",
+          "logo": "https://img.thesports.com/football/team/e3fc72518f213ad1f39ed9306da322b0.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "9vjxm8gholnr6od",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 22,
+          "foreign_players": 4,
+          "national_players": 3,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1749291666
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4jwq2gh4l6wm0ve\", \"competition_id\": \"gx7lm7phnjm2wdk\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"LSK Kvinner (w)\", \"short_name\": \"Lsk Kvinner(w)\", \"logo\": \"https://img.thesports.com/football/team/e3fc72518f213ad1f39ed9306da322b0.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"9vjxm8gholnr6od\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 22, \"foreign_players\": 4, \"national_players\": 3, \"virtual\": 0, \"gender\": ..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.281009",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "p4jwq2gh802m0ve"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 647,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "p4jwq2gh802m0ve"
+      },
+      "results": [
+        {
+          "id": "p4jwq2gh802m0ve",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "IFK Hassleholm",
+          "short_name": "IFK Hassleholm",
+          "logo": "https://img.thesports.com/football/team/2e0bff759d057e28460eaa5b2cb118e5.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.ifkhassleholm.com",
+          "coach_id": "",
+          "venue_id": "vl7oqdehlw9r510",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 44,
+          "foreign_players": 2,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1734962307
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"p4jwq2gh802m0ve\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"IFK Hassleholm\", \"short_name\": \"IFK Hassleholm\", \"logo\": \"https://img.thesports.com/football/team/2e0bff759d057e28460eaa5b2cb118e5.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.ifkhassleholm.com\", \"coach_id\": \"\", \"venue_id\": \"vl7oqdehlw9r510\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 44, \"foreign_players\": 2, \"national_players\": ..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.277023",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "vjxm8gh4325r6od"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 613,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "vjxm8gh4325r6od"
+      },
+      "results": [
+        {
+          "id": "vjxm8gh4325r6od",
+          "competition_id": "gx7lm7phnjm2wdk",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "Kolbotn (w)",
+          "short_name": "Kolbotn(w)",
+          "logo": "https://img.thesports.com/football/team/2bbb152bb9ea38e03fdb0c433966d1f4.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "9vjxm8gh0o0r6od",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 28,
+          "foreign_players": 10,
+          "national_players": 2,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1743590050
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"vjxm8gh4325r6od\", \"competition_id\": \"gx7lm7phnjm2wdk\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"Kolbotn (w)\", \"short_name\": \"Kolbotn(w)\", \"logo\": \"https://img.thesports.com/football/team/2bbb152bb9ea38e03fdb0c433966d1f4.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"9vjxm8gh0o0r6od\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 28, \"foreign_players\": 10, \"national_players\": 2, \"virtual\": 0, \"gender\": 2, \"upd..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.272275",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l965mkyhdjlr1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 662,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l965mkyhdjlr1ge"
+      },
+      "results": [
+        {
+          "id": "l965mkyhdjlr1ge",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Vasalunds IF",
+          "short_name": "Vasalunds IF",
+          "logo": "https://img.thesports.com/football/team/afd42bc09f8a3f97a4ab60dcfb991e89.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.vasalundsif.se/",
+          "coach_id": "kdj2ryohzwzq1zp",
+          "venue_id": "56ypq3nh8p3md7o",
+          "market_value": 250000,
+          "market_value_currency": "",
+          "total_players": 28,
+          "foreign_players": 15,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744743487
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l965mkyhdjlr1ge\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Vasalunds IF\", \"short_name\": \"Vasalunds IF\", \"logo\": \"https://img.thesports.com/football/team/afd42bc09f8a3f97a4ab60dcfb991e89.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.vasalundsif.se/\", \"coach_id\": \"kdj2ryohzwzq1zp\", \"venue_id\": \"56ypq3nh8p3md7o\", \"market_value\": 250000, \"market_value_currency\": \"\", \"total_players\": 28, \"foreign_players\": 15, \"nati..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.268293",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "x7lm7phwpo8m2wd"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 578,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "x7lm7phwpo8m2wd"
+      },
+      "results": [
+        {
+          "id": "x7lm7phwpo8m2wd",
+          "competition_id": "yl5ergphvopr8k0",
+          "country_id": "",
+          "name": "Vigor U19",
+          "short_name": "Vigor U19",
+          "logo": "https://img.thesports.com/football/team/36f4776e62040c40dfccc0eb22e140cb.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1750253904
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"x7lm7phwpo8m2wd\", \"competition_id\": \"yl5ergphvopr8k0\", \"country_id\": \"\", \"name\": \"Vigor U19\", \"short_name\": \"Vigor U19\", \"logo\": \"https://img.thesports.com/football/team/36f4776e62040c40dfccc0eb22e140cb.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1750253904}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.264296",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "vjxm8ghg39pr6od"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 590,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "vjxm8ghg39pr6od"
+      },
+      "results": [
+        {
+          "id": "vjxm8ghg39pr6od",
+          "competition_id": "kdj2ryoh2vwq1zp",
+          "country_id": "jednm9wheoryox8",
+          "name": "Diamond Stars",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/b1081b6757a274c5520e1ef84612e794.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 13,
+          "foreign_players": 13,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1742213345
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"vjxm8ghg39pr6od\", \"competition_id\": \"kdj2ryoh2vwq1zp\", \"country_id\": \"jednm9wheoryox8\", \"name\": \"Diamond Stars\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/b1081b6757a274c5520e1ef84612e794.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 13, \"foreign_players\": 13, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1742213345}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.260272",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "k82rekh3d8jrepz"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 579,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "k82rekh3d8jrepz"
+      },
+      "results": [
+        {
+          "id": "k82rekh3d8jrepz",
+          "competition_id": "z318q66hvdlqo9j",
+          "country_id": "",
+          "name": "Gambian Dutch Lions",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/85f23290a758add0b35e137f43018e97.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1747895975
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"k82rekh3d8jrepz\", \"competition_id\": \"z318q66hvdlqo9j\", \"country_id\": \"\", \"name\": \"Gambian Dutch Lions\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/85f23290a758add0b35e137f43018e97.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1747895975}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.256253",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "9k82rekh7l2repz"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 661,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "9k82rekh7l2repz"
+      },
+      "results": [
+        {
+          "id": "9k82rekh7l2repz",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Lindome GIF",
+          "short_name": "Lindome GIF",
+          "logo": "https://img.thesports.com/football/team/386b9f37921a0305720f18815fcd6f88.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1928,
+          "website": "http://www.lindome-gif.com",
+          "coach_id": "dj2ryohkvd7q1zp",
+          "venue_id": "9k82rekh3kxrepz",
+          "market_value": 50000,
+          "market_value_currency": "",
+          "total_players": 20,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744026917
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"9k82rekh7l2repz\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Lindome GIF\", \"short_name\": \"Lindome GIF\", \"logo\": \"https://img.thesports.com/football/team/386b9f37921a0305720f18815fcd6f88.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1928, \"website\": \"http://www.lindome-gif.com\", \"coach_id\": \"dj2ryohkvd7q1zp\", \"venue_id\": \"9k82rekh3kxrepz\", \"market_value\": 50000, \"market_value_currency\": \"\", \"total_players\": 20, \"foreign_players\": 1, \"natio..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.251748",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "6ypq3nhl9o0md7o"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 574,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "6ypq3nhl9o0md7o"
+      },
+      "results": [
+        {
+          "id": "6ypq3nhl9o0md7o",
+          "competition_id": "gx7lm7phnjm2wdk",
+          "country_id": "",
+          "name": "Bodo Glimt (W)",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/03b8600440bbe307195fee3dd88727d2.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1743590949
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"6ypq3nhl9o0md7o\", \"competition_id\": \"gx7lm7phnjm2wdk\", \"country_id\": \"\", \"name\": \"Bodo Glimt (W)\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/03b8600440bbe307195fee3dd88727d2.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 2, \"updated_at\": 1743590949}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.247102",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y0or5jhlkx7qwzv"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 642,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "y0or5jhlkx7qwzv"
+      },
+      "results": [
+        {
+          "id": "y0or5jhlkx7qwzv",
+          "competition_id": "9vjxm8ghllr6odg",
+          "country_id": "gy0or5jhl3qwzv3",
+          "name": "Banga Gargzdai",
+          "short_name": "Banga Gargzdai",
+          "logo": "https://img.thesports.com/football/team/a96afd68bb256de910e7bb97921437f9.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "gx7lm7phee9m2wd",
+          "venue_id": "9dn1m1ghn58moep",
+          "market_value": 4500000,
+          "market_value_currency": "\u20ac",
+          "total_players": 31,
+          "foreign_players": 11,
+          "national_players": 4,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749853507
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"y0or5jhlkx7qwzv\", \"competition_id\": \"9vjxm8ghllr6odg\", \"country_id\": \"gy0or5jhl3qwzv3\", \"name\": \"Banga Gargzdai\", \"short_name\": \"Banga Gargzdai\", \"logo\": \"https://img.thesports.com/football/team/a96afd68bb256de910e7bb97921437f9.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"gx7lm7phee9m2wd\", \"venue_id\": \"9dn1m1ghn58moep\", \"market_value\": 4500000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 31, \"foreign_players\": 11, \"national_players\": ..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.242266",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "318q66ho0zgqo9j"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 599,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "318q66ho0zgqo9j"
+      },
+      "results": [
+        {
+          "id": "318q66ho0zgqo9j",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Jonsereds IF",
+          "short_name": "Jonsereds IF",
+          "logo": "https://img.thesports.com/football/team/31f5c90f5cf5789cb4f7343f56977786.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744276927
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"318q66ho0zgqo9j\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Jonsereds IF\", \"short_name\": \"Jonsereds IF\", \"logo\": \"https://img.thesports.com/football/team/31f5c90f5cf5789cb4f7343f56977786.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1744..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.165123",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "kdj2ryohz8zq1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 627,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "kdj2ryohz8zq1zp"
+      },
+      "results": [
+        {
+          "id": "kdj2ryohz8zq1zp",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Lunds BK",
+          "short_name": "Lunds BK",
+          "logo": "https://img.thesports.com/football/team/88a839f2f6f1427879fc33ee4acf4f66.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "d23xmvkhj0dqg8n",
+          "venue_id": "d23xmvkhn3xqg8n",
+          "market_value": 75000,
+          "market_value_currency": "",
+          "total_players": 27,
+          "foreign_players": 13,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1747278066
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"kdj2ryohz8zq1zp\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Lunds BK\", \"short_name\": \"Lunds BK\", \"logo\": \"https://img.thesports.com/football/team/88a839f2f6f1427879fc33ee4acf4f66.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"d23xmvkhj0dqg8n\", \"venue_id\": \"d23xmvkhn3xqg8n\", \"market_value\": 75000, \"market_value_currency\": \"\", \"total_players\": 27, \"foreign_players\": 13, \"national_players\": 1, \"virtual\": 0, \"ge..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.127537",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y0or5jh4l1nqwzv"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 577,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "y0or5jh4l1nqwzv"
+      },
+      "results": [
+        {
+          "id": "y0or5jh4l1nqwzv",
+          "competition_id": "",
+          "country_id": "p4jwq2ghkpm0veo",
+          "name": "Silvio Pettirossi",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/691bd62beea56a23df075a34b134a02e.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1730183133
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"y0or5jh4l1nqwzv\", \"competition_id\": \"\", \"country_id\": \"p4jwq2ghkpm0veo\", \"name\": \"Silvio Pettirossi\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/691bd62beea56a23df075a34b134a02e.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1730183133}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:52.045658",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "y39mp1hj6knmojx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 598,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "y39mp1hj6knmojx"
+      },
+      "results": [
+        {
+          "id": "y39mp1hj6knmojx",
+          "competition_id": "p3glrw7hwo7qdyj",
+          "country_id": "9vjxm8gh8gr6odg",
+          "name": "Al Sadaqa FC",
+          "short_name": "Al Sadaqa",
+          "logo": "https://img.thesports.com/football/team/51eb09b3db580e042315738a0af39b91.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 18,
+          "foreign_players": 18,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1745856187
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"y39mp1hj6knmojx\", \"competition_id\": \"p3glrw7hwo7qdyj\", \"country_id\": \"9vjxm8gh8gr6odg\", \"name\": \"Al Sadaqa FC\", \"short_name\": \"Al Sadaqa\", \"logo\": \"https://img.thesports.com/football/team/51eb09b3db580e042315738a0af39b91.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 18, \"foreign_players\": 18, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 17458..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.988936",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "pxwrxlh922jryk0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 597,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "pxwrxlh922jryk0"
+      },
+      "results": [
+        {
+          "id": "pxwrxlh922jryk0",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "FBK Balkan",
+          "short_name": "FBK Balkan",
+          "logo": "https://img.thesports.com/football/team/a7c5f5cca6a0b8dde09f971f275a8ca4.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 35,
+          "foreign_players": 15,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1743254798
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"pxwrxlh922jryk0\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"FBK Balkan\", \"short_name\": \"FBK Balkan\", \"logo\": \"https://img.thesports.com/football/team/a7c5f5cca6a0b8dde09f971f275a8ca4.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 35, \"foreign_players\": 15, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 174325..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.985043",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "965mkyh7z89r1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 632,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "965mkyh7z89r1ge"
+      },
+      "results": [
+        {
+          "id": "965mkyh7z89r1ge",
+          "competition_id": "yl5ergph5zr8k0o",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Kristianstads DFF (w)",
+          "short_name": "Kristianstads(w)",
+          "logo": "https://img.thesports.com/football/team/4a45d7c2632278e620ac03d1da72e8db.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.kdff.nu/",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 23,
+          "foreign_players": 9,
+          "national_players": 5,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1748996072
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"965mkyh7z89r1ge\", \"competition_id\": \"yl5ergph5zr8k0o\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Kristianstads DFF (w)\", \"short_name\": \"Kristianstads(w)\", \"logo\": \"https://img.thesports.com/football/team/4a45d7c2632278e620ac03d1da72e8db.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.kdff.nu/\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 23, \"foreign_players\": 9, \"national_players\": 5, \"virtual\": 0..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.981125",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "jw2r09hn1gkrz84"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 604,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "jw2r09hn1gkrz84"
+      },
+      "results": [
+        {
+          "id": "jw2r09hn1gkrz84",
+          "competition_id": "",
+          "country_id": "p4jwq2ghkpm0veo",
+          "name": "Sportivo Iteno",
+          "short_name": "Sportivo Iteno",
+          "logo": "https://img.thesports.com/football/team/27253b662edf499d0d638b459e88aee6.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "e4wyrn4h9gpq86p",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 61,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1732738628
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"jw2r09hn1gkrz84\", \"competition_id\": \"\", \"country_id\": \"p4jwq2ghkpm0veo\", \"name\": \"Sportivo Iteno\", \"short_name\": \"Sportivo Iteno\", \"logo\": \"https://img.thesports.com/football/team/27253b662edf499d0d638b459e88aee6.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"e4wyrn4h9gpq86p\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 61, \"foreign_players\": 1, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\":..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.977192",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dj2ryohkk32q1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 665,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dj2ryohkk32q1zp"
+      },
+      "results": [
+        {
+          "id": "dj2ryohkk32q1zp",
+          "competition_id": "",
+          "country_id": "j1l4rjnh12m7vx5",
+          "name": "Mexico (w) U20",
+          "short_name": "Mexico U20(w)",
+          "logo": "https://img.thesports.com/football/team/fb4a02dc54ada17d08f90d60bd4a69e3.png",
+          "national": 1,
+          "country_logo": "https://img.thesports.com/football/team/3653cce234494bfbd33e077f4a028f66.png",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 18,
+          "foreign_players": 8,
+          "national_players": 18,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1743591200
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dj2ryohkk32q1zp\", \"competition_id\": \"\", \"country_id\": \"j1l4rjnh12m7vx5\", \"name\": \"Mexico (w) U20\", \"short_name\": \"Mexico U20(w)\", \"logo\": \"https://img.thesports.com/football/team/fb4a02dc54ada17d08f90d60bd4a69e3.png\", \"national\": 1, \"country_logo\": \"https://img.thesports.com/football/team/3653cce234494bfbd33e077f4a028f66.png\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 18, \"foreign_players\": 8, \"na..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.973218",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "1l4rjnhzk6om7vx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 601,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "1l4rjnhzk6om7vx"
+      },
+      "results": [
+        {
+          "id": "1l4rjnhzk6om7vx",
+          "competition_id": "z318q66hvdlqo9j",
+          "country_id": "vl7oqdeheyr510j",
+          "name": "Banjul United",
+          "short_name": "Banjul United",
+          "logo": "https://img.thesports.com/football/team/16985b8bbb49e91191aeb65fddedc877.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1682326697
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"1l4rjnhzk6om7vx\", \"competition_id\": \"z318q66hvdlqo9j\", \"country_id\": \"vl7oqdeheyr510j\", \"name\": \"Banjul United\", \"short_name\": \"Banjul United\", \"logo\": \"https://img.thesports.com/football/team/16985b8bbb49e91191aeb65fddedc877.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 16..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.969140",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "vjxm8gh45k3r6od"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 627,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "vjxm8gh45k3r6od"
+      },
+      "results": [
+        {
+          "id": "vjxm8gh45k3r6od",
+          "competition_id": "l965mkyhw4r1ge4",
+          "country_id": "yl5ergphojr8k0o",
+          "name": "JK Welco Elekter",
+          "short_name": "JK Welco Elekter",
+          "logo": "https://img.thesports.com/football/team/db37b08b778cff15854d3d3bc71a426c.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "jednm9whpxyryox",
+          "venue_id": "",
+          "market_value": 50000,
+          "market_value_currency": "",
+          "total_players": 52,
+          "foreign_players": 1,
+          "national_players": 1,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1742212947
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"vjxm8gh45k3r6od\", \"competition_id\": \"l965mkyhw4r1ge4\", \"country_id\": \"yl5ergphojr8k0o\", \"name\": \"JK Welco Elekter\", \"short_name\": \"JK Welco Elekter\", \"logo\": \"https://img.thesports.com/football/team/db37b08b778cff15854d3d3bc71a426c.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"jednm9whpxyryox\", \"venue_id\": \"\", \"market_value\": 50000, \"market_value_currency\": \"\", \"total_players\": 52, \"foreign_players\": 1, \"national_players\": 1, \"virtual\": 0, \"ge..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.963930",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dj2ryohkkekq1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 690,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dj2ryohkkekq1zp"
+      },
+      "results": [
+        {
+          "id": "dj2ryohkkekq1zp",
+          "competition_id": "",
+          "country_id": "kdj2ryohkoq1zpg",
+          "name": "Montenegro  U19",
+          "short_name": "Montenegro  U19",
+          "logo": "https://img.thesports.com/football/team/782d1fac8cea293142988c2d0764f347.png",
+          "national": 1,
+          "country_logo": "https://img.thesports.com/football/team/9866b8a83d35abdd89ed76d565d71f75.png",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "d23xmvkh06jqg8n",
+          "venue_id": "",
+          "market_value": 545000,
+          "market_value_currency": "\u20ac",
+          "total_players": 20,
+          "foreign_players": 11,
+          "national_players": 20,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749854141
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dj2ryohkkekq1zp\", \"competition_id\": \"\", \"country_id\": \"kdj2ryohkoq1zpg\", \"name\": \"Montenegro  U19\", \"short_name\": \"Montenegro  U19\", \"logo\": \"https://img.thesports.com/football/team/782d1fac8cea293142988c2d0764f347.png\", \"national\": 1, \"country_logo\": \"https://img.thesports.com/football/team/9866b8a83d35abdd89ed76d565d71f75.png\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"d23xmvkh06jqg8n\", \"venue_id\": \"\", \"market_value\": 545000, \"market_value_currency\": \"\\u20ac\", \"total_players\": ..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.960023",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "6ypq3nhw0jlmd7o"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 570,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "6ypq3nhw0jlmd7o"
+      },
+      "results": [
+        {
+          "id": "6ypq3nhw0jlmd7o",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "",
+          "name": "PollZ",
+          "short_name": "PollZ",
+          "logo": "https://img.thesports.com/football/team/3d52360fe5fd62c7542106374d34cf2b.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1739786048
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"6ypq3nhw0jlmd7o\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"\", \"name\": \"PollZ\", \"short_name\": \"PollZ\", \"logo\": \"https://img.thesports.com/football/team/3d52360fe5fd62c7542106374d34cf2b.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1739786048}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.956102",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "1l4rjnh6jngm7vx"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 593,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "1l4rjnh6jngm7vx"
+      },
+      "results": [
+        {
+          "id": "1l4rjnh6jngm7vx",
+          "competition_id": "8y39mp1hojmojxg",
+          "country_id": "yl5ergphojr8k0o",
+          "name": "Johvi FC Lokomotiv",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/2c9acb2c71e2232063becfb86b23a1aa.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1713251931
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"1l4rjnh6jngm7vx\", \"competition_id\": \"8y39mp1hojmojxg\", \"country_id\": \"yl5ergphojr8k0o\", \"name\": \"Johvi FC Lokomotiv\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/2c9acb2c71e2232063becfb86b23a1aa.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1713251931..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.951976",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "318q66hoen0qo9j"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 618,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "318q66hoen0qo9j"
+      },
+      "results": [
+        {
+          "id": "318q66hoen0qo9j",
+          "competition_id": "yl5ergphvopr8k0",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "Baerum U19",
+          "short_name": "Baerum U19",
+          "logo": "https://img.thesports.com/football/team/0a4a5dc22babc01876c2953a5a838766.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.baerumsk.no/",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1728460929
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"318q66hoen0qo9j\", \"competition_id\": \"yl5ergphvopr8k0\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"Baerum U19\", \"short_name\": \"Baerum U19\", \"logo\": \"https://img.thesports.com/football/team/0a4a5dc22babc01876c2953a5a838766.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.baerumsk.no/\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1,..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.948078",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "vjxm8ghj7e2r6od"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 601,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "vjxm8ghj7e2r6od"
+      },
+      "results": [
+        {
+          "id": "vjxm8ghj7e2r6od",
+          "competition_id": "z318q66hvdlqo9j",
+          "country_id": "vl7oqdeheyr510j",
+          "name": "Team Rhino FC",
+          "short_name": "Team Rhino FC",
+          "logo": "https://img.thesports.com/football/team/91866ec10d7422342c28eaf32baa3f40.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1682327142
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"vjxm8ghj7e2r6od\", \"competition_id\": \"z318q66hvdlqo9j\", \"country_id\": \"vl7oqdeheyr510j\", \"name\": \"Team Rhino FC\", \"short_name\": \"Team Rhino FC\", \"logo\": \"https://img.thesports.com/football/team/91866ec10d7422342c28eaf32baa3f40.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 16..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.944155",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4wyrn4hd942q86p"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 593,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4wyrn4hd942q86p"
+      },
+      "results": [
+        {
+          "id": "4wyrn4hd942q86p",
+          "competition_id": "kdj2ryohjn7q1zp",
+          "country_id": "e4wyrn4hvkq86pv",
+          "name": "Yafoot FC",
+          "short_name": "Yafoot FC",
+          "logo": "https://img.thesports.com/football/team/e63e1eecf65ad977f021426edf4c6b39.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1713251991
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4wyrn4hd942q86p\", \"competition_id\": \"kdj2ryohjn7q1zp\", \"country_id\": \"e4wyrn4hvkq86pv\", \"name\": \"Yafoot FC\", \"short_name\": \"Yafoot FC\", \"logo\": \"https://img.thesports.com/football/team/e63e1eecf65ad977f021426edf4c6b39.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1713251991..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.940251",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "2y8m4zhjnlxql07"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 592,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "2y8m4zhjnlxql07"
+      },
+      "results": [
+        {
+          "id": "2y8m4zhjnlxql07",
+          "competition_id": "yl5ergphvopr8k0",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "Strindheim TF U19",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/27224df310437edc9bf3a5915179ff36.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1728460937
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"2y8m4zhjnlxql07\", \"competition_id\": \"yl5ergphvopr8k0\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"Strindheim TF U19\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/27224df310437edc9bf3a5915179ff36.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1728460937}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.936310",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l5ergph3j2nr8k0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 607,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l5ergph3j2nr8k0"
+      },
+      "results": [
+        {
+          "id": "l5ergph3j2nr8k0",
+          "competition_id": "l965mkyh4jdr1ge",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "Quilmes Reserves",
+          "short_name": "Quilmes Reserves",
+          "logo": "https://img.thesports.com/football/team/413ad3bc601a6bd8c9dcc55a4c608540.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1663837104
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l5ergph3j2nr8k0\", \"competition_id\": \"l965mkyh4jdr1ge\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"Quilmes Reserves\", \"short_name\": \"Quilmes Reserves\", \"logo\": \"https://img.thesports.com/football/team/413ad3bc601a6bd8c9dcc55a4c608540.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_a..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.932331",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "965mkyh7764r1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 637,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "965mkyh7764r1ge"
+      },
+      "results": [
+        {
+          "id": "965mkyh7764r1ge",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Karlskrona AIF",
+          "short_name": "FK Karlskrona",
+          "logo": "https://img.thesports.com/football/team/6d8a5ad5ad8adbdba95ed24737b2b4bf.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "gx7lm7ph260m2wd",
+          "venue_id": "kjw2r09hwy3rz84",
+          "market_value": 25000,
+          "market_value_currency": "",
+          "total_players": 27,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1733020151
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"965mkyh7764r1ge\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Karlskrona AIF\", \"short_name\": \"FK Karlskrona\", \"logo\": \"https://img.thesports.com/football/team/6d8a5ad5ad8adbdba95ed24737b2b4bf.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"gx7lm7ph260m2wd\", \"venue_id\": \"kjw2r09hwy3rz84\", \"market_value\": 25000, \"market_value_currency\": \"\", \"total_players\": 27, \"foreign_players\": 1, \"national_players\": 0, \"virtua..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.928270",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "3glrw7hwl1xqdyj"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 617,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "3glrw7hwl1xqdyj"
+      },
+      "results": [
+        {
+          "id": "3glrw7hwl1xqdyj",
+          "competition_id": "yl5ergph5zr8k0o",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Pitea IF (w)",
+          "short_name": "Pitea(w)",
+          "logo": "https://img.thesports.com/football/team/ecd5fc06cf00dab3212cfa216532430c.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.piteaif.se",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 18,
+          "foreign_players": 5,
+          "national_players": 5,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1744351868
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"3glrw7hwl1xqdyj\", \"competition_id\": \"yl5ergph5zr8k0o\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Pitea IF (w)\", \"short_name\": \"Pitea(w)\", \"logo\": \"https://img.thesports.com/football/team/ecd5fc06cf00dab3212cfa216532430c.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.piteaif.se\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 18, \"foreign_players\": 5, \"national_players\": 5, \"virtual\": 0, \"gender\": 2, ..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.924289",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4wyrn4h803wq86p"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 601,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4wyrn4h803wq86p"
+      },
+      "results": [
+        {
+          "id": "4wyrn4h803wq86p",
+          "competition_id": "yl5ergph5zr8k0o",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Vittsjo GIK (w)",
+          "short_name": "Vittsjo(w)",
+          "logo": "https://img.thesports.com/football/team/0dfd8a39e2a5dd536c185e19a804a73b.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 20,
+          "foreign_players": 8,
+          "national_players": 5,
+          "virtual": 0,
+          "gender": 2,
+          "updated_at": 1743760268
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4wyrn4h803wq86p\", \"competition_id\": \"yl5ergph5zr8k0o\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Vittsjo GIK (w)\", \"short_name\": \"Vittsjo(w)\", \"logo\": \"https://img.thesports.com/football/team/0dfd8a39e2a5dd536c185e19a804a73b.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 20, \"foreign_players\": 8, \"national_players\": 5, \"virtual\": 0, \"gender\": 2, \"updated_at\": 17..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.920053",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l7oqdeh6d85r510"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 581,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l7oqdeh6d85r510"
+      },
+      "results": [
+        {
+          "id": "l7oqdeh6d85r510",
+          "competition_id": "kn54qllhelnqvy9",
+          "country_id": "8y39mp1h18mojxg",
+          "name": "Pikine",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/18ac9cd67efdb70ba94b136f1017a30f.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1728460937
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l7oqdeh6d85r510\", \"competition_id\": \"kn54qllhelnqvy9\", \"country_id\": \"8y39mp1h18mojxg\", \"name\": \"Pikine\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/18ac9cd67efdb70ba94b136f1017a30f.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1728460937}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.913620",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4jwq2gh4p0lm0ve"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 627,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4jwq2gh4p0lm0ve"
+      },
+      "results": [
+        {
+          "id": "4jwq2gh4p0lm0ve",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "IK Kongahalla",
+          "short_name": "IK Kongahalla",
+          "logo": "https://img.thesports.com/football/team/f20121ca2b82343a9a1ee2eef42b25af.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.ikkongahalla.se",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1743005374
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4jwq2gh4p0lm0ve\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"IK Kongahalla\", \"short_name\": \"IK Kongahalla\", \"logo\": \"https://img.thesports.com/football/team/f20121ca2b82343a9a1ee2eef42b25af.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.ikkongahalla.se\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"ge..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.909640",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "n54qllh295xqvy9"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 617,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "n54qllh295xqvy9"
+      },
+      "results": [
+        {
+          "id": "n54qllh295xqvy9",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "BK Olympic",
+          "short_name": "BK Olympic",
+          "logo": "https://img.thesports.com/football/team/7081a9ee5d50032dc5537accf39da060.jpg",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "v2y8m4zhdy2ql07",
+          "venue_id": "",
+          "market_value": 100000,
+          "market_value_currency": "",
+          "total_players": 30,
+          "foreign_players": 12,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744744148
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"n54qllh295xqvy9\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"BK Olympic\", \"short_name\": \"BK Olympic\", \"logo\": \"https://img.thesports.com/football/team/7081a9ee5d50032dc5537accf39da060.jpg\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"v2y8m4zhdy2ql07\", \"venue_id\": \"\", \"market_value\": 100000, \"market_value_currency\": \"\", \"total_players\": 30, \"foreign_players\": 12, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, ..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.905719",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "v2y8m4zho71ql07"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 680,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "v2y8m4zho71ql07"
+      },
+      "results": [
+        {
+          "id": "v2y8m4zho71ql07",
+          "competition_id": "9vjxm8ghllr6odg",
+          "country_id": "gy0or5jhl3qwzv3",
+          "name": "FK Zalgiris Vilnius",
+          "short_name": "FK Zalgiris Vilnius",
+          "logo": "https://img.thesports.com/football/team/c44fca0a4232a01fc936277c51f0fdcb.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 1947,
+          "website": "http://www.fkzalgiris.lt/",
+          "coach_id": "kn54qllhdl9qvy9",
+          "venue_id": "p4jwq2ghv3lm0ve",
+          "market_value": 5950000,
+          "market_value_currency": "\u20ac",
+          "total_players": 27,
+          "foreign_players": 15,
+          "national_players": 2,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1749845167
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"v2y8m4zho71ql07\", \"competition_id\": \"9vjxm8ghllr6odg\", \"country_id\": \"gy0or5jhl3qwzv3\", \"name\": \"FK Zalgiris Vilnius\", \"short_name\": \"FK Zalgiris Vilnius\", \"logo\": \"https://img.thesports.com/football/team/c44fca0a4232a01fc936277c51f0fdcb.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 1947, \"website\": \"http://www.fkzalgiris.lt/\", \"coach_id\": \"kn54qllhdl9qvy9\", \"venue_id\": \"p4jwq2ghv3lm0ve\", \"market_value\": 5950000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 27, \"fore..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.901773",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "pxwrxlh1wywryk0"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 609,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "pxwrxlh1wywryk0"
+      },
+      "results": [
+        {
+          "id": "pxwrxlh1wywryk0",
+          "competition_id": "l965mkyh4jdr1ge",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "All Boys Reserves",
+          "short_name": "All Boys Reserves",
+          "logo": "https://img.thesports.com/football/team/529b12bd46008ab15fde5dfe09db3971.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1621338508
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"pxwrxlh1wywryk0\", \"competition_id\": \"l965mkyh4jdr1ge\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"All Boys Reserves\", \"short_name\": \"All Boys Reserves\", \"logo\": \"https://img.thesports.com/football/team/529b12bd46008ab15fde5dfe09db3971.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.897834",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4jwq2ghk946m0ve"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 586,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4jwq2ghk946m0ve"
+      },
+      "results": [
+        {
+          "id": "4jwq2ghk946m0ve",
+          "competition_id": "56ypq3nhz63md7o",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "Sandnes B",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/8dcf930997d708f1c30f1c8e65488d74.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 14,
+          "foreign_players": 14,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1728460938
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4jwq2ghk946m0ve\", \"competition_id\": \"56ypq3nhz63md7o\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"Sandnes B\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/8dcf930997d708f1c30f1c8e65488d74.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 14, \"foreign_players\": 14, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1728460938}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.893427",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "l965mkyh6w4r1ge"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 626,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "l965mkyh6w4r1ge"
+      },
+      "results": [
+        {
+          "id": "l965mkyh6w4r1ge",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Pitea IF",
+          "short_name": "Pitea IF",
+          "logo": "https://img.thesports.com/football/team/b54085c29e27a9e536edd805213c7e6f.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "318q66ho757qo9j",
+          "venue_id": "p3glrw7hy5gqdyj",
+          "market_value": 50000,
+          "market_value_currency": "",
+          "total_players": 23,
+          "foreign_players": 8,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1742220909
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"l965mkyh6w4r1ge\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Pitea IF\", \"short_name\": \"Pitea IF\", \"logo\": \"https://img.thesports.com/football/team/b54085c29e27a9e536edd805213c7e6f.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"318q66ho757qo9j\", \"venue_id\": \"p3glrw7hy5gqdyj\", \"market_value\": 50000, \"market_value_currency\": \"\", \"total_players\": 23, \"foreign_players\": 8, \"national_players\": 0, \"virtual\": 0, \"gen..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.885574",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "4wyrn4hee49q86p"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 630,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "4wyrn4hee49q86p"
+      },
+      "results": [
+        {
+          "id": "4wyrn4hee49q86p",
+          "competition_id": "8y39mp1hojmojxg",
+          "country_id": "yl5ergphojr8k0o",
+          "name": "Laanemaa Haapsalu",
+          "short_name": "Laanemaa Haapsalu",
+          "logo": "https://img.thesports.com/football/team/5e36eb4d95351b6173b02f3183e6bdd5.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "3glrw7h60neqdyj",
+          "venue_id": "",
+          "market_value": 10000,
+          "market_value_currency": "",
+          "total_players": 59,
+          "foreign_players": 21,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744775401
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"4wyrn4hee49q86p\", \"competition_id\": \"8y39mp1hojmojxg\", \"country_id\": \"yl5ergphojr8k0o\", \"name\": \"Laanemaa Haapsalu\", \"short_name\": \"Laanemaa Haapsalu\", \"logo\": \"https://img.thesports.com/football/team/5e36eb4d95351b6173b02f3183e6bdd5.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"3glrw7h60neqdyj\", \"venue_id\": \"\", \"market_value\": 10000, \"market_value_currency\": \"\", \"total_players\": 59, \"foreign_players\": 21, \"national_players\": 0, \"virtual\": 0, ..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.875073",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dj2ryohy3llq1zp"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 627,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dj2ryohy3llq1zp"
+      },
+      "results": [
+        {
+          "id": "dj2ryohy3llq1zp",
+          "competition_id": "l965mkyh4jdr1ge",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "Deportivo Espanol Reserves",
+          "short_name": "Deportivo Espanol Reserves",
+          "logo": "https://img.thesports.com/football/team/e1e8e7862b44da5042ccce0d2b7a45f2.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1621338508
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dj2ryohy3llq1zp\", \"competition_id\": \"l965mkyh4jdr1ge\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"Deportivo Espanol Reserves\", \"short_name\": \"Deportivo Espanol Reserves\", \"logo\": \"https://img.thesports.com/football/team/e1e8e7862b44da5042ccce0d2b7a45f2.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"ge..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.867430",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "n54qllhx7w0qvy9"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 631,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "n54qllhx7w0qvy9"
+      },
+      "results": [
+        {
+          "id": "n54qllhx7w0qvy9",
+          "competition_id": "l965mkyh4jdr1ge",
+          "country_id": "gy0or5jh43qwzv3",
+          "name": "Ferrocarril Midland Reserves",
+          "short_name": "Ferrocarril Midland Reserves",
+          "logo": "https://img.thesports.com/football/team/79def4a5df7ddc8e245a93dff78d3558.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1621338843
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"n54qllhx7w0qvy9\", \"competition_id\": \"l965mkyh4jdr1ge\", \"country_id\": \"gy0or5jh43qwzv3\", \"name\": \"Ferrocarril Midland Reserves\", \"short_name\": \"Ferrocarril Midland Reserves\", \"logo\": \"https://img.thesports.com/football/team/79def4a5df7ddc8e245a93dff78d3558.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0,..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.863225",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "jw2r09hngz3rz84"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 604,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "jw2r09hngz3rz84"
+      },
+      "results": [
+        {
+          "id": "jw2r09hngz3rz84",
+          "competition_id": "z318q66h7yqo9jd",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Kungsangens IF",
+          "short_name": "Kungsangens IF",
+          "logo": "https://img.thesports.com/football/team/2ce5d59209938b0c81bf565e268a7063.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 64,
+          "foreign_players": 1,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1733130925
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"jw2r09hngz3rz84\", \"competition_id\": \"z318q66h7yqo9jd\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Kungsangens IF\", \"short_name\": \"Kungsangens IF\", \"logo\": \"https://img.thesports.com/football/team/2ce5d59209938b0c81bf565e268a7063.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 64, \"foreign_players\": 1, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\":..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.858030",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "9k82rekhk0drepz"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 652,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "9k82rekhk0drepz"
+      },
+      "results": [
+        {
+          "id": "9k82rekhk0drepz",
+          "competition_id": "9k82rekh84repzj",
+          "country_id": "7jednm9wh0ryox8",
+          "name": "Norrby IF",
+          "short_name": "Norrby IF",
+          "logo": "https://img.thesports.com/football/team/9c19890b182f67cc43c4e6cda7ef057c.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.norrbyif.se",
+          "coach_id": "gy0or5jhdg9qwzv",
+          "venue_id": "gy0or5jh4ewqwzv",
+          "market_value": 225000,
+          "market_value_currency": "\u20ac",
+          "total_players": 17,
+          "foreign_players": 2,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1744025952
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"9k82rekhk0drepz\", \"competition_id\": \"9k82rekh84repzj\", \"country_id\": \"7jednm9wh0ryox8\", \"name\": \"Norrby IF\", \"short_name\": \"Norrby IF\", \"logo\": \"https://img.thesports.com/football/team/9c19890b182f67cc43c4e6cda7ef057c.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.norrbyif.se\", \"coach_id\": \"gy0or5jhdg9qwzv\", \"venue_id\": \"gy0or5jh4ewqwzv\", \"market_value\": 225000, \"market_value_currency\": \"\\u20ac\", \"total_players\": 17, \"foreign_players\": 2, \"national_..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.789516",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "23xmvkh354jqg8n"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 638,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "23xmvkh354jqg8n"
+      },
+      "results": [
+        {
+          "id": "23xmvkh354jqg8n",
+          "competition_id": "yl5ergphvopr8k0",
+          "country_id": "28y39mp1hzmojxg",
+          "name": "Sarpsborg 08 U19",
+          "short_name": "Sarpsborg 08 U19",
+          "logo": "https://img.thesports.com/football/team/8360665e2004fb714d6d3589d8bf9051.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "http://www.sarpsborgfotball.no/",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1621338173
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"23xmvkh354jqg8n\", \"competition_id\": \"yl5ergphvopr8k0\", \"country_id\": \"28y39mp1hzmojxg\", \"name\": \"Sarpsborg 08 U19\", \"short_name\": \"Sarpsborg 08 U19\", \"logo\": \"https://img.thesports.com/football/team/8360665e2004fb714d6d3589d8bf9051.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"http://www.sarpsborgfotball.no/\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtu..."
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.656561",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "dn1m1ghn8eemoep"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 582,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "dn1m1ghn8eemoep"
+      },
+      "results": [
+        {
+          "id": "dn1m1ghn8eemoep",
+          "competition_id": "z318q66hvdlqo9j",
+          "country_id": "vl7oqdeheyr510j",
+          "name": "Marimoo",
+          "short_name": "",
+          "logo": "https://img.thesports.com/football/team/cd48e6f60998b6645482ad060bfaf7bb.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "",
+          "venue_id": "",
+          "market_value": 0,
+          "market_value_currency": "",
+          "total_players": 0,
+          "foreign_players": 0,
+          "national_players": 0,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1621338710
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"dn1m1ghn8eemoep\", \"competition_id\": \"z318q66hvdlqo9j\", \"country_id\": \"vl7oqdeheyr510j\", \"name\": \"Marimoo\", \"short_name\": \"\", \"logo\": \"https://img.thesports.com/football/team/cd48e6f60998b6645482ad060bfaf7bb.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"\", \"venue_id\": \"\", \"market_value\": 0, \"market_value_currency\": \"\", \"total_players\": 0, \"foreign_players\": 0, \"national_players\": 0, \"virtual\": 0, \"gender\": 1, \"updated_at\": 1621338710}"
+  },
+  {
+    "timestamp": "2025-06-19T17:42:51.652267",
+    "endpoint": "teams",
+    "status": "success",
+    "request": {
+      "url": "https://api.thesports.com/v1/football/team/additional/list",
+      "method": "GET",
+      "params": {
+        "user": "***",
+        "secret": "***",
+        "uuid": "23xmvkh3py6qg8n"
+      }
+    },
+    "response_summary": {
+      "size_bytes": 618,
+      "type": "dict",
+      "has_results": true,
+      "result_count": 1,
+      "api_code": 0
+    },
+    "raw_response": {
+      "code": 0,
+      "query": {
+        "total": 1,
+        "type": "uuid",
+        "uuid": "23xmvkh3py6qg8n"
+      },
+      "results": [
+        {
+          "id": "23xmvkh3py6qg8n",
+          "competition_id": "l965mkyhw4r1ge4",
+          "country_id": "yl5ergphojr8k0o",
+          "name": "Viimsi MRJK",
+          "short_name": "Viimsi MRJK",
+          "logo": "https://img.thesports.com/football/team/a3eb46b363d8b6c9f72c3b3b21896e21.png",
+          "national": 0,
+          "country_logo": "",
+          "foundation_time": 0,
+          "website": "",
+          "coach_id": "kjw2r09h3z2rz84",
+          "venue_id": "",
+          "market_value": 25000,
+          "market_value_currency": "",
+          "total_players": 27,
+          "foreign_players": 15,
+          "national_players": 2,
+          "virtual": 0,
+          "gender": 1,
+          "updated_at": 1748522587
+        }
+      ]
+    },
+    "sample_data": "{\"id\": \"23xmvkh3py6qg8n\", \"competition_id\": \"l965mkyhw4r1ge4\", \"country_id\": \"yl5ergphojr8k0o\", \"name\": \"Viimsi MRJK\", \"short_name\": \"Viimsi MRJK\", \"logo\": \"https://img.thesports.com/football/team/a3eb46b363d8b6c9f72c3b3b21896e21.png\", \"national\": 0, \"country_logo\": \"\", \"foundation_time\": 0, \"website\": \"\", \"coach_id\": \"kjw2r09h3z2rz84\", \"venue_id\": \"\", \"market_value\": 25000, \"market_value_currency\": \"\", \"total_players\": 27, \"foreign_players\": 15, \"national_players\": 2, \"virtual\": 0, \"gender\": 1,..."
+  }
+]
