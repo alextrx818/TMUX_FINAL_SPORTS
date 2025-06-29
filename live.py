@@ -1,11 +1,58 @@
 #!/usr/bin/env python3
 
 # ========================================
+# CENTRALIZED LOGGING SYSTEM REMOVAL NOTE
+# ========================================
+# This project previously used a centralized logging system with shared configuration files
+# (logging_utils.py, loggingconfig.py, etc.) that was removed due to path confusion and
+# complexity. Each endpoint file now contains its own independent, hardcoded logging logic
+# that is specific to that file's requirements. No centralized logging imports remain.
+# ========================================
+
+# ========================================
+# PIPELINE CALLING STANDARD - LIVE.PY
+# ========================================
+# POSITION: Entry point → details.py + odds.py (parallel)
+# CALLS NEXT: trigger_next_stage() → subprocess.run(['python3', 'details.py'], check=True)
+#                                  → subprocess.run(['python3', 'odds.py'], check=True)
+# PATTERN: Standard pipeline pattern with try/except CalledProcessError handling
+# ========================================
+
+# ========================================
 # IDENTIFIER REFERENCE - LIVE.PY
 # ========================================
 # INPUT IDs: None (global endpoint)
 # OUTPUT IDs: id (match_id) -> details.py, odds.py
 # PIPELINE: live.py -> match_id -> details.py, odds.py
+# ========================================
+
+# ========================================
+# VAR (VIDEO ASSISTANT REFEREE) CODE DEFINITIONS
+# ========================================
+# VAR incidents appear in incidents[] array with "type": 28
+# 
+# var_reason (WHY VAR was triggered):
+# 1 = Goal awarded
+# 2 = Goal not awarded  
+# 3 = Penalty awarded
+# 4 = Penalty not awarded
+# 5 = Red card given
+# 6 = Card upgrade
+# 7 = Mistaken identity
+# 0 = Other
+#
+# var_result (WHAT the VAR decision was):
+# 1 = Goal confirmed
+# 2 = Goal cancelled
+# 3 = Penalty confirmed
+# 4 = Penalty cancelled
+# 5 = Red card confirmed
+# 6 = Red card cancelled
+# 7 = Card upgrade confirmed
+# 8 = Card upgrade cancelled
+# 9 = Original decision
+# 10 = Original decision changed
+# 0 = Unknown
 # ========================================
 
 """
@@ -112,17 +159,94 @@ async def fetch_live_matches() -> List[Dict[str, Any]]:
                 if response.status == 200:
                     data = await response.json()
                     
-                    # RAW JSON DUMP with timestamp
+                    # ACCUMULATING JSON DUMP with historical preservation
                     import pytz
                     ny_tz = pytz.timezone('US/Eastern')
                     ny_time = datetime.now(ny_tz)
                     timestamp = ny_time.strftime('%m/%d/%Y %I:%M:%S %p')
-                    data_with_timestamp = {
+                    
+                    # Create new fetch entry
+                    new_fetch_entry = {
+                        "fetch_id": ny_time.strftime('%Y%m%d_%H%M%S'),
                         "api_response": data,
-                        "fetch_timestamp": f"{timestamp} EST"
+                        "fetch_timestamp": f"{timestamp} EST",
+                        "match_count": len(data.get('results', [])),
+                        "fetch_unix_time": int(ny_time.timestamp())
                     }
-                    with open('/workspaces/TMUX_FINAL_SPORTS/logs/live/live.json', 'w') as f:
-                        json.dump(data_with_timestamp, f, indent=2)
+                    
+                    live_log_file = '/workspaces/TMUX_FINAL_SPORTS/logs/live/live.json'
+                    
+                    # Load existing accumulating log or create new structure
+                    try:
+                        if os.path.exists(live_log_file):
+                            with open(live_log_file, 'r') as f:
+                                existing_log = json.load(f)
+                            # Handle migration from old format
+                            if "fetch_history" not in existing_log:
+                                # Convert old format to new accumulating format
+                                old_entry = {
+                                    "fetch_id": "migration_" + ny_time.strftime('%Y%m%d_%H%M%S'),
+                                    "api_response": existing_log.get("api_response", {}),
+                                    "fetch_timestamp": existing_log.get("fetch_timestamp", "Migration Entry"),
+                                    "match_count": len(existing_log.get("api_response", {}).get("results", [])),
+                                    "fetch_unix_time": int(ny_time.timestamp()) - 60  # 1 minute earlier
+                                }
+                                accumulated_log = {
+                                    "log_metadata": {
+                                        "total_fetches": 1,
+                                        "first_fetch": old_entry["fetch_timestamp"],
+                                        "last_fetch": new_fetch_entry["fetch_timestamp"],
+                                        "log_format": "accumulating_v1.0"
+                                    },
+                                    "fetch_history": [old_entry]
+                                }
+                            else:
+                                accumulated_log = existing_log
+                        else:
+                            # Create new accumulating log structure
+                            accumulated_log = {
+                                "log_metadata": {
+                                    "total_fetches": 0,
+                                    "first_fetch": new_fetch_entry["fetch_timestamp"],
+                                    "last_fetch": new_fetch_entry["fetch_timestamp"],
+                                    "log_format": "accumulating_v1.0"
+                                },
+                                "fetch_history": []
+                            }
+                    except Exception as e:
+                        print(f"Error loading existing log, creating fresh: {e}")
+                        accumulated_log = {
+                            "log_metadata": {
+                                "total_fetches": 0,
+                                "first_fetch": new_fetch_entry["fetch_timestamp"],
+                                "last_fetch": new_fetch_entry["fetch_timestamp"],
+                                "log_format": "accumulating_v1.0"
+                            },
+                            "fetch_history": []
+                        }
+                    
+                    # Add new fetch to history
+                    accumulated_log["fetch_history"].append(new_fetch_entry)
+                    
+                    # Update metadata
+                    accumulated_log["log_metadata"]["total_fetches"] = len(accumulated_log["fetch_history"])
+                    accumulated_log["log_metadata"]["last_fetch"] = new_fetch_entry["fetch_timestamp"]
+                    if accumulated_log["log_metadata"]["total_fetches"] == 1:
+                        accumulated_log["log_metadata"]["first_fetch"] = new_fetch_entry["fetch_timestamp"]
+                    
+                    # Keep only last 100 fetches to prevent file size explosion (configurable)
+                    max_history = 100
+                    if len(accumulated_log["fetch_history"]) > max_history:
+                        accumulated_log["fetch_history"] = accumulated_log["fetch_history"][-max_history:]
+                        accumulated_log["log_metadata"]["total_fetches"] = max_history
+                        accumulated_log["log_metadata"]["first_fetch"] = accumulated_log["fetch_history"][0]["fetch_timestamp"]
+                        print(f"Rotated log history, keeping last {max_history} fetches")
+                    
+                    # Save accumulated log
+                    with open(live_log_file, 'w') as f:
+                        json.dump(accumulated_log, f, indent=2)
+                    
+                    print(f"Accumulated fetch #{accumulated_log['log_metadata']['total_fetches']} - {len(data.get('results', []))} matches")
                     
                     if 'err' in data:
                         print(f"API Error: {data['err']}")

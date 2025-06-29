@@ -1,6 +1,15 @@
 #!/usr/bin/env python3
 
 # ========================================
+# CENTRALIZED LOGGING SYSTEM REMOVAL NOTE
+# ========================================
+# This project previously used a centralized logging system with shared configuration files
+# (logging_utils.py, loggingconfig.py, etc.) that was removed due to path confusion and
+# complexity. Each endpoint file now contains its own independent, hardcoded logging logic
+# that is specific to that file's requirements. No centralized logging imports remain.
+# ========================================
+
+# ========================================
 # IDENTIFIER REFERENCE - ODDS.PY
 # ========================================
 # INPUT IDs: match_id (from live.py) -> used as 'uuid' parameter
@@ -140,7 +149,6 @@ import aiohttp
 import os
 import json
 from typing import List, Dict, Any
-from logging_utils import create_logger
 
 def filter_early_odds(odds_data: Dict[str, Any]) -> Dict[str, Any]:
     """Filter odds to keep only early match data (empty string to 10th minute)"""
@@ -177,8 +185,6 @@ def filter_early_odds(odds_data: Dict[str, Any]) -> Dict[str, Any]:
 async def fetch_match_odds(match_id: str) -> Dict[str, Any]:
     """Fetch odds history for a specific match ID"""
     
-    logger = create_logger("odds")
-    
     user = os.getenv('THESPORTS_USER')
     secret = os.getenv('THESPORTS_SECRET')
     
@@ -204,21 +210,18 @@ async def fetch_match_odds(match_id: str) -> Dict[str, Any]:
                     if 'err' in data:
                         error_msg = f"API Error for match {match_id}: {data['err']}"
                         print(error_msg)
-                        logger.log_request(request_data, data, "failed", error_msg)
                         return {}
                     
                     # Filter odds to keep only early match data (0-10 minutes)
                     filtered_data = filter_early_odds(data)
-                    logger.log_request(request_data, filtered_data, "success")
                     return filtered_data.get('results', {})
                 else:
                     error_msg = f"HTTP Error {response.status} for match {match_id}"
-                    logger.log_request(request_data, None, "failed", error_msg)
+                    print(error_msg)
                     return {}
         except Exception as e:
             error_msg = f"Request failed for match {match_id}: {e}"
             print(error_msg)
-            logger.log_request(request_data, None, "failed", error_msg)
             return {}
 
 async def process_match_odds():
@@ -274,9 +277,35 @@ async def process_match_odds():
     
     print(f"Processed odds for {valid_count}/{len(match_ids)} matches")
     
-    # Save odds data
+    # Save odds data to temp file
     with open('/tmp/match_odds.json', 'w') as f:
         json.dump(match_odds, f)
+    
+    # Save to persistent log file with NY timestamp footer
+    from datetime import datetime
+    import pytz
+    
+    ny_tz = pytz.timezone('US/Eastern')
+    ny_time = datetime.now(ny_tz)
+    timestamp_footer = f"--- Last Updated: {ny_time.strftime('%m/%d/%Y %I:%M %p')} EST ---"
+    
+    # Create log entry for persistent storage
+    log_entry = {
+        "timestamp": ny_time.isoformat(),
+        "endpoint": "odds",
+        "status": "success",
+        "matches_processed": valid_count,
+        "total_matches": len(match_ids),
+        "data": match_odds,
+        "ny_timestamp": timestamp_footer
+    }
+    
+    # Ensure logs directory exists
+    os.makedirs('/workspaces/TMUX_FINAL_SPORTS/logs/odds', exist_ok=True)
+    
+    # Save to persistent log file
+    with open('/workspaces/TMUX_FINAL_SPORTS/logs/odds/odds.json', 'w') as f:
+        json.dump(log_entry, f, indent=2)
 
 async def main():
     """Main entry point"""
@@ -287,9 +316,3 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 
-# NY Eastern Time Footer
-from datetime import datetime
-import pytz
-ny_tz = pytz.timezone('US/Eastern')
-ny_time = datetime.now(ny_tz)
-print(f"\n--- Generated: {ny_time.strftime('%m/%d/%Y %I:%M %p')} EST ---")

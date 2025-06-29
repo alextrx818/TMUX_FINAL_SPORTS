@@ -1,0 +1,89 @@
+{
+  "_description": "Official JSON schema from API service documentation for alerts.json structure",
+  "_purpose": "Reference schema for field modifications and validation",
+  "_created": "2025-06-29",
+  "_note": "Upload your API service JSON schema here to replace this placeholder"
+}
+
+ var_reason:
+integer
+VAR reason，related to var incident
+1-Goal awarded
+2-Goal not awarded
+3-Penalty awarded
+4-Penalty not awarded
+5 -Red card given
+6-Card upgrade
+7-Mistaken identity
+0-Other
+var_result:
+integer
+VAR result，related to var incident
+1-Goal confirmed
+2-Goal cancelled
+3-Penalty confirmed
+4-Penalty cancelled
+5-Red card confirmed
+6-Red card cancelled
+7-Card upgrade confirmed
+8-Card upgrade cancelled
+9-Original decision
+10-Original decision changed
+0-Unknown
+
+Corner
+Array[8]
+0:"Change time                                               (Integer type)"
+1:"Time of the match，empty before start                     (String type)"
+2:"Over                                                      (Float type)"
+3:"Handicap                                                  (Float type)"
+4:"Under                                                     (Float type)"
+5:"Match status，please refer to Status Code -> Match Status (Integer type)"
+6:"Whether to seal the disk：0-No，1-Yes                     (Integer type)"
+7:"Corner Ratio，home team-away team                         (String type)"
+
+
+Over/Under:[
+
+   Enum:
+Array[8]
+0:"Change time                                               (Integer type)"
+1:"Time of the match，empty before start                     (String type)"
+2:"Over                                                      (Float type)"
+3:"Handicap                                                  (Float type)"
+4:"Under                                                     (Float type)"
+5:"Match status，please refer to Status Code -> Match Status (Integer type)"
+6:"Whether to seal the disk：0-No，1-Yes                     (Integer type)"
+7:"Score，home team-away team                                (String type)"
+]
+]
+
+Money Line:[
+
+  Enum:
+Array[8]
+0:"Change time                                               (Integer type)"
+1:"Time of the match，empty before start                     (String type)"
+2:"Home win                                                  (Float type)"
+3:"Draw                                                      (Float type)"
+4:"Away win                                                  (Float type)"
+5:"Match status，please refer to Status Code -> Match Status (Integer type)"
+6:"Whether to seal the disk：0-No，1-Yes                     (Integer type)"
+7:"Score，home team-away team                                (String type)"
+]
+
+
+Handicap:[
+
+   Enum:
+Array[8]
+0:"Change time                                               (Integer type)"
+1:"Time of the match，empty before start                     (String type)"
+2:"Home win                                                  (Float type)"
+3:"Handicap                                                  (Float type)"
+4:"Away win                                                  (Float type)"
+5:"Match status，please refer to Status Code -> Match Status (Integer type)"
+6:"Whether to seal the disk：0-No，1-Yes                     (Integer type)"
+7:"Score，home team-away team                                (String type)"
+]
+]

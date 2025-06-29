@@ -1,0 +1,72 @@
+{
+  "match_id": "1l4rjnh4vvonm7v",                           // F01
+  "timestamp": "06/29/2025 02:26 AM",                      // F02
+  "scheduled_time_readable": "06/29/2025 05:00 AM",        // F03
+  "competition_name": "Australia National Premier Leagues", // F04
+  "home_team_name": "Canberra FC",                         // F05
+  "away_team_name": "Gungahlin United",                    // F06
+  "details_status_id": 4,                                   // F07
+  "": "",                                                   // F07.1 (visual separator)
+  
+  "home_score_current": 2,                                  // F08
+  "home_score_half": 2,                                     // F09
+  "home_corners": 3,                                        // F10
+  " ": "",                                                  // F10.1 (visual separator)
+  "": "",                                                   // F11 (anomaly)
+  "away_score_current": 3,                                  // F12
+  "away_score_half": 0,                                     // F13
+  "away_corners": 1,                                        // F14
+  "  ": "",                                                 // F14.1 (visual separator)
+  "spread_timestamp": 1751173404,                          // F15 (flattened from spread array[0])
+  "spread_capture_time": "4",                              // F16 (flattened from spread array[1])
+  "spread_home_odds": "-105",                              // F17 (flattened from spread array[2])
+  "spread_value": 3.25,                                    // F18 (flattened from spread array[3])
+  "spread_away_odds": "-117",                              // F19 (flattened from spread array[4])
+  "spread_status": 2,                                      // F20 (flattened from spread array[5])
+  "spread_game_score": "0-0",                              // F21 (flattened from spread array[7], skipped index 6)
+  "spread_separator": "",                                   // F21.1 (visual separator)
+  "overunder_timestamp": 1751173351,                       // F22 (flattened from over/under array[0])
+  "overunder_capture_time": "3",                           // F23 (flattened from over/under array[1])
+  "over": "-105",                                          // F24 (flattened from over/under array[2])
+  "total_line": 5.0,                                       // F25 (flattened from over/under array[3])
+  "under": "-117",                                         // F26 (flattened from over/under array[4])
+  "match_status": 2,                                       // F27 (flattened from over/under array[5])
+  "overunder_game_score": "0-0",                           // F28 (flattened from over/under array[7], skipped indices 6&7)
+  "overunder_separator": "",                                // F28.1 (visual separator)
+  "home_scores": [4,2,1,1,5,0,0],                          // F29 (array)
+  "away_scores": [5,0,0,4,2,0,0],                          // F30 (array)
+  "odds": {                                                 // F31
+    "2": {                                                  // F17a (bookmaker)
+      "spread": [                                           // F17a1 (array)
+        [1751173404,"4","-105",3.25,"-117",2,0,"0-0"]       // F17a1_elements
+      ],
+      "MoneyLine": [                                        // F17a2 (array)
+        [1751173750,"9","-999",900.0,"+1400",2,1,"0-0"]     // F17a2_elements
+      ],
+      "Over/Under": [                                       // F17a3 (array)
+        [1751173351,"3","-105",5.0,"-117",2,0,"0-0"]        // F17a3_elements
+      ],
+      "Corners": [                                          // F17a4 (array)
+        [1751173431,"4","-125",9.5,"-111",2,0,"0-0"]        // F17a4_elements
+      ]
+    }
+  },
+  "var_incidents": [                                        // F32 (array)
+    {
+      "type": 28,                                           // F18a
+      "position": 1,                                        // F18b
+      "time": 19,                                           // F18c
+      "player_id": "vjxm8gh8o67xr6o",                       // F18d
+      "player_name": "Player Name",                         // F18e
+      "var_reason": 4,                                      // F18f
+      "var_result": 3                                       // F18g
+    }
+  ],
+  "environment": {                                          // F33
+    "weather": "Fair",                                      // F19a
+    "pressure": "769mmHg",                                  // F19b
+    "temperature": "52°F",                                  // F19c
+    "wind": "11mph (Gentle Breeze)",                        // F19d
+    "humidity": "58%"                                       // F19e
+  }
+}

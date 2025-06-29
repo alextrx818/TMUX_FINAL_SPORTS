@@ -1,6 +1,26 @@
 #!/usr/bin/env python3
 
 # ========================================
+# CENTRALIZED LOGGING SYSTEM REMOVAL NOTE
+# ========================================
+# This project previously used a centralized logging system with shared configuration files
+# (logging_utils.py, loggingconfig.py, etc.) that was removed due to path confusion and
+# complexity. Each endpoint file now contains its own independent, hardcoded logging logic
+# that is specific to that file's requirements. No centralized logging imports remain.
+# ========================================
+
+# ========================================
+# PIPELINE CALLING STANDARD - DETAILS.PY
+# ========================================
+# POSITION: live.py → details.py → teams.py + competitions.py + countries.py → merge.py
+# CALLS NEXT: trigger_next_stage() → subprocess.run(['python3', 'teams.py'], check=True)
+#                                  → subprocess.run(['python3', 'competitions.py'], check=True)
+#                                  → subprocess.run(['python3', 'countries.py'], check=True)
+#                                  → subprocess.run(['python3', 'merge.py'], check=True)
+# PATTERN: Standard pipeline pattern with try/except CalledProcessError handling
+# ========================================
+
+# ========================================
 # IDENTIFIER REFERENCE - DETAILS.PY
 # ========================================
 # INPUT IDs: match_id (from live.py) -> used as 'uuid' parameter
@@ -244,41 +264,16 @@ async def process_match_details():
     print(f"Found {len(team_ids)} unique teams: {list(team_ids)[:5]}...")
     print(f"Found {len(competition_ids)} unique competitions: {list(competition_ids)}")
     
-    # Archive old file before writing new one + rotation management
+    # Write new data with timestamp
     from datetime import datetime
     import pytz
-    import shutil
-    import glob
     
     ny_tz = pytz.timezone('US/Eastern')
     ny_time = datetime.now(ny_tz)
     timestamp = ny_time.strftime('%m/%d/%Y %I:%M:%S %p')
-    archive_timestamp = ny_time.strftime('%Y%m%d_%H%M%S')
     
     details_file = '/workspaces/TMUX_FINAL_SPORTS/logs/details/details.json'
-    archive_dir = '/workspaces/TMUX_FINAL_SPORTS/logs/details/archive'
     
-    # Ensure archive directory exists
-    os.makedirs(archive_dir, exist_ok=True)
-    
-    # Archive existing file if it exists
-    if os.path.exists(details_file):
-        archive_file = f"{archive_dir}/details_{archive_timestamp}.json"
-        shutil.copy2(details_file, archive_file)
-        print(f"Archived previous details.json to {archive_file}")
-    
-    # Rotation: Keep only last 50 files in archive
-    archive_files = glob.glob(f"{archive_dir}/details_*.json")
-    archive_files.sort()  # Sort by filename (which includes timestamp)
-    
-    if len(archive_files) > 50:
-        files_to_remove = archive_files[:-50]  # Keep last 50, remove older ones
-        for old_file in files_to_remove:
-            os.remove(old_file)
-            print(f"Rotated out: {old_file}")
-        print(f"Rotation completed: removed {len(files_to_remove)} old archive files")
-    
-    # Write new data
     data_with_timestamp = {
         "api_response": valid_details,
         "fetch_timestamp": f"{timestamp} EST",
@@ -300,13 +295,19 @@ async def process_match_details():
     trigger_next_stage()
 
 def trigger_next_stage():
-    """Call teams and competitions fetchers"""
+    """Call teams and competitions fetchers, then merge all data"""
     print("Triggering team and competition fetching...")
     
     try:
         subprocess.run(['python3', 'teams.py'], check=True)
         subprocess.run(['python3', 'competitions.py'], check=True)
         subprocess.run(['python3', 'countries.py'], check=True)
+        
+        # Final step: merge all pipeline data
+        print("Triggering final data merge...")
+        subprocess.run(['python3', 'merge.py'], check=True)
+        print("✅ Complete pipeline finished - merge.py executed successfully")
+        
     except subprocess.CalledProcessError as e:
         print(f"Error calling next stage: {e}")
 

@@ -6,11 +6,13 @@
 echo "Starting Sports API Pipeline..."
 echo "================================"
 
-# Check environment variables
-if [ -z "$THESPORTS_USER" ] || [ -z "$THESPORTS_SECRET" ]; then
-    echo "ERROR: Please set THESPORTS_USER and THESPORTS_SECRET environment variables"
-    exit 1
-fi
+# Set API credentials (hardcoded for convenience)
+export THESPORTS_USER="thenecpt"
+export THESPORTS_SECRET="0c55322e8e196d6ef9066fa4252cf386"
+
+echo "✅ API credentials set"
+echo "User: $THESPORTS_USER"
+echo "Secret: [HIDDEN]"
 
 # Clean up any previous temp files
 rm -f /tmp/live_matches.json

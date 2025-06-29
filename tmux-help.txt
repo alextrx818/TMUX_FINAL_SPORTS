@@ -1,0 +1,33 @@
+TMUX Quick Reference for Sports Dev Session
+==========================================
+
+Session Management:
+- Attach to session: tmux attach -t sports-dev
+- Detach from session: Ctrl-a d
+- List sessions: tmux list-sessions
+
+Windows (Tabs):
+- main: Development and file browsing
+- pipeline: Monitor pipeline_background.log
+- logs: View application logs
+- test: Run tests and validation
+- dev: Development workspace
+
+Key Bindings (Prefix: Ctrl-a):
+- Ctrl-a c: Create new window
+- Ctrl-a n: Next window
+- Ctrl-a p: Previous window
+- Ctrl-a 0-9: Switch to window number
+- Ctrl-a |: Split pane vertically
+- Ctrl-a -: Split pane horizontally
+- Ctrl-a h/j/k/l: Navigate panes (vim-style)
+- Ctrl-a H/J/K/L: Resize panes
+- Ctrl-a x: Close current pane
+- Ctrl-a r: Reload config
+
+Mouse Support: Enabled (click to select panes/windows)
+
+To start working:
+1. tmux attach -t sports-dev
+2. Navigate with Ctrl-a + window number
+3. Use Ctrl-a d to detach when done

@@ -1,0 +1,1945 @@
+{
+  "code": 0,
+  "results": [
+    {
+      "id": "vjxm8ghegv94r6o",
+      "score": [
+        "vjxm8ghegv94r6o",
+        2,
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        1750373082,
+        ""
+      ],
+      "stats": [
+        {
+          "type": 8,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 2,
+          "home": 0,
+          "away": 1
+        },
+        {
+          "type": 25,
+          "home": 38,
+          "away": 62
+        },
+        {
+          "type": 22,
+          "home": 1,
+          "away": 2
+        },
+        {
+          "type": 24,
+          "home": 2,
+          "away": 10
+        },
+        {
+          "type": 4,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 21,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 3,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 23,
+          "home": 6,
+          "away": 12
+        }
+      ],
+      "incidents": [],
+      "tlive": [
+        {
+          "time": "",
+          "data": "Lineups are announced and players are warming up.",
+          "position": 0
+        },
+        {
+          "time": "",
+          "data": "First Half begins.",
+          "position": 0
+        },
+        {
+          "time": "2'",
+          "data": "2'Corner,Haiti.Conceded by Sheldon Bateau.",
+          "position": 0
+        },
+        {
+          "time": "3'",
+          "data": "3'Attempt missed.Ricardo Ad\u00e9 (Haiti)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "3'",
+          "data": "3'Hand ball by Louicius Deedson (Haiti).",
+          "position": 2
+        },
+        {
+          "time": "4'",
+          "data": "4'Nathaniel James (Trinidad and Tobago) foul.",
+          "position": 1
+        },
+        {
+          "time": "4'",
+          "data": "4'Ricardo Ad\u00e9 (Haiti) gets a free kick in the attacking half.",
+          "position": 2
+        },
+        {
+          "time": "4'",
+          "data": "4'Daniel Phillips (Trinidad and Tobago) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "4'",
+          "data": "4'Danley Jean Jacques (Haiti) foul.",
+          "position": 2
+        },
+        {
+          "time": "6'",
+          "data": "6'Attempt missed.Nathaniel James (Trinidad and Tobago)\u2019s left foot shot.",
+          "position": 1
+        },
+        {
+          "time": "7'",
+          "data": "7'Andre Rampersad (Trinidad and Tobago) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "7'",
+          "data": "7'Frantzdy Pierrot (Haiti) foul.",
+          "position": 2
+        },
+        {
+          "time": "7'",
+          "data": "7'Carlens Arcus (Haiti) foul.",
+          "position": 2
+        },
+        {
+          "time": "7'",
+          "data": "7'Tyrese Spicer (Trinidad and Tobago) gets a free kick on the left wing.",
+          "position": 1
+        },
+        {
+          "time": "8'",
+          "data": "8'Sheldon Bateau (Trinidad and Tobago) foul.",
+          "position": 1
+        },
+        {
+          "time": "8'",
+          "data": "8'Frantzdy Pierrot (Haiti) gets a free kick on the left wing.",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "y39mp1h65jxlmoj",
+      "score": [
+        "y39mp1h65jxlmoj",
+        2,
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        1750371540,
+        ""
+      ],
+      "stats": [],
+      "incidents": [],
+      "tlive": []
+    },
+    {
+      "id": "y0or5jhnyjk8qwz",
+      "score": [
+        "y0or5jhnyjk8qwz",
+        3,
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          1,
+          1,
+          0,
+          0
+        ],
+        0,
+        ""
+      ],
+      "stats": [
+        {
+          "type": 22,
+          "home": 6,
+          "away": 7
+        },
+        {
+          "type": 24,
+          "home": 18,
+          "away": 29
+        },
+        {
+          "type": 3,
+          "home": 0,
+          "away": 1
+        },
+        {
+          "type": 23,
+          "home": 42,
+          "away": 60
+        },
+        {
+          "type": 4,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 25,
+          "home": 35,
+          "away": 65
+        },
+        {
+          "type": 21,
+          "home": 1,
+          "away": 3
+        },
+        {
+          "type": 8,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 2,
+          "home": 1,
+          "away": 1
+        }
+      ],
+      "incidents": [
+        {
+          "type": 1,
+          "position": 2,
+          "time": 11,
+          "player_id": "dn1m1gh30v2zmoe",
+          "player_name": "Pablo Barrios Rivas",
+          "assist1_id": "4jwq2ghx0l8ym0v",
+          "assist1_name": "Giuliano Simeone Baldini",
+          "home_score": 0,
+          "away_score": 1
+        },
+        {
+          "type": 28,
+          "position": 2,
+          "time": 38,
+          "player_id": "4jwq2ghx0l8ym0v",
+          "player_name": "Giuliano Simeone Baldini",
+          "var_reason": 3,
+          "var_result": 4
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 42,
+          "player_id": "2y8m4zhg82gql07",
+          "player_name": "Rodrigo De Paul",
+          "reason_type": 1
+        },
+        {
+          "type": 19,
+          "position": 0,
+          "time": 45,
+          "add_time": 3
+        },
+        {
+          "type": 11,
+          "position": 0,
+          "time": 49
+        }
+      ],
+      "tlive": [
+        {
+          "time": "",
+          "data": "Lineups are announced and players are warming up.",
+          "position": 0
+        },
+        {
+          "time": "",
+          "data": "First Half begins.",
+          "position": 0
+        },
+        {
+          "time": "2'",
+          "data": "2'Corner,Atletico Madrid.Conceded by Jackson Ragen.",
+          "position": 0
+        },
+        {
+          "time": "4'",
+          "data": "4'Attempt saved.Alexander S\u00f8rloth (Atletico Madrid)\u2019s header from the centre of the box is saved by %oppos_player% (Atletico Madrid).",
+          "position": 2
+        },
+        {
+          "time": "6'",
+          "data": "6'Danny Musovski (Seattle Sounders) foul.",
+          "position": 1
+        },
+        {
+          "time": "6'",
+          "data": "6'Robin Le Normand (Atletico Madrid) gets a free kick in the defensive half.",
+          "position": 2
+        },
+        {
+          "time": "8'",
+          "data": "8'Attempt blocked.Juli\u00e1n Alvarez (Atletico Madrid)\u2019s right foot shot.Pablo Barrios assists.",
+          "position": 2
+        },
+        {
+          "time": "8'",
+          "data": "8'Pedro de la Vega (Seattle Sounders) foul.",
+          "position": 1
+        },
+        {
+          "time": "8'",
+          "data": "8'Pablo Barrios (Atletico Madrid) gets a free kick on the left wing.",
+          "position": 2
+        },
+        {
+          "time": "9'",
+          "data": "9'Attempt missed.Juli\u00e1n Alvarez (Atletico Madrid)\u2019s header from the centre of the box following a set piece situation.",
+          "position": 2
+        },
+        {
+          "time": "10'",
+          "data": "10'Juli\u00e1n Alvarez (Atletico Madrid) hits the right post with a\u2019s right foot shot.Rodrigo De Paul assists.",
+          "position": 2
+        },
+        {
+          "time": "9'",
+          "data": "9'Attempt missed.Alexander S\u00f8rloth (Atletico Madrid)\u2019s header from the centre of the box misses to the right.Giuliano Simeone with a cross assists.",
+          "position": 2
+        },
+        {
+          "time": "10'",
+          "data": "10'Juli\u00e1n Alvarez (Atletico Madrid) hits the right post with a\u2019s right foot shot.Rodrigo De Paul assists.",
+          "position": 2
+        },
+        {
+          "time": "11'",
+          "data": "11'Goal! Seattle Sounders FC 0, Atletico Madrid 1.Pablo Barrios (Atletico Madrid)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "15'",
+          "data": "15'Danny Musovski (Seattle Sounders) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "15'",
+          "data": "15'Rodrigo De Paul (Atletico Madrid) foul.",
+          "position": 2
+        },
+        {
+          "time": "15'",
+          "data": "15'Attempt missed.Alexander S\u00f8rloth (Atletico Madrid)\u2019s left foot shot is too high.Rodrigo De Paul assists.",
+          "position": 2
+        },
+        {
+          "time": "16'",
+          "data": "16'Robin Le Normand (Atletico Madrid) foul.",
+          "position": 2
+        },
+        {
+          "time": "16'",
+          "data": "16'Pedro de la Vega (Seattle Sounders) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "17'",
+          "data": "17'Corner,Seattle Sounders FC.Conceded by Jan Oblak.",
+          "position": 0
+        },
+        {
+          "time": "18'",
+          "data": "18'Javi Gal\u00e1n (Atletico Madrid) foul.",
+          "position": 2
+        },
+        {
+          "time": "18'",
+          "data": "18'Paul Rothrock (Seattle Sounders) gets a free kick on the right wing.",
+          "position": 1
+        },
+        {
+          "time": "19'",
+          "data": "19'Attempt missed.Danny Musovski (Seattle Sounders)\u2019s header from the centre of the box following a set piece situation.",
+          "position": 1
+        },
+        {
+          "time": "20'",
+          "data": "20'Attempt missed.Albert Rusn\u00e1k (Seattle Sounders)\u2019s right foot shot.",
+          "position": 1
+        },
+        {
+          "time": "21'",
+          "data": "21'Attempt blocked.Cristian Roldan (Seattle Sounders)\u2019s right foot shot Defensive player blocked.",
+          "position": 1
+        },
+        {
+          "time": "25'",
+          "data": "25'Attempt saved.Alexander S\u00f8rloth (Atletico Madrid)\u2019s right foot shot is saved by %oppos_player% (Atletico Madrid).",
+          "position": 2
+        },
+        {
+          "time": "27'",
+          "data": "27'Paul Rothrock (Seattle Sounders) gets a free kick in the attacking half.",
+          "position": 1
+        },
+        {
+          "time": "28'",
+          "data": "28'Attempt blocked.Albert Rusn\u00e1k (Seattle Sounders)\u2019s right foot shot.",
+          "position": 1
+        },
+        {
+          "time": "32'",
+          "data": "32'Marcos Llorente (Atletico Madrid) foul.",
+          "position": 2
+        },
+        {
+          "time": "32'",
+          "data": "32'Reed Baker-Whiting (Seattle Sounders) gets a free kick on the left wing.",
+          "position": 1
+        },
+        {
+          "time": "33'",
+          "data": "33'Offside, Seattle Sounders FC.Jackson Ragen is caught offside.",
+          "position": 0
+        },
+        {
+          "time": "33'",
+          "data": "33'Attempt missed.Cristian Roldan (Seattle Sounders)\u2019s left foot shot.",
+          "position": 1
+        },
+        {
+          "time": "36'",
+          "data": "36'Penalty Atletico Madrid.Giuliano Simeone draws a foul in the penalty area.",
+          "position": 0
+        },
+        {
+          "time": "36'",
+          "data": "36'Reed Baker-Whiting (Seattle Sounders) after a foul in the penalty area conceded the penalty.",
+          "position": 1
+        },
+        {
+          "time": "38'",
+          "data": "38'VAR Checking: Atletico Madrid Penalty.",
+          "position": 0
+        },
+        {
+          "time": "42'",
+          "data": "Yellow card by 42'Rodrigo De Paul (Atletico Madrid) for a bad foul.",
+          "position": 2
+        },
+        {
+          "time": "45'+1'",
+          "data": "45'+1'Pedro de la Vega (Seattle Sounders) foul.",
+          "position": 1
+        },
+        {
+          "time": "45'+1'",
+          "data": "45'+1'Javi Gal\u00e1n (Atletico Madrid) gets a free kick on the left wing.",
+          "position": 2
+        },
+        {
+          "time": "45'+2'",
+          "data": "45'+2'Attempt missed.Marcos Llorente (Atletico Madrid)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "45'+3'",
+          "data": "45'+3'Attempt missed.Reed Baker-Whiting (Seattle Sounders)\u2019s right foot shot.",
+          "position": 1
+        },
+        {
+          "time": "45'+4'",
+          "data": "45'+4'First Half ends, Seattle Sounders FC 0, Atletico Madrid 1.",
+          "position": 0
+        }
+      ]
+    },
+    {
+      "id": "ednm9whw9zo6ryo",
+      "score": [
+        "ednm9whw9zo6ryo",
+        8,
+        [
+          2,
+          2,
+          0,
+          1,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          3,
+          4,
+          0,
+          0
+        ],
+        0,
+        ""
+      ],
+      "stats": [
+        {
+          "type": 22,
+          "home": 8,
+          "away": 10
+        },
+        {
+          "type": 3,
+          "home": 1,
+          "away": 3
+        },
+        {
+          "type": 4,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 23,
+          "home": 72,
+          "away": 63
+        },
+        {
+          "type": 24,
+          "home": 25,
+          "away": 39
+        },
+        {
+          "type": 25,
+          "home": 43,
+          "away": 57
+        },
+        {
+          "type": 21,
+          "home": 4,
+          "away": 3
+        },
+        {
+          "type": 2,
+          "home": 3,
+          "away": 4
+        },
+        {
+          "type": 8,
+          "home": 0,
+          "away": 0
+        }
+      ],
+      "incidents": [
+        {
+          "type": 1,
+          "position": 1,
+          "time": 4,
+          "player_id": "dn1m1ghn764dmoe",
+          "player_name": "Gonzalo Lencina",
+          "assist1_id": "965mkyhne7xr1ge",
+          "assist1_name": "Alex Castro",
+          "home_score": 1,
+          "away_score": 0
+        },
+        {
+          "type": 1,
+          "position": 1,
+          "time": 16,
+          "player_id": "ednm9whg767ryox",
+          "player_name": "Adri\u00e1n Parra",
+          "assist1_id": "965mkyhne7xr1ge",
+          "assist1_name": "Alex Castro",
+          "home_score": 2,
+          "away_score": 0
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 37,
+          "player_id": "zp5rzghz1oeyq82",
+          "player_name": "Anderson Angulo",
+          "reason_type": 1
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 38,
+          "player_id": "1l4rjnhx1eekm7v",
+          "player_name": "Jose Abad Cuenu Rodriguez",
+          "reason_type": 1
+        },
+        {
+          "type": 19,
+          "position": 0,
+          "time": 45,
+          "add_time": 2
+        },
+        {
+          "type": 11,
+          "position": 0,
+          "time": 48
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 45,
+          "in_player_id": "pxwrxlhz1okvryk",
+          "in_player_name": "Jhon Quinones",
+          "out_player_id": "zp5rzghz1oeyq82",
+          "out_player_name": "Anderson Angulo",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 45,
+          "in_player_id": "965mkyhe6wnwr1g",
+          "in_player_name": "Yeferson moreno",
+          "out_player_id": "vjxm8gh8exwor6o",
+          "out_player_name": "Jhomier Javier Guerrero Gonz\u00e1lez",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 45,
+          "in_player_id": "318q66hv1800qo9",
+          "in_player_name": "Jersson Gonz\u00e1lez",
+          "out_player_id": "k82rekhywkpnrep",
+          "out_player_name": "Kevin P\u00e9rez",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 45,
+          "in_player_id": "4jwq2gh7xx3m0ve",
+          "in_player_name": "Cristian Arrieta",
+          "out_player_id": "n54qllhj7z7qvy9",
+          "out_player_name": "Yhormar Hurtado",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 63,
+          "in_player_id": "pxwrxlhznw98ryk",
+          "in_player_name": "Victor Manuel Reyes Clavijo",
+          "out_player_id": "8yomo4h28zgq0j6",
+          "out_player_name": "Juan Pablo Nieto",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 70,
+          "in_player_id": "k82rekh3o0owrep",
+          "in_player_name": "Miller Joel Bacca Tejera",
+          "out_player_id": "vjxm8ghgoywr6od",
+          "out_player_name": "Didier Moreno",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 71,
+          "in_player_id": "y0or5jhg4k2gqwz",
+          "in_player_name": "Jeinner Fuentes",
+          "out_player_id": "dn1m1ghn764dmoe",
+          "out_player_name": "Gonzalo Lencina",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 75,
+          "in_player_id": "x7lm7ph9oe0nm2w",
+          "in_player_name": "J. Canchimbo",
+          "out_player_id": "x7lm7phwlzzdm2w",
+          "out_player_name": "Jordan Andres Barrera Herrera",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 75,
+          "in_player_id": "2y8m4zh8p04yql0",
+          "in_player_name": "Jose Fernando Caicedo Vidal",
+          "out_player_id": "1l4rjnhx1eekm7v",
+          "out_player_name": "Jose Abad Cuenu Rodriguez",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 75,
+          "in_player_id": "23xmvkhkxj4xqg8",
+          "in_player_name": "Jhon Jaider Velez Carey",
+          "out_player_id": "l5ergphvkylor8k",
+          "out_player_name": "Yani Quintero",
+          "reason_type": 3
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 81,
+          "player_id": "2y8m4zh8p04yql0",
+          "player_name": "Jose Fernando Caicedo Vidal",
+          "reason_type": 1
+        },
+        {
+          "type": 28,
+          "position": 2,
+          "time": 87,
+          "player_id": "vjxm8ghj92v5r6o",
+          "player_name": "Bryan Castrill\u00f3n",
+          "var_reason": 1,
+          "var_result": 2
+        },
+        {
+          "type": 19,
+          "position": 0,
+          "time": 90,
+          "add_time": 3
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 91,
+          "add_time": 1,
+          "player_id": "l5ergphv2dzjr8k",
+          "player_name": "Steven Rodr\u00edguez",
+          "reason_type": 1
+        },
+        {
+          "type": 12,
+          "position": 0,
+          "time": 94
+        }
+      ],
+      "tlive": [
+        {
+          "time": "",
+          "data": "Lineups are announced and players are warming up.",
+          "position": 0
+        },
+        {
+          "time": "",
+          "data": "First Half begins.",
+          "position": 0
+        },
+        {
+          "time": "2'",
+          "data": "2'Steven Rodr\u00edguez (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "3'",
+          "data": "3'Corner,Deportes Tolima.Conceded by Fabi\u00e1n \u00c1ngel.",
+          "position": 0
+        },
+        {
+          "time": "4'",
+          "data": "4'Goal! Deportes Tolima 1-0 Junior.Gonzalo Lencina (Deportes Tolima)\u2019s header from a difficult angle on the right to the bottom left corner.\u00c1lex Castro with a cross following a corner assists.",
+          "position": 1
+        },
+        {
+          "time": "6'",
+          "data": "6'Offside, Junior.Jord\u00e1n Barrera is caught offside.",
+          "position": 0
+        },
+        {
+          "time": "7'",
+          "data": "7'Corner,Deportes Tolima.Conceded by Fabi\u00e1n \u00c1ngel.",
+          "position": 0
+        },
+        {
+          "time": "8'",
+          "data": "8'Corner,Junior.Conceded by Junior Hern\u00e1ndez.",
+          "position": 0
+        },
+        {
+          "time": "12'",
+          "data": "12'The match delays because Yani Quintero (Atletico Junior Barranquilla) injured.",
+          "position": 2
+        },
+        {
+          "time": "13'",
+          "data": "13'Delay over.The match resumes.",
+          "position": 0
+        },
+        {
+          "time": "14'",
+          "data": "14'Junior Hern\u00e1ndez (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "14'",
+          "data": "14'Jord\u00e1n Barrera (Atletico Junior Barranquilla) gets a free kick on the right wing.",
+          "position": 2
+        },
+        {
+          "time": "14'",
+          "data": "14'Adri\u00e1n Parra (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "14'",
+          "data": "14'Jhomier Guerrero (Atletico Junior Barranquilla) gets a free kick in the attacking half.",
+          "position": 2
+        },
+        {
+          "time": "15'",
+          "data": "15'Jord\u00e1n Barrera (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "15'",
+          "data": "15'\u00c1lex Castro (Deportes Tolima) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "16'",
+          "data": "16'Yimmi Char\u00e1 (Atletico Junior Barranquilla) gets a free kick in the defensive half.",
+          "position": 2
+        },
+        {
+          "time": "16'",
+          "data": "16'Goal! Deportes Tolima 2-0 Junior.Adri\u00e1n Parra (Deportes Tolima)\u2019s left foot shot.",
+          "position": 1
+        },
+        {
+          "time": "18'",
+          "data": "18'Attempt missed.Gonzalo Lencina (Deportes Tolima)\u2019s right foot shot.Adri\u00e1n Parra assists.",
+          "position": 1
+        },
+        {
+          "time": "20'",
+          "data": "20'Jord\u00e1n Barrera (Atletico Junior Barranquilla) gets a free kick on the right wing.",
+          "position": 2
+        },
+        {
+          "time": "22'",
+          "data": "22'Didier Moreno (Atletico Junior Barranquilla) gets a free kick in the defensive half.",
+          "position": 2
+        },
+        {
+          "time": "22'",
+          "data": "22'Junior Hern\u00e1ndez (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "28'",
+          "data": "28'Attempt blocked.\u00c1lex Castro (Deportes Tolima)\u2019s right foot shot.",
+          "position": 1
+        },
+        {
+          "time": "32'",
+          "data": "32'Attempt blocked.Bryan Castrill\u00f3n (Atletico Junior Barranquilla)\u2019s right foot shot.Jord\u00e1n Barrera assists.",
+          "position": 2
+        },
+        {
+          "time": "34'",
+          "data": "34'Corner,Deportes Tolima.Conceded by Jhomier Guerrero.",
+          "position": 0
+        },
+        {
+          "time": "35'",
+          "data": "35'Attempt missed.Brayan Rovira (Deportes Tolima)\u2019s right foot shot.Juli\u00e1n Qui\u00f1\u00f3nes following a corner assists.",
+          "position": 1
+        },
+        {
+          "time": "36'",
+          "data": "36'Attempt saved.Goalkeeper saves Didier Moreno (Atletico Junior Barranquilla)\u2019s right foot shot from from outside the box in the centre of the goal by Cristopher Fiermar\u00edn (Atletico Junior Barranquilla).Yani Quintero assists.",
+          "position": 2
+        },
+        {
+          "time": "37'",
+          "data": "37'Anderson Angulo (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "37'",
+          "data": "37'Steven Rodr\u00edguez (Atletico Junior Barranquilla) gets a free kick in the attacking half.",
+          "position": 2
+        },
+        {
+          "time": "37'",
+          "data": "Yellow card by 37'Anderson Angulo (Deportes Tolima) for a bad foul.",
+          "position": 1
+        },
+        {
+          "time": "38'",
+          "data": "38'Jos\u00e9 Cuen\u00fa (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "38'",
+          "data": "38'\u00c1lex Castro (Deportes Tolima) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "38'",
+          "data": "Yellow card by 38'Jos\u00e9 Cuen\u00fa (Atletico Junior Barranquilla) for a bad foul.",
+          "position": 2
+        },
+        {
+          "time": "39'",
+          "data": "39'Attempt blocked.Steven Rodr\u00edguez (Atletico Junior Barranquilla)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "43'",
+          "data": "43'Corner,Junior.Conceded by Junior Hern\u00e1ndez.",
+          "position": 0
+        },
+        {
+          "time": "43'",
+          "data": "43'Attempt blocked.Yani Quintero (Atletico Junior Barranquilla)\u2019s header from the centre of the box Defensive player blocked.Bryan Castrill\u00f3n with a cross assists.",
+          "position": 2
+        },
+        {
+          "time": "44'",
+          "data": "44'Corner,Junior.Conceded by Juan Nieto.",
+          "position": 0
+        },
+        {
+          "time": "45'",
+          "data": "45'Attempt missed.Juan Nieto (Deportes Tolima)\u2019s right foot shot.",
+          "position": 1
+        },
+        {
+          "time": "45'+1'",
+          "data": "45'+1'Hand ball by Gonzalo Lencina (Deportes Tolima).",
+          "position": 1
+        },
+        {
+          "time": "45'+2'",
+          "data": "45'+2'Attempt blocked.\u00c1lex Castro (Deportes Tolima)\u2019s right foot shot.Kevin P\u00e9rez assists.",
+          "position": 1
+        },
+        {
+          "time": "45'+2'",
+          "data": "45'+2'Corner,Deportes Tolima.Conceded by Jhomier Guerrero.",
+          "position": 0
+        },
+        {
+          "time": "45'+3'",
+          "data": "45'+3'First Half ends, Deportes Tolima 2-0 Junior.",
+          "position": 0
+        },
+        {
+          "time": "45'",
+          "data": "45'Substitution, Deportes Tolima.Substituton in Jhon Qui\u00f1\u00f3nes,Substitution out Anderson Angulo.",
+          "position": 0
+        },
+        {
+          "time": "45'",
+          "data": "45'Substitution, Junior.Substituton in Yeferson Moreno,Substitution out Jhomier Guerrero.",
+          "position": 0
+        },
+        {
+          "time": "47'",
+          "data": "47'Bryan Castrill\u00f3n (Atletico Junior Barranquilla) gets a free kick in the attacking half.",
+          "position": 2
+        },
+        {
+          "time": "47'",
+          "data": "47'Brayan Rovira (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "48'",
+          "data": "48'Attempt saved.Goalkeeper saves Bryan Castrill\u00f3n (Atletico Junior Barranquilla)\u2019s right foot shot from from outside the box by %oppos_player% (Atletico Junior Barranquilla).",
+          "position": 2
+        },
+        {
+          "time": "48'",
+          "data": "48'Attempt saved.Goalkeeper saves Bryan Castrill\u00f3n (Atletico Junior Barranquilla)\u2019s right foot shot from from outside the box in the top right corner by Cristopher Fiermar\u00edn (Atletico Junior Barranquilla).",
+          "position": 2
+        },
+        {
+          "time": "51'",
+          "data": "51'Brayan Rovira (Deportes Tolima) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "51'",
+          "data": "51'Jord\u00e1n Barrera (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "52'",
+          "data": "52'Steven Rodr\u00edguez (Atletico Junior Barranquilla) gets a free kick in the defensive half.",
+          "position": 2
+        },
+        {
+          "time": "52'",
+          "data": "52'\u00c1lex Castro (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "53'",
+          "data": "53'Attempt missed.Yani Quintero (Atletico Junior Barranquilla)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "54'",
+          "data": "54'Attempt blocked.Didier Moreno (Atletico Junior Barranquilla)\u2019s right foot shot Defensive player blocked.Yani Quintero assists.",
+          "position": 2
+        },
+        {
+          "time": "56'",
+          "data": "56'Back pass by Cristopher Fiermar\u00edn (Deportes Tolima).",
+          "position": 1
+        },
+        {
+          "time": "57'",
+          "data": "57'Attempt blocked.Steven Rodr\u00edguez (Atletico Junior Barranquilla)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "57'",
+          "data": "57'Attempt missed.Steven Rodr\u00edguez (Atletico Junior Barranquilla)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "59'",
+          "data": "59'Attempt missed.\u00c1lex Castro (Deportes Tolima)\u2019s right foot shot.",
+          "position": 1
+        },
+        {
+          "time": "62'",
+          "data": "62'Junior Hern\u00e1ndez (Deportes Tolima) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "63'",
+          "data": "63'Substitution, Deportes Tolima.Substituton in Victor Reyes,Substitution out Juan Nieto.",
+          "position": 0
+        },
+        {
+          "time": "64'",
+          "data": "64'Cristian Arrieta (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "64'",
+          "data": "64'Jhon Navia (Atletico Junior Barranquilla) gets a free kick on the left wing.",
+          "position": 2
+        },
+        {
+          "time": "66'",
+          "data": "66'Gonzalo Lencina (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "66'",
+          "data": "66'Yimmi Char\u00e1 (Atletico Junior Barranquilla) gets a free kick in the defensive half.",
+          "position": 2
+        },
+        {
+          "time": "68'",
+          "data": "68'Offside, Junior.Jord\u00e1n Barrera is caught offside.",
+          "position": 0
+        },
+        {
+          "time": "69'",
+          "data": "69'The match delays because Cristopher Fiermar\u00edn (Deportes Tolima) injured.",
+          "position": 1
+        },
+        {
+          "time": "70'",
+          "data": "70'Substitution, Junior.Substituton in Miller Bacca,Substitution out Didier Moreno.",
+          "position": 0
+        },
+        {
+          "time": "70'",
+          "data": "70'Delay over.The match resumes.",
+          "position": 0
+        },
+        {
+          "time": "71'",
+          "data": "71'Substitution, Deportes Tolima.Substituton in Jeinner Fuentes,Substitution out Gonzalo Lencina.",
+          "position": 0
+        },
+        {
+          "time": "72'",
+          "data": "72'Jos\u00e9 Cuen\u00fa (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "72'",
+          "data": "72'Jeinner Fuentes (Deportes Tolima) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "73'",
+          "data": "73'Bryan Castrill\u00f3n (Atletico Junior Barranquilla) gets a free kick in the attacking half.",
+          "position": 2
+        },
+        {
+          "time": "73'",
+          "data": "73'Jersson Gonz\u00e1lez (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "74'",
+          "data": "74'The match delays because Yani Quintero (Atletico Junior Barranquilla) injured.",
+          "position": 2
+        },
+        {
+          "time": "75'",
+          "data": "75'Substitution, Junior.Substituton in Joel Canchimbo,Substitution out Jord\u00e1n Barrera.",
+          "position": 0
+        },
+        {
+          "time": "75'",
+          "data": "75'Substitution, Junior.Substituton in Jos\u00e9 Caicedo,Substitution out Jos\u00e9 Cuen\u00fa.",
+          "position": 0
+        },
+        {
+          "time": "75'",
+          "data": "75'Substitution, Junior.Substituton in Jhon V\u00e9lez,Substitution out Yani Quintero because of an injury.",
+          "position": 0
+        },
+        {
+          "time": "75'",
+          "data": "75'Delay over.The match resumes.",
+          "position": 0
+        },
+        {
+          "time": "76'",
+          "data": "76'Jos\u00e9 Caicedo (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "76'",
+          "data": "76'Jeinner Fuentes (Deportes Tolima) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "77'",
+          "data": "77'Corner,Junior.Conceded by Junior Hern\u00e1ndez.",
+          "position": 0
+        },
+        {
+          "time": "78'",
+          "data": "78'The match delays because Juli\u00e1n Qui\u00f1\u00f3nes (Deportes Tolima) injured.",
+          "position": 1
+        },
+        {
+          "time": "79'",
+          "data": "79'Delay over.The match resumes.",
+          "position": 0
+        },
+        {
+          "time": "79'",
+          "data": "79'Steven Rodr\u00edguez (Atletico Junior Barranquilla) gets a free kick in the attacking half.",
+          "position": 2
+        },
+        {
+          "time": "80'",
+          "data": "80'Attempt missed.Fabi\u00e1n \u00c1ngel (Atletico Junior Barranquilla)\u2019s left foot shot following a set piece situation.",
+          "position": 2
+        },
+        {
+          "time": "81'",
+          "data": "81'Jos\u00e9 Caicedo (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "81'",
+          "data": "81'Jeinner Fuentes (Deportes Tolima) gets a free kick on the left wing.",
+          "position": 1
+        },
+        {
+          "time": "81'",
+          "data": "Yellow card by 81'Jos\u00e9 Caicedo (Atletico Junior Barranquilla) for a bad foul.",
+          "position": 2
+        },
+        {
+          "time": "82'",
+          "data": "82'Jeinner Fuentes (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "82'",
+          "data": "82'Jhon Navia (Atletico Junior Barranquilla) gets a free kick in the defensive half.",
+          "position": 2
+        },
+        {
+          "time": "84'",
+          "data": "84'Jeinner Fuentes (Deportes Tolima) foul.",
+          "position": 1
+        },
+        {
+          "time": "84'",
+          "data": "84'Jos\u00e9 Caicedo (Atletico Junior Barranquilla) gets a free kick in the defensive half.",
+          "position": 2
+        },
+        {
+          "time": "84'",
+          "data": "84'Miller Bacca (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "84'",
+          "data": "84'Juli\u00e1n Qui\u00f1\u00f3nes (Deportes Tolima) gets a free kick in the defensive half.",
+          "position": 1
+        },
+        {
+          "time": "85'",
+          "data": "85'Goal! Deportes Tolima 2-1 Junior.Bryan Castrill\u00f3n (Atletico Junior Barranquilla)\u2019s right foot shot.",
+          "position": 2
+        },
+        {
+          "time": "87'",
+          "data": "87'VAR Checking: Junior Goal (Atletico Junior Barranquilla).",
+          "position": 2
+        },
+        {
+          "time": "87'",
+          "data": "87'VAR Decision: No Goal Deportes Tolima 2-0 Junior.",
+          "position": 0
+        },
+        {
+          "time": "88'",
+          "data": "88'Fabi\u00e1n \u00c1ngel (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "88'",
+          "data": "88'Jeinner Fuentes (Deportes Tolima) gets a free kick in the attacking half.",
+          "position": 1
+        },
+        {
+          "time": "89'",
+          "data": "89'Attempt saved.Goalkeeper saves Brayan Rovira (Deportes Tolima)\u2019s right foot shot from from more than 35 yards in the centre of the goal by Jefersson Mart\u00ednez (Deportes Tolima).",
+          "position": 1
+        },
+        {
+          "time": "89'",
+          "data": "89'Yimmi Char\u00e1 (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "89'",
+          "data": "89'Victor Reyes (Deportes Tolima) gets a free kick in the attacking half.",
+          "position": 1
+        },
+        {
+          "time": "90'",
+          "data": "90'Attempt missed.Brayan Rovira (Deportes Tolima)\u2019s right foot shot.",
+          "position": 1
+        },
+        {
+          "time": "90'+1'",
+          "data": "90'+1'Steven Rodr\u00edguez (Atletico Junior Barranquilla) foul.",
+          "position": 2
+        },
+        {
+          "time": "90'+1'",
+          "data": "90'+1'Jeinner Fuentes (Deportes Tolima) gets a free kick in the attacking half.",
+          "position": 1
+        },
+        {
+          "time": "90'+1'",
+          "data": "Yellow card by 90'+1'Steven Rodr\u00edguez (Atletico Junior Barranquilla) for a bad foul.",
+          "position": 2
+        },
+        {
+          "time": "90'+2'",
+          "data": "90'+2'Joel Canchimbo (Atletico Junior Barranquilla) gets a free kick on the right wing.",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "id": "8yomo4h1kvp5q0j",
+      "score": [
+        "8yomo4h1kvp5q0j",
+        8,
+        [
+          5,
+          3,
+          0,
+          3,
+          2,
+          0,
+          0
+        ],
+        [
+          3,
+          1,
+          1,
+          1,
+          5,
+          0,
+          0
+        ],
+        0,
+        ""
+      ],
+      "stats": [
+        {
+          "type": 25,
+          "home": 58,
+          "away": 42
+        },
+        {
+          "type": 21,
+          "home": 9,
+          "away": 3
+        },
+        {
+          "type": 2,
+          "home": 2,
+          "away": 5
+        },
+        {
+          "type": 22,
+          "home": 9,
+          "away": 11
+        },
+        {
+          "type": 8,
+          "home": 0,
+          "away": 2
+        },
+        {
+          "type": 3,
+          "home": 3,
+          "away": 1
+        },
+        {
+          "type": 23,
+          "home": 93,
+          "away": 89
+        },
+        {
+          "type": 4,
+          "home": 0,
+          "away": 1
+        },
+        {
+          "type": 24,
+          "home": 66,
+          "away": 73
+        }
+      ],
+      "incidents": [
+        {
+          "type": 1,
+          "position": 1,
+          "time": 3,
+          "home_score": 1,
+          "away_score": 0
+        },
+        {
+          "type": 1,
+          "position": 2,
+          "time": 6,
+          "home_score": 1,
+          "away_score": 1
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 34
+        },
+        {
+          "type": 1,
+          "position": 1,
+          "time": 35,
+          "home_score": 2,
+          "away_score": 1
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 36
+        },
+        {
+          "type": 1,
+          "position": 1,
+          "time": 42,
+          "home_score": 3,
+          "away_score": 1
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 45
+        },
+        {
+          "type": 1,
+          "position": 2,
+          "time": 49,
+          "home_score": 3,
+          "away_score": 2
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 65
+        },
+        {
+          "type": 1,
+          "position": 1,
+          "time": 85,
+          "home_score": 4,
+          "away_score": 2
+        },
+        {
+          "type": 1,
+          "position": 2,
+          "time": 89,
+          "home_score": 4,
+          "away_score": 3
+        },
+        {
+          "type": 1,
+          "position": 1,
+          "time": 90,
+          "home_score": 5,
+          "away_score": 3
+        },
+        {
+          "type": 4,
+          "position": 2,
+          "time": 90
+        }
+      ],
+      "tlive": []
+    },
+    {
+      "id": "zp5rzgh5k08wq82",
+      "score": [
+        "zp5rzgh5k08wq82",
+        8,
+        [
+          0,
+          0,
+          1,
+          1,
+          7,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          1,
+          5,
+          0,
+          0
+        ],
+        0,
+        ""
+      ],
+      "stats": [
+        {
+          "type": 22,
+          "home": 8,
+          "away": 8
+        },
+        {
+          "type": 4,
+          "home": 1,
+          "away": 0
+        },
+        {
+          "type": 3,
+          "home": 1,
+          "away": 1
+        },
+        {
+          "type": 21,
+          "home": 1,
+          "away": 5
+        },
+        {
+          "type": 8,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 2,
+          "home": 7,
+          "away": 5
+        },
+        {
+          "type": 25,
+          "home": 51,
+          "away": 49
+        },
+        {
+          "type": 24,
+          "home": 50,
+          "away": 92
+        },
+        {
+          "type": 23,
+          "home": 107,
+          "away": 137
+        }
+      ],
+      "incidents": [
+        {
+          "type": 9,
+          "position": 1,
+          "time": 33,
+          "in_player_id": "l7oqdeh4xzx8r51",
+          "in_player_name": "Jae-hee Jeong",
+          "out_player_id": "x7lm7ph950e4m2w",
+          "out_player_name": "Do-Young Yun",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 33,
+          "in_player_id": "jw2r09hxod4rz84",
+          "in_player_name": "Masatoshi Ishida",
+          "out_player_id": "pxwrxlhz29o4ryk",
+          "out_player_name": "Lee Jun-gyu",
+          "reason_type": 4
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 39,
+          "player_id": "y39mp1hj87pxmoj",
+          "player_name": "Soon-min Lee",
+          "reason_type": 1
+        },
+        {
+          "type": 19,
+          "position": 0,
+          "time": 45,
+          "add_time": 1
+        },
+        {
+          "type": 11,
+          "position": 0,
+          "time": 47
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 45,
+          "in_player_id": "23xmvkhk4gx1qg8",
+          "in_player_name": "Byung-Kwan Jeon",
+          "out_player_id": "1l4rjnhk1vznm7v",
+          "out_player_name": "Ki-jong Won",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 52,
+          "in_player_id": "3glrw7h01glqdyj",
+          "in_player_name": "Kim Moon-Hwan",
+          "out_player_id": "x7lm7ph0zg5em2w",
+          "out_player_name": "Kyu Hyun\u00b7Park",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 52,
+          "in_player_id": "vjxm8ghxjxzr6od",
+          "in_player_name": "Anton Krivotsyuk",
+          "out_player_id": "l5ergphn4wpr8k0",
+          "out_player_name": "Lim Jong-Eun",
+          "reason_type": 3
+        },
+        {
+          "type": 15,
+          "position": 1,
+          "time": 57,
+          "player_id": "y39mp1hj87pxmoj",
+          "player_name": "Soon-min Lee"
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 58,
+          "in_player_id": "l5ergphek2jkr8k",
+          "in_player_name": "Cheol-Woo Park",
+          "out_player_id": "x7lm7phwj297m2w",
+          "out_player_name": "Choi Ye-Hoon",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 72,
+          "in_player_id": "965mkyh3w9d1r1g",
+          "in_player_name": "Kyung-Jun Kim",
+          "out_player_id": "x7lm7ph0vdxym2w",
+          "out_player_name": "Seung-seob Kim",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 74,
+          "in_player_id": "4wyrn4hd2914q86",
+          "in_player_name": "Hernandes",
+          "out_player_id": "l7oqdeh4oy4yr51",
+          "out_player_name": "Seo Jin-Su ",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 85,
+          "in_player_id": "965mkyh3ovkpr1g",
+          "in_player_name": "Go Jae-Hyeon",
+          "out_player_id": "4wyrn4hd9pk2q86",
+          "out_player_name": "Inpyo Oh",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 86,
+          "in_player_id": "4wyrn4hdw1y0q86",
+          "in_player_name": "Chan Kim",
+          "out_player_id": "pxwrxlhjzl6wryk",
+          "out_player_name": "Sang-Hyeok Park",
+          "reason_type": 4
+        },
+        {
+          "type": 19,
+          "position": 0,
+          "time": 90,
+          "add_time": 15
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 105,
+          "add_time": 15,
+          "player_id": "l5ergphvdjkyr8k",
+          "player_name": "Seong-ung Maeng",
+          "reason_type": 18
+        },
+        {
+          "type": 12,
+          "position": 0,
+          "time": 106
+        }
+      ],
+      "tlive": []
+    },
+    {
+      "id": "23xmvkh8593yqg8",
+      "score": [
+        "23xmvkh8593yqg8",
+        8,
+        [
+          0,
+          0,
+          0,
+          3,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          0,
+          1,
+          2,
+          5,
+          0,
+          0
+        ],
+        0,
+        ""
+      ],
+      "stats": [
+        {
+          "type": 2,
+          "home": 2,
+          "away": 5
+        },
+        {
+          "type": 24,
+          "home": 67,
+          "away": 71
+        },
+        {
+          "type": 22,
+          "home": 7,
+          "away": 5
+        },
+        {
+          "type": 4,
+          "home": 0,
+          "away": 1
+        },
+        {
+          "type": 21,
+          "home": 0,
+          "away": 1
+        },
+        {
+          "type": 8,
+          "home": 0,
+          "away": 0
+        },
+        {
+          "type": 3,
+          "home": 3,
+          "away": 2
+        },
+        {
+          "type": 25,
+          "home": 48,
+          "away": 52
+        },
+        {
+          "type": 23,
+          "home": 61,
+          "away": 76
+        }
+      ],
+      "incidents": [
+        {
+          "type": 28,
+          "position": 2,
+          "time": 15,
+          "player_id": "x7lm7ph0yeg8m2w",
+          "player_name": "Kang-hyun Lee",
+          "var_reason": 1,
+          "var_result": 2
+        },
+        {
+          "type": 19,
+          "position": 0,
+          "time": 45,
+          "add_time": 2
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 45,
+          "player_id": "x7lm7ph0yeg8m2w",
+          "player_name": "Kang-hyun Lee",
+          "reason_type": 1
+        },
+        {
+          "type": 11,
+          "position": 0,
+          "time": 48
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 45,
+          "in_player_id": "3glrw7ho2lkqdyj",
+          "in_player_name": "Yuri",
+          "out_player_id": "1l4rjnh3ezkm7vx",
+          "out_player_name": "Evandro da Silva",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 45,
+          "in_player_id": "vjxm8gh89dl0r6o",
+          "in_player_name": "Valdenilson da Paz Araujo",
+          "out_player_id": "vjxm8ghp0lg1r6o",
+          "out_player_name": "Kim Jun-Ha",
+          "reason_type": 4
+        },
+        {
+          "type": 1,
+          "position": 2,
+          "time": 46,
+          "player_id": "3glrw7hyxzl1qdy",
+          "player_name": "Ji-hoon Jeong",
+          "assist1_id": "2y8m4zhg29xql07",
+          "assist1_name": "Kyoung-Rok Choi",
+          "home_score": 0,
+          "away_score": 1
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 55,
+          "in_player_id": "2y8m4zh88jyeql0",
+          "in_player_name": "Jae-Hyeok Oh",
+          "out_player_id": "vjxm8ghj06v8r6o",
+          "out_player_name": "An Taehyeon",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 56,
+          "in_player_id": "965mkyhek47r1ge",
+          "in_player_name": "In-Hyeok Park",
+          "out_player_id": "l5ergphvkyn1r8k",
+          "out_player_name": "Chang-Mu Shin",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 57,
+          "in_player_id": "8yomo4h2g4o5q0j",
+          "in_player_name": "Oh Hu-Seong",
+          "out_player_id": "3glrw7hyxzl1qdy",
+          "out_player_name": "Ji-hoon Jeong",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 60,
+          "in_player_id": "y0or5jh19ydqwzv",
+          "in_player_name": "Kim Han-Gil",
+          "out_player_id": "n54qllheody3qvy",
+          "out_player_name": "Sang-Min Sim",
+          "reason_type": 4
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 79,
+          "in_player_id": "3glrw7h15y4qdyj",
+          "in_player_name": "Chang-Woo Rim",
+          "out_player_id": "n54qllhjpzdqvy9",
+          "out_player_name": "Yoo Insoo",
+          "reason_type": 4
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 81,
+          "player_id": "3glrw7h15y4qdyj",
+          "player_name": "Chang-Woo Rim",
+          "reason_type": 1
+        },
+        {
+          "type": 9,
+          "position": 2,
+          "time": 84,
+          "in_player_id": "3glrw7hzljegqdy",
+          "in_player_name": "Jin Si-woo",
+          "out_player_id": "zp5rzghpn7wvq82",
+          "out_player_name": "Seong-Kwon Jo",
+          "reason_type": 4
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 86,
+          "player_id": "3glrw7ho2lkqdyj",
+          "player_name": "Yuri",
+          "reason_type": 1
+        },
+        {
+          "type": 3,
+          "position": 1,
+          "time": 88,
+          "player_id": "dj2ryohjljl0q1z",
+          "player_name": "Ryun-sung Kim",
+          "reason_type": 1
+        },
+        {
+          "type": 19,
+          "position": 0,
+          "time": 90,
+          "add_time": 8
+        },
+        {
+          "type": 9,
+          "position": 1,
+          "time": 91,
+          "add_time": 1,
+          "in_player_id": "x7lm7ph9vzo1m2w",
+          "in_player_name": "Byung-Wook Choi",
+          "out_player_id": "vjxm8gh89dl0r6o",
+          "out_player_name": "Valdenilson da Paz Araujo",
+          "reason_type": 4
+        },
+        {
+          "type": 3,
+          "position": 2,
+          "time": 92,
+          "add_time": 2,
+          "player_id": "zp5rzghz903q82w",
+          "player_name": "Jasir Asani",
+          "reason_type": 1
+        },
+        {
+          "type": 12,
+          "position": 0,
+          "time": 99
+        }
+      ],
+      "tlive": []
+    }
+  ]
+}

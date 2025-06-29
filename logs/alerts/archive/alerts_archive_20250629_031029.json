@@ -1,0 +1,2878 @@
+{
+  "archive_metadata": {
+    "archived_at": "2025-06-29T03:10:29.990145-04:00",
+    "archived_fetches": 1,
+    "archive_reason": "50_fetch_rotation"
+  },
+  "archived_fetches": [
+    {
+      "fetch_timestamp": "2025-06-29T02:20:29.839365-04:00",
+      "fetch_number": 38,
+      "processed_data": {
+        "matches": [
+          {
+            "match_id": "1l4rjnh4vvonm7v",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia National Premier Leagues Capital Football 1"
+            },
+            "teams": {
+              "home": {
+                "name": "Canberra FC"
+              },
+              "away": {
+                "name": "Gungahlin United"
+              }
+            },
+            "home_score_current": 2,
+            "home_score_half": 2,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 3,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173404,
+                    "4",
+                    "-105",
+                    3.25,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173750,
+                    "9",
+                    "-999",
+                    900.0,
+                    "+1400",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173351,
+                    "3",
+                    "-105",
+                    5.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173431,
+                    "4",
+                    "-125",
+                    9.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "769mmHg",
+              "temperature": "54°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "55%"
+            }
+          },
+          {
+            "match_id": "1l4rjnh914o1m7v",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 04:30 AM",
+            "competition": {
+              "name": "Japanese Regional League"
+            },
+            "teams": {
+              "home": {
+                "name": "Kochi University II"
+              },
+              "away": {
+                "name": "Celeste Tokushima"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 5,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751171805,
+                    "2",
+                    "-114",
+                    -3.0,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751171814,
+                    "2",
+                    "+1800",
+                    900.0,
+                    "-1249",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751171820,
+                    "2",
+                    "-105",
+                    4.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "758mmHg",
+              "temperature": "84°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "73%"
+            }
+          },
+          {
+            "match_id": "1l4rjnh91nx0m7v",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "AVPL(W）"
+            },
+            "teams": {
+              "home": {
+                "name": "Melbourne Uni (w)"
+              },
+              "away": {
+                "name": "Bundoora United (w)"
+              }
+            },
+            "home_score_current": 2,
+            "home_score_half": 1,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 5,
+            "details_status_id": 4,
+            "odds": {
+              "3": {
+                "spread": [
+                  [
+                    1751174066,
+                    "8",
+                    "-103",
+                    -0.75,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751174161,
+                    "9",
+                    "+270",
+                    340.0,
+                    "-163",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751174104,
+                    "8",
+                    "-114",
+                    3.75,
+                    "-107",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "23xmvkh6o00gqg8",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 06:00 AM",
+            "competition": {
+              "name": "Australia New South Wales Women's Premier League"
+            },
+            "teams": {
+              "home": {
+                "name": "Adamstown Rosebud (w)"
+              },
+              "away": {
+                "name": "Broadmeadow Magic (w)"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 2,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 2,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751177565,
+                    "5",
+                    "-108",
+                    1.25,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751177455,
+                    "4",
+                    "-227",
+                    450.0,
+                    "+375",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751177423,
+                    "3",
+                    "-117",
+                    3.75,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751177465,
+                    "4",
+                    "-138",
+                    8.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "769mmHg",
+              "temperature": "64°F",
+              "wind": "6mph (Light Breeze)",
+              "humidity": "70%"
+            }
+          },
+          {
+            "match_id": "318q66hw5vwyqo9",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia New South Wales Women's League"
+            },
+            "teams": {
+              "home": {
+                "name": "Maca Searle (w)"
+              },
+              "away": {
+                "name": "UNSW FC (W)"
+              }
+            },
+            "home_score_current": 2,
+            "home_score_half": 1,
+            "home_corners": 1,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173830,
+                    "5",
+                    "-117",
+                    -1.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173969,
+                    "7",
+                    "+400",
+                    400.0,
+                    "-227",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173678,
+                    "2",
+                    "-117",
+                    3.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173850,
+                    "5",
+                    "-111",
+                    8.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "61°F",
+              "wind": "6mph (Light Breeze)",
+              "humidity": "53%"
+            }
+          },
+          {
+            "match_id": "3glrw7h7885jqdy",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia New South Wales Premier League"
+            },
+            "teams": {
+              "home": {
+                "name": "Central Coast Mariners (Youth)"
+              },
+              "away": {
+                "name": "Mt Druitt Town Rangers FC"
+              }
+            },
+            "home_score_current": 2,
+            "home_score_half": 1,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173711,
+                    "3",
+                    "-121",
+                    -0.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173704,
+                    "3",
+                    "+187",
+                    260.0,
+                    "+110",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173770,
+                    "4",
+                    "-108",
+                    3.0,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173748,
+                    "4",
+                    "-138",
+                    9.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "63°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "58%"
+            }
+          },
+          {
+            "match_id": "4jwq2ghellywm0v",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:30 AM",
+            "competition": {
+              "name": "Australia National Premier Leagues Capital Football 1"
+            },
+            "teams": {
+              "home": {
+                "name": "Tuggeranong United"
+              },
+              "away": {
+                "name": "Cooma Tigers"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 5,
+            "details_status_id": 3,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751175311,
+                    "5",
+                    "-111",
+                    -0.75,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751175311,
+                    "5",
+                    "+300",
+                    300.0,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751175403,
+                    "6",
+                    "-125",
+                    3.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751175394,
+                    "6",
+                    "-151",
+                    9.5,
+                    "+110",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "769mmHg",
+              "temperature": "52°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "59%"
+            }
+          },
+          {
+            "match_id": "4wyrn4h68pnvq86",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/06/2025 06:30 PM",
+            "competition": {
+              "name": "CONCACAF U20 Women's Championship"
+            },
+            "teams": {
+              "home": {
+                "name": "Costa Rica (w) U20"
+              },
+              "away": {
+                "name": "Mexico (w) U20"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 5,
+            "": "",
+            "away_score_current": 4,
+            "away_score_half": 3,
+            "away_corners": 1,
+            "details_status_id": 8,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1749234660,
+                    "2",
+                    "-117",
+                    -2.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1749234646,
+                    "2",
+                    "+850",
+                    450.0,
+                    "-400",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1749234639,
+                    "2",
+                    "-121",
+                    3.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1749234660,
+                    "2",
+                    "-125",
+                    9.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "6ypq3nhv5e5gmd7",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/28/2025 05:00 AM",
+            "competition": {
+              "name": "National Premier Leagues Victoria 3"
+            },
+            "teams": {
+              "home": {
+                "name": "Boroondara"
+              },
+              "away": {
+                "name": "Nunawading City"
+              }
+            },
+            "home_score_current": 4,
+            "home_score_half": 4,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 5,
+            "details_status_id": 8,
+            "environment": {
+              "weather": "Clear",
+              "pressure": "771mmHg",
+              "temperature": "52°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "72%"
+            }
+          },
+          {
+            "match_id": "6ypq3nhv5n1ymd7",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/28/2025 05:00 AM",
+            "competition": {
+              "name": "Western Australia U23"
+            },
+            "teams": {
+              "home": {
+                "name": "Balcatta U23"
+              },
+              "away": {
+                "name": "Fremantle City FC U23"
+              }
+            },
+            "home_score_current": 4,
+            "home_score_half": 3,
+            "home_corners": 4,
+            "": "",
+            "away_score_current": 2,
+            "away_score_half": 2,
+            "away_corners": 7,
+            "details_status_id": 8,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751087302,
+                    "4",
+                    "+100",
+                    0.25,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751087291,
+                    "4",
+                    "+120",
+                    300.0,
+                    "+160",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751087298,
+                    "4",
+                    "-121",
+                    3.75,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "772mmHg",
+              "temperature": "68°F",
+              "wind": "14mph (Moderate Breeze)",
+              "humidity": "38%"
+            }
+          },
+          {
+            "match_id": "6ypq3nhv5n76md7",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia Capital Territory Women's League"
+            },
+            "teams": {
+              "home": {
+                "name": "Gungahlin United (w)"
+              },
+              "away": {
+                "name": "Belconnen United (w)"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 2,
+            "away_score_half": 0,
+            "away_corners": 9,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173509,
+                    "3",
+                    "-125",
+                    -2.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173637,
+                    "6",
+                    "+600",
+                    550.0,
+                    "-357",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173540,
+                    "4",
+                    "-111",
+                    4.0,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "769mmHg",
+              "temperature": "54°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "55%"
+            }
+          },
+          {
+            "match_id": "965mkyhy63y0r1g",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 04:40 AM",
+            "competition": {
+              "name": "Australia New South Wales Women's League"
+            },
+            "teams": {
+              "home": {
+                "name": "Bulls Academy (W)"
+              },
+              "away": {
+                "name": "Northern Tigers FC (w)"
+              }
+            },
+            "home_score_current": 3,
+            "home_score_half": 2,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 3,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751172447,
+                    "3",
+                    "-108",
+                    0.5,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751172446,
+                    "3",
+                    "-111",
+                    333.0,
+                    "+220",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751172447,
+                    "3",
+                    "-117",
+                    3.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751172447,
+                    "3",
+                    "-125",
+                    10.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "64°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "48%"
+            }
+          },
+          {
+            "match_id": "dj2ryoh1w56oq1z",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 06:00 AM",
+            "competition": {
+              "name": "Japanese Nadeshiko League 1"
+            },
+            "teams": {
+              "home": {
+                "name": "Okayama Yunogo Belle (w)"
+              },
+              "away": {
+                "name": "AS Harima ALBION (w)"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 2,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 2,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751177019,
+                    "4",
+                    "-103",
+                    0.5,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751177038,
+                    "4",
+                    "-105",
+                    260.0,
+                    "+240",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751176975,
+                    "3",
+                    "-108",
+                    2.5,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751177076,
+                    "5",
+                    "-111",
+                    8.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "93°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "51%"
+            }
+          },
+          {
+            "match_id": "dj2ryoh1zj02q1z",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "QLD D2"
+            },
+            "teams": {
+              "home": {
+                "name": "Souths United"
+              },
+              "away": {
+                "name": "Maroochydore"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 4,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173477,
+                    "2",
+                    "-117",
+                    0.75,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173830,
+                    "8",
+                    "-277",
+                    400.0,
+                    "+500",
+                    2,
+                    0,
+                    "1-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173477,
+                    "2",
+                    "-114",
+                    4.25,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173592,
+                    "4",
+                    "-120",
+                    9.5,
+                    "-120",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Snow",
+              "pressure": "768mmHg",
+              "temperature": "63°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "91%"
+            }
+          },
+          {
+            "match_id": "dn1m1ghle2j7moe",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Japanese Regional League"
+            },
+            "teams": {
+              "home": {
+                "name": "Shichigahama SC"
+              },
+              "away": {
+                "name": "Hitome Senbonzakura FC"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 5,
+            "away_score_half": 4,
+            "away_corners": 2,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173540,
+                    "6",
+                    "-125",
+                    -1.25,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173667,
+                    "8",
+                    "+750",
+                    650.0,
+                    "-625",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173401,
+                    "3",
+                    "-103",
+                    3.5,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "ednm9whw9wjoryo",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 04:30 AM",
+            "competition": {
+              "name": "Japanese Regional League"
+            },
+            "teams": {
+              "home": {
+                "name": "NUM Kamo"
+              },
+              "away": {
+                "name": "Niigata University"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 4,
+            "odds": {
+              "22": {
+                "spread": [
+                  [
+                    1751171545,
+                    "3",
+                    "-126",
+                    -1.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751171545,
+                    "3",
+                    "+276",
+                    359.0,
+                    "-172",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751171545,
+                    "3",
+                    "-107",
+                    3.5,
+                    "-123",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "ednm9whwkwwpryo",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/01/2025 08:00 PM",
+            "competition": {
+              "name": "CONCACAF U20 Women's Championship"
+            },
+            "teams": {
+              "home": {
+                "name": "Costa Rica (w) U20"
+              },
+              "away": {
+                "name": "Guyana (w) U20"
+              }
+            },
+            "home_score_current": 9,
+            "home_score_half": 5,
+            "home_corners": 12,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "details_status_id": 8,
+            "var_incidents": [
+              {
+                "type": 28,
+                "position": 1,
+                "time": 19,
+                "player_id": "vjxm8gh8o67xr6o",
+                "player_name": "Sheika Scott",
+                "var_reason": 4,
+                "var_result": 3
+              },
+              {
+                "type": 28,
+                "position": 1,
+                "time": 72,
+                "player_id": "jw2r09hw6g17rz8",
+                "player_name": "T. Ruiz",
+                "var_reason": 1,
+                "var_result": 2
+              }
+            ],
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1748808133,
+                    "4",
+                    "-103",
+                    3.5,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1748808133,
+                    "4",
+                    "-1999",
+                    1200.0,
+                    "+2500",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1748808133,
+                    "4",
+                    "-117",
+                    4.25,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1748808239,
+                    "5",
+                    "-111",
+                    8.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "763mmHg",
+              "temperature": "70°F",
+              "wind": "14mph (Moderate Breeze)",
+              "humidity": "101%"
+            }
+          },
+          {
+            "match_id": "jw2r09h2yyv1rz8",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 06:00 AM",
+            "competition": {
+              "name": "National Premier Leagues Victoria 2"
+            },
+            "teams": {
+              "home": {
+                "name": "Western United FC NPL"
+              },
+              "away": {
+                "name": "Moreland City"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 2,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751177037,
+                    "4",
+                    "-117",
+                    1.5,
+                    "-105",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751177037,
+                    "4",
+                    "-250",
+                    450.0,
+                    "+400",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751176979,
+                    "3",
+                    "-105",
+                    4.5,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751177037,
+                    "4",
+                    "-138",
+                    9.5,
+                    "+100",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "54°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "72%"
+            }
+          },
+          {
+            "match_id": "jw2r09hk444wrz8",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 06:00 AM",
+            "competition": {
+              "name": "Japanese Football League"
+            },
+            "teams": {
+              "home": {
+                "name": "Yokogawa Musashino FC"
+              },
+              "away": {
+                "name": "Briobecca Urayasu"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 2,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "details_status_id": 2,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751176902,
+                    "3",
+                    "-117",
+                    -0.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751176988,
+                    "4",
+                    "+225",
+                    260.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751176925,
+                    "3",
+                    "-125",
+                    2.25,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751176902,
+                    "3",
+                    "-138",
+                    9.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "759mmHg",
+              "temperature": "93°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "49%"
+            }
+          },
+          {
+            "match_id": "k82rekhwk45grep",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia Victorian Women's Premier League"
+            },
+            "teams": {
+              "home": {
+                "name": "Preston Lions (w)"
+              },
+              "away": {
+                "name": "FC Bulleen Lions (w)"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 1,
+            "": "",
+            "away_score_current": 3,
+            "away_score_half": 3,
+            "away_corners": 4,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173440,
+                    "4",
+                    "+100",
+                    0.25,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173376,
+                    "3",
+                    "+120",
+                    333.0,
+                    "+150",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173376,
+                    "3",
+                    "-114",
+                    3.25,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173510,
+                    "5",
+                    "+100",
+                    8.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "54°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "72%"
+            }
+          },
+          {
+            "match_id": "l5ergph4000er8k",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 06:00 AM",
+            "competition": {
+              "name": "Japanese Football League"
+            },
+            "teams": {
+              "home": {
+                "name": "Verspah Oita"
+              },
+              "away": {
+                "name": "Iwate Grulla Morioka"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 2,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751177032,
+                    "5",
+                    "-108",
+                    0.5,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751176911,
+                    "3",
+                    "-111",
+                    240.0,
+                    "+275",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751176940,
+                    "4",
+                    "-105",
+                    2.25,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751176988,
+                    "5",
+                    "-120",
+                    8.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "758mmHg",
+              "temperature": "93°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "65%"
+            }
+          },
+          {
+            "match_id": "l5ergph43wg7r8k",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 04:40 AM",
+            "competition": {
+              "name": "Solomon Islands Telekom S-League"
+            },
+            "teams": {
+              "home": {
+                "name": "Green Shield FC"
+              },
+              "away": {
+                "name": "Marist FC"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751172765,
+                    "6",
+                    "-117",
+                    1.75,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751172765,
+                    "6",
+                    "-400",
+                    450.0,
+                    "+700",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751172740,
+                    "6",
+                    "-117",
+                    3.25,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "757mmHg",
+              "temperature": "82°F",
+              "wind": "16mph (Moderate Breeze)",
+              "humidity": "81%"
+            }
+          },
+          {
+            "match_id": "l7oqdehg6owgr51",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 04:30 AM",
+            "competition": {
+              "name": "Japanese Regional League"
+            },
+            "teams": {
+              "home": {
+                "name": "Niigata Uni of Management II"
+              },
+              "away": {
+                "name": "Niigata UHW II"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 4,
+            "": "",
+            "away_score_current": 3,
+            "away_score_half": 1,
+            "away_corners": 2,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751171757,
+                    "7",
+                    "-125",
+                    -1.25,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751171584,
+                    "4",
+                    "+333",
+                    400.0,
+                    "-200",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751171506,
+                    "3",
+                    "-105",
+                    4.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751171648,
+                    "5",
+                    "-111",
+                    8.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "759mmHg",
+              "temperature": "79°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "72%"
+            }
+          },
+          {
+            "match_id": "l7oqdehovdwwr51",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Japanese Nadeshiko League 1"
+            },
+            "teams": {
+              "home": {
+                "name": "Ehime FC (w)"
+              },
+              "away": {
+                "name": "Setagaya Sfid(w)"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 3,
+            "away_score_half": 2,
+            "away_corners": 0,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751172405,
+                    "",
+                    "-111",
+                    -0.75,
+                    "-111",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751172403,
+                    "",
+                    "+300",
+                    280.0,
+                    "-151",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751172472,
+                    "",
+                    "+100",
+                    2.5,
+                    "-125",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "759mmHg",
+              "temperature": "90°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "56%"
+            }
+          },
+          {
+            "match_id": "n54qllh7006kqvy",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia New South Wales Premier League"
+            },
+            "teams": {
+              "home": {
+                "name": "Sydney United 58 FC"
+              },
+              "away": {
+                "name": "Spirit FC"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 3,
+            "": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 2,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173844,
+                    "3",
+                    "+100",
+                    0.25,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173888,
+                    "3",
+                    "+125",
+                    260.0,
+                    "+162",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173894,
+                    "3",
+                    "-111",
+                    2.75,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173956,
+                    "5",
+                    "+100",
+                    10.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "64°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "48%"
+            }
+          },
+          {
+            "match_id": "n54qllhn5po0qvy",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Japanese Nadeshiko League 2"
+            },
+            "teams": {
+              "home": {
+                "name": "Diavorosso Hiroshima (w)"
+              },
+              "away": {
+                "name": "VONDS Ichihara (W)"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 5,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173359,
+                    "3",
+                    "-111",
+                    -1.25,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173359,
+                    "3",
+                    "+500",
+                    350.0,
+                    "-250",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173385,
+                    "4",
+                    "-108",
+                    2.5,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173380,
+                    "4",
+                    "-125",
+                    7.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "759mmHg",
+              "temperature": "81°F",
+              "wind": "7mph (Gentle Breeze)",
+              "humidity": "77%"
+            }
+          },
+          {
+            "match_id": "pxwrxlhy13xgryk",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia Capital Territory Women's League"
+            },
+            "teams": {
+              "home": {
+                "name": "West Canberra Wanderers FC (w)"
+              },
+              "away": {
+                "name": "Canberra FC (w)"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 1,
+            "": "",
+            "away_score_current": 5,
+            "away_score_half": 4,
+            "away_corners": 5,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173516,
+                    "5",
+                    "+102",
+                    -0.75,
+                    "-129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173471,
+                    "4",
+                    "+300",
+                    375.0,
+                    "-163",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173446,
+                    "4",
+                    "+100",
+                    3.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "769mmHg",
+              "temperature": "54°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "55%"
+            }
+          },
+          {
+            "match_id": "pxwrxlhy158oryk",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Japanese Regional League"
+            },
+            "teams": {
+              "home": {
+                "name": "Sendai Sasuke"
+              },
+              "away": {
+                "name": "Shichinohe SC"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            "": "",
+            "away_score_current": 2,
+            "away_score_half": 2,
+            "away_corners": 0,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173732,
+                    "9",
+                    "-114",
+                    -1.0,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173545,
+                    "6",
+                    "+300",
+                    400.0,
+                    "-175",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173374,
+                    "3",
+                    "-114",
+                    3.5,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "88°F",
+              "wind": "14mph (Moderate Breeze)",
+              "humidity": "75%"
+            }
+          },
+          {
+            "match_id": "vjxm8ghegwo9r6o",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:45 AM",
+            "competition": {
+              "name": "Australia Queensland U23 League"
+            },
+            "teams": {
+              "home": {
+                "name": "Brisbane Olympic FC U23"
+              },
+              "away": {
+                "name": "Brisbane City U23"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 2,
+            "": "",
+            "away_score_current": 2,
+            "away_score_half": 2,
+            "away_corners": 0,
+            "details_status_id": 2,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751176347,
+                    "5",
+                    "+100",
+                    -0.75,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751176258,
+                    "4",
+                    "+300",
+                    350.0,
+                    "-163",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751176232,
+                    "3",
+                    "-114",
+                    3.75,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Snow",
+              "pressure": "768mmHg",
+              "temperature": "63°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "91%"
+            }
+          },
+          {
+            "match_id": "vjxm8ghl1168r6o",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia New South Wales Premier League"
+            },
+            "teams": {
+              "home": {
+                "name": "Marconi Stallions"
+              },
+              "away": {
+                "name": "Sydney FC (Youth)"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 6,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173748,
+                    "3",
+                    "-114",
+                    0.75,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173779,
+                    "3",
+                    "-151",
+                    300.0,
+                    "+300",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173735,
+                    "2",
+                    "-117",
+                    3.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173894,
+                    "5",
+                    "-111",
+                    8.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "64°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "48%"
+            }
+          },
+          {
+            "match_id": "vjxm8ghlyx7jr6o",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/13/2025 03:00 PM",
+            "competition": {
+              "name": "Estonian Women's Meistri Liiga"
+            },
+            "teams": {
+              "home": {
+                "name": "Tammeka Tartu (w)"
+              },
+              "away": {
+                "name": "Saku Sporting (w)"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 9,
+            "": "",
+            "away_score_current": 5,
+            "away_score_half": 2,
+            "away_corners": 2,
+            "details_status_id": 8,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1749827062,
+                    "3",
+                    "-117",
+                    -2.25,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1749827194,
+                    "6",
+                    "+750",
+                    700.0,
+                    "-500",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1749827041,
+                    "3",
+                    "-111",
+                    4.25,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "771mmHg",
+              "temperature": "64°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "44%"
+            }
+          },
+          {
+            "match_id": "x7lm7phz66e9m2w",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia New South Wales Premier League"
+            },
+            "teams": {
+              "home": {
+                "name": "Rockdale City Suns"
+              },
+              "away": {
+                "name": "Sutherland Sharks"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 4,
+            "": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 2,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173813,
+                    "3",
+                    "-103",
+                    1.5,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173886,
+                    "4",
+                    "-250",
+                    375.0,
+                    "+550",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173799,
+                    "3",
+                    "-121",
+                    3.5,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751173842,
+                    "4",
+                    "-120",
+                    10.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "64°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "48%"
+            }
+          },
+          {
+            "match_id": "x7lm7phz6lk1m2w",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Australia National Premier Leagues Queensland"
+            },
+            "teams": {
+              "home": {
+                "name": "Gold Coast United"
+              },
+              "away": {
+                "name": "Sunshine Coast Wanderers FC"
+              }
+            },
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 4,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1750975414,
+                    "",
+                    "-117",
+                    0.25,
+                    "-105",
+                    9,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173084,
+                    "",
+                    "+125",
+                    270.0,
+                    "+150",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1750968136,
+                    "",
+                    "-121",
+                    3.5,
+                    "-103",
+                    9,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1743159557,
+                    "",
+                    "-117",
+                    9.5,
+                    "-105",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "769mmHg",
+              "temperature": "64°F",
+              "wind": "16mph (Moderate Breeze)",
+              "humidity": "88%"
+            }
+          },
+          {
+            "match_id": "y0or5jh84npvqwz",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:00 AM",
+            "competition": {
+              "name": "Japanese Regional League"
+            },
+            "teams": {
+              "home": {
+                "name": "Ryutsu Keizai University"
+              },
+              "away": {
+                "name": "Nankatsu SC"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            "": "",
+            "away_score_current": 2,
+            "away_score_half": 2,
+            "away_corners": 4,
+            "details_status_id": 4,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751173314,
+                    "3",
+                    "-114",
+                    -1.5,
+                    "-108",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751173317,
+                    "3",
+                    "+1400",
+                    700.0,
+                    "-909",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751173317,
+                    "3",
+                    "-111",
+                    4.25,
+                    "-111",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "757mmHg",
+              "temperature": "88°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "57%"
+            }
+          },
+          {
+            "match_id": "y39mp1h6366nmoj",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/03/2025 08:00 PM",
+            "competition": {
+              "name": "CONCACAF U20 Women's Championship"
+            },
+            "teams": {
+              "home": {
+                "name": "Costa Rica (w) U20"
+              },
+              "away": {
+                "name": "USA (w) U20"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 7,
+            "": "",
+            "away_score_current": 4,
+            "away_score_half": 1,
+            "away_corners": 1,
+            "details_status_id": 8,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1748980881,
+                    "2",
+                    "+102",
+                    -2.25,
+                    "-129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1748980925,
+                    "3",
+                    "+900",
+                    550.0,
+                    "-555",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1748980887,
+                    "2",
+                    "-105",
+                    4.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1748981016,
+                    "5",
+                    "+100",
+                    8.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "761mmHg",
+              "temperature": "73°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "91%"
+            }
+          },
+          {
+            "match_id": "y39mp1h65446moj",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 04:30 AM",
+            "competition": {
+              "name": "Australia Northern New South Wales Reserves League"
+            },
+            "teams": {
+              "home": {
+                "name": "Belmont Swansea United SC Reserves"
+              },
+              "away": {
+                "name": "Charlestown Azzurri Reserves"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 8,
+            "": "",
+            "away_score_current": 4,
+            "away_score_half": 2,
+            "away_corners": 5,
+            "details_status_id": 8,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751171794,
+                    "6",
+                    "+102",
+                    0.25,
+                    "-129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751171668,
+                    "4",
+                    "+125",
+                    333.0,
+                    "+150",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751171748,
+                    "5",
+                    "-121",
+                    3.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Fair",
+              "pressure": "769mmHg",
+              "temperature": "68°F",
+              "wind": "4mph (Light Breeze)",
+              "humidity": "45%"
+            }
+          },
+          {
+            "match_id": "y39mp1hzl72pmoj",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 06:15 AM",
+            "competition": {
+              "name": "Australia Brisbane Capital League 1"
+            },
+            "teams": {
+              "home": {
+                "name": "Newmarket SFC"
+              },
+              "away": {
+                "name": "Yeronga Eagles"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 2,
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751177836,
+                    "5",
+                    "-121",
+                    2.5,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751177836,
+                    "5",
+                    "-625",
+                    600.0,
+                    "+800",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751177714,
+                    "3",
+                    "-111",
+                    4.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "environment": {
+              "weather": "Snow",
+              "pressure": "768mmHg",
+              "temperature": "63°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "91%"
+            }
+          },
+          {
+            "match_id": "zp5rzghgyvk5q82",
+            "timestamp": "06/29/2025 02:20 AM",
+            "scheduled_time_readable": "06/29/2025 05:30 AM",
+            "competition": {
+              "name": "WAUS WD2"
+            },
+            "teams": {
+              "home": {
+                "name": "Hamersley Rovers (W)"
+              },
+              "away": {
+                "name": "Subiaco AFC II (W)"
+              }
+            },
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            "": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "details_status_id": 13
+          }
+        ],
+        "total_matches": 38
+      },
+      "processing_metadata": {
+        "source_file": "monitoring.json",
+        "processing_time": "06/29/2025 02:20:29 AM EDT",
+        "status": "success"
+      }
+    }
+  ]
+}

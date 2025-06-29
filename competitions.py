@@ -1,6 +1,15 @@
 #!/usr/bin/env python3
 
 # ========================================
+# CENTRALIZED LOGGING SYSTEM REMOVAL NOTE
+# ========================================
+# This project previously used a centralized logging system with shared configuration files
+# (logging_utils.py, loggingconfig.py, etc.) that was removed due to path confusion and
+# complexity. Each endpoint file now contains its own independent, hardcoded logging logic
+# that is specific to that file's requirements. No centralized logging imports remain.
+# ========================================
+
+# ========================================
 # IDENTIFIER REFERENCE - COMPETITIONS.PY
 # ========================================
 # INPUT IDs: competition_id (from details.py) -> used as 'uuid' parameter
@@ -136,7 +145,6 @@ import asyncio
 import aiohttp
 import os
 import json
-import shutil
 from datetime import datetime, timedelta
 from typing import List, Dict, Any
 # Removed logging_utils dependency - keeping only print statements for logging
@@ -205,21 +213,11 @@ def load_competition_cache() -> Dict[str, Any]:
         }
 
 def save_competition_cache(cache: Dict[str, Any]):
-    """Save competition cache with archive backup"""
+    """Save competition cache"""
     cache_file = '/workspaces/TMUX_FINAL_SPORTS/cache/competitions/competitions_cache.json'
-    archive_dir = '/workspaces/TMUX_FINAL_SPORTS/cache/competitions/archive'
     
-    # Ensure directories exist
+    # Ensure directory exists
     os.makedirs(os.path.dirname(cache_file), exist_ok=True)
-    os.makedirs(archive_dir, exist_ok=True)
-    
-    # Archive existing cache if it exists
-    if os.path.exists(cache_file):
-        today = datetime.now().strftime('%Y%m%d')
-        archive_file = f"{archive_dir}/competitions_cache_{today}.json"
-        if not os.path.exists(archive_file):  # Only archive once per day
-            shutil.copy2(cache_file, archive_file)
-            print(f"Archived previous competitions cache to {archive_file}")
     
     # Update metadata
     cache["cache_metadata"]["last_updated"] = datetime.now().isoformat()

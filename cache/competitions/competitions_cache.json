@@ -1,123 +1,12 @@
 {
   "cache_metadata": {
-    "created_at": "2025-06-20T00:06:41.886482",
-    "last_updated": "2025-06-20T00:22:41.420430",
+    "created_at": "2025-06-27T01:51:36.360079",
+    "last_updated": "2025-06-29T08:45:29.830044",
     "cache_version": "1.0",
-    "total_competitions": 14,
+    "total_competitions": 160,
     "cache_duration_hours": 24
   },
   "competitions": {
-    "gx7lm7ph9lgm2wd": {
-      "data": {
-        "id": "gx7lm7ph9lgm2wd",
-        "category_id": "0gx7lm7ph0m2wdk",
-        "country_id": "d23xmvkhoxqg8ny",
-        "name": "USL League Two",
-        "short_name": "USL2",
-        "logo": "https://img.thesports.com/football/competition/47af1831f6cea09ebe788eea3047c14a.png",
-        "type": 1,
-        "cur_season_id": "gy0or5jhv71qwzv",
-        "cur_stage_id": "vjxm8gh77y9r6od",
-        "cur_round": 0,
-        "round_count": 0,
-        "title_holder": [],
-        "most_titles": [],
-        "newcomers": [],
-        "divisions": [],
-        "host": {},
-        "primary_color": "",
-        "secondary_color": "",
-        "updated_at": 1749025086
-      },
-      "fetched_at": "2025-06-20T00:06:42.166259",
-      "api_updated_at": 1749025086
-    },
-    "kn54qllhy2qvy9d": {
-      "data": {
-        "id": "kn54qllhy2qvy9d",
-        "category_id": "0gx7lm7ph0m2wdk",
-        "country_id": "",
-        "name": "CONCACAF U20 Women's Championship",
-        "short_name": "CONCACAF U20 Women's Championship",
-        "logo": "https://img.thesports.com/football/competition/ca9c267dad0305d1a6308d2a0cf1c39c.jpg",
-        "type": 2,
-        "cur_season_id": "j1l4rjnh8pkm7vx",
-        "cur_stage_id": "y0or5jhwdx5qwzv",
-        "cur_round": 0,
-        "round_count": 0,
-        "title_holder": [],
-        "most_titles": [],
-        "newcomers": [],
-        "divisions": [],
-        "host": {},
-        "primary_color": "#489511ff",
-        "secondary_color": "",
-        "updated_at": 1749415567
-      },
-      "fetched_at": "2025-06-20T00:06:42.166267",
-      "api_updated_at": 1749415567
-    },
-    "vl7oqdeh6v4r510": {
-      "data": {
-        "id": "vl7oqdeh6v4r510",
-        "category_id": "0gx7lm7ph0m2wdk",
-        "country_id": "9k82rekh9grepzj",
-        "name": "Ecuadorian Campeonato Serie B",
-        "short_name": "ECU Campeonato Serie B",
-        "logo": "https://img.thesports.com/football/competition/ea9f0a07508983b23f0849c9dbd7b9e9.png",
-        "type": 1,
-        "cur_season_id": "kdj2ryohw33q1zp",
-        "cur_stage_id": "1l4rjnhdgepm7vx",
-        "cur_round": 14,
-        "round_count": 22,
-        "title_holder": [],
-        "most_titles": [],
-        "newcomers": [
-          [],
-          [
-            "23xmvkh3gddqg8n",
-            "y39mp1hjl7xmojx"
-          ]
-        ],
-        "divisions": [
-          [
-            "9vjxm8ghdnr6odg"
-          ],
-          []
-        ],
-        "host": {},
-        "primary_color": "",
-        "secondary_color": "",
-        "updated_at": 1749773137
-      },
-      "fetched_at": "2025-06-20T00:06:42.166270",
-      "api_updated_at": 1749773137
-    },
-    "gpxwrxlh217ryk0": {
-      "data": {
-        "id": "gpxwrxlh217ryk0",
-        "category_id": "0gx7lm7ph0m2wdk",
-        "country_id": "kn54qllhejqvy9d",
-        "name": "BRA CG2",
-        "short_name": "BRA CG2",
-        "logo": "https://img.thesports.com/football/competition/70704769724e3b13daf25120d19eceb3.png",
-        "type": 1,
-        "cur_season_id": "jednm9wh38gryox",
-        "cur_stage_id": "4jwq2ghxv7km0ve",
-        "cur_round": 0,
-        "round_count": 0,
-        "title_holder": [],
-        "most_titles": [],
-        "newcomers": [],
-        "divisions": [],
-        "host": {},
-        "primary_color": "",
-        "secondary_color": "",
-        "updated_at": 1716249615
-      },
-      "fetched_at": "2025-06-20T00:06:42.166271",
-      "api_updated_at": 1716249615
-    },
     "z8yomo4h24dq0j6": {
       "data": {
         "id": "z8yomo4h24dq0j6",
@@ -140,8 +29,108 @@
         "secondary_color": "",
         "updated_at": 1653062828
       },
-      "fetched_at": "2025-06-20T00:06:42.166272",
+      "fetched_at": "2025-06-29T00:50:20.227167",
       "api_updated_at": 1653062828
+    },
+    "jednm9whk0ryox8": {
+      "data": {
+        "id": "jednm9whk0ryox8",
+        "category_id": "kp3glrw7hwqdyjv",
+        "country_id": "",
+        "name": "International Friendly",
+        "short_name": "INT FRL",
+        "logo": "https://img.thesports.com/football/competition/4e7c9460ee862d47c2ce6debfef6aace.png",
+        "type": 3,
+        "cur_season_id": "v2y8m4zh2pnql07",
+        "cur_stage_id": "8yomo4h66wvq0j6",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#25497d",
+        "secondary_color": "#d38f1d",
+        "updated_at": 1748973547
+      },
+      "fetched_at": "2025-06-29T00:50:20.227184",
+      "api_updated_at": 1748973547
+    },
+    "gx7lm7ph9lgm2wd": {
+      "data": {
+        "id": "gx7lm7ph9lgm2wd",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "d23xmvkhoxqg8ny",
+        "name": "USL League Two",
+        "short_name": "USL2",
+        "logo": "https://img.thesports.com/football/competition/47af1831f6cea09ebe788eea3047c14a.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhv71qwzv",
+        "cur_stage_id": "vjxm8gh77y9r6od",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1749025086
+      },
+      "fetched_at": "2025-06-29T00:50:20.227206",
+      "api_updated_at": 1749025086
+    },
+    "9vjxm8ghllzr6od": {
+      "data": {
+        "id": "9vjxm8ghllzr6od",
+        "category_id": "kp3glrw7hwqdyjv",
+        "country_id": "",
+        "name": "FIFA Club World Cup",
+        "short_name": "FIFA Club World Cup",
+        "logo": "https://img.thesports.com/football/competition/ceac41ef85151074cdbfc87f09e1b8a9.png",
+        "type": 2,
+        "cur_season_id": "9dn1m1gh5kemoep",
+        "cur_stage_id": "4jwq2gh64zxm0ve",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750986324
+      },
+      "fetched_at": "2025-06-29T00:50:20.227196",
+      "api_updated_at": 1750986324
+    },
+    "d23xmvkh5oqg8ny": {
+      "data": {
+        "id": "d23xmvkh5oqg8ny",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "9dn1m1ghexmoepl",
+        "name": "Bolivian Copa LFPB",
+        "short_name": "BOL Copa LFPB",
+        "logo": "https://img.thesports.com/football/competition/4c12fa77781f4ede0f0ca465a109addf.png",
+        "type": 2,
+        "cur_season_id": "kdj2ryohw6wq1zp",
+        "cur_stage_id": "pxwrxlh0n6pryk0",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1744779611
+      },
+      "fetched_at": "2025-06-27T01:51:36.656955",
+      "api_updated_at": 1744779611
     },
     "jednm9whz6xryox": {
       "data": {
@@ -165,192 +154,155 @@
         "secondary_color": "",
         "updated_at": 1750161426
       },
-      "fetched_at": "2025-06-20T00:06:42.166274",
+      "fetched_at": "2025-06-29T00:50:20.227180",
       "api_updated_at": 1750161426
     },
-    "z8yomo4h61q0j6l": {
+    "56ypq3nhl99md7o": {
       "data": {
-        "id": "z8yomo4h61q0j6l",
+        "id": "56ypq3nhl99md7o",
         "category_id": "0gx7lm7ph0m2wdk",
-        "country_id": "",
-        "name": "CONCACAF Gold Cup",
-        "short_name": "CONCACAF Gold Cup",
-        "logo": "https://img.thesports.com/football/competition/dc9327756b630714aa2edaeb211eacfc.png",
-        "type": 2,
-        "cur_season_id": "gx7lm7phlegm2wd",
-        "cur_stage_id": "k82rekhjdvzrepz",
-        "cur_round": 2,
-        "round_count": 3,
-        "title_holder": [
-          "gpxwrxlh43jryk0",
-          12
-        ],
-        "most_titles": [
-          [
-            "gpxwrxlh43jryk0"
-          ],
-          12
-        ],
-        "newcomers": [],
-        "divisions": [],
-        "host": {
-          "country": "USA"
-        },
-        "primary_color": "#031236",
-        "secondary_color": "#ffc84e",
-        "updated_at": 1750214346
-      },
-      "fetched_at": "2025-06-20T00:06:42.166275",
-      "api_updated_at": 1750214346
-    },
-    "56ypq3nhyymd7oj": {
-      "data": {
-        "id": "56ypq3nhyymd7oj",
-        "category_id": "0gx7lm7ph0m2wdk",
-        "country_id": "8y39mp1h5zmojxg",
-        "name": "Categor\u00eda Primera A",
-        "short_name": "Categor\u00eda Primera A",
-        "logo": "https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png",
+        "country_id": "d23xmvkhoxqg8ny",
+        "name": "MLS Next Pro",
+        "short_name": "MLS Next Pro",
+        "logo": "https://img.thesports.com/football/competition/8a2d371b3ceb1959f8691519ae80fa1c.png",
         "type": 1,
-        "cur_season_id": "kn54qllhlpoqvy9",
-        "cur_stage_id": "8yomo4h66onq0j6",
-        "cur_round": 6,
-        "round_count": 6,
-        "title_holder": [
-          "pxwrxlhg9x5ryk0",
-          15
-        ],
-        "most_titles": [
-          [
-            "jw2r09hll85rz84"
-          ],
-          16
-        ],
-        "newcomers": [
-          [
-            "n54qllhe8p7qvy9",
-            "dn1m1gh446pmoep"
-          ],
-          []
-        ],
-        "divisions": [
-          [],
-          [
-            "gpxwrxlh84ryk0j"
-          ]
-        ],
-        "host": {},
-        "primary_color": "#d3be00",
-        "secondary_color": "#008bcc",
-        "updated_at": 1750374487
-      },
-      "fetched_at": "2025-06-20T00:06:42.166276",
-      "api_updated_at": 1750374487
-    },
-    "p3glrw7hwo7qdyj": {
-      "data": {
-        "id": "p3glrw7hwo7qdyj",
-        "category_id": "9d23xmvkhxqg8ny",
-        "country_id": "9vjxm8gh8gr6odg",
-        "name": "Libyan Premier League",
-        "short_name": "LIB Premier League",
-        "logo": "https://img.thesports.com/football/competition/3a552b2e7d7e817c48128a9a57b34141.png",
-        "type": 1,
-        "cur_season_id": "d23xmvkh5j5qg8n",
-        "cur_stage_id": "l5ergphevdor8k0",
-        "cur_round": 5,
-        "round_count": 5,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
         "title_holder": [],
         "most_titles": [],
         "newcomers": [],
         "divisions": [],
         "host": {},
-        "primary_color": "#21a4bcff",
+        "primary_color": "",
         "secondary_color": "",
-        "updated_at": 1749474481
+        "updated_at": 1750315446
       },
-      "fetched_at": "2025-06-20T00:06:42.166278",
-      "api_updated_at": 1749474481
+      "fetched_at": "2025-06-29T00:50:20.227209",
+      "api_updated_at": 1750315446
     },
-    "yl5ergph72r8k0o": {
+    "vl7oqdeh6v4r510": {
       "data": {
-        "id": "yl5ergph72r8k0o",
-        "category_id": "49vjxm8ghgr6odg",
-        "country_id": "9vjxm8ghggr6odg",
-        "name": "North Macedonia Cup",
-        "short_name": "NMKD Cup",
-        "logo": "https://img.thesports.com/football/competition/52ca7e6a6c29bec20a52bc983a550b7c.png",
-        "type": 2,
-        "cur_season_id": "56ypq3nh2zlmd7o",
-        "cur_stage_id": "l7oqdeh994yr510",
-        "cur_round": 0,
-        "round_count": 0,
-        "title_holder": [
-          "318q66h0zd7qo9j",
-          1
-        ],
-        "most_titles": [
-          [
-            "kdj2ryoh38yq1zp"
-          ],
-          5
-        ],
-        "newcomers": [],
-        "divisions": [],
-        "host": {
-          "country": "North Macedonia"
-        },
-        "primary_color": "#f8b727",
-        "secondary_color": "#d33b2a",
-        "updated_at": 1747857635
-      },
-      "fetched_at": "2025-06-20T00:06:42.166279",
-      "api_updated_at": 1747857635
-    },
-    "l965mkyhw4r1ge4": {
-      "data": {
-        "id": "l965mkyhw4r1ge4",
-        "category_id": "49vjxm8ghgr6odg",
-        "country_id": "yl5ergphojr8k0o",
-        "name": "Estonian Esiliiga",
-        "short_name": "EST Esiliiga",
-        "logo": "https://img.thesports.com/football/competition/dde44558274f5fa146c8856817409989.png",
+        "id": "vl7oqdeh6v4r510",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "9k82rekh9grepzj",
+        "name": "Ecuadorian Campeonato Serie B",
+        "short_name": "ECU Campeonato Serie B",
+        "logo": "https://img.thesports.com/football/competition/ea9f0a07508983b23f0849c9dbd7b9e9.png",
         "type": 1,
-        "cur_season_id": "4zp5rzghndpq82w",
-        "cur_stage_id": "pxwrxlh0l6dryk0",
+        "cur_season_id": "kdj2ryohw33q1zp",
+        "cur_stage_id": "1l4rjnhdgepm7vx",
         "cur_round": 16,
-        "round_count": 36,
-        "title_holder": [
-          "965mkyh4466r1ge",
-          3
-        ],
-        "most_titles": [
-          [
-            "6ypq3nh02oemd7o"
-          ],
-          7
-        ],
+        "round_count": 22,
+        "title_holder": [],
+        "most_titles": [],
         "newcomers": [
           [],
           [
-            "k82rekhv476repz"
+            "23xmvkh3gddqg8n",
+            "y39mp1hjl7xmojx"
           ]
         ],
         "divisions": [
           [
-            "jednm9whokryox8"
+            "9vjxm8ghdnr6odg"
           ],
           []
         ],
-        "host": {
-          "country": "Estonia"
-        },
-        "primary_color": "#ed8028",
-        "secondary_color": "#e26510",
-        "updated_at": 1750089787
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750983504
       },
-      "fetched_at": "2025-06-20T00:07:41.734786",
-      "api_updated_at": 1750089787
+      "fetched_at": "2025-06-27T01:51:36.656960",
+      "api_updated_at": 1750983504
+    },
+    "j1l4rjnh0xm7vx5": {
+      "data": {
+        "id": "j1l4rjnh0xm7vx5",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Serie B",
+        "short_name": "BRA Serie B",
+        "logo": "https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png",
+        "type": 1,
+        "cur_season_id": "yl5ergphzjkr8k0",
+        "cur_stage_id": "vjxm8gh70l7r6od",
+        "cur_round": 14,
+        "round_count": 38,
+        "title_holder": [
+          "v2y8m4zhy70ql07",
+          1
+        ],
+        "most_titles": [
+          [
+            "9vjxm8ghoenr6od",
+            "j1l4rjnhpp5m7vx",
+            "4zp5rzgh993q82w",
+            "p3glrw7h56eqdyj",
+            "y0or5jh44x8qwzv",
+            "pxwrxlhg975ryk0",
+            "56ypq3nhdkymd7o"
+          ],
+          2
+        ],
+        "newcomers": [
+          [
+            "pxwrxlh9lo6ryk0",
+            "d23xmvkhnoxqg8n",
+            "gpxwrxlhdj5ryk0",
+            "4wyrn4h84p3q86p"
+          ],
+          [
+            "9vjxm8gh678r6od",
+            "gy0or5jhkw1qwzv",
+            "p4jwq2gh3kpm0ve",
+            "ednm9whkdzdryox"
+          ]
+        ],
+        "divisions": [
+          [
+            "4zp5rzgh9zq82w1"
+          ],
+          [
+            "gx7lm7ph001m2wd"
+          ]
+        ],
+        "host": {
+          "country": "Brazil"
+        },
+        "primary_color": "#3F01FF",
+        "secondary_color": "#c5be02",
+        "updated_at": 1750753027
+      },
+      "fetched_at": "2025-06-29T07:22:29.544107",
+      "api_updated_at": 1750753027
+    },
+    "kn54qllhy2qvy9d": {
+      "data": {
+        "id": "kn54qllhy2qvy9d",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "",
+        "name": "CONCACAF U20 Women's Championship",
+        "short_name": "CONCACAF U20 Women's Championship",
+        "logo": "https://img.thesports.com/football/competition/ca9c267dad0305d1a6308d2a0cf1c39c.jpg",
+        "type": 2,
+        "cur_season_id": "j1l4rjnh8pkm7vx",
+        "cur_stage_id": "y0or5jhwdx5qwzv",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#489511ff",
+        "secondary_color": "",
+        "updated_at": 1749415567
+      },
+      "fetched_at": "2025-06-29T00:57:25.400558",
+      "api_updated_at": 1749415567
     },
     "9k82rekheorepzj": {
       "data": {
@@ -363,7 +315,7 @@
         "type": 1,
         "cur_season_id": "kjw2r09hed3rz84",
         "cur_stage_id": "zp5rzghdo1dq82w",
-        "cur_round": 10,
+        "cur_round": 12,
         "round_count": 21,
         "title_holder": [],
         "most_titles": [],
@@ -372,10 +324,45 @@
         "host": {},
         "primary_color": "",
         "secondary_color": "",
-        "updated_at": 1750000537
+        "updated_at": 1750511408
       },
-      "fetched_at": "2025-06-20T00:08:41.182080",
-      "api_updated_at": 1750000537
+      "fetched_at": "2025-06-29T01:01:26.006029",
+      "api_updated_at": 1750511408
+    },
+    "gpxwrxlh7zryk0j": {
+      "data": {
+        "id": "gpxwrxlh7zryk0j",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "0l965mkyh2r1ge4",
+        "name": "Finnish Ykkonen",
+        "short_name": "FIN Ykkonen",
+        "logo": "https://img.thesports.com/football/competition/ebaaa1dd253d35d64b79237ac20b1d38.png",
+        "type": 1,
+        "cur_season_id": "kjw2r09hev3rz84",
+        "cur_stage_id": "965mkyh0wj2r1ge",
+        "cur_round": 12,
+        "round_count": 22,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "2y8m4zh3jg2ql07"
+          ]
+        ],
+        "divisions": [
+          [
+            "56ypq3nhgwmd7oj"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "#7fb9d6ff",
+        "secondary_color": "",
+        "updated_at": 1751126947
+      },
+      "fetched_at": "2025-06-29T01:05:26.320143",
+      "api_updated_at": 1751126947
     },
     "l965mkyhnj1r1ge": {
       "data": {
@@ -399,55 +386,4738 @@
         "secondary_color": "",
         "updated_at": 1684373889
       },
-      "fetched_at": "2025-06-20T00:19:41.953530",
+      "fetched_at": "2025-06-29T00:50:20.227203",
       "api_updated_at": 1684373889
     },
-    "j1l4rjnh66nm7vx": {
+    "z8yomo4h61q0j6l": {
       "data": {
-        "id": "j1l4rjnh66nm7vx",
-        "category_id": "ngy0or5jh3qwzv3",
-        "country_id": "p3glrw7hjwqdyjv",
-        "name": "Saudi Professional League",
-        "short_name": "KSA Professional League",
-        "logo": "https://img.thesports.com/football/competition/c48508454f43d926a553270b1b4ebcd7.png",
-        "type": 1,
-        "cur_season_id": "gx7lm7ph1jem2wd",
-        "cur_stage_id": "pxwrxlhjjejryk0",
-        "cur_round": 34,
-        "round_count": 34,
+        "id": "z8yomo4h61q0j6l",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "",
+        "name": "CONCACAF Gold Cup",
+        "short_name": "CONCACAF Gold Cup",
+        "logo": "https://img.thesports.com/football/competition/dc9327756b630714aa2edaeb211eacfc.png",
+        "type": 2,
+        "cur_season_id": "gx7lm7phlegm2wd",
+        "cur_stage_id": "318q66h3dooqo9j",
+        "cur_round": 0,
+        "round_count": 0,
         "title_holder": [
-          "kdj2ryohw6wq1zp",
-          19
+          "gpxwrxlh43jryk0",
+          12
         ],
         "most_titles": [
           [
-            "kdj2ryohw6wq1zp"
+            "gpxwrxlh43jryk0"
           ],
-          19
+          12
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "USA"
+        },
+        "primary_color": "#031236",
+        "secondary_color": "#ffc84e",
+        "updated_at": 1750818126
+      },
+      "fetched_at": "2025-06-29T00:50:20.227193",
+      "api_updated_at": 1750818126
+    },
+    "kn54qllhg2qvy9d": {
+      "data": {
+        "id": "kn54qllhg2qvy9d",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "d23xmvkhoxqg8ny",
+        "name": "United States Major League Soccer",
+        "short_name": "USA MLS",
+        "logo": "https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhv65qwzv",
+        "cur_stage_id": "318q66hg9w6qo9j",
+        "cur_round": 20,
+        "round_count": 34,
+        "title_holder": [
+          "8y39mp1hny7mojx",
+          6
+        ],
+        "most_titles": [
+          [
+            "8y39mp1hny7mojx"
+          ],
+          6
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "USA"
+        },
+        "primary_color": "#e2231a",
+        "secondary_color": "#062f69",
+        "updated_at": 1751154943
+      },
+      "fetched_at": "2025-06-29T00:50:20.227186",
+      "api_updated_at": 1751154943
+    },
+    "kn54qllhjzwqvy9": {
+      "data": {
+        "id": "kn54qllhjzwqvy9",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Youth Championship",
+        "short_name": "BRA Youth Championship",
+        "logo": "https://img.thesports.com/football/competition/5bdf14f9f0d3a6f1978bac0d88264654.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1748403426
+      },
+      "fetched_at": "2025-06-29T05:33:26.935509",
+      "api_updated_at": 1748403426
+    },
+    "vl7oqdeh0k3r510": {
+      "data": {
+        "id": "vl7oqdeh0k3r510",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "gy0or5jh43qwzv3",
+        "name": "Argentina Santa Fe Cup",
+        "short_name": "ARG Santa Fe Cup",
+        "logo": "https://img.thesports.com/football/competition/6ae028d3135ad033a53b1990128d5216.jpg",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618469650
+      },
+      "fetched_at": "2025-06-27T03:28:59.125403",
+      "api_updated_at": 1618469650
+    },
+    "vl7oqdeh7pr510j": {
+      "data": {
+        "id": "vl7oqdeh7pr510j",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese J3 League",
+        "short_name": "JPN J3",
+        "logo": "https://img.thesports.com/football/competition/a1f1648054ac32596f2e18db095c52b4.png",
+        "type": 1,
+        "cur_season_id": "vl7oqdehv31r510",
+        "cur_stage_id": "y0or5jhw98dqwzv",
+        "cur_round": 18,
+        "round_count": 38,
+        "title_holder": [
+          "8yomo4h7gd4q0j6",
+          1
+        ],
+        "most_titles": [
+          [
+            "9k82rekhpx0repz",
+            "2y8m4zh3wkxql07",
+            "965mkyh7dpkr1ge",
+            "k82rekhvk9krepz",
+            "dj2ryohk9j5q1zp",
+            "8yomo4h7gd4q0j6"
+          ],
+          1
         ],
         "newcomers": [
           [
-            "y39mp1hjj8kmojx",
-            "d23xmvkh5p0qg8n",
-            "y39mp1h369emojx"
+            "6ypq3nh5p88md7o",
+            "4jwq2ghvd9wm0ve"
+          ],
+          [
+            "2y8m4zh3n80ql07",
+            "zp5rzgh72xnq82w",
+            "kn54qllho62qvy9"
+          ]
+        ],
+        "divisions": [
+          [
+            "9dn1m1gh6gmoepl"
+          ],
+          [
+            "e4wyrn4hg1q86pv"
+          ]
+        ],
+        "host": {
+          "country": "Japan"
+        },
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750572966
+      },
+      "fetched_at": "2025-06-27T04:03:58.493643",
+      "api_updated_at": 1750572966
+    },
+    "l965mkyh4jdr1ge": {
+      "data": {
+        "id": "l965mkyh4jdr1ge",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "gy0or5jh43qwzv3",
+        "name": "Argentine Reserve League",
+        "short_name": "ARG Reserve League",
+        "logo": "https://img.thesports.com/football/competition/3856d1c82c6896c8c53370e31f36365d.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964935
+      },
+      "fetched_at": "2025-06-27T05:34:58.385565",
+      "api_updated_at": 1617964935
+    },
+    "9dn1m1ghnzvmoep": {
+      "data": {
+        "id": "9dn1m1ghnzvmoep",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese University Championship",
+        "short_name": "JPN University Championship",
+        "logo": "https://img.thesports.com/football/competition/0646b5276f2b9f744aace095593e5fe7.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1652263510
+      },
+      "fetched_at": "2025-06-27T06:03:58.458610",
+      "api_updated_at": 1652263510
+    },
+    "kdj2ryohj27q1zp": {
+      "data": {
+        "id": "kdj2ryohj27q1zp",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Northern New South Wales U20 League",
+        "short_name": "AUS NSW-N U20",
+        "logo": "https://img.thesports.com/football/competition/774dc10657bc01ebcc79ba4ade1cd202.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964940
+      },
+      "fetched_at": "2025-06-29T03:03:27.677324",
+      "api_updated_at": 1617964940
+    },
+    "v2y8m4zhgnoql07": {
+      "data": {
+        "id": "v2y8m4zhgnoql07",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "0l965mkyh2r1ge4",
+        "name": "Finnish Kolmonen",
+        "short_name": "FIN Kolmonen",
+        "logo": "https://img.thesports.com/football/competition/5165bb079af99a9e0a3eee4e4529dbdc.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964981
+      },
+      "fetched_at": "2025-06-29T08:45:29.829860",
+      "api_updated_at": 1617964981
+    },
+    "9dn1m1ghew6moep": {
+      "data": {
+        "id": "9dn1m1ghew6moep",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "0gx7lm7ph0m2wdk",
+        "name": "Spanish Tercera Divisi\u00f3n RFEF",
+        "short_name": "STDRFEF",
+        "logo": "https://img.thesports.com/football/competition/dba98abc4e543a1fba59bf3319f3702b.png",
+        "type": 1,
+        "cur_season_id": "8y39mp1h2vkmojx",
+        "cur_stage_id": "965mkyhe740r1ge",
+        "cur_round": 1,
+        "round_count": 34,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1705838617
+      },
+      "fetched_at": "2025-06-27T06:31:59.543248",
+      "api_updated_at": 1705838617
+    },
+    "gpxwrxlhgpryk0j": {
+      "data": {
+        "id": "gpxwrxlhgpryk0j",
+        "category_id": "kp3glrw7hwqdyjv",
+        "country_id": "",
+        "name": "International Club Friendly",
+        "short_name": "INT CF",
+        "logo": "https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png",
+        "type": 3,
+        "cur_season_id": "kdj2ryohwxdq1zp",
+        "cur_stage_id": "vjxm8gh7ov9r6od",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#25497d",
+        "secondary_color": "#d38f1d",
+        "updated_at": 1749793327
+      },
+      "fetched_at": "2025-06-29T01:58:26.730866",
+      "api_updated_at": 1749793327
+    },
+    "56ypq3nhx6md7oj": {
+      "data": {
+        "id": "56ypq3nhx6md7oj",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Chinese U18 National Games",
+        "short_name": "CHN U18 National Games",
+        "logo": "https://img.thesports.com/football/competition/337576501dfc630f37732952b70e83d8.png",
+        "type": 2,
+        "cur_season_id": "l965mkyhplxr1ge",
+        "cur_stage_id": "k82rekhjd0xrepz",
+        "cur_round": 5,
+        "round_count": 5,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#1cb6b6ff",
+        "secondary_color": "",
+        "updated_at": 1751012346
+      },
+      "fetched_at": "2025-06-29T06:29:29.543943",
+      "api_updated_at": 1751012346
+    },
+    "9k82rekh52repzj": {
+      "data": {
+        "id": "9k82rekh52repzj",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Chinese Football Super League",
+        "short_name": "CSL",
+        "logo": "https://img.thesports.com/football/competition/c60b352d3201d8be0410c7760cd66c99.png",
+        "type": 1,
+        "cur_season_id": "56ypq3nh2k8md7o",
+        "cur_stage_id": "x7lm7ph2xd1m2wd",
+        "cur_round": 16,
+        "round_count": 30,
+        "title_holder": [
+          "8yomo4h7401q0j6",
+          3
+        ],
+        "most_titles": [
+          [
+            "z8yomo4hj6oq0j6"
+          ],
+          8
+        ],
+        "newcomers": [
+          [
+            "3glrw7hz1ooqdyj",
+            "pxwrxlhz17zryk0"
           ],
           []
         ],
         "divisions": [
           [],
           [
-            "p4jwq2gh44wm0ve"
+            "z318q66h91qo9jd"
           ]
         ],
         "host": {
-          "country": "Saudi Arabia"
+          "country": "China"
         },
-        "primary_color": "#0d1539",
-        "secondary_color": "#61ab34",
-        "updated_at": 1748335184
+        "primary_color": "#f16327",
+        "secondary_color": "#bc0416",
+        "updated_at": 1750939764
       },
-      "fetched_at": "2025-06-20T00:22:41.420290",
-      "api_updated_at": 1748335184
+      "fetched_at": "2025-06-27T07:17:59.582713",
+      "api_updated_at": 1750939764
+    },
+    "v2y8m4zhgxoql07": {
+      "data": {
+        "id": "v2y8m4zhgxoql07",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Western Australia Women's League",
+        "short_name": "AUS-W Women's League",
+        "logo": "https://img.thesports.com/football/competition/3221638b6bc23913fe5a1a660bb84355.png",
+        "type": 1,
+        "cur_season_id": "v2y8m4zh2ylql07",
+        "cur_stage_id": "3glrw7hg9xwqdyj",
+        "cur_round": 13,
+        "round_count": 21,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750850784
+      },
+      "fetched_at": "2025-06-29T07:04:29.202951",
+      "api_updated_at": 1750850784
+    },
+    "gpxwrxlhzyxryk0": {
+      "data": {
+        "id": "gpxwrxlhzyxryk0",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Queensland U23 League",
+        "short_name": "AUS QLD U23",
+        "logo": "https://img.thesports.com/football/competition/3061eb43e49fa136fa8be3d5032f356b.png",
+        "type": 1,
+        "cur_season_id": "56ypq3nhjewmd7o",
+        "cur_stage_id": "3glrw7hy17xqdyj",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1747220527
+      },
+      "fetched_at": "2025-06-29T02:58:27.421690",
+      "api_updated_at": 1747220527
+    },
+    "9dn1m1ghnk9moep": {
+      "data": {
+        "id": "9dn1m1ghnk9moep",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Victorian Women's Cup",
+        "short_name": "AUS VIC Women's Cup",
+        "logo": "https://img.thesports.com/football/competition/6d15db78ed9d5751c32aec4b231154f7.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618469762
+      },
+      "fetched_at": "2025-06-27T07:35:59.312212",
+      "api_updated_at": 1618469762
+    },
+    "9dn1m1gh5gmoepl": {
+      "data": {
+        "id": "9dn1m1gh5gmoepl",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Chinese Football League 2",
+        "short_name": "CHN League 2",
+        "logo": "https://img.thesports.com/football/competition/b6025970c665a7640122d6b3d156b0b8.png",
+        "type": 1,
+        "cur_season_id": "9vjxm8ghnoyr6od",
+        "cur_stage_id": "dj2ryoh9p5nq1zp",
+        "cur_round": 16,
+        "round_count": 22,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [
+            "6ypq3nhl27zmd7o",
+            "vjxm8ghpn5xr6od",
+            "2y8m4zhzl0eql07",
+            "pxwrxlhzk07ryk0",
+            "3glrw7hz10oqdyj"
+          ],
+          [
+            "gy0or5jhv9pqwzv",
+            "dj2ryohg472q1zp"
+          ]
+        ],
+        "divisions": [
+          [
+            "z318q66h91qo9jd"
+          ],
+          [
+            "kjw2r09hwl5rz84"
+          ]
+        ],
+        "host": {},
+        "primary_color": "#ec2226",
+        "secondary_color": "#c0242b",
+        "updated_at": 1750752847
+      },
+      "fetched_at": "2025-06-27T08:00:59.959259",
+      "api_updated_at": 1750752847
+    },
+    "56ypq3nhepnmd7o": {
+      "data": {
+        "id": "56ypq3nhepnmd7o",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "9dn1m1ghnxmoepl",
+        "name": "IRQ D2",
+        "short_name": "IRQ D2",
+        "logo": "https://img.thesports.com/football/competition/d7a6aa9b057aa736a1812b5ea36e3388.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1735096648
+      },
+      "fetched_at": "2025-06-27T08:02:00.769576",
+      "api_updated_at": 1735096648
+    },
+    "4zp5rzgh4l8q82w": {
+      "data": {
+        "id": "4zp5rzgh4l8q82w",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Aus NPL U23",
+        "short_name": "Aus NPL U23",
+        "logo": "https://img.thesports.com/football/competition/0e5e24682bea36b5e38d73f44349e133.png",
+        "type": 1,
+        "cur_season_id": "kn54qllhlnoqvy9",
+        "cur_stage_id": "2y8m4zhev7pql07",
+        "cur_round": 20,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750667167
+      },
+      "fetched_at": "2025-06-29T05:24:27.040609",
+      "api_updated_at": 1750667167
+    },
+    "kjw2r09hje5rz84": {
+      "data": {
+        "id": "kjw2r09hje5rz84",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "l965mkyhz0r1ge4",
+        "name": "Mongolia Premier League",
+        "short_name": "MGL Premier League",
+        "logo": "https://img.thesports.com/football/competition/70f03bd4da7c486b8ca8f11ab251ce34.png",
+        "type": 1,
+        "cur_season_id": "l965mkyh6jyr1ge",
+        "cur_stage_id": "318q66h44e2qo9j",
+        "cur_round": 22,
+        "round_count": 27,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750764067
+      },
+      "fetched_at": "2025-06-27T08:15:59.784643",
+      "api_updated_at": 1750764067
+    },
+    "kjw2r09h1nzrz84": {
+      "data": {
+        "id": "kjw2r09h1nzrz84",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Rural Football Super League",
+        "short_name": "Rural Football Super League",
+        "logo": "https://img.thesports.com/football/competition/720805b4f513c246bd3d74dd4bad3139.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jh7xzqwzv",
+        "cur_stage_id": "965mkyh09o1r1ge",
+        "cur_round": 9,
+        "round_count": 9,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750821907
+      },
+      "fetched_at": "2025-06-29T06:30:28.960462",
+      "api_updated_at": 1750821907
+    },
+    "jednm9whzdvryox": {
+      "data": {
+        "id": "jednm9whzdvryox",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "3yl5ergphjr8k0o",
+        "name": "Northern Ireland Women's Super League",
+        "short_name": "NIR Women's Super League",
+        "logo": "https://img.thesports.com/football/competition/b9460d024f3298c68f263b10c4a588c0.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965017
+      },
+      "fetched_at": "2025-06-27T08:38:59.181885",
+      "api_updated_at": 1617965017
+    },
+    "l965mkyhg0r1ge4": {
+      "data": {
+        "id": "l965mkyhg0r1ge4",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "7jednm9wh0ryox8",
+        "name": "Sweden Allsvenskan",
+        "short_name": "SWE Allsvenskan",
+        "logo": "https://img.thesports.com/football/competition/3e3f563e0ed76160f7d6ad6401a4bca7.png",
+        "type": 1,
+        "cur_season_id": "kdj2ryohwe1q1zp",
+        "cur_stage_id": "y39mp1hed4lmojx",
+        "cur_round": 13,
+        "round_count": 30,
+        "title_holder": [
+          "kdj2ryoh3l9q1zp",
+          27
+        ],
+        "most_titles": [
+          [
+            "kdj2ryoh3l9q1zp"
+          ],
+          27
+        ],
+        "newcomers": [
+          [
+            "23xmvkh3k8vqg8n",
+            "9vjxm8ghd0pr6od"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "8y39mp1hk8mojxg"
+          ]
+        ],
+        "host": {
+          "country": "Sweden"
+        },
+        "primary_color": "#d38509",
+        "secondary_color": "#212759",
+        "updated_at": 1748789972
+      },
+      "fetched_at": "2025-06-27T08:43:59.688624",
+      "api_updated_at": 1748789972
+    },
+    "8y39mp1h1knmojx": {
+      "data": {
+        "id": "8y39mp1h1knmojx",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "South Australia Women's Reserves League",
+        "short_name": "AUS-S Women's Reserves League",
+        "logo": "https://img.thesports.com/football/competition/112fe753e3bf83f8e9a3a66a1c58e598.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964944
+      },
+      "fetched_at": "2025-06-27T08:49:59.452464",
+      "api_updated_at": 1617964944
+    },
+    "kn54qllhj9pqvy9": {
+      "data": {
+        "id": "kn54qllhj9pqvy9",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Darwin Premier League",
+        "short_name": "AUS Darwin Premier League",
+        "logo": "https://img.thesports.com/football/competition/ea53b04ee8a05926d44225404db00e73.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964944
+      },
+      "fetched_at": "2025-06-27T09:01:59.651197",
+      "api_updated_at": 1617964944
+    },
+    "9vjxm8ghpwer6od": {
+      "data": {
+        "id": "9vjxm8ghpwer6od",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Northern New South Wales Reserves League",
+        "short_name": "AUS NSW-N Reserves League",
+        "logo": "https://img.thesports.com/football/competition/142f7bad5b962323a6f8cedd65b21230.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1747220527
+      },
+      "fetched_at": "2025-06-29T06:36:29.366680",
+      "api_updated_at": 1747220527
+    },
+    "e4wyrn4hw7q86pv": {
+      "data": {
+        "id": "e4wyrn4hw7q86pv",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "kjw2r09hlvrz84o",
+        "name": "Moldova Divizia Nationala",
+        "short_name": "MOL Divizia Nationala",
+        "logo": "https://img.thesports.com/football/competition/1bcaa47c464c8cc9fd7f4bf870947193.png",
+        "type": 1,
+        "cur_season_id": "gpxwrxlhdp2ryk0",
+        "cur_stage_id": "l5ergph7jykr8k0",
+        "cur_round": 2,
+        "round_count": 14,
+        "title_holder": [
+          "y0or5jhl7n5qwzv",
+          1
+        ],
+        "most_titles": [
+          [
+            "9dn1m1ghw8jmoep"
+          ],
+          21
+        ],
+        "newcomers": [
+          [
+            "2y8m4zh33d4ql07"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "yl5ergphd2r8k0o"
+          ]
+        ],
+        "host": {
+          "country": "Moldova"
+        },
+        "primary_color": "#393D98",
+        "secondary_color": "#C0AA7D",
+        "updated_at": 1750665665
+      },
+      "fetched_at": "2025-06-27T09:13:00.561936",
+      "api_updated_at": 1750665665
+    },
+    "z8yomo4h7vvq0j6": {
+      "data": {
+        "id": "z8yomo4h7vvq0j6",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4h02q0j6l",
+        "name": "Uzbekistan Cup",
+        "short_name": "UZB Cup",
+        "logo": "https://img.thesports.com/football/competition/cfe07c7a207617d6b8bd67b612db6997.png",
+        "type": 2,
+        "cur_season_id": "9k82rekh5perepz",
+        "cur_stage_id": "pxwrxlh006vryk0",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1748847611
+      },
+      "fetched_at": "2025-06-27T09:16:59.674827",
+      "api_updated_at": 1748847611
+    },
+    "e4wyrn4h8z1q86p": {
+      "data": {
+        "id": "e4wyrn4h8z1q86p",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "National Premier Leagues Victoria 2",
+        "short_name": "NPL Victoria 2",
+        "logo": "https://img.thesports.com/football/competition/78ba9a58d9a23652e5ce8b607a2a2d9b.png",
+        "type": 1,
+        "cur_season_id": "4zp5rzghn49q82w",
+        "cur_stage_id": "965mkyh2zzyr1ge",
+        "cur_round": 20,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "y39mp1h5z5nmojx",
+            "8yomo4hkvp8q0j6"
+          ]
+        ],
+        "divisions": [
+          [
+            "9dn1m1gh4vgmoep"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750493767
+      },
+      "fetched_at": "2025-06-29T06:02:29.519041",
+      "api_updated_at": 1750493767
+    },
+    "9dn1m1gh4vgmoep": {
+      "data": {
+        "id": "9dn1m1gh4vgmoep",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "National Premier Leagues Victoria",
+        "short_name": "NPL Victoria",
+        "logo": "https://img.thesports.com/football/competition/c1c958040a24d72e754fa04677b39f99.png",
+        "type": 1,
+        "cur_season_id": "d23xmvkhe9zqg8n",
+        "cur_stage_id": "2y8m4zhw1z2ql07",
+        "cur_round": 20,
+        "round_count": 26,
+        "title_holder": [
+          "23xmvkh39x2qg8n",
+          1
+        ],
+        "most_titles": [
+          [
+            "4jwq2gh4n7nm0ve"
+          ],
+          4
+        ],
+        "newcomers": [
+          [
+            "dn1m1gh4l5xmoep",
+            "x7lm7phkynxm2wd"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "e4wyrn4h8z1q86p"
+          ]
+        ],
+        "host": {
+          "country": "Australia"
+        },
+        "primary_color": "#005e9c",
+        "secondary_color": "#004673",
+        "updated_at": 1750674564
+      },
+      "fetched_at": "2025-06-27T09:31:02.479029",
+      "api_updated_at": 1750674564
+    },
+    "gpxwrxlhgggryk0": {
+      "data": {
+        "id": "gpxwrxlhgggryk0",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Victorian Women's Premier League",
+        "short_name": "AUS VIC Women's Premier League",
+        "logo": "https://img.thesports.com/football/competition/3eacd5dd6c839e2e9ed439dcb32eb993.png",
+        "type": 1,
+        "cur_season_id": "9k82rekh5w3repz",
+        "cur_stage_id": "pxwrxlh0l57ryk0",
+        "cur_round": 14,
+        "round_count": 22,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750502167
+      },
+      "fetched_at": "2025-06-29T05:02:27.220348",
+      "api_updated_at": 1750502167
+    },
+    "z8yomo4h2v6q0j6": {
+      "data": {
+        "id": "z8yomo4h2v6q0j6",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "e4wyrn4hd5q86pv",
+        "name": "Indian Calcutta Football League",
+        "short_name": "IND CAL League",
+        "logo": "https://img.thesports.com/football/competition/795b29c0917b80a48eb567c7be5427b6.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1695027722
+      },
+      "fetched_at": "2025-06-29T06:34:32.757413",
+      "api_updated_at": 1695027722
+    },
+    "z318q66hoz1qo9j": {
+      "data": {
+        "id": "z318q66hoz1qo9j",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia New South Wales Premier League",
+        "short_name": "AUS NSW Premier League",
+        "logo": "https://img.thesports.com/football/competition/21df239119fe6638a523365947a2cfb2.png",
+        "type": 1,
+        "cur_season_id": "9dn1m1gh52omoep",
+        "cur_stage_id": "x7lm7ph2xz3m2wd",
+        "cur_round": 21,
+        "round_count": 30,
+        "title_holder": [
+          "2y8m4zh3dywql07",
+          1
+        ],
+        "most_titles": [
+          [
+            "y0or5jhl96yqwzv"
+          ],
+          8
+        ],
+        "newcomers": [
+          [
+            "y0or5jhlex1qwzv"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "kn54qllhxjvqvy9"
+          ]
+        ],
+        "host": {
+          "country": "Australia"
+        },
+        "primary_color": "#5ab6e6",
+        "secondary_color": "#1b4880",
+        "updated_at": 1750570145
+      },
+      "fetched_at": "2025-06-29T05:07:27.491504",
+      "api_updated_at": 1750570145
+    },
+    "8y39mp1h5zmojxg": {
+      "data": {
+        "id": "8y39mp1h5zmojxg",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "",
+        "name": "European Baltic Cup",
+        "short_name": "European Baltic Cup",
+        "logo": "https://img.thesports.com/football/competition/e5a939b8bc56f6ace74d6f1eda2a2459.png",
+        "type": 2,
+        "cur_season_id": "gx7lm7phl49m2wd",
+        "cur_stage_id": "y39mp1he80wmojx",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750321327
+      },
+      "fetched_at": "2025-06-29T07:07:29.399733",
+      "api_updated_at": 1750321327
+    },
+    "9dn1m1gh04moepl": {
+      "data": {
+        "id": "9dn1m1gh04moepl",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "dkjw2r09hvrz84o",
+        "name": "Russian Youth Championship League",
+        "short_name": "RUS Youth League",
+        "logo": "https://img.thesports.com/football/competition/dcbda66eb9f9ffd1e180d4c64e9bff70.png",
+        "type": 1,
+        "cur_season_id": "9dn1m1gh5d2moep",
+        "cur_stage_id": "4wyrn4h5wv3q86p",
+        "cur_round": 12,
+        "round_count": 19,
+        "title_holder": [],
+        "most_titles": [
+          [
+            "k82rekhv093repz",
+            "y39mp1h305ymojx"
+          ],
+          4
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Russia"
+        },
+        "primary_color": "#ffdd2d",
+        "secondary_color": "#f5c400",
+        "updated_at": 1750436047
+      },
+      "fetched_at": "2025-06-27T10:03:01.917547",
+      "api_updated_at": 1750436047
+    },
+    "vl7oqdeh4lgr510": {
+      "data": {
+        "id": "vl7oqdeh4lgr510",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia New South Wales League 2",
+        "short_name": "AUS NSW League 2",
+        "logo": "https://img.thesports.com/football/competition/cb85525e1964ddbfe9b6b92c2613ed80.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964939
+      },
+      "fetched_at": "2025-06-27T10:05:01.132251",
+      "api_updated_at": 1617964939
+    },
+    "9dn1m1gh89emoep": {
+      "data": {
+        "id": "9dn1m1gh89emoep",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia New South Wales Women's Premier League",
+        "short_name": "AUS NSW Women's Premier League",
+        "logo": "https://img.thesports.com/football/competition/ccba162b33dc8c4729c119976042fb69.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1620984866
+      },
+      "fetched_at": "2025-06-29T06:09:28.784178",
+      "api_updated_at": 1620984866
+    },
+    "jednm9whgv2ryox": {
+      "data": {
+        "id": "jednm9whgv2ryox",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "South Australia State League 2",
+        "short_name": "AUS-S State League 2",
+        "logo": "https://img.thesports.com/football/competition/61ff0333e8cd955ed84db6e342dc0471.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964943
+      },
+      "fetched_at": "2025-06-27T10:14:00.764434",
+      "api_updated_at": 1617964943
+    },
+    "yl5ergphn1kr8k0": {
+      "data": {
+        "id": "yl5ergphn1kr8k0",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "QLD D2",
+        "short_name": "QLD D2",
+        "logo": "https://img.thesports.com/football/competition/5813bc7c416988a9c80020c680a6f1a5.png",
+        "type": 1,
+        "cur_season_id": "gx7lm7phljym2wd",
+        "cur_stage_id": "l5ergph7kdpr8k0",
+        "cur_round": 3,
+        "round_count": 22,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750848007
+      },
+      "fetched_at": "2025-06-29T00:50:20.227189",
+      "api_updated_at": 1750848007
+    },
+    "gx7lm7ph0p1m2wd": {
+      "data": {
+        "id": "gx7lm7ph0p1m2wd",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia TSAmania Premier Championship",
+        "short_name": "AUS TSA Premier Championship",
+        "logo": "https://img.thesports.com/football/competition/44dcea66727e45385e873a5a63cfd3e9.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618469757
+      },
+      "fetched_at": "2025-06-29T04:00:26.779989",
+      "api_updated_at": 1618469757
+    },
+    "gy0or5jhejeqwzv": {
+      "data": {
+        "id": "gy0or5jhejeqwzv",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "National Premier Leagues Victoria 3",
+        "short_name": "NPL Victoria 3",
+        "logo": "https://img.thesports.com/football/competition/8bf9500c19ac4b55be59bda652ea05dd.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1718984287
+      },
+      "fetched_at": "2025-06-29T06:20:29.022437",
+      "api_updated_at": 1718984287
+    },
+    "gy0or5jhlxgqwzv": {
+      "data": {
+        "id": "gy0or5jhlxgqwzv",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "56ypq3nh5xmd7oj",
+        "name": "Korean K League 1",
+        "short_name": "KOR K1",
+        "logo": "https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png",
+        "type": 1,
+        "cur_season_id": "8y39mp1hx0ymojx",
+        "cur_stage_id": "dj2ryoh97egq1zp",
+        "cur_round": 21,
+        "round_count": 33,
+        "title_holder": [
+          "9k82rekh49zrepz",
+          4
+        ],
+        "most_titles": [
+          [
+            "9k82rekhd42repz"
+          ],
+          9
+        ],
+        "newcomers": [
+          [
+            "dn1m1ghe8y7moep"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "kn54qllh25dqvy9"
+          ]
+        ],
+        "host": {
+          "country": "South Korea"
+        },
+        "primary_color": "#e72523",
+        "secondary_color": "#0a3f72",
+        "updated_at": 1750586886
+      },
+      "fetched_at": "2025-06-27T10:31:01.794867",
+      "api_updated_at": 1750586886
+    },
+    "kjw2r09hxp2rz84": {
+      "data": {
+        "id": "kjw2r09hxp2rz84",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Victoria State League 1",
+        "short_name": "AUS VIC League 1",
+        "logo": "https://img.thesports.com/football/competition/fcb478c0e55ead40d4859e711ebbb65f.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1718984196
+      },
+      "fetched_at": "2025-06-27T10:35:01.040969",
+      "api_updated_at": 1718984196
+    },
+    "v2y8m4zh3p5ql07": {
+      "data": {
+        "id": "v2y8m4zh3p5ql07",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Brisbane Capital League 1",
+        "short_name": "AUS BNE League 1",
+        "logo": "https://img.thesports.com/football/competition/71933bcfaca57135cf93a4107cf82052.png",
+        "type": 1,
+        "cur_season_id": "l965mkyhjk3r1ge",
+        "cur_stage_id": "23xmvkhly61qg8n",
+        "cur_round": 19,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [
+          [
+            "yl5ergpho06r8k0"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "#63c41aff",
+        "secondary_color": "",
+        "updated_at": 1750926786
+      },
+      "fetched_at": "2025-06-29T06:14:29.729162",
+      "api_updated_at": 1750926786
+    },
+    "jednm9whkvpryox": {
+      "data": {
+        "id": "jednm9whkvpryox",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "yl5ergphvjr8k0o",
+        "name": "Vietnam National First Class League",
+        "short_name": "VIE First Class League",
+        "logo": "https://img.thesports.com/football/competition/0edff1472edca4aeeec7534f0bceb230.png",
+        "type": 1,
+        "cur_season_id": "z318q66h9jeqo9j",
+        "cur_stage_id": "y39mp1he86dmojx",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "pxwrxlhg9k9ryk0",
+          1
+        ],
+        "most_titles": [
+          [
+            "dn1m1gheowwmoep",
+            "4wyrn4h8wo6q86p",
+            "dn1m1gh4wxymoep",
+            "56ypq3nh289md7o",
+            "8y39mp1hxjnmojx"
+          ],
+          2
+        ],
+        "newcomers": [
+          [],
+          [
+            "l5ergpho9d9r8k0"
+          ]
+        ],
+        "divisions": [
+          [
+            "p4jwq2gh4xwm0ve"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "#039be5",
+        "secondary_color": "#003876",
+        "updated_at": 1750774327
+      },
+      "fetched_at": "2025-06-27T11:03:01.287414",
+      "api_updated_at": 1750774327
+    },
+    "56ypq3nhzldmd7o": {
+      "data": {
+        "id": "56ypq3nhzldmd7o",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "South Australia Women's Premier League",
+        "short_name": "AUS-S Women's Premier League",
+        "logo": "https://img.thesports.com/football/competition/6c356337f3a01ccbb8daabae0f126397.png",
+        "type": 1,
+        "cur_season_id": "p4jwq2ghn82m0ve",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1693990210
+      },
+      "fetched_at": "2025-06-27T11:03:01.287425",
+      "api_updated_at": 1693990210
+    },
+    "vl7oqdehnypr510": {
+      "data": {
+        "id": "vl7oqdehnypr510",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Western Australia National Premier Leagues",
+        "short_name": "AUS-W Premier Leagues",
+        "logo": "https://img.thesports.com/football/competition/1e50732ddc2f891dacff65e1642ee9b8.png",
+        "type": 1,
+        "cur_season_id": "vl7oqdehvx9r510",
+        "cur_stage_id": "ednm9whp53vryox",
+        "cur_round": 14,
+        "round_count": 22,
+        "title_holder": [
+          "dn1m1gh4p8omoep",
+          21
+        ],
+        "most_titles": [
+          [
+            "dn1m1gh4p8omoep"
+          ],
+          25
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Australia"
+        },
+        "primary_color": "#ffb20e",
+        "secondary_color": "#694c06",
+        "updated_at": 1750490047
+      },
+      "fetched_at": "2025-06-27T11:04:02.042152",
+      "api_updated_at": 1750490047
+    },
+    "9k82rekh37xrepz": {
+      "data": {
+        "id": "9k82rekh37xrepz",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "z8yomo4h02q0j6l",
+        "name": "UZB D1B",
+        "short_name": "UZB D1B",
+        "logo": "https://img.thesports.com/football/competition/7a04ee7ee4289f10b896a087a5c2e705.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1659756548
+      },
+      "fetched_at": "2025-06-27T11:06:02.068670",
+      "api_updated_at": 1659756548
+    },
+    "kn54qllhelnqvy9": {
+      "data": {
+        "id": "kn54qllhelnqvy9",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "8y39mp1h18mojxg",
+        "name": "Senegal Premier League",
+        "short_name": "SEN Premier League",
+        "logo": "https://img.thesports.com/football/competition/b3d80bdcb3848b2f93c1808c61aaaaef.png",
+        "type": 1,
+        "cur_season_id": "e4wyrn4hjz1q86p",
+        "cur_stage_id": "l5ergpheegwr8k0",
+        "cur_round": 30,
+        "round_count": 26,
+        "title_holder": [
+          "4jwq2ghkyklm0ve",
+          2
+        ],
+        "most_titles": [
+          [
+            "3glrw7hwwnoqdyj"
+          ],
+          12
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Senegal"
+        },
+        "primary_color": "#086d2c",
+        "secondary_color": "#06842d",
+        "updated_at": 1750996507
+      },
+      "fetched_at": "2025-06-27T11:08:01.213379",
+      "api_updated_at": 1750996507
+    },
+    "gy0or5jhzvjqwzv": {
+      "data": {
+        "id": "gy0or5jhzvjqwzv",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "WAUS WD2",
+        "short_name": "WAUS WD2",
+        "logo": "https://img.thesports.com/football/competition/1c1dd3788211e920238356c1542794ee.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1735549868
+      },
+      "fetched_at": "2025-06-29T05:40:27.384882",
+      "api_updated_at": 1735549868
+    },
+    "d23xmvkhynqg8ny": {
+      "data": {
+        "id": "d23xmvkhynqg8ny",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "9dn1m1gh4xmoepl",
+        "name": "Kazakhstan Division 1",
+        "short_name": "KAZ Division 1",
+        "logo": "https://img.thesports.com/football/competition/29d9b5a07b9ef4c89588e271a263027d.png",
+        "type": 1,
+        "cur_season_id": "jednm9whjy7ryox",
+        "cur_stage_id": "dj2ryoh9p6oq1zp",
+        "cur_round": 11,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "23xmvkh3xxoqg8n"
+          ]
+        ],
+        "divisions": [
+          [
+            "kn54qllh40qvy9d"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750428546
+      },
+      "fetched_at": "2025-06-27T12:02:01.562925",
+      "api_updated_at": 1750428546
+    },
+    "v2y8m4zhzngql07": {
+      "data": {
+        "id": "v2y8m4zhzngql07",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "kdj2ryoh5kq1zpg",
+        "name": "T\u00fcrkmenistanyn Yokary Ligasy",
+        "short_name": "TM Yokary Ligasy",
+        "logo": "https://img.thesports.com/football/competition/aea313ca1e5bc3f48d8ed7bce71b3554.png",
+        "type": 1,
+        "cur_season_id": "gpxwrxlh60kryk0",
+        "cur_stage_id": "x7lm7ph2v7zm2wd",
+        "cur_round": 10,
+        "round_count": 32,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1751015167
+      },
+      "fetched_at": "2025-06-27T12:13:01.293621",
+      "api_updated_at": 1751015167
+    },
+    "jednm9whgp9ryox": {
+      "data": {
+        "id": "jednm9whgp9ryox",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "9dn1m1ghojmoepl",
+        "name": "Mozambique Championship",
+        "short_name": "MOZ C",
+        "logo": "https://img.thesports.com/football/competition/24991af9eaa7d5c52fcf945cada3dc16.png",
+        "type": 1,
+        "cur_season_id": "9k82rekh57erepz",
+        "cur_stage_id": "y39mp1he8zwmojx",
+        "cur_round": 4,
+        "round_count": 11,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750694166
+      },
+      "fetched_at": "2025-06-27T12:52:01.136540",
+      "api_updated_at": 1750694166
+    },
+    "kdj2ryohjn7q1zp": {
+      "data": {
+        "id": "kdj2ryohjn7q1zp",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "e4wyrn4hvkq86pv",
+        "name": "Cameroon Elite two",
+        "short_name": "CAE Elite Two",
+        "logo": "https://img.thesports.com/football/competition/9f8429a6fe9ddfa96590c453b8b07221.png",
+        "type": 1,
+        "cur_season_id": "z318q66h9noqo9j",
+        "cur_stage_id": "1l4rjnhdp5km7vx",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [
+          [
+            "yl5ergphvnlr8k0"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750942567
+      },
+      "fetched_at": "2025-06-27T13:04:02.372740",
+      "api_updated_at": 1750942567
+    },
+    "9vjxm8ghlwzr6od": {
+      "data": {
+        "id": "9vjxm8ghlwzr6od",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "9dn1m1ghexmoepl",
+        "name": "BLN U19",
+        "short_name": "BLN U19",
+        "logo": "https://img.thesports.com/football/competition/53c1655775082d0d6dc195277f22fe4f.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1734453544
+      },
+      "fetched_at": "2025-06-27T14:52:34.087372",
+      "api_updated_at": 1734453544
+    },
+    "gy0or5jhgooqwzv": {
+      "data": {
+        "id": "gy0or5jhgooqwzv",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "p4jwq2gh7gm0veo",
+        "name": "Syrian 1st Division",
+        "short_name": "SYR 1st Division",
+        "logo": "https://img.thesports.com/football/competition/82ea98cbced074048a91f1797d1cbd34.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1675238527
+      },
+      "fetched_at": "2025-06-27T14:52:34.087382",
+      "api_updated_at": 1675238527
+    },
+    "kjw2r09hwp4rz84": {
+      "data": {
+        "id": "kjw2r09hwp4rz84",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "l965mkyh42r1ge4",
+        "name": "Uruguay Amateur Cup",
+        "short_name": "URU Amateur Cup",
+        "logo": "https://img.thesports.com/football/competition/990ccf5e023b982af9cccf6526e3aa10.jfif",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618470515
+      },
+      "fetched_at": "2025-06-27T14:52:34.087385",
+      "api_updated_at": 1618470515
+    },
+    "j1l4rjnhkdym7vx": {
+      "data": {
+        "id": "j1l4rjnhkdym7vx",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "kn54qllhkzqvy9d",
+        "name": "DR Congo Vodacom Ligue 1",
+        "short_name": "Linafoot",
+        "logo": "https://img.thesports.com/football/competition/aa7f630f3340cd683dc8328989cc7d80.png",
+        "type": 1,
+        "cur_season_id": "p4jwq2gh389m0ve",
+        "cur_stage_id": "4wyrn4h51x6q86p",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750682064
+      },
+      "fetched_at": "2025-06-27T14:52:34.087387",
+      "api_updated_at": 1750682064
+    },
+    "p3glrw7hwylqdyj": {
+      "data": {
+        "id": "p3glrw7hwylqdyj",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z318q66hv8qo9jd",
+        "name": "Lebanese Premier League",
+        "short_name": "LBN Premier League",
+        "logo": "https://img.thesports.com/football/competition/e02bafe2eecacc9e23c435c0160efa51.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhvlgqwzv",
+        "cur_stage_id": "y0or5jhw5k7qwzv",
+        "cur_round": 14,
+        "round_count": 15,
+        "title_holder": [
+          "6ypq3nh0lzvmd7o",
+          9
+        ],
+        "most_titles": [
+          [
+            "n54qllh2e3oqvy9"
+          ],
+          14
+        ],
+        "newcomers": [
+          [
+            "pxwrxlhgxo2ryk0"
+          ],
+          []
+        ],
+        "divisions": [],
+        "host": {
+          "country": "Lebanon"
+        },
+        "primary_color": "#1d2151",
+        "secondary_color": "#d9252a",
+        "updated_at": 1751031908
+      },
+      "fetched_at": "2025-06-27T14:52:34.087389",
+      "api_updated_at": 1751031908
+    },
+    "z8yomo4h39q0j6l": {
+      "data": {
+        "id": "z8yomo4h39q0j6l",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "gx7lm7phk0m2wdk",
+        "name": "Belarusian Premier League",
+        "short_name": "BLR Premier League",
+        "logo": "https://img.thesports.com/football/competition/24a57747bac38f002dd68b574b39d730.png",
+        "type": 1,
+        "cur_season_id": "z318q66h9d6qo9j",
+        "cur_stage_id": "dn1m1ghgx8ymoep",
+        "cur_round": 14,
+        "round_count": 30,
+        "title_holder": [
+          "p3glrw7h2e6qdyj",
+          9
+        ],
+        "most_titles": [
+          [
+            "p3glrw7hx7eqdyj"
+          ],
+          15
+        ],
+        "newcomers": [
+          [
+            "x7lm7phw844m2wd",
+            "k82rekhvdg5repz"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "56ypq3nh3emd7oj"
+          ]
+        ],
+        "host": {
+          "country": "Belarus"
+        },
+        "primary_color": "#113d43",
+        "secondary_color": "#268795",
+        "updated_at": 1750614008
+      },
+      "fetched_at": "2025-06-27T14:52:34.087391",
+      "api_updated_at": 1750614008
+    },
+    "d23xmvkh48zqg8n": {
+      "data": {
+        "id": "d23xmvkh48zqg8n",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "8y39mp1h5zmojxg",
+        "name": "Colombian Regional League",
+        "short_name": "COL Regional League",
+        "logo": "https://img.thesports.com/football/competition/fbf6b7bec1dc3f8d333179f5e71b03f2.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964965
+      },
+      "fetched_at": "2025-06-27T14:52:34.087393",
+      "api_updated_at": 1617964965
+    },
+    "jednm9whz91ryox": {
+      "data": {
+        "id": "jednm9whz91ryox",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "p4jwq2gh7gm0veo",
+        "name": "Syrian Premier League",
+        "short_name": "SYR Premier League",
+        "logo": "https://img.thesports.com/football/competition/400eddc7af6eb63ca9bbaa609ab6b2cc.png",
+        "type": 1,
+        "cur_season_id": "p4jwq2gh9o1m0ve",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1693990210
+      },
+      "fetched_at": "2025-06-27T14:52:34.087394",
+      "api_updated_at": 1693990210
+    },
+    "gx7lm7phzjm2wdk": {
+      "data": {
+        "id": "gx7lm7phzjm2wdk",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "gy0or5jhl3qwzv3",
+        "name": "Lithuanian I Lyga",
+        "short_name": "LIT I Lyga",
+        "logo": "https://img.thesports.com/football/competition/14f564a999496cb3629b738f909138a6.png",
+        "type": 1,
+        "cur_season_id": "9dn1m1gh5z2moep",
+        "cur_stage_id": "4jwq2gh5wzlm0ve",
+        "cur_round": 15,
+        "round_count": 30,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "dj2ryohnk7nq1zp"
+          ]
+        ],
+        "divisions": [
+          [
+            "9vjxm8ghllr6odg"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Lithuania"
+        },
+        "primary_color": "#222b62",
+        "secondary_color": "#A1D1E6",
+        "updated_at": 1750604647
+      },
+      "fetched_at": "2025-06-27T15:00:32.797101",
+      "api_updated_at": 1750604647
+    },
+    "kdj2ryohkgyq1zp": {
+      "data": {
+        "id": "kdj2ryohkgyq1zp",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4h02q0j6l",
+        "name": "Uzbekistan Super League",
+        "short_name": "UZB Super League",
+        "logo": "https://img.thesports.com/football/competition/f7d1dfb17d306eba1289fc8b07f9ec68.png",
+        "type": 1,
+        "cur_season_id": "p3glrw7hxgxqdyj",
+        "cur_stage_id": "vjxm8gh70jxr6od",
+        "cur_round": 14,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [
+            "l5ergphov50r8k0",
+            "x7lm7phkwz1m2wd",
+            "d23xmvkheldqg8n",
+            "y0or5jhle24qwzv",
+            "3glrw7hwey2qdyj"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "v2y8m4zh38gql07"
+          ]
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750691347
+      },
+      "fetched_at": "2025-06-27T15:01:33.525769",
+      "api_updated_at": 1750691347
+    },
+    "56ypq3nhpkmd7oj": {
+      "data": {
+        "id": "56ypq3nhpkmd7oj",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "",
+        "name": "CONMEBOL Copa Sudamericana",
+        "short_name": "Copa Sudamericana",
+        "logo": "https://img.thesports.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png",
+        "type": 2,
+        "cur_season_id": "d23xmvkhepeqg8n",
+        "cur_stage_id": "y0or5jhww2oqwzv",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "j1l4rjnhp9xm7vx",
+          1
+        ],
+        "most_titles": [
+          [
+            "9vjxm8gh678r6od",
+            "z8yomo4hj31q0j6",
+            "p3glrw7h517qdyj",
+            "z8yomo4hd49q0j6"
+          ],
+          2
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#e3c000",
+        "secondary_color": "#13489c",
+        "updated_at": 1748678372
+      },
+      "fetched_at": "2025-06-27T15:01:33.525779",
+      "api_updated_at": 1748678372
+    },
+    "vl7oqdeholr510j": {
+      "data": {
+        "id": "vl7oqdeholr510j",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "9vjxm8gh4gr6odg",
+        "name": "Latvian Higher League",
+        "short_name": "LAT Higher League",
+        "logo": "https://img.thesports.com/football/competition/71ec56470b1f954a153d98413368256e.png",
+        "type": 1,
+        "cur_season_id": "kn54qllhlweqvy9",
+        "cur_stage_id": "8yomo4h6ywdq0j6",
+        "cur_round": 20,
+        "round_count": 36,
+        "title_holder": [
+          "n54qllhe5xkqvy9",
+          3
+        ],
+        "most_titles": [],
+        "newcomers": [
+          [
+            "n54qllh2l2gqvy9"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "kdj2ryoh12q1zpg"
+          ]
+        ],
+        "host": {
+          "country": "Latvia"
+        },
+        "primary_color": "#fc0515",
+        "secondary_color": "#b5b5b5",
+        "updated_at": 1750612104
+      },
+      "fetched_at": "2025-06-27T15:02:33.303409",
+      "api_updated_at": 1750612104
+    },
+    "56ypq3nh3emd7oj": {
+      "data": {
+        "id": "56ypq3nh3emd7oj",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "gx7lm7phk0m2wdk",
+        "name": "Belarusian First League",
+        "short_name": "BLR First League",
+        "logo": "https://img.thesports.com/football/competition/ae2236179f3e502a3d7c4c77f82cedb2.png",
+        "type": 1,
+        "cur_season_id": "8y39mp1hxgdmojx",
+        "cur_stage_id": "2y8m4zhe7okql07",
+        "cur_round": 14,
+        "round_count": 34,
+        "title_holder": [
+          "3glrw7hwvxpqdyj",
+          3
+        ],
+        "most_titles": [
+          [
+            "3glrw7hwvxpqdyj"
+          ],
+          3
+        ],
+        "newcomers": [
+          [],
+          [
+            "1l4rjnh66kzm7vx"
+          ]
+        ],
+        "divisions": [
+          [
+            "z8yomo4h39q0j6l"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Belarus"
+        },
+        "primary_color": "#0b509b",
+        "secondary_color": "#337dcc",
+        "updated_at": 1750695024
+      },
+      "fetched_at": "2025-06-27T15:02:33.303418",
+      "api_updated_at": 1750695024
+    },
+    "z8yomo4h92q0j6l": {
+      "data": {
+        "id": "z8yomo4h92q0j6l",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "0l965mkyh2r1ge4",
+        "name": "Finnish Veikkausliiga",
+        "short_name": "FIN Veikkausliiga",
+        "logo": "https://img.thesports.com/football/competition/b247c26e45a61b6eaaab421c3bad22c8.png",
+        "type": 1,
+        "cur_season_id": "v2y8m4zh2w5ql07",
+        "cur_stage_id": "k82rekhj2x7repz",
+        "cur_round": 12,
+        "round_count": 22,
+        "title_holder": [
+          "z318q66hp13qo9j",
+          7
+        ],
+        "most_titles": [
+          [
+            "9k82rekh4zprepz"
+          ],
+          33
+        ],
+        "newcomers": [
+          [
+            "p4jwq2ghjk2m0ve",
+            "6ypq3nh098jmd7o"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "56ypq3nhgwmd7oj"
+          ]
+        ],
+        "host": {
+          "country": "Finland"
+        },
+        "primary_color": "#0c2172",
+        "secondary_color": "#e00022",
+        "updated_at": 1750345567
+      },
+      "fetched_at": "2025-06-27T15:04:33.506380",
+      "api_updated_at": 1750345567
+    },
+    "56ypq3nhgwmd7oj": {
+      "data": {
+        "id": "56ypq3nhgwmd7oj",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "0l965mkyh2r1ge4",
+        "name": "Finnish Ykkosliiga",
+        "short_name": "FIN Ykkosliiga",
+        "logo": "https://img.thesports.com/football/competition/9267ee08759fdc25c89d3e4642303522.png",
+        "type": 1,
+        "cur_season_id": "kdj2ryohw71q1zp",
+        "cur_stage_id": "pxwrxlh0lworyk0",
+        "cur_round": 12,
+        "round_count": 27,
+        "title_holder": [
+          "6ypq3nh098jmd7o",
+          1
+        ],
+        "most_titles": [
+          [
+            "2y8m4zh3jg2ql07",
+            "z318q66hp13qo9j"
+          ],
+          4
+        ],
+        "newcomers": [
+          [
+            "jednm9whj63ryox"
+          ],
+          [
+            "gy0or5jhp27qwzv",
+            "8y39mp1hnkymojx"
+          ]
+        ],
+        "divisions": [
+          [
+            "z8yomo4h92q0j6l"
+          ],
+          [
+            "gpxwrxlh7zryk0j"
+          ]
+        ],
+        "host": {
+          "country": "Finland"
+        },
+        "primary_color": "#4e64ab",
+        "secondary_color": "#ed9923",
+        "updated_at": 1750840507
+      },
+      "fetched_at": "2025-06-27T15:31:32.889091",
+      "api_updated_at": 1750840507
+    },
+    "gy0or5jhl3oqwzv": {
+      "data": {
+        "id": "gy0or5jhl3oqwzv",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "9dn1m1ghnxmoepl",
+        "name": "Iraq Stars League",
+        "short_name": "Iraq Stars League",
+        "logo": "https://img.thesports.com/football/competition/0504b24f98f8c083439816864fcf485c.png",
+        "type": 1,
+        "cur_season_id": "p4jwq2gh849m0ve",
+        "cur_stage_id": "4jwq2ghx79ym0ve",
+        "cur_round": 37,
+        "round_count": 38,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750867627
+      },
+      "fetched_at": "2025-06-27T16:00:35.645277",
+      "api_updated_at": 1750867627
+    },
+    "jednm9whokryox8": {
+      "data": {
+        "id": "jednm9whokryox8",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "yl5ergphojr8k0o",
+        "name": "Estonian Premium Liiga",
+        "short_name": "EST Premium Liiga",
+        "logo": "https://img.thesports.com/football/competition/c9c624c99f42be9d4c4f39a4477f02f4.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhv5lqwzv",
+        "cur_stage_id": "l7oqdeh9xd0r510",
+        "cur_round": 18,
+        "round_count": 36,
+        "title_holder": [
+          "9k82rekh4lvrepz",
+          11
+        ],
+        "most_titles": [
+          [
+            "kjw2r09holvrz84"
+          ],
+          14
+        ],
+        "newcomers": [
+          [
+            "6ypq3nhw4d5md7o"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "l965mkyhw4r1ge4"
+          ]
+        ],
+        "host": {
+          "country": "Estonia"
+        },
+        "primary_color": "#c60204",
+        "secondary_color": "#8d8d8d",
+        "updated_at": 1750522626
+      },
+      "fetched_at": "2025-06-27T16:02:34.808855",
+      "api_updated_at": 1750522626
+    },
+    "j1l4rjnh10jm7vx": {
+      "data": {
+        "id": "j1l4rjnh10jm7vx",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "gpxwrxlh1pryk0j",
+        "name": "Georgia Super Cup",
+        "short_name": "GEO Super Cup",
+        "logo": "https://img.thesports.com/football/competition/02b61193644b48cd82691f1ac687ae2f.png",
+        "type": 2,
+        "cur_season_id": "p4jwq2ghl45m0ve",
+        "cur_stage_id": "x7lm7ph2dx9m2wd",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "4wyrn4h8825q86p",
+          3
+        ],
+        "most_titles": [
+          [
+            "jednm9whl3pryox"
+          ],
+          9
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Georgia"
+        },
+        "primary_color": "#dcae02",
+        "secondary_color": "#858589",
+        "updated_at": 1750931424
+      },
+      "fetched_at": "2025-06-27T16:02:34.808864",
+      "api_updated_at": 1750931424
+    },
+    "kjw2r09hwjyrz84": {
+      "data": {
+        "id": "kjw2r09hwjyrz84",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "vl7oqdeheyr510j",
+        "name": "Gambia League Second Division ",
+        "short_name": "GFA Second Division ",
+        "logo": "https://img.thesports.com/football/competition/8604d127a73c00d31d09eacfda76cd5b.png",
+        "type": 1,
+        "cur_season_id": "4zp5rzgh8y3q82w",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750054537
+      },
+      "fetched_at": "2025-06-27T16:04:35.548750",
+      "api_updated_at": 1750054537
+    },
+    "kdj2ryoh2vwq1zp": {
+      "data": {
+        "id": "kdj2ryoh2vwq1zp",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "z318q66h7yqo9jd",
+        "name": "Sierra Leone Premier League",
+        "short_name": "SIL PL",
+        "logo": "https://img.thesports.com/football/competition/34eab0fce0b8531a0df442bbf5eda679.png",
+        "type": 1,
+        "cur_season_id": "56ypq3nh2enmd7o",
+        "cur_stage_id": "y0or5jhz4v1qwzv",
+        "cur_round": 29,
+        "round_count": 34,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750869547
+      },
+      "fetched_at": "2025-06-27T16:17:34.799981",
+      "api_updated_at": 1750869547
+    },
+    "z318q66h7yqo9jd": {
+      "data": {
+        "id": "z318q66h7yqo9jd",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "7jednm9wh0ryox8",
+        "name": "Sweden Division 2",
+        "short_name": "SWE Division 2",
+        "logo": "https://img.thesports.com/football/competition/d8c3a872ed202d996f0c8731ee09bc39.png",
+        "type": 1,
+        "cur_season_id": "kjw2r09he50rz84",
+        "cur_stage_id": "vjxm8gh7ko0r6od",
+        "cur_round": 14,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "y39mp1h345xmojx",
+            "l5ergph3onor8k0",
+            "4wyrn4hedg0q86p",
+            "dn1m1ghew5lmoep",
+            "kjw2r09hvelrz84",
+            "l965mkyh6w4r1ge",
+            "2y8m4zh349vql07"
+          ]
+        ],
+        "divisions": [
+          [
+            "9k82rekh84repzj"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750959307
+      },
+      "fetched_at": "2025-06-27T17:00:35.001743",
+      "api_updated_at": 1750959307
+    },
+    "9k82rekh84repzj": {
+      "data": {
+        "id": "9k82rekh84repzj",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "7jednm9wh0ryox8",
+        "name": "Sweden Division 1",
+        "short_name": "SWE Division 1",
+        "logo": "https://img.thesports.com/football/competition/db8c32fba6d3773eb031b2d2d9fc7664.png",
+        "type": 1,
+        "cur_season_id": "gx7lm7phl3ym2wd",
+        "cur_stage_id": "zp5rzghd36oq82w",
+        "cur_round": 15,
+        "round_count": 30,
+        "title_holder": [
+          "v2y8m4zh9o8ql07",
+          1
+        ],
+        "most_titles": [
+          [
+            "kn54qllhy32qvy9",
+            "9k82rekh4ozrepz"
+          ],
+          3
+        ],
+        "newcomers": [
+          [
+            "l5ergph3y6pr8k0",
+            "3glrw7hjzdnqdyj",
+            "pxwrxlh1zkdryk0",
+            "1l4rjnh1603m7vx",
+            "4wyrn4hege8q86p",
+            "4jwq2gh4686m0ve",
+            "y39mp1h5dd2mojx"
+          ],
+          [
+            "9dn1m1gh666moep",
+            "kdj2ryoh041q1zp"
+          ]
+        ],
+        "divisions": [
+          [
+            "8y39mp1hk8mojxg"
+          ],
+          [
+            "z318q66h7yqo9jd"
+          ]
+        ],
+        "host": {
+          "country": "Sweden"
+        },
+        "primary_color": "#002b4c",
+        "secondary_color": "#0061a8",
+        "updated_at": 1750957447
+      },
+      "fetched_at": "2025-06-27T17:00:35.001752",
+      "api_updated_at": 1750957447
+    },
+    "8y39mp1hk8mojxg": {
+      "data": {
+        "id": "8y39mp1hk8mojxg",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "7jednm9wh0ryox8",
+        "name": "Sweden Superettan",
+        "short_name": "SWE Superettan",
+        "logo": "https://img.thesports.com/football/competition/18c4076fb0c4bb2925f7c39f9ef3ceb2.png",
+        "type": 1,
+        "cur_season_id": "z8yomo4hwgyq0j6",
+        "cur_stage_id": "jw2r09hg56nrz84",
+        "cur_round": 14,
+        "round_count": 30,
+        "title_holder": [
+          "gy0or5jhd5xqwzv",
+          1
+        ],
+        "most_titles": [
+          [
+            "4zp5rzghvyvq82w",
+            "23xmvkh3k8vqg8n",
+            "p4jwq2ghyjdm0ve"
+          ],
+          2
+        ],
+        "newcomers": [
+          [
+            "yl5ergph6z0r8k0",
+            "z318q66he6pqo9j"
+          ],
+          [
+            "4zp5rzghvyvq82w",
+            "v2y8m4zh9o8ql07"
+          ]
+        ],
+        "divisions": [
+          [
+            "l965mkyhg0r1ge4"
+          ],
+          [
+            "9k82rekh84repzj"
+          ]
+        ],
+        "host": {
+          "country": "Sweden"
+        },
+        "primary_color": "#00692f",
+        "secondary_color": "#00a84b",
+        "updated_at": 1750698786
+      },
+      "fetched_at": "2025-06-27T17:01:34.617451",
+      "api_updated_at": 1750698786
+    },
+    "56ypq3nhz63md7o": {
+      "data": {
+        "id": "56ypq3nhz63md7o",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "28y39mp1hzmojxg",
+        "name": "Norwegian 3.Divisjon",
+        "short_name": "NOR 3.Divisjon",
+        "logo": "https://img.thesports.com/football/competition/479457ed962ded49638d64a03eb39b6e.png",
+        "type": 1,
+        "cur_season_id": "8y39mp1hx6ymojx",
+        "cur_stage_id": "1l4rjnhdn9wm7vx",
+        "cur_round": 12,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750702567
+      },
+      "fetched_at": "2025-06-27T17:01:34.617463",
+      "api_updated_at": 1750702567
+    },
+    "vl7oqdehdyr510j": {
+      "data": {
+        "id": "vl7oqdehdyr510j",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "7jednm9wh0ryox8",
+        "name": "Sweden Cup",
+        "short_name": "SWE Cup",
+        "logo": "https://img.thesports.com/football/competition/4f0b2d70523ecad73159c3b89d1f9cf3.png",
+        "type": 2,
+        "cur_season_id": "9vjxm8ghnz8r6od",
+        "cur_stage_id": "y0or5jhwwnxqwzv",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "j1l4rjnhoy7m7vx",
+          3
+        ],
+        "most_titles": [
+          [
+            "kdj2ryoh3l9q1zp"
+          ],
+          15
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Sweden"
+        },
+        "primary_color": "#005293",
+        "secondary_color": "#c69e00",
+        "updated_at": 1747198773
+      },
+      "fetched_at": "2025-06-27T17:02:35.113159",
+      "api_updated_at": 1747198773
+    },
+    "jednm9whyeryox8": {
+      "data": {
+        "id": "jednm9whyeryox8",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "4zp5rzgh72q82w1",
+        "name": "Chilean Primera Division",
+        "short_name": "CHI Primera Division",
+        "logo": "https://img.thesports.com/football/competition/682947432b57fb3dba64d9f6c7b8a4d7.png",
+        "type": 1,
+        "cur_season_id": "v2y8m4zh2v5ql07",
+        "cur_stage_id": "3glrw7hg4e2qdyj",
+        "cur_round": 16,
+        "round_count": 30,
+        "title_holder": [
+          "jednm9wh3lkryox",
+          32
+        ],
+        "most_titles": [
+          [
+            "jednm9wh3lkryox"
+          ],
+          32
+        ],
+        "newcomers": [
+          [
+            "4jwq2ghkn7km0ve",
+            "9vjxm8gh19xr6od"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "l965mkyhdgr1ge4"
+          ]
+        ],
+        "host": {
+          "country": "Chile"
+        },
+        "primary_color": "#004f91",
+        "secondary_color": "#ce1329",
+        "updated_at": 1750637304
+      },
+      "fetched_at": "2025-06-27T17:18:35.200701",
+      "api_updated_at": 1750637304
+    },
+    "56ypq3nhll6md7o": {
+      "data": {
+        "id": "56ypq3nhll6md7o",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "kdj2ryohjoq1zpg",
+        "name": "South Africa Women's League",
+        "short_name": "ZA Women's League",
+        "logo": "https://img.thesports.com/football/competition/a455ed700a4cd289b4c33f050523a97c.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965033
+      },
+      "fetched_at": "2025-06-27T17:30:35.104912",
+      "api_updated_at": 1617965033
+    },
+    "p3glrw7h1d4qdyj": {
+      "data": {
+        "id": "p3glrw7h1d4qdyj",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Campeonato Paulista Youth",
+        "short_name": "BRA Campeonato Paulista Youth",
+        "logo": "https://img.thesports.com/football/competition/8f359c335d62fb21821e514f5b17c65e.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964955
+      },
+      "fetched_at": "2025-06-27T17:57:35.304890",
+      "api_updated_at": 1617964955
+    },
+    "j1l4rjnh12m7vx5": {
+      "data": {
+        "id": "j1l4rjnh12m7vx5",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "",
+        "name": "UEFA European U19 Women's Championship",
+        "short_name": "UEFA European U19 Women's Championship",
+        "logo": "https://img.thesports.com/football/competition/d5fcd3349b18dfb4e171868492c512a3.png",
+        "type": 2,
+        "cur_season_id": "yl5ergphz3gr8k0",
+        "cur_stage_id": "4wyrn4h516nq86p",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "6ypq3nh0o0omd7o",
+          6
+        ],
+        "most_titles": [
+          [
+            "6ypq3nh0o0omd7o",
+            "3glrw7hwj3nqdyj"
+          ],
+          6
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Scotland"
+        },
+        "primary_color": "#d32b79",
+        "secondary_color": "#cb93ac",
+        "updated_at": 1750837704
+      },
+      "fetched_at": "2025-06-27T18:00:36.674295",
+      "api_updated_at": 1750837704
+    },
+    "jednm9whvjeryox": {
+      "data": {
+        "id": "jednm9whvjeryox",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Campeonato Mineiro U20",
+        "short_name": "BRA Mineiro U20",
+        "logo": "https://img.thesports.com/football/competition/3403f4dfee0231dbd4d4f27c11a9ee0a.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1621066946
+      },
+      "fetched_at": "2025-06-29T05:54:29.035169",
+      "api_updated_at": 1621066946
+    },
+    "kjw2r09hy5rz84o": {
+      "data": {
+        "id": "kjw2r09hy5rz84o",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "p4jwq2ghkpm0veo",
+        "name": "Paraguayan Division Intermedia",
+        "short_name": "PAR Division Intermedia",
+        "logo": "https://img.thesports.com/football/competition/5810b6eba95c5c08261adabf45ce9976.png",
+        "type": 1,
+        "cur_season_id": "gx7lm7phlzym2wd",
+        "cur_stage_id": "3glrw7hg4n6qdyj",
+        "cur_round": 15,
+        "round_count": 30,
+        "title_holder": [
+          "y39mp1hy0wvmojx",
+          2
+        ],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "vjxm8gh44k2r6od",
+            "dn1m1gh40o1moep"
+          ]
+        ],
+        "divisions": [
+          [
+            "yl5ergphx4r8k0o"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Paraguay"
+        },
+        "primary_color": "#d4a904",
+        "secondary_color": "#6e9834",
+        "updated_at": 1750796664
+      },
+      "fetched_at": "2025-06-29T01:59:26.934837",
+      "api_updated_at": 1750796664
+    },
+    "d23xmvkhplqg8ny": {
+      "data": {
+        "id": "d23xmvkhplqg8ny",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "p3glrw7hwwqdyjv",
+        "name": "Iceland 1. Deild Karla",
+        "short_name": "Lengjudeildin",
+        "logo": "https://img.thesports.com/football/competition/d8569f68acf1df5df3f68a2db238a61c.png",
+        "type": 1,
+        "cur_season_id": "j1l4rjnh84ym7vx",
+        "cur_stage_id": "318q66h3869qo9j",
+        "cur_round": 10,
+        "round_count": 22,
+        "title_holder": [
+          "8y39mp1hl0emojx",
+          5
+        ],
+        "most_titles": [
+          [
+            "6ypq3nh0w05md7o",
+            "l5ergpho0l7r8k0"
+          ],
+          6
+        ],
+        "newcomers": [
+          [
+            "x7lm7phog57m2wd",
+            "dj2ryohkxe9q1zp"
+          ],
+          [
+            "1l4rjnh6649m7vx",
+            "9vjxm8ghoy9r6od"
+          ]
+        ],
+        "divisions": [
+          [
+            "kn54qllhp3qvy9d"
+          ],
+          [
+            "j1l4rjnhj0m7vx5"
+          ]
+        ],
+        "host": {
+          "country": "Iceland"
+        },
+        "primary_color": "#003f70",
+        "secondary_color": "#c2b5a2",
+        "updated_at": 1750616784
+      },
+      "fetched_at": "2025-06-27T18:01:34.899134",
+      "api_updated_at": 1750616784
+    },
+    "vl7oqdehwxr510j": {
+      "data": {
+        "id": "vl7oqdehwxr510j",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "jednm9wh90ryox8",
+        "name": "Peruvian Liga 1",
+        "short_name": "PER Liga 1",
+        "logo": "https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png",
+        "type": 1,
+        "cur_season_id": "p3glrw7hx4eqdyj",
+        "cur_stage_id": "2y8m4zhev97ql07",
+        "cur_round": 17,
+        "round_count": 19,
+        "title_holder": [
+          "2y8m4zh33xkql07",
+          28
+        ],
+        "most_titles": [
+          [
+            "2y8m4zh33xkql07"
+          ],
+          28
+        ],
+        "newcomers": [
+          [
+            "318q66ho9z4qo9j",
+            "zp5rzgh7gwxq82w",
+            "3glrw7h12z8qdyj",
+            "jw2r09hw5pxrz84"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "l965mkyh37lr1ge"
+          ]
+        ],
+        "host": {
+          "country": "Peru"
+        },
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1751141923
+      },
+      "fetched_at": "2025-06-29T00:50:20.227201",
+      "api_updated_at": 1751141923
+    },
+    "j1l4rjnhgvm7vx5": {
+      "data": {
+        "id": "j1l4rjnhgvm7vx5",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "56ypq3nh0xmd7oj",
+        "name": "Faroe Islands Premier League",
+        "short_name": "FAR Premier League",
+        "logo": "https://img.thesports.com/football/competition/aab2cb22ab51ad87e4eb116fdcdfcbb3.png",
+        "type": 1,
+        "cur_season_id": "z318q66h9wkqo9j",
+        "cur_stage_id": "vjxm8gh7klwr6od",
+        "cur_round": 15,
+        "round_count": 27,
+        "title_holder": [
+          "6ypq3nh0vgzmd7o",
+          10
+        ],
+        "most_titles": [
+          [
+            "v2y8m4zhlj8ql07"
+          ],
+          24
+        ],
+        "newcomers": [
+          [
+            "6ypq3nh56kpmd7o",
+            "vl7oqdehpx0r510"
+          ],
+          []
+        ],
+        "divisions": [],
+        "host": {
+          "country": "Faroe Islands"
+        },
+        "primary_color": "#87c578",
+        "secondary_color": "#61af4c",
+        "updated_at": 1750609327
+      },
+      "fetched_at": "2025-06-27T18:02:35.405000",
+      "api_updated_at": 1750609327
+    },
+    "gpxwrxlhz6kryk0": {
+      "data": {
+        "id": "gpxwrxlhz6kryk0",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "9dn1m1ghexmoepl",
+        "name": "Bolivian Reserve Cup",
+        "short_name": "BOL Reserve Cup",
+        "logo": "https://img.thesports.com/football/competition/c2f2f52cc68cbfdda16c8b8710bf2559.png",
+        "type": 2,
+        "cur_season_id": "kn54qllhv57qvy9",
+        "cur_stage_id": "dn1m1ghgd02moep",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750106527
+      },
+      "fetched_at": "2025-06-27T18:22:35.140006",
+      "api_updated_at": 1750106527
+    },
+    "kn54qllhp3qvy9d": {
+      "data": {
+        "id": "kn54qllhp3qvy9d",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "p3glrw7hwwqdyjv",
+        "name": "Iceland Besta-deild karla",
+        "short_name": "Besta-deild karla",
+        "logo": "https://img.thesports.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png",
+        "type": 1,
+        "cur_season_id": "p3glrw7hx3eqdyj",
+        "cur_stage_id": "n54qllhw4pnqvy9",
+        "cur_round": 13,
+        "round_count": 22,
+        "title_holder": [
+          "6ypq3nh0w05md7o",
+          3
+        ],
+        "most_titles": [
+          [
+            "vjxm8gh48jwr6od"
+          ],
+          27
+        ],
+        "newcomers": [
+          [
+            "2y8m4zh3j7nql07",
+            "kn54qllhl9wqvy9"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "d23xmvkhplqg8ny"
+          ]
+        ],
+        "host": {
+          "country": "Iceland"
+        },
+        "primary_color": "#160259",
+        "secondary_color": "#29B0E9",
+        "updated_at": 1750706244
+      },
+      "fetched_at": "2025-06-27T18:32:35.973264",
+      "api_updated_at": 1750706244
+    },
+    "yl5ergphw4wr8k0": {
+      "data": {
+        "id": "yl5ergphw4wr8k0",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "gy0or5jh43qwzv3",
+        "name": "ARFC",
+        "short_name": "ARFC",
+        "logo": "https://img.thesports.com/football/competition/4f68e8ac6ff3bff3780d491e48d3d469.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1747216936
+      },
+      "fetched_at": "2025-06-27T18:33:35.167082",
+      "api_updated_at": 1747216936
+    },
+    "v2y8m4zh3e9ql07": {
+      "data": {
+        "id": "v2y8m4zh3e9ql07",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "gy0or5jh43qwzv3",
+        "name": "Argentine Group C Tebolidun League Manchester",
+        "short_name": "ARG Tebolidun League GpC",
+        "logo": "https://img.thesports.com/football/competition/726a7f44f963e5e65cc91238c31f0550.png",
+        "type": 1,
+        "cur_season_id": "vl7oqdehvg8r510",
+        "cur_stage_id": "vjxm8gh7kk0r6od",
+        "cur_round": 15,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#3dcdaeff",
+        "secondary_color": "",
+        "updated_at": 1750704426
+      },
+      "fetched_at": "2025-06-27T18:43:35.294364",
+      "api_updated_at": 1750704426
+    },
+    "9vjxm8gh3lr6odg": {
+      "data": {
+        "id": "9vjxm8gh3lr6odg",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "xe4wyrn4h5q86pv",
+        "name": "Ireland Premier Division",
+        "short_name": "IRE Premier Division",
+        "logo": "https://img.thesports.com/football/competition/266fbc0f49084d91ceba810ed12e24ec.png",
+        "type": 1,
+        "cur_season_id": "kjw2r09he60rz84",
+        "cur_stage_id": "6ypq3nhpnz5md7o",
+        "cur_round": 22,
+        "round_count": 36,
+        "title_holder": [
+          "l965mkyh9kgr1ge",
+          14
+        ],
+        "most_titles": [
+          [
+            "4zp5rzghengq82w"
+          ],
+          21
+        ],
+        "newcomers": [
+          [
+            "j1l4rjnh0xom7vx"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "gx7lm7ph8jm2wdk"
+          ]
+        ],
+        "host": {
+          "country": "Ireland"
+        },
+        "primary_color": "#82c449",
+        "secondary_color": "#4379b7",
+        "updated_at": 1750704384
+      },
+      "fetched_at": "2025-06-27T18:45:35.437757",
+      "api_updated_at": 1750704384
+    },
+    "gx7lm7ph8jm2wdk": {
+      "data": {
+        "id": "gx7lm7ph8jm2wdk",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "xe4wyrn4h5q86pv",
+        "name": "Ireland First Division",
+        "short_name": "IRE First Division",
+        "logo": "https://img.thesports.com/football/competition/f1b3042fcdec297fa74519f2c7eccffd.png",
+        "type": 1,
+        "cur_season_id": "vl7oqdehv88r510",
+        "cur_stage_id": "1l4rjnhdlzjm7vx",
+        "cur_round": 21,
+        "round_count": 36,
+        "title_holder": [
+          "l965mkyh9kgr1ge",
+          2
+        ],
+        "most_titles": [
+          [
+            "9k82rekhde6repz"
+          ],
+          5
+        ],
+        "newcomers": [
+          [],
+          [
+            "p4jwq2ghjx2m0ve"
+          ]
+        ],
+        "divisions": [
+          [
+            "9vjxm8gh3lr6odg"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Ireland"
+        },
+        "primary_color": "#82c449",
+        "secondary_color": "#4379b7",
+        "updated_at": 1750705327
+      },
+      "fetched_at": "2025-06-27T18:46:35.243037",
+      "api_updated_at": 1750705327
+    },
+    "gx7lm7phw1em2wd": {
+      "data": {
+        "id": "gx7lm7phw1em2wd",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "8y39mp1h5zmojxg",
+        "name": "Colombian U20 League",
+        "short_name": "COL U20",
+        "logo": "https://img.thesports.com/football/competition/e5d4ca0ded5b0e59a34ba68de836a14b.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964965
+      },
+      "fetched_at": "2025-06-27T19:02:35.545237",
+      "api_updated_at": 1617964965
+    },
+    "kdj2ryohn01q1zp": {
+      "data": {
+        "id": "kdj2ryohn01q1zp",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "xe4wyrn4h5q86pv",
+        "name": "Ireland Women Football Cup",
+        "short_name": "IRD WC",
+        "logo": "https://img.thesports.com/football/competition/a7f1dc82e922297fa6ed52670ab82b2f.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1694942882
+      },
+      "fetched_at": "2025-06-27T19:12:35.159985",
+      "api_updated_at": 1694942882
+    },
+    "e4wyrn4hoj3q86p": {
+      "data": {
+        "id": "e4wyrn4hoj3q86p",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "p4jwq2ghkpm0veo",
+        "name": "PAR D3",
+        "short_name": "PAR D3",
+        "logo": "https://img.thesports.com/football/competition/2d7e06a7a663d1f31c63f4cf0976f55b.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1735549628
+      },
+      "fetched_at": "2025-06-27T19:30:35.062804",
+      "api_updated_at": 1735549628
+    },
+    "9dn1m1ghnp9moep": {
+      "data": {
+        "id": "9dn1m1ghnp9moep",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "3yl5ergphjr8k0o",
+        "name": "Northern Ireland Women's Cup",
+        "short_name": "NIR Women's Cup",
+        "logo": "https://img.thesports.com/football/competition/71436cbbf201d31259f6b4771c03c6b8.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618470316
+      },
+      "fetched_at": "2025-06-27T19:59:34.654238",
+      "api_updated_at": 1618470316
+    },
+    "l965mkyh37lr1ge": {
+      "data": {
+        "id": "l965mkyh37lr1ge",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "jednm9wh90ryox8",
+        "name": "Peruvian Liga 2",
+        "short_name": "PER Liga 2",
+        "logo": "https://img.thesports.com/football/competition/75bbf31af355a954779cbc94838e9dbc.png",
+        "type": 1,
+        "cur_season_id": "v2y8m4zh2d9ql07",
+        "cur_stage_id": "dn1m1ghgxovmoep",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "pxwrxlhg9o6ryk0",
+          1
+        ],
+        "most_titles": [
+          [
+            "23xmvkh33gxqg8n"
+          ],
+          3
+        ],
+        "newcomers": [
+          [],
+          [
+            "4jwq2ghkpvkm0ve",
+            "l7oqdeh4vker510",
+            "zp5rzghzpzeq82w"
+          ]
+        ],
+        "divisions": [
+          [
+            "vl7oqdehwxr510j"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Peru"
+        },
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1741834813
+      },
+      "fetched_at": "2025-06-29T02:07:27.138521",
+      "api_updated_at": 1741834813
+    },
+    "kdj2ryoh1poq1zp": {
+      "data": {
+        "id": "kdj2ryoh1poq1zp",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "jednm9wh90ryox8",
+        "name": "PER D3",
+        "short_name": "PER D3",
+        "logo": "https://img.thesports.com/football/competition/42b45605f3e4464c46b32f2582445673.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1748416566
+      },
+      "fetched_at": "2025-06-27T20:20:34.487127",
+      "api_updated_at": 1748416566
+    },
+    "vl7oqdeh4ydr510": {
+      "data": {
+        "id": "vl7oqdeh4ydr510",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "l965mkyh42r1ge4",
+        "name": "Uruguay Segunda League",
+        "short_name": "URU Segunda League",
+        "logo": "https://img.thesports.com/football/competition/da5cab5f0861c28467a2131b1190bf21.png",
+        "type": 1,
+        "cur_season_id": "jednm9whjpdryox",
+        "cur_stage_id": "1l4rjnhdgy3m7vx",
+        "cur_round": 8,
+        "round_count": 8,
+        "title_holder": [
+          "x7lm7phkdnom2wd",
+          6
+        ],
+        "most_titles": [
+          [
+            "l965mkyhvjzr1ge",
+            "318q66h0289qo9j"
+          ],
+          7
+        ],
+        "newcomers": [
+          [],
+          [
+            "vjxm8gh442gr6od",
+            "8y39mp1hlxkmojx",
+            "kdj2ryoh678q1zp"
+          ]
+        ],
+        "divisions": [
+          [
+            "v2y8m4zhydql074"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "#01216c",
+        "secondary_color": "#15669e",
+        "updated_at": 1750833126
+      },
+      "fetched_at": "2025-06-29T02:00:27.977872",
+      "api_updated_at": 1750833126
+    },
+    "gpxwrxlh9pyryk0": {
+      "data": {
+        "id": "gpxwrxlh9pyryk0",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Serie D",
+        "short_name": "BRA Serie D",
+        "logo": "https://img.thesports.com/football/competition/bd090b41746b4a0d04fb1d56f483665f.png",
+        "type": 1,
+        "cur_season_id": "4zp5rzghnepq82w",
+        "cur_stage_id": "1l4rjnhdgx4m7vx",
+        "cur_round": 10,
+        "round_count": 14,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750532887
+      },
+      "fetched_at": "2025-06-29T00:50:20.227177",
+      "api_updated_at": 1750532887
+    },
+    "8y39mp1h26mojxg": {
+      "data": {
+        "id": "8y39mp1h26mojxg",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "",
+        "name": "AFC Women\u2019s Asian Cup",
+        "short_name": "AFC Women\u2019s Asian Cup",
+        "logo": "https://img.thesports.com/football/competition/60bbc4b092ba7c5ce6e9927e8799a1d1.png",
+        "type": 2,
+        "cur_season_id": "9vjxm8ghny8r6od",
+        "cur_stage_id": "1l4rjnhdd8nm7vx",
+        "cur_round": 1,
+        "round_count": 5,
+        "title_holder": [
+          "d23xmvkh147qg8n",
+          10
+        ],
+        "most_titles": [
+          [
+            "kn54qllhv57qvy9"
+          ],
+          10
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "India"
+        },
+        "primary_color": "#f3a953",
+        "secondary_color": "#19bc55",
+        "updated_at": 1750941608
+      },
+      "fetched_at": "2025-06-29T08:31:32.690298",
+      "api_updated_at": 1750941608
+    },
+    "kjw2r09hjv9rz84": {
+      "data": {
+        "id": "kjw2r09hjv9rz84",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Paulista Serie B",
+        "short_name": "BRA Paulista Serie B",
+        "logo": "https://img.thesports.com/football/competition/5360da874f5ae86a0aa9c092bd6fe161.png",
+        "type": 1,
+        "cur_season_id": "4zp5rzghlx5q82w",
+        "cur_stage_id": "pxwrxlhjgwgryk0",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1709434811
+      },
+      "fetched_at": "2025-06-27T22:29:33.710553",
+      "api_updated_at": 1709434811
+    },
+    "p3glrw7hjo2qdyj": {
+      "data": {
+        "id": "p3glrw7hjo2qdyj",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "p3glrw7h03qdyjv",
+        "name": "Liga Dominicana de F\u00fatbol",
+        "short_name": "LDF",
+        "logo": "https://img.thesports.com/football/competition/64a575b0382e34fffafc283a8d040ab3.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1683338768
+      },
+      "fetched_at": "2025-06-29T00:50:20.227204",
+      "api_updated_at": 1683338768
+    },
+    "9vjxm8gh6nr6odg": {
+      "data": {
+        "id": "9vjxm8gh6nr6odg",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Sao Paulo Cup",
+        "short_name": "BRA Sao Paulo Cup",
+        "logo": "https://img.thesports.com/football/competition/9f036732ed968b2c06be6e57f29c6640.png",
+        "type": 2,
+        "cur_season_id": "j1l4rjnh8vgm7vx",
+        "cur_stage_id": "zp5rzghdey9q82w",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#108ec1ff",
+        "secondary_color": "",
+        "updated_at": 1749390066
+      },
+      "fetched_at": "2025-06-29T01:11:26.194089",
+      "api_updated_at": 1749390066
+    },
+    "j1l4rjnhjg1m7vx": {
+      "data": {
+        "id": "j1l4rjnhjg1m7vx",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "d23xmvkhoxqg8ny",
+        "name": "USA ULOC",
+        "short_name": "USA ULOC",
+        "logo": "https://img.thesports.com/football/competition/6d11fabe5143cdf40e41a99798947df2.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1735549928
+      },
+      "fetched_at": "2025-06-29T00:50:20.227187",
+      "api_updated_at": 1735549928
+    },
+    "9vjxm8gh8znr6od": {
+      "data": {
+        "id": "9vjxm8gh8znr6od",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian U20 Cup",
+        "short_name": "BRA U20 Cup",
+        "logo": "https://img.thesports.com/football/competition/43ef638056bdfb3279e22bda38003ba8.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618470066
+      },
+      "fetched_at": "2025-06-28T00:02:34.209053",
+      "api_updated_at": 1618470066
+    },
+    "9vjxm8ghdnr6odg": {
+      "data": {
+        "id": "9vjxm8ghdnr6odg",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "9k82rekh9grepzj",
+        "name": "LigaPro Serie A ",
+        "short_name": "LigaPro Serie A ",
+        "logo": "https://img.thesports.com/football/competition/f23575dd4d4702fcf2b82434dd4303f1.png",
+        "type": 1,
+        "cur_season_id": "4zp5rzghng8q82w",
+        "cur_stage_id": "zp5rzghdewpq82w",
+        "cur_round": 18,
+        "round_count": 30,
+        "title_holder": [
+          "z8yomo4hd49q0j6",
+          13
+        ],
+        "most_titles": [
+          [
+            "vjxm8gh4gvnr6od"
+          ],
+          16
+        ],
+        "newcomers": [
+          [
+            "4wyrn4hve57q86p",
+            "318q66ho17kqo9j"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "vl7oqdeh6v4r510"
+          ]
+        ],
+        "host": {
+          "country": "Ecuador"
+        },
+        "primary_color": "#feca06",
+        "secondary_color": "#025388",
+        "updated_at": 1750896564
+      },
+      "fetched_at": "2025-06-29T00:50:20.227194",
+      "api_updated_at": 1750896564
+    },
+    "p3glrw7hwo7qdyj": {
+      "data": {
+        "id": "p3glrw7hwo7qdyj",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "9vjxm8gh8gr6odg",
+        "name": "Libyan Premier League",
+        "short_name": "LIB Premier League",
+        "logo": "https://img.thesports.com/football/competition/3a552b2e7d7e817c48128a9a57b34141.png",
+        "type": 1,
+        "cur_season_id": "d23xmvkh5j5qg8n",
+        "cur_stage_id": "l5ergphevdor8k0",
+        "cur_round": 5,
+        "round_count": 5,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "#21a4bcff",
+        "secondary_color": "",
+        "updated_at": 1749474481
+      },
+      "fetched_at": "2025-06-28T00:06:33.564831",
+      "api_updated_at": 1749474481
+    },
+    "d23xmvkhjoqg8ny": {
+      "data": {
+        "id": "d23xmvkhjoqg8ny",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "gy0or5jh43qwzv3",
+        "name": "Copa Argentina",
+        "short_name": "Copa Argentina",
+        "logo": "https://img.thesports.com/football/competition/d8fd96705da596e5bcd51ae7c4482156.png",
+        "type": 2,
+        "cur_season_id": "d23xmvkhe8eqg8n",
+        "cur_stage_id": "8yomo4h688jq0j6",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "1l4rjnh152jm7vx",
+          1
+        ],
+        "most_titles": [
+          [
+            "z8yomo4hj31q0j6"
+          ],
+          4
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Argentina"
+        },
+        "primary_color": "#187ec0",
+        "secondary_color": "#44a4d8",
+        "updated_at": 1744923612
+      },
+      "fetched_at": "2025-06-28T00:13:34.460569",
+      "api_updated_at": 1744923612
+    },
+    "gx7lm7ph978m2wd": {
+      "data": {
+        "id": "gx7lm7ph978m2wd",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "v2y8m4zhnjql074",
+        "name": "Solomon Islands Telekom S-League",
+        "short_name": "SOLO S-League",
+        "logo": "https://img.thesports.com/football/competition/a23eba58545fbf323bef60e37a100be6.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965032
+      },
+      "fetched_at": "2025-06-29T00:50:20.227191",
+      "api_updated_at": 1617965032
+    },
+    "j1l4rjnh58ym7vx": {
+      "data": {
+        "id": "j1l4rjnh58ym7vx",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "AVPL U23",
+        "short_name": "AVPL U23",
+        "logo": "https://img.thesports.com/football/competition/292608e5d10631ca78512decfb096709.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1708323720
+      },
+      "fetched_at": "2025-06-29T05:23:27.551703",
+      "api_updated_at": 1708323720
+    },
+    "4zp5rzghxp0q82w": {
+      "data": {
+        "id": "4zp5rzghxp0q82w",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "yl5ergph3jr8k0o",
+        "name": "Canadian Premier League",
+        "short_name": "CanPL",
+        "logo": "https://img.thesports.com/football/competition/8db9a5d445b772788d5a1f9719133e59.png",
+        "type": 1,
+        "cur_season_id": "9dn1m1gh5g2moep",
+        "cur_stage_id": "n54qllhw328qvy9",
+        "cur_round": 7,
+        "round_count": 10,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1751155927
+      },
+      "fetched_at": "2025-06-29T00:50:20.227182",
+      "api_updated_at": 1751155927
+    },
+    "9vjxm8ghonr6odg": {
+      "data": {
+        "id": "9vjxm8ghonr6odg",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "gy0or5jh43qwzv3",
+        "name": "Argentine Division 2",
+        "short_name": "ARG Division 2",
+        "logo": "https://img.thesports.com/football/competition/f1d0b88fbf66a26ed8777ba39a13b24a.png",
+        "type": 1,
+        "cur_season_id": "l965mkyhjy3r1ge",
+        "cur_stage_id": "l7oqdeh9jo4r510",
+        "cur_round": 20,
+        "round_count": 38,
+        "title_holder": [
+          "v2y8m4zhd7dql07",
+          1
+        ],
+        "most_titles": [
+          [
+            "p3glrw7hevlqdyj",
+            "9vjxm8gh64er6od"
+          ],
+          3
+        ],
+        "newcomers": [
+          [
+            "3glrw7h1zdkqdyj",
+            "dn1m1gh4y9omoep"
+          ],
+          []
+        ],
+        "divisions": [
+          [
+            "p3glrw7hevqdyjv"
+          ],
+          [
+            "gx7lm7phd4m2wdk"
+          ]
+        ],
+        "host": {
+          "country": "Argentina"
+        },
+        "primary_color": "#145286",
+        "secondary_color": "#27A4DE",
+        "updated_at": 1750716486
+      },
+      "fetched_at": "2025-06-29T00:50:20.227198",
+      "api_updated_at": 1750716486
+    },
+    "gx7lm7phd4m2wdk": {
+      "data": {
+        "id": "gx7lm7phd4m2wdk",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "gy0or5jh43qwzv3",
+        "name": "Argentine Group B Tebolidun League Manchester",
+        "short_name": "ARG Tebolidun League GpB",
+        "logo": "https://img.thesports.com/football/competition/99ae414335d56715abcbce748c8a224e.png",
+        "type": 1,
+        "cur_season_id": "vl7oqdehvo8r510",
+        "cur_stage_id": "318q66h3dx3qo9j",
+        "cur_round": 1,
+        "round_count": 21,
+        "title_holder": [
+          "318q66howpvqo9j",
+          3
+        ],
+        "most_titles": [
+          [
+            "p3glrw7hevlqdyj",
+            "dn1m1gh43g9moep"
+          ],
+          6
+        ],
+        "newcomers": [
+          [],
+          [
+            "vjxm8ghg420r6od"
+          ]
+        ],
+        "divisions": [
+          [
+            "9vjxm8ghonr6odg"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Argentina"
+        },
+        "primary_color": "#0098da",
+        "secondary_color": "#B19355",
+        "updated_at": 1750818126
+      },
+      "fetched_at": "2025-06-29T00:50:20.227199",
+      "api_updated_at": 1750818126
+    },
+    "kn54qllhx98qvy9": {
+      "data": {
+        "id": "kn54qllhx98qvy9",
+        "category_id": "xkn54qllhjqvy9d",
+        "country_id": "vl7oqdeh4wr510j",
+        "name": "New Zealand South Premier League",
+        "short_name": "NZ South Premier League",
+        "logo": "https://img.thesports.com/football/competition/c76ff0c887daf6589e4381369349bbab.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965015
+      },
+      "fetched_at": "2025-06-29T00:50:20.227207",
+      "api_updated_at": 1617965015
+    },
+    "v2y8m4zhydql074": {
+      "data": {
+        "id": "v2y8m4zhydql074",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "l965mkyh42r1ge4",
+        "name": "Uruguay Primera Division",
+        "short_name": "URU Primera Division",
+        "logo": "https://img.thesports.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhv9pqwzv",
+        "cur_stage_id": "y0or5jhwwwxqwzv",
+        "cur_round": 7,
+        "round_count": 7,
+        "title_holder": [
+          "k82rekhv9xprepz",
+          49
+        ],
+        "most_titles": [
+          [
+            "l7oqdehnnoyr510"
+          ],
+          49
+        ],
+        "newcomers": [
+          [
+            "y39mp1h3jxomojx",
+            "y0or5jh4njpqwzv",
+            "x7lm7phkpnwm2wd"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "vl7oqdeh4ydr510"
+          ]
+        ],
+        "host": {
+          "country": "Uruguay"
+        },
+        "primary_color": "#0f4798",
+        "secondary_color": "#c39d00",
+        "updated_at": 1751134446
+      },
+      "fetched_at": "2025-06-29T00:50:20.227210",
+      "api_updated_at": 1751134446
+    },
+    "kdj2ryohywgq1zp": {
+      "data": {
+        "id": "kdj2ryohywgq1zp",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese Regional League",
+        "short_name": "JPN Regional League",
+        "logo": "https://img.thesports.com/football/competition/4b6b346d1b9d43f5cad63d66c3b4d57c.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964999
+      },
+      "fetched_at": "2025-06-29T01:01:26.006040",
+      "api_updated_at": 1617964999
+    },
+    "kn54qllhxdvqvy9": {
+      "data": {
+        "id": "kn54qllhxdvqvy9",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "z318q66h08qo9jd",
+        "name": "Venezuela Segunda Division",
+        "short_name": "VEN Segunda Division",
+        "logo": "https://img.thesports.com/football/competition/fd9fd14043b32e444ba55a48d4d3dcef.png",
+        "type": 1,
+        "cur_season_id": "8y39mp1hx2dmojx",
+        "cur_stage_id": "318q66h3dw6qo9j",
+        "cur_round": 14,
+        "round_count": 14,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [
+          [
+            "gx7lm7phy4m2wdk"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750682046
+      },
+      "fetched_at": "2025-06-29T01:11:26.194099",
+      "api_updated_at": 1750682046
+    },
+    "l965mkyhyw2r1ge": {
+      "data": {
+        "id": "l965mkyhyw2r1ge",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "dkjw2r09hvrz84o",
+        "name": "RUS D3B",
+        "short_name": "RUS D3B",
+        "logo": "https://img.thesports.com/football/competition/010fb9ddd41da46a1c245e86f9f38d92.png",
+        "type": 1,
+        "cur_season_id": "gpxwrxlh641ryk0",
+        "cur_stage_id": "8yomo4h68wwq0j6",
+        "cur_round": 12,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1751128866
+      },
+      "fetched_at": "2025-06-29T01:39:26.028395",
+      "api_updated_at": 1751128866
+    },
+    "4zp5rzghz01q82w": {
+      "data": {
+        "id": "4zp5rzghz01q82w",
+        "category_id": "xkn54qllhjqvy9d",
+        "country_id": "vl7oqdeh4wr510j",
+        "name": "New Zealand Central Premier League",
+        "short_name": "NZ Central Premier League",
+        "logo": "https://img.thesports.com/football/competition/b334e98bd31355e2781528746357247f.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965015
+      },
+      "fetched_at": "2025-06-29T02:00:27.977881",
+      "api_updated_at": 1617965015
+    },
+    "v2y8m4zhzxgql07": {
+      "data": {
+        "id": "v2y8m4zhzxgql07",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Northern New South Wales Reserves League",
+        "short_name": "AUS NSW-N Reserves League",
+        "logo": "https://img.thesports.com/football/competition/4f75e9026f344c172306b440528a7018.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964944
+      },
+      "fetched_at": "2025-06-29T02:06:27.524798",
+      "api_updated_at": 1617964944
+    },
+    "gpxwrxlho4ryk0j": {
+      "data": {
+        "id": "gpxwrxlho4ryk0j",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Youth League",
+        "short_name": "BRA Youth League",
+        "logo": "https://img.thesports.com/football/competition/5bacd6dfbc822158823f1b277339feaf.png",
+        "type": 2,
+        "cur_season_id": "e4wyrn4hjn6q86p",
+        "cur_stage_id": "y39mp1heoz5mojx",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "n54qllh2766qvy9",
+          2
+        ],
+        "most_titles": [
+          [
+            "dn1m1gh4gy6moep"
+          ],
+          4
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Brazil"
+        },
+        "primary_color": "#000326",
+        "secondary_color": "#acfe04",
+        "updated_at": 1742702401
+      },
+      "fetched_at": "2025-06-29T02:09:27.451809",
+      "api_updated_at": 1742702401
+    },
+    "kjw2r09h8yrz84o": {
+      "data": {
+        "id": "kjw2r09h8yrz84o",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese Nadeshiko League 2",
+        "short_name": "JPN Nadeshiko League 2",
+        "logo": "https://img.thesports.com/football/competition/64bdbd54e2d89d7d62738a5399a92215.jpg",
+        "type": 1,
+        "cur_season_id": "z318q66h9y3qo9j",
+        "cur_stage_id": "y39mp1heo2zmojx",
+        "cur_round": 17,
+        "round_count": 22,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "k82rekhy5dvrepz"
+          ]
+        ],
+        "divisions": [
+          [
+            "yl5ergphg6r8k0o"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750565465
+      },
+      "fetched_at": "2025-06-29T02:10:26.806533",
+      "api_updated_at": 1750565465
+    },
+    "kn54qllhj1pqvy9": {
+      "data": {
+        "id": "kn54qllhj1pqvy9",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Capital Territory U23 League",
+        "short_name": "AUS ACT U23",
+        "logo": "https://img.thesports.com/football/competition/d5370c2125d71fdc2cd71b09edc007db.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964944
+      },
+      "fetched_at": "2025-06-29T02:35:27.147231",
+      "api_updated_at": 1617964944
+    },
+    "kdj2ryohkvzq1zp": {
+      "data": {
+        "id": "kdj2ryohkvzq1zp",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia National Premier Leagues Capital Football 1",
+        "short_name": "AUS NPL ACT 1",
+        "logo": "https://img.thesports.com/football/competition/b656d2fe90a3c1a90d9054c3b7b146e9.png",
+        "type": 1,
+        "cur_season_id": "gpxwrxlh650ryk0",
+        "cur_stage_id": "8yomo4h6y1zq0j6",
+        "cur_round": 11,
+        "round_count": 21,
+        "title_holder": [
+          "k82rekhve0xrepz",
+          3
+        ],
+        "most_titles": [
+          [
+            "k82rekhve0xrepz"
+          ],
+          3
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Australia"
+        },
+        "primary_color": "#1483be",
+        "secondary_color": "#189ce6",
+        "updated_at": 1750569246
+      },
+      "fetched_at": "2025-06-29T03:00:26.530668",
+      "api_updated_at": 1750569246
+    },
+    "9vjxm8ghlkzr6od": {
+      "data": {
+        "id": "9vjxm8ghlkzr6od",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "d23xmvkhoxqg8ny",
+        "name": "USL League One",
+        "short_name": "USL League One",
+        "logo": "https://img.thesports.com/football/competition/991ee00f30f83b0431f800a63e81f9c4.png",
+        "type": 1,
+        "cur_season_id": "gx7lm7phldgm2wd",
+        "cur_stage_id": "ednm9whpoz5ryox",
+        "cur_round": 5,
+        "round_count": 10,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750896624
+      },
+      "fetched_at": "2025-06-29T03:07:26.669641",
+      "api_updated_at": 1750896624
+    },
+    "gpxwrxlhvg1ryk0": {
+      "data": {
+        "id": "gpxwrxlhvg1ryk0",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "AUS QPS Cup",
+        "short_name": "AUS QPS Cup",
+        "logo": "https://img.thesports.com/football/competition/9b7d877fda6e8350ddc78cdd02aa2994.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhv8pqwzv",
+        "cur_stage_id": "8yomo4h6jglq0j6",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750470546
+      },
+      "fetched_at": "2025-06-29T03:37:26.895285",
+      "api_updated_at": 1750470546
+    },
+    "yl5ergphg6r8k0o": {
+      "data": {
+        "id": "yl5ergphg6r8k0o",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese Nadeshiko League 1",
+        "short_name": "JPN Nadeshiko League 1",
+        "logo": "https://img.thesports.com/football/competition/77fb7f0bcc60334e2be254cc97fa9703.png",
+        "type": 1,
+        "cur_season_id": "d23xmvkheldqg8n",
+        "cur_stage_id": "6ypq3nhpk22md7o",
+        "cur_round": 15,
+        "round_count": 22,
+        "title_holder": [
+          "965mkyh76p7r1ge",
+          1
+        ],
+        "most_titles": [
+          [
+            "6ypq3nh0gk3md7o"
+          ],
+          14
+        ],
+        "newcomers": [
+          [
+            "2y8m4zh3nvpql07"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "kjw2r09h8yrz84o"
+          ]
+        ],
+        "host": {
+          "country": "Japan"
+        },
+        "primary_color": "#e6011a",
+        "secondary_color": "#909090",
+        "updated_at": 1750565465
+      },
+      "fetched_at": "2025-06-29T04:01:26.917689",
+      "api_updated_at": 1750565465
+    },
+    "8y39mp1hj99mojx": {
+      "data": {
+        "id": "8y39mp1hj99mojx",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Northern New South Wales Premier League",
+        "short_name": "AUS NSW-N Premier League",
+        "logo": "https://img.thesports.com/football/competition/3110d1717fed14a7b4367e0b9171f334.png",
+        "type": 1,
+        "cur_season_id": "kjw2r09hek0rz84",
+        "cur_stage_id": "3glrw7hg444qdyj",
+        "cur_round": 17,
+        "round_count": 22,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1751015148
+      },
+      "fetched_at": "2025-06-29T04:04:26.654142",
+      "api_updated_at": 1751015148
+    },
+    "p4jwq2gh747m0ve": {
+      "data": {
+        "id": "p4jwq2gh747m0ve",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Capital Territory Women's League ",
+        "short_name": "AUS ACT Women's League ",
+        "logo": "https://img.thesports.com/football/competition/92b6f8b0d9c8d8499fac30109f0c1352.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964943
+      },
+      "fetched_at": "2025-06-29T04:05:28.132839",
+      "api_updated_at": 1617964943
+    },
+    "9vjxm8ghg1wr6od": {
+      "data": {
+        "id": "9vjxm8ghg1wr6od",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Northern New South Wales State League 1",
+        "short_name": "AUS NSW-N League 1",
+        "logo": "https://img.thesports.com/football/competition/2f312e8b5c79f8c4801f4d7f1a459ab9.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964938
+      },
+      "fetched_at": "2025-06-29T04:12:27.282761",
+      "api_updated_at": 1617964938
+    },
+    "p4jwq2gh731m0ve": {
+      "data": {
+        "id": "p4jwq2gh731m0ve",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "AVPL(W\uff09",
+        "short_name": "AVPL(W\uff09",
+        "logo": "https://img.thesports.com/football/competition/b629c7b850d74c55f143542521a02cdb.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1656827588
+      },
+      "fetched_at": "2025-06-29T04:22:27.498509",
+      "api_updated_at": 1656827588
+    },
+    "9vjxm8ghp76r6od": {
+      "data": {
+        "id": "9vjxm8ghp76r6od",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia New South Wales Women's League",
+        "short_name": "AUS NSW Women's League",
+        "logo": "https://img.thesports.com/football/competition/5ce8a42bad6e351db200fee1695e8539.png",
+        "type": 1,
+        "cur_season_id": "p3glrw7hxneqdyj",
+        "cur_stage_id": "dn1m1ghg9x3moep",
+        "cur_round": 17,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750576704
+      },
+      "fetched_at": "2025-06-29T04:47:27.475568",
+      "api_updated_at": 1750576704
+    },
+    "v2y8m4zh302ql07": {
+      "data": {
+        "id": "v2y8m4zh302ql07",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia National Premier Leagues Queensland",
+        "short_name": "AUS QLD Premier Leagues ",
+        "logo": "https://img.thesports.com/football/competition/37436633e76bc4f38fc252d6cf2b8e2c.png",
+        "type": 1,
+        "cur_season_id": "p3glrw7hx7eqdyj",
+        "cur_stage_id": "6ypq3nhpkv4md7o",
+        "cur_round": 5,
+        "round_count": 22,
+        "title_holder": [
+          "d23xmvkhe5wqg8n",
+          4
+        ],
+        "most_titles": [
+          [
+            "d23xmvkhe5wqg8n"
+          ],
+          4
+        ],
+        "newcomers": [
+          [
+            "2y8m4zhj2wpql07",
+            "pxwrxlhge2lryk0"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "4zp5rzghpvnq82w"
+          ]
+        ],
+        "host": {
+          "country": "Australia"
+        },
+        "primary_color": "#53081e",
+        "secondary_color": "#ba1b53",
+        "updated_at": 1751098987
+      },
+      "fetched_at": "2025-06-29T05:04:27.569392",
+      "api_updated_at": 1751098987
+    },
+    "gx7lm7ph08om2wd": {
+      "data": {
+        "id": "gx7lm7ph08om2wd",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia TSAmania Women's Super League",
+        "short_name": "AUS TSA Women's Super League",
+        "logo": "https://img.thesports.com/football/competition/203780df92d761f8ac2106f2b7ce9c24.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618469767
+      },
+      "fetched_at": "2025-06-29T05:32:27.238306",
+      "api_updated_at": 1618469767
+    },
+    "e4wyrn4hg1q86pv": {
+      "data": {
+        "id": "e4wyrn4hg1q86pv",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese Football League",
+        "short_name": "JPN JFL",
+        "logo": "https://img.thesports.com/football/competition/6c3c84e1c02d4b5226e5d09361aca6ab.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhvylqwzv",
+        "cur_stage_id": "dn1m1ghgxx0moep",
+        "cur_round": 14,
+        "round_count": 30,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "23xmvkho4gyqg8n",
+            "pxwrxlh1zv9ryk0"
+          ]
+        ],
+        "divisions": [
+          [
+            "vl7oqdeh7pr510j"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "#67bc3dff",
+        "secondary_color": "",
+        "updated_at": 1750572966
+      },
+      "fetched_at": "2025-06-29T06:01:29.733678",
+      "api_updated_at": 1750572966
+    },
+    "p3glrw7h79wqdyj": {
+      "data": {
+        "id": "p3glrw7h79wqdyj",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Western Australia U23",
+        "short_name": "WAUS U23",
+        "logo": "https://img.thesports.com/football/competition/a2fd4b8befca601618b875fe1b234050.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1747217408
+      },
+      "fetched_at": "2025-06-29T06:10:29.653343",
+      "api_updated_at": 1747217408
+    },
+    "gx7lm7ph90wm2wd": {
+      "data": {
+        "id": "gx7lm7ph90wm2wd",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "e4wyrn4h9kq86pv",
+        "name": "Grenada Premier Division",
+        "short_name": "Grenada Premier Division",
+        "logo": "https://img.thesports.com/football/competition/fd0629a253760e3157b36a2bcd015fbc.jfif",
+        "type": 1,
+        "cur_season_id": "kjw2r09heozrz84",
+        "cur_stage_id": "8yomo4h666nq0j6",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750683907
+      },
+      "fetched_at": "2025-06-29T06:37:29.415300",
+      "api_updated_at": 1750683907
+    },
+    "kn54qllhjedqvy9": {
+      "data": {
+        "id": "kn54qllhjedqvy9",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "4zp5rzgh72q82w1",
+        "name": "Chilean Tercera",
+        "short_name": "CHI Tercera",
+        "logo": "https://img.thesports.com/football/competition/9eff13e10fc7286524a6934a7f7c89ac.jpg",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1711334178
+      },
+      "fetched_at": "2025-06-29T06:46:29.116571",
+      "api_updated_at": 1711334178
+    },
+    "z318q66h91qo9jd": {
+      "data": {
+        "id": "z318q66h91qo9jd",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Chinese Football League 1",
+        "short_name": "CHN League 1",
+        "logo": "https://img.thesports.com/football/competition/aef1f7c3d09f7d1f60e0dde1ee3f1cbc.png",
+        "type": 1,
+        "cur_season_id": "9vjxm8ghn7yr6od",
+        "cur_stage_id": "318q66h31w4qo9j",
+        "cur_round": 14,
+        "round_count": 30,
+        "title_holder": [
+          "3glrw7hz1ooqdyj",
+          1
+        ],
+        "most_titles": [
+          [
+            "8y39mp1hnedmojx",
+            "zp5rzgh77zlq82w"
+          ],
+          2
+        ],
+        "newcomers": [
+          [
+            "dj2ryohn4l7q1zp",
+            "jw2r09hw9yerz84",
+            "y39mp1hjo8emojx",
+            "x7lm7ph98vom2wd"
+          ],
+          [
+            "vjxm8ghg5eor6od"
+          ]
+        ],
+        "divisions": [
+          [
+            "9k82rekh52repzj"
+          ],
+          [
+            "9dn1m1gh5gmoepl"
+          ]
+        ],
+        "host": {
+          "country": "China"
+        },
+        "primary_color": "#fa0026",
+        "secondary_color": "#fa0026",
+        "updated_at": 1750592484
+      },
+      "fetched_at": "2025-06-29T07:01:30.612875",
+      "api_updated_at": 1750592484
+    },
+    "p3glrw7hz0lqdyj": {
+      "data": {
+        "id": "p3glrw7hz0lqdyj",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "56ypq3nh5xmd7oj",
+        "name": "Korean K League 4",
+        "short_name": "KOR K4",
+        "logo": "https://img.thesports.com/football/competition/9aa075ed81d819ac5e16336111acff45.png",
+        "type": 1,
+        "cur_season_id": "gy0or5jhvwlqwzv",
+        "cur_stage_id": "l7oqdeh9x07r510",
+        "cur_round": 17,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750583225
+      },
+      "fetched_at": "2025-06-29T07:03:29.242469",
+      "api_updated_at": 1750583225
+    },
+    "9vjxm8ghjx1r6od": {
+      "data": {
+        "id": "9vjxm8ghjx1r6od",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Australia Queensland State Women's League",
+        "short_name": "AUS QLD Women's League",
+        "logo": "https://img.thesports.com/football/competition/35e5286e9344ce4b09525c4cdf149cce.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964940
+      },
+      "fetched_at": "2025-06-29T07:05:29.482730",
+      "api_updated_at": 1617964940
+    },
+    "4zp5rzghjy0q82w": {
+      "data": {
+        "id": "4zp5rzghjy0q82w",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "56ypq3nh5xmd7oj",
+        "name": "Korean K League 3 ",
+        "short_name": "KOR K3",
+        "logo": "https://img.thesports.com/football/competition/9799edd083ed062593c86f8b0dc2a02a.png",
+        "type": 1,
+        "cur_season_id": "gx7lm7phl2gm2wd",
+        "cur_stage_id": "jw2r09hg3xerz84",
+        "cur_round": 15,
+        "round_count": 30,
+        "title_holder": [
+          "8y39mp1hn57mojx",
+          1
+        ],
+        "most_titles": [
+          [
+            "56ypq3nho79md7o"
+          ],
+          2
+        ],
+        "newcomers": [
+          [],
+          []
+        ],
+        "divisions": [
+          [
+            "kn54qllh25dqvy9"
+          ],
+          []
+        ],
+        "host": {
+          "country": "South Korea"
+        },
+        "primary_color": "#e72523",
+        "secondary_color": "#0a3f72",
+        "updated_at": 1750586886
+      },
+      "fetched_at": "2025-06-29T08:01:30.853912",
+      "api_updated_at": 1750586886
+    },
+    "9dn1m1gh6gmoepl": {
+      "data": {
+        "id": "9dn1m1gh6gmoepl",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese J2 League",
+        "short_name": "JPN J2",
+        "logo": "https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png",
+        "type": 1,
+        "cur_season_id": "kjw2r09he0wrz84",
+        "cur_stage_id": "y39mp1hed0lmojx",
+        "cur_round": 22,
+        "round_count": 38,
+        "title_holder": [
+          "z8yomo4hjg1q0j6",
+          1
+        ],
+        "most_titles": [
+          [
+            "dn1m1gh4n6zmoep"
+          ],
+          3
+        ],
+        "newcomers": [
+          [
+            "p4jwq2ghle0m0ve",
+            "l7oqdehn550r510",
+            "1l4rjnh1xvem7vx"
+          ],
+          [
+            "z8yomo4hozyq0j6",
+            "z8yomo4hjg1q0j6",
+            "dn1m1gh4n6zmoep"
+          ]
+        ],
+        "divisions": [
+          [
+            "z318q66hl1qo9jd"
+          ],
+          [
+            "vl7oqdeh7pr510j"
+          ]
+        ],
+        "host": {
+          "country": "Japan"
+        },
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1751107387
+      },
+      "fetched_at": "2025-06-29T08:28:30.506573",
+      "api_updated_at": 1751107387
+    },
+    "z318q66hl1qo9jd": {
+      "data": {
+        "id": "z318q66hl1qo9jd",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "z8yomo4hkwq0j6l",
+        "name": "Japanese J1 League",
+        "short_name": "JPN J1",
+        "logo": "https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png",
+        "type": 1,
+        "cur_season_id": "yl5ergphz8er8k0",
+        "cur_stage_id": "6ypq3nhpk74md7o",
+        "cur_round": 22,
+        "round_count": 38,
+        "title_holder": [
+          "56ypq3nhd7kmd7o",
+          2
+        ],
+        "most_titles": [
+          [
+            "j1l4rjnhp8nm7vx"
+          ],
+          8
+        ],
+        "newcomers": [
+          [
+            "l965mkyh9j9r1ge",
+            "kdj2ryoh8zgq1zp",
+            "k82rekhv2y4repz"
+          ],
+          []
+        ],
+        "divisions": [
+          [],
+          [
+            "9dn1m1gh6gmoepl"
+          ]
+        ],
+        "host": {
+          "country": "Japan"
+        },
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750847964
+      },
+      "fetched_at": "2025-06-29T08:44:30.571293",
+      "api_updated_at": 1750847964
     }
   }
 }
