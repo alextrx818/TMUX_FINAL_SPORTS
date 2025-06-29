@@ -136,3 +136,41 @@ When creating any new file in this architecture:
 This ensures every field is consciously processed and tracked through the pipeline.
 
 This pattern ensures that adding new processing stages never breaks existing functionality and maintains the system's reliability through complete stage independence.
+
+## Field Order Preservation for Visual Separators
+
+**IMPORTANT ARCHITECTURAL NOTE**: When implementing field-by-field processing with visual separators (like colon fields `:`, `::`, `:::`, `::::`), ensure correct sequential ordering in the field extraction logic.
+
+**Issue**: Visual separator fields may be skipped if processed in bulk blocks rather than interleaved with their related fields.
+
+**Solution**: Process odds fields sequentially with their associated separators rather than in bulk lists.
+
+**Example Fix** (from alerts_central.py):
+```python
+# ❌ INCORRECT - bulk processing causes separator skipping
+odds_fields = ["spread_game_score", ":", "overunder_game_score", "::", ...]
+for field_name in odds_fields:
+    if field_name in match:
+        extracted[field_name] = match[field_name]
+
+# ✅ CORRECT - sequential processing with interleaved separators  
+# Process spread fields
+for field_name in ["spread_timestamp", "spread_capture_time", ..., "spread_game_score"]:
+    if field_name in match:
+        extracted[field_name] = match[field_name]
+
+# Colon separator after spread_game_score
+if ":" in match:
+    extracted[":"] = match[":"]
+
+# Process overunder fields  
+for field_name in ["overunder_timestamp", "overunder_capture_time", ..., "overunder_game_score"]:
+    if field_name in match:
+        extracted[field_name] = match[field_name]
+
+# Colon separator after overunder_game_score
+if "::" in match:
+    extracted["::"] = match["::"]
+```
+
+This ensures visual separators appear in their intended positions and maintain proper field ordering throughout pipeline stages.

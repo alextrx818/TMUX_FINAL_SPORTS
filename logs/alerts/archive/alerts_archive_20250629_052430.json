@@ -1,0 +1,3130 @@
+{
+  "archive_metadata": {
+    "archived_at": "2025-06-29T05:24:30.567117-04:00",
+    "archived_fetches": 1,
+    "archive_reason": "50_fetch_rotation"
+  },
+  "archived_fetches": [
+    {
+      "fetch_timestamp": "2025-06-29T04:46:30.425687-04:00",
+      "fetch_number": 51,
+      "processed_data": {
+        "matches": [
+          {
+            "match_id": "23xmvkh6o4pxqg8",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Hubei U18",
+            "away_team_name": "Jilin U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "23xmvkh6vpnnqg8",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Japanese Nadeshiko League 2",
+            "home_team_name": "SEISA OSA Rheia (w)",
+            "away_team_name": "Veertien Mie (w)",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "  ": "",
+            "spread_timestamp": 1751184271,
+            "spread_capture_time": "5",
+            "spread_home_odds": "-111",
+            "spread_value": -0.25,
+            "spread_away_odds": "-111",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751184144,
+            "overunder_capture_time": "3",
+            "over": "-114",
+            "total_line": 2.0,
+            "under": "-108",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184271,
+                    "5",
+                    "-111",
+                    -0.25,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184196,
+                    "4",
+                    "+220",
+                    210.0,
+                    "+110",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184144,
+                    "3",
+                    "-114",
+                    2.0,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751184248,
+                    "5",
+                    "-120",
+                    7.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "759mmHg",
+              "temperature": "90°F",
+              "wind": "13mph (Moderate Breeze)",
+              "humidity": "48%"
+            }
+          },
+          {
+            "match_id": "2y8m4zh502p0ql0",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:10 AM",
+            "competition_name": "Western Australia Women's League",
+            "home_team_name": "Fremantle City FC (w)",
+            "away_team_name": "Murdoch University Melville FC (w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 3,
+            "home_score_half": 1,
+            "home_corners": 8,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "overunder_timestamp": 1751181445,
+            "overunder_capture_time": "7",
+            "over": "-125",
+            "total_line": 6.0,
+            "under": "-119",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "4": {
+                "MoneyLine": [
+                  [
+                    1751173255,
+                    "",
+                    "-4999",
+                    900.0,
+                    "+1600",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751181445,
+                    "7",
+                    "-125",
+                    6.0,
+                    "-119",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "771mmHg",
+              "temperature": "57°F",
+              "wind": "4mph (Light Breeze)",
+              "humidity": "92%"
+            }
+          },
+          {
+            "match_id": "2y8m4zh5jgpvql0",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:30 AM",
+            "competition_name": "Rural Football Super League",
+            "home_team_name": "Tap Seac Party Prime Minister Village Football Team",
+            "away_team_name": "Yuezhai Village Football Team",
+            "details_status_id": 9,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "2y8m4zh5jp62ql0",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/28/2025 03:30 PM",
+            "competition_name": "Finnish Kolmonen",
+            "home_team_name": "Tampere Utd II",
+            "away_team_name": "Lasten",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 2,
+            "home_score_half": 0,
+            "home_corners": 4,
+            " ": "",
+            "away_score_current": 2,
+            "away_score_half": 0,
+            "away_corners": 5,
+            "  ": "",
+            "spread_timestamp": 1751124739,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-114",
+            "spread_value": -1.0,
+            "spread_away_odds": "-108",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751124739,
+            "overunder_capture_time": "2",
+            "over": "-105",
+            "total_line": 4.0,
+            "under": "-117",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751124739,
+                    "2",
+                    "-114",
+                    -1.0,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751124743,
+                    "2",
+                    "+250",
+                    350.0,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751124739,
+                    "2",
+                    "-105",
+                    4.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751124814,
+                    "3",
+                    "-125",
+                    9.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "756mmHg",
+              "temperature": "63°F",
+              "wind": "12mph (Gentle Breeze)",
+              "humidity": "70%"
+            }
+          },
+          {
+            "match_id": "2y8m4zh62k6kql0",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:10 AM",
+            "competition_name": "Australia New South Wales Women's League",
+            "home_team_name": "Gladesville Ravens (W)",
+            "away_team_name": "WS Wanderers B (W)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 3,
+            "  ": "",
+            "spread_timestamp": 1751181394,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-108",
+            "spread_value": 0.75,
+            "spread_away_odds": "-114",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751181453,
+            "overunder_capture_time": "4",
+            "over": "-108",
+            "total_line": 3.25,
+            "under": "-114",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751181394,
+                    "3",
+                    "-108",
+                    0.75,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751181436,
+                    "4",
+                    "-138",
+                    333.0,
+                    "+260",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751181453,
+                    "4",
+                    "-108",
+                    3.25,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751181467,
+                    "5",
+                    "+110",
+                    8.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "769mmHg",
+              "temperature": "61°F",
+              "wind": "4mph (Light Breeze)",
+              "humidity": "78%"
+            }
+          },
+          {
+            "match_id": "318q66hwe94nqo9",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Australia National Premier Leagues Queensland",
+            "home_team_name": "Brisbane Olympic United FC",
+            "away_team_name": "Brisbane City",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "  ": "",
+            "spread_timestamp": 1751184280,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-108",
+            "spread_value": 0.0,
+            "spread_away_odds": "-114",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751184331,
+            "overunder_capture_time": "2",
+            "over": "-111",
+            "total_line": 3.25,
+            "under": "-111",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184280,
+                    "2",
+                    "-108",
+                    0.0,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184331,
+                    "2",
+                    "+150",
+                    275.0,
+                    "+137",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184331,
+                    "2",
+                    "-111",
+                    3.25,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751184331,
+                    "2",
+                    "-111",
+                    9.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "768mmHg",
+              "temperature": "61°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "89%"
+            }
+          },
+          {
+            "match_id": "4wyrn4h68pnvq86",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/06/2025 06:30 PM",
+            "competition_name": "CONCACAF U20 Women's Championship",
+            "home_team_name": "Costa Rica (w) U20",
+            "away_team_name": "Mexico (w) U20",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            " ": "",
+            "away_score_current": 4,
+            "away_score_half": 3,
+            "away_corners": 5,
+            "  ": "",
+            "spread_timestamp": 1749234660,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-117",
+            "spread_value": -2.0,
+            "spread_away_odds": "-105",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1749234639,
+            "overunder_capture_time": "2",
+            "over": "-121",
+            "total_line": 3.25,
+            "under": "-103",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1749234660,
+                    "2",
+                    "-117",
+                    -2.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1749234646,
+                    "2",
+                    "+850",
+                    450.0,
+                    "-400",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1749234639,
+                    "2",
+                    "-121",
+                    3.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1749234660,
+                    "2",
+                    "-125",
+                    9.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": ""
+          },
+          {
+            "match_id": "4wyrn4h6el9xq86",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Australia Queensland State Women's League",
+            "home_team_name": "Eastern Suburbs SC (w)",
+            "away_team_name": "Queensland Lions (w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 4,
+            "home_score_half": 2,
+            "home_corners": 6,
+            " ": "",
+            "away_score_current": 2,
+            "away_score_half": 1,
+            "away_corners": 1,
+            "  ": "",
+            "spread_timestamp": 1751180757,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-125",
+            "spread_value": 0.5,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180756,
+            "overunder_capture_time": "2",
+            "over": "-111",
+            "total_line": 3.5,
+            "under": "-111",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180757,
+                    "2",
+                    "-125",
+                    0.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180796,
+                    "3",
+                    "-250",
+                    400.0,
+                    "+550",
+                    2,
+                    0,
+                    "1-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180756,
+                    "2",
+                    "-111",
+                    3.5,
+                    "-111",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180796,
+                    "3",
+                    "+110",
+                    10.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "768mmHg",
+              "temperature": "61°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "89%"
+            }
+          },
+          {
+            "match_id": "6ypq3nhv5nzkmd7",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "Spartak Moscow",
+            "away_team_name": "Torpedo Moscow",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 1,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "  ": "",
+            "overunder_timestamp": 1751182353,
+            "overunder_capture_time": "",
+            "over": "-116",
+            "total_line": 3.25,
+            "under": "-117",
+            "match_status": 1,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "4": {
+                "MoneyLine": [
+                  [
+                    1751169281,
+                    "",
+                    "-263",
+                    400.0,
+                    "+600",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751182353,
+                    "",
+                    "-116",
+                    3.25,
+                    "-117",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "760mmHg",
+              "temperature": "70°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "57%"
+            }
+          },
+          {
+            "match_id": "6ypq3nhv5v62md7",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "CSM Slatina",
+            "away_team_name": "CS Vulturii Farcasesti",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 8,
+            "home_score_half": 4,
+            "home_corners": 7,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "  ": "",
+            "spread_timestamp": 1751180573,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-114",
+            "spread_value": 2.5,
+            "spread_away_odds": "-108",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180581,
+            "overunder_capture_time": "2",
+            "over": "-114",
+            "total_line": 3.75,
+            "under": "-108",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180573,
+                    "2",
+                    "-114",
+                    2.5,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180689,
+                    "4",
+                    "-909",
+                    750.0,
+                    "+1600",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180581,
+                    "2",
+                    "-114",
+                    3.75,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "765mmHg",
+              "temperature": "79°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "45%"
+            }
+          },
+          {
+            "match_id": "8yomo4h1k43nq0j",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/28/2025 04:00 PM",
+            "competition_name": "Finnish Kolmonen",
+            "home_team_name": "FC Espoo",
+            "away_team_name": "HooGee",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 3,
+            "home_score_half": 0,
+            "home_corners": 2,
+            " ": "",
+            "away_score_current": 4,
+            "away_score_half": 1,
+            "away_corners": 6,
+            "  ": "",
+            "spread_timestamp": 1751126486,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-121",
+            "spread_value": -1.75,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751126566,
+            "overunder_capture_time": "4",
+            "over": "-114",
+            "total_line": 4.5,
+            "under": "-108",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751126486,
+                    "3",
+                    "-121",
+                    -1.75,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751126566,
+                    "4",
+                    "+450",
+                    450.0,
+                    "-277",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751126566,
+                    "4",
+                    "-114",
+                    4.5,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751126595,
+                    "5",
+                    "-111",
+                    9.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "756mmHg",
+              "temperature": "61°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "69%"
+            }
+          },
+          {
+            "match_id": "8yomo4h3w9lwq0j",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Japanese Nadeshiko League 1",
+            "home_team_name": "Shizuoka Sangyo University (w)",
+            "away_team_name": "Speranza Takatsuki(w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 7,
+            " ": "",
+            "away_score_current": 2,
+            "away_score_half": 1,
+            "away_corners": 5,
+            "  ": "",
+            "spread_timestamp": 1751180567,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-111",
+            "spread_value": 1.5,
+            "spread_away_odds": "-111",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180541,
+            "overunder_capture_time": "3",
+            "over": "-114",
+            "total_line": 3.0,
+            "under": "-108",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180567,
+                    "4",
+                    "-111",
+                    1.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180541,
+                    "3",
+                    "-333",
+                    400.0,
+                    "+600",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180541,
+                    "3",
+                    "-114",
+                    3.0,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180663,
+                    "5",
+                    "+100",
+                    10.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "758mmHg",
+              "temperature": "88°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "63%"
+            }
+          },
+          {
+            "match_id": "965mkyhk4no2r1g",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Yunnan U18",
+            "away_team_name": "Hunan U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "965mkyhypl8nr1g",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Korean K League 4",
+            "home_team_name": "Geoje Citizen",
+            "away_team_name": "Pyeongtaek Citizen",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 7,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 0,
+            "  ": "",
+            "spread_timestamp": 1751180574,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-121",
+            "spread_value": 1.0,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180574,
+            "overunder_capture_time": "2",
+            "over": "-111",
+            "total_line": 3.75,
+            "under": "-111",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180574,
+                    "2",
+                    "-121",
+                    1.0,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180574,
+                    "2",
+                    "-188",
+                    400.0,
+                    "+300",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180574,
+                    "2",
+                    "-111",
+                    3.75,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "79°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "76%"
+            }
+          },
+          {
+            "match_id": "dj2ryoh1w6jjq1z",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Chinese Football League 1",
+            "home_team_name": "Yanbian Longding",
+            "away_team_name": "Nantong Zhiyun FC",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 1,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 4,
+            "  ": "",
+            "spread_timestamp": 1751180534,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-133",
+            "spread_value": 0.0,
+            "spread_away_odds": "+104",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180534,
+            "overunder_capture_time": "3",
+            "over": "-114",
+            "total_line": 2.25,
+            "under": "-108",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180534,
+                    "3",
+                    "-133",
+                    0.0,
+                    "+104",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180534,
+                    "3",
+                    "+129",
+                    225.0,
+                    "+175",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180534,
+                    "3",
+                    "-114",
+                    2.25,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180527,
+                    "3",
+                    "+110",
+                    8.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "755mmHg",
+              "temperature": "90°F",
+              "wind": "7mph (Gentle Breeze)",
+              "humidity": "50%"
+            }
+          },
+          {
+            "match_id": "dj2ryoh1wz1oq1z",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Australia New South Wales Women's League",
+            "home_team_name": "Apia L Tigers (w)",
+            "away_team_name": "Mt Druitt Town Rangers FC (W)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 2,
+            "home_score_half": 1,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "  ": "",
+            "spread_timestamp": 1751181063,
+            "spread_capture_time": "6",
+            "spread_home_odds": "-121",
+            "spread_value": 0.25,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180846,
+            "overunder_capture_time": "2",
+            "over": "-105",
+            "total_line": 3.0,
+            "under": "-117",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751181063,
+                    "6",
+                    "-121",
+                    0.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180927,
+                    "4",
+                    "+104",
+                    275.0,
+                    "+187",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180846,
+                    "2",
+                    "-105",
+                    3.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180979,
+                    "4",
+                    "-111",
+                    8.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "769mmHg",
+              "temperature": "59°F",
+              "wind": "6mph (Light Breeze)",
+              "humidity": "66%"
+            }
+          },
+          {
+            "match_id": "dj2ryohlvvvdq1z",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Japanese Football League",
+            "home_team_name": "Yokohama SCC",
+            "away_team_name": "Asuka FC",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "  ": "",
+            "spread_timestamp": 1751184138,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-108",
+            "spread_value": 0.0,
+            "spread_away_odds": "-114",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751184162,
+            "overunder_capture_time": "4",
+            "over": "+100",
+            "total_line": 2.25,
+            "under": "-125",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184138,
+                    "3",
+                    "-108",
+                    0.0,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184138,
+                    "3",
+                    "+150",
+                    200.0,
+                    "+162",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184162,
+                    "4",
+                    "+100",
+                    2.25,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751184190,
+                    "4",
+                    "+110",
+                    9.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "757mmHg",
+              "temperature": "88°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "66%"
+            }
+          },
+          {
+            "match_id": "dj2ryohlvwx8q1z",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Western Australia Women's League",
+            "home_team_name": "Balcatta (w)",
+            "away_team_name": "Subiaco AFC (w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 2,
+            "home_score_half": 1,
+            "home_corners": 2,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "  ": "",
+            "spread_timestamp": 1751180705,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-105",
+            "spread_value": 2.75,
+            "spread_away_odds": "-117",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180705,
+            "overunder_capture_time": "2",
+            "over": "-105",
+            "total_line": 5.0,
+            "under": "-117",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180705,
+                    "2",
+                    "-105",
+                    2.75,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180744,
+                    "3",
+                    "-714",
+                    800.0,
+                    "+1200",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180705,
+                    "2",
+                    "-105",
+                    5.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180796,
+                    "4",
+                    "-138",
+                    8.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "768mmHg",
+              "temperature": "64°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "46%"
+            }
+          },
+          {
+            "match_id": "dj2ryohlyn4oq1z",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Jiangsu U18",
+            "away_team_name": "Shandong U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "dn1m1gh2wn2jmoe",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Australia New South Wales Women's League",
+            "home_team_name": "Manly Utd (w)",
+            "away_team_name": "Aime Rigi (w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "  ": "",
+            "spread_timestamp": 1751180815,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-121",
+            "spread_value": 2.5,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180840,
+            "overunder_capture_time": "4",
+            "over": "-108",
+            "total_line": 3.75,
+            "under": "-114",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180815,
+                    "4",
+                    "-121",
+                    2.5,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751181035,
+                    "7",
+                    "-833",
+                    800.0,
+                    "+1100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180840,
+                    "4",
+                    "-108",
+                    3.75,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751039709,
+                    "",
+                    "-120",
+                    9.5,
+                    "-120",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "769mmHg",
+              "temperature": "59°F",
+              "wind": "6mph (Light Breeze)",
+              "humidity": "66%"
+            }
+          },
+          {
+            "match_id": "ednm9whw9g00ryo",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Hainan U18",
+            "away_team_name": "Shanxi U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "ednm9whwkwwpryo",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/01/2025 08:00 PM",
+            "competition_name": "CONCACAF U20 Women's Championship",
+            "home_team_name": "Costa Rica (w) U20",
+            "away_team_name": "Guyana (w) U20",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 9,
+            "home_score_half": 5,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 12,
+            "  ": "",
+            "var_incidents": [
+              {
+                "type": 28,
+                "position": 1,
+                "time": 19,
+                "player_id": "vjxm8gh8o67xr6o",
+                "player_name": "Sheika Scott",
+                "var_reason": 4,
+                "var_result": 3
+              },
+              {
+                "type": 28,
+                "position": 1,
+                "time": 72,
+                "player_id": "jw2r09hw6g17rz8",
+                "player_name": "T. Ruiz",
+                "var_reason": 1,
+                "var_result": 2
+              }
+            ],
+            "spread_timestamp": 1748808133,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-103",
+            "spread_value": 3.5,
+            "spread_away_odds": "-121",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1748808133,
+            "overunder_capture_time": "4",
+            "over": "-117",
+            "total_line": 4.25,
+            "under": "-105",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1748808133,
+                    "4",
+                    "-103",
+                    3.5,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1748808133,
+                    "4",
+                    "-1999",
+                    1200.0,
+                    "+2500",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1748808133,
+                    "4",
+                    "-117",
+                    4.25,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1748808239,
+                    "5",
+                    "-111",
+                    8.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "763mmHg",
+              "temperature": "70°F",
+              "wind": "14mph (Moderate Breeze)",
+              "humidity": "101%"
+            }
+          },
+          {
+            "match_id": "jw2r09h28432rz8",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Korean K League 4",
+            "home_team_name": "Pyeongchang FC",
+            "away_team_name": "Jungnang Chorus Mustang FC",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 2,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "  ": "",
+            "spread_timestamp": 1751184377,
+            "spread_capture_time": "6",
+            "spread_home_odds": "-125",
+            "spread_value": 1.0,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751184392,
+            "overunder_capture_time": "6",
+            "over": "-129",
+            "total_line": 2.75,
+            "under": "+102",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184377,
+                    "6",
+                    "-125",
+                    1.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184392,
+                    "6",
+                    "-129",
+                    2.75,
+                    "+102",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "88°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "63%"
+            }
+          },
+          {
+            "match_id": "jw2r09hknw9vrz8",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Heilongjiang U18",
+            "away_team_name": "Anhui U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "k82rekhgz297rep",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "RUS D3B",
+            "home_team_name": "FK Ural-2",
+            "away_team_name": "Amkar Perm",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 6,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 3,
+            "  ": "",
+            "overunder_timestamp": 1751184214,
+            "overunder_capture_time": "5",
+            "over": "-108",
+            "total_line": 3.25,
+            "under": "-138",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "4": {
+                "MoneyLine": [
+                  [
+                    1751184213,
+                    "5",
+                    "+836",
+                    474.0,
+                    "-476",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184214,
+                    "5",
+                    "-108",
+                    3.25,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "749mmHg",
+              "temperature": "73°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "66%"
+            }
+          },
+          {
+            "match_id": "k82rekhw7yw4rep",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Australia New South Wales Women's League",
+            "home_team_name": "Illawarra Stingrays (w)",
+            "away_team_name": "NWS Spirit (W)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 6,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 3,
+            "  ": "",
+            "spread_timestamp": 1751180736,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-117",
+            "spread_value": 0.0,
+            "spread_away_odds": "-105",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180650,
+            "overunder_capture_time": "2",
+            "over": "-108",
+            "total_line": 2.75,
+            "under": "-114",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180736,
+                    "3",
+                    "-117",
+                    0.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180765,
+                    "4",
+                    "+137",
+                    260.0,
+                    "+150",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180650,
+                    "2",
+                    "-108",
+                    2.75,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180780,
+                    "4",
+                    "+110",
+                    8.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "769mmHg",
+              "temperature": "59°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "78%"
+            }
+          },
+          {
+            "match_id": "k82rekhwkl76rep",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:10 AM",
+            "competition_name": "Australia Brisbane Capital League 1",
+            "home_team_name": "Centenary Stormers",
+            "away_team_name": "North Brisbane",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 2,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 1,
+            "  ": "",
+            "spread_timestamp": 1751185162,
+            "spread_capture_time": "9",
+            "spread_home_odds": "+100",
+            "spread_value": 0.0,
+            "spread_away_odds": "-125",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751184804,
+            "overunder_capture_time": "3",
+            "over": "-111",
+            "total_line": 4.0,
+            "under": "-111",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751185162,
+                    "9",
+                    "+100",
+                    0.0,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184878,
+                    "4",
+                    "+150",
+                    275.0,
+                    "+129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184804,
+                    "3",
+                    "-111",
+                    4.0,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751119228,
+                    "",
+                    "+100",
+                    10.5,
+                    "-138",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "770mmHg",
+              "temperature": "61°F",
+              "wind": "14mph (Moderate Breeze)",
+              "humidity": "39%"
+            }
+          },
+          {
+            "match_id": "l5ergph43n2jr8k",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:30 AM",
+            "competition_name": "European Baltic Cup",
+            "home_team_name": "Lithuania U17",
+            "away_team_name": "Latvia U17",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "l5ergph43w7pr8k",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "Yenisey Krasnoyarsk",
+            "away_team_name": "Sokol",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "l7oqdehg6l2wr51",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Henan U18",
+            "away_team_name": "Jiangxi U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "l7oqdehg6okgr51",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Australia Queensland State Women's League",
+            "home_team_name": "Logan Lightning (w)",
+            "away_team_name": "Grange Thistle (w)",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 2,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 5,
+            "  ": "",
+            "spread_timestamp": 1751184331,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-117",
+            "spread_value": -0.5,
+            "spread_away_odds": "-105",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751184315,
+            "overunder_capture_time": "3",
+            "over": "-121",
+            "total_line": 3.5,
+            "under": "-103",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184331,
+                    "4",
+                    "-117",
+                    -0.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184343,
+                    "4",
+                    "+200",
+                    350.0,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184315,
+                    "3",
+                    "-121",
+                    3.5,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "768mmHg",
+              "temperature": "61°F",
+              "wind": "3mph (Light Air)",
+              "humidity": "89%"
+            }
+          },
+          {
+            "match_id": "l7oqdehgyyy1r51",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Japanese Football League",
+            "home_team_name": "Criacao Shinjuku",
+            "away_team_name": "Minebea Mitsumi FC",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 8,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "  ": "",
+            "spread_timestamp": 1751180755,
+            "spread_capture_time": "6",
+            "spread_home_odds": "-125",
+            "spread_value": 0.0,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180567,
+            "overunder_capture_time": "3",
+            "over": "-105",
+            "total_line": 2.0,
+            "under": "-117",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180755,
+                    "6",
+                    "-125",
+                    0.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180644,
+                    "5",
+                    "+160",
+                    187.0,
+                    "+187",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180567,
+                    "3",
+                    "-105",
+                    2.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180635,
+                    "4",
+                    "-120",
+                    8.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "758mmHg",
+              "temperature": "84°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "58%"
+            }
+          },
+          {
+            "match_id": "n54qllh7goojqvy",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/25/2025 10:00 AM",
+            "competition_name": "Japanese J1 League",
+            "home_team_name": "Kawasaki Frontale",
+            "away_team_name": "Albirex Niigata",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 3,
+            "home_score_half": 2,
+            "home_corners": 2,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 5,
+            "  ": "",
+            "spread_timestamp": 1750845895,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-103",
+            "spread_value": 0.75,
+            "spread_away_odds": "-121",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1750845933,
+            "overunder_capture_time": "2",
+            "over": "-111",
+            "total_line": 2.5,
+            "under": "-111",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1750845895,
+                    "2",
+                    "-103",
+                    0.75,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1750846030,
+                    "4",
+                    "-125",
+                    260.0,
+                    "+333",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1750845933,
+                    "2",
+                    "-111",
+                    2.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1750845880,
+                    "2",
+                    "+100",
+                    9.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Cloudy",
+              "pressure": "759mmHg",
+              "temperature": "77°F",
+              "wind": "4mph (Light Breeze)",
+              "humidity": "93%"
+            }
+          },
+          {
+            "match_id": "n54qllhned9dqvy",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/28/2025 11:30 PM",
+            "competition_name": "USA ULOC",
+            "home_team_name": "Tormenta FC",
+            "away_team_name": "Charleston Battery",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 3,
+            "home_score_half": 1,
+            "home_corners": 5,
+            " ": "",
+            "away_score_current": 3,
+            "away_score_half": 1,
+            "away_corners": 4,
+            "  ": "",
+            "spread_timestamp": 1751154038,
+            "spread_capture_time": "6",
+            "spread_home_odds": "-125",
+            "spread_value": -1.25,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751153924,
+            "overunder_capture_time": "4",
+            "over": "-117",
+            "total_line": 3.0,
+            "under": "-105",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751154038,
+                    "6",
+                    "-125",
+                    -1.25,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751153965,
+                    "5",
+                    "+450",
+                    333.0,
+                    "-200",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751153924,
+                    "4",
+                    "-117",
+                    3.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751153965,
+                    "5",
+                    "-120",
+                    8.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "765mmHg",
+              "temperature": "82°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "71%"
+            }
+          },
+          {
+            "match_id": "n54qllhnejpjqvy",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Hebei U18",
+            "away_team_name": "Guizhou U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "vjxm8ghlnzxzr6o",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Korean K League 3",
+            "home_team_name": "Pocheon FC",
+            "away_team_name": "Gangneung Citizen",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 2,
+            "  ": "",
+            "spread_timestamp": 1751184076,
+            "spread_capture_time": "2",
+            "spread_home_odds": "+100",
+            "spread_value": 0.5,
+            "spread_away_odds": "-125",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751184121,
+            "overunder_capture_time": "2",
+            "over": "-121",
+            "total_line": 2.25,
+            "under": "-103",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184076,
+                    "2",
+                    "+100",
+                    0.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184121,
+                    "2",
+                    "-111",
+                    225.0,
+                    "+240",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184121,
+                    "2",
+                    "-121",
+                    2.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751184150,
+                    "3",
+                    "+110",
+                    9.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "756mmHg",
+              "temperature": "82°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "77%"
+            }
+          },
+          {
+            "match_id": "x7lm7phjkye2m2w",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:30 AM",
+            "competition_name": "AFC Women’s Asian Cup",
+            "home_team_name": "Chinese Taipei (w)",
+            "away_team_name": "Pakistan(w)",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "spread_timestamp": 1751185953,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-103",
+            "spread_value": 3.75,
+            "spread_away_odds": "-121",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751185962,
+            "overunder_capture_time": "3",
+            "over": "-103",
+            "total_line": 5.0,
+            "under": "-121",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751185953,
+                    "3",
+                    "-103",
+                    3.75,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751185962,
+                    "3",
+                    "-1999",
+                    1200.0,
+                    "+2500",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751185962,
+                    "3",
+                    "-103",
+                    5.0,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751186013,
+                    "4",
+                    "+100",
+                    9.5,
+                    "-138",
+                    2,
+                    0,
+                    "1-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "81°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "84%"
+            }
+          },
+          {
+            "match_id": "x7lm7phjo96jm2w",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:15 AM",
+            "competition_name": "Australia Northern New South Wales U20 League",
+            "home_team_name": "Central Coast MarinersU20",
+            "away_team_name": "Mt Druitt Town Rangers U20",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 5,
+            " ": "",
+            "away_score_current": 2,
+            "away_score_half": 2,
+            "away_corners": 0,
+            "  ": "",
+            "odds": {
+              "9": {
+                "MoneyLine": [
+                  [
+                    1751181866,
+                    "9",
+                    "-454",
+                    400.0,
+                    "+850",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "x7lm7phjo980m2w",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Qinghai U18",
+            "away_team_name": "Shanghai U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "y0or5jh84g63qwz",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Shaanxi U18",
+            "away_team_name": "Liaoning U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "y0or5jh84gz3qwz",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "Tianjin U18",
+            "away_team_name": "Xinjiang U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "y39mp1h6366nmoj",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/03/2025 08:00 PM",
+            "competition_name": "CONCACAF U20 Women's Championship",
+            "home_team_name": "Costa Rica (w) U20",
+            "away_team_name": "USA (w) U20",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            " ": "",
+            "away_score_current": 4,
+            "away_score_half": 1,
+            "away_corners": 7,
+            "  ": "",
+            "spread_timestamp": 1748980881,
+            "spread_capture_time": "2",
+            "spread_home_odds": "+102",
+            "spread_value": -2.25,
+            "spread_away_odds": "-129",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1748980887,
+            "overunder_capture_time": "2",
+            "over": "-105",
+            "total_line": 4.0,
+            "under": "-117",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1748980881,
+                    "2",
+                    "+102",
+                    -2.25,
+                    "-129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1748980925,
+                    "3",
+                    "+900",
+                    550.0,
+                    "-555",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1748980887,
+                    "2",
+                    "-105",
+                    4.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1748981016,
+                    "5",
+                    "+100",
+                    8.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "761mmHg",
+              "temperature": "73°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "91%"
+            }
+          },
+          {
+            "match_id": "y39mp1h6514zmoj",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Chinese U18 National Games",
+            "home_team_name": "ZheJiang U18",
+            "away_team_name": "Sichuan U18",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "y39mp1hz2jz8moj",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Australia New South Wales Women's League",
+            "home_team_name": "University of Sydney (w)",
+            "away_team_name": "Sydney Olympic FC (w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 7,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 4,
+            "  ": "",
+            "spread_timestamp": 1751180726,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-105",
+            "spread_value": -0.5,
+            "spread_away_odds": "-117",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180723,
+            "overunder_capture_time": "2",
+            "over": "-105",
+            "total_line": 2.75,
+            "under": "-117",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180726,
+                    "2",
+                    "-105",
+                    -0.5,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180725,
+                    "2",
+                    "+275",
+                    275.0,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180723,
+                    "2",
+                    "-105",
+                    2.75,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751180853,
+                    "5",
+                    "-120",
+                    7.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "769mmHg",
+              "temperature": "59°F",
+              "wind": "6mph (Light Breeze)",
+              "humidity": "66%"
+            }
+          },
+          {
+            "match_id": "y39mp1hz7vd9moj",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/29/2025 07:00 AM",
+            "competition_name": "Korean K League 4",
+            "home_team_name": "Namyangju Citizen",
+            "away_team_name": "Gijang United",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "  ": "",
+            "spread_timestamp": 1751180667,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-125",
+            "spread_value": 1.75,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751180679,
+            "overunder_capture_time": "3",
+            "over": "-114",
+            "total_line": 3.25,
+            "under": "-108",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751180667,
+                    "3",
+                    "-125",
+                    1.75,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751180640,
+                    "2",
+                    "-454",
+                    500.0,
+                    "+750",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751180679,
+                    "3",
+                    "-114",
+                    3.25,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "756mmHg",
+              "temperature": "84°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "69%"
+            }
+          },
+          {
+            "match_id": "y39mp1hzxx4nmoj",
+            "timestamp": "06/29/2025 04:46 AM",
+            "scheduled_time_readable": "06/28/2025 08:30 PM",
+            "competition_name": "Brazilian Serie D",
+            "home_team_name": "Ferroviario CE",
+            "away_team_name": "Treze Campina Grande PB",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 7,
+            "  ": "",
+            "spread_timestamp": 1751142674,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-108",
+            "spread_value": 0.5,
+            "spread_away_odds": "-114",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            "overunder_timestamp": 1751142674,
+            "overunder_capture_time": "2",
+            "over": "-103",
+            "total_line": 2.25,
+            "under": "-121",
+            "match_status": 2,
+            "overunder_game_score": "0-0",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751142674,
+                    "2",
+                    "-108",
+                    0.5,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751142732,
+                    "3",
+                    "+104",
+                    240.0,
+                    "+225",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751142674,
+                    "2",
+                    "-103",
+                    2.25,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751142821,
+                    "5",
+                    "-120",
+                    10.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            },
+            "spread_separator": "",
+            "overunder_separator": "",
+            "environment": {
+              "weather": "Thunderstorms",
+              "pressure": "762mmHg",
+              "temperature": "79°F",
+              "wind": "6mph (Light Breeze)",
+              "humidity": "89%"
+            }
+          }
+        ],
+        "total_matches": 47
+      },
+      "processing_metadata": {
+        "source_file": "monitoring.json",
+        "processing_time": "06/29/2025 04:46:30 AM EDT",
+        "status": "success"
+      }
+    }
+  ]
+}

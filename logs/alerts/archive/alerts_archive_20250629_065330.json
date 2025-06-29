@@ -1,0 +1,3623 @@
+{
+  "archive_metadata": {
+    "archived_at": "2025-06-29T06:53:30.932952-04:00",
+    "archived_fetches": 1,
+    "archive_reason": "50_fetch_rotation"
+  },
+  "archived_fetches": [
+    {
+      "fetch_timestamp": "2025-06-29T06:04:31.554599-04:00",
+      "fetch_number": 51,
+      "processed_data": {
+        "matches": [
+          {
+            "match_id": "1l4rjnh9yn1dm7v",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "RUS D3B",
+            "home_team_name": "Akron Togliatti B",
+            "away_team_name": "Sokol Kazan",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "overunder_timestamp": 1751178069,
+            "overunder_capture_time": "",
+            "overunder_over_odds": "-112",
+            "overunder_total_line": 3.0,
+            "overunder_under_odds": "-133",
+            "overunder_match_status": 1,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751186142,
+            "moneyline_capture_time": "",
+            "moneyline_home": "+154",
+            "moneyline_draw": 229.0,
+            "moneyline_away": "+124",
+            "moneyline_match_status": 1,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "4": {
+                "MoneyLine": [
+                  [
+                    1751186142,
+                    "",
+                    "+154",
+                    229.0,
+                    "+124",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751178069,
+                    "",
+                    "-112",
+                    3.0,
+                    "-133",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "2y8m4zh5jgpvql0",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:30 AM",
+            "competition_name": "Rural Football Super League",
+            "home_team_name": "Tap Seac Party Prime Minister Village Football Team",
+            "away_team_name": "Yuezhai Village Football Team",
+            "details_status_id": 9,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "318q66hwe94nqo9",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Australia National Premier Leagues Queensland",
+            "home_team_name": "Brisbane Olympic United FC",
+            "away_team_name": "Brisbane City",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 4,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "  ": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "768mmHg",
+              "temperature": "61°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "96%"
+            },
+            "spread_timestamp": 1751184280,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-108",
+            "spread_value": 0.0,
+            "spread_away_odds": "-114",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751184331,
+            "overunder_capture_time": "2",
+            "overunder_over_odds": "-111",
+            "overunder_total_line": 3.25,
+            "overunder_under_odds": "-111",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751184331,
+            "moneyline_capture_time": "2",
+            "moneyline_home": "+150",
+            "moneyline_draw": 275.0,
+            "moneyline_away": "+137",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751184331,
+            "corners_capture_time": "2",
+            "corners_over_odds": "-111",
+            "corners_value_total_line": 9.5,
+            "corners_under_odds": "-125",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184280,
+                    "2",
+                    "-108",
+                    0.0,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184331,
+                    "2",
+                    "+150",
+                    275.0,
+                    "+137",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184331,
+                    "2",
+                    "-111",
+                    3.25,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751184331,
+                    "2",
+                    "-111",
+                    9.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "318q66hx0xzxqo9",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:30 AM",
+            "competition_name": "Indian Calcutta Football League",
+            "home_team_name": "Mohammedan SC Reserves",
+            "away_team_name": "Peerless SC",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "746mmHg",
+              "temperature": "86°F",
+              "wind": "0mph (Calm)",
+              "humidity": "82%"
+            },
+            "spread_timestamp": 1751189338,
+            "spread_capture_time": "",
+            "spread_home_odds": "-121",
+            "spread_value": 0.25,
+            "spread_away_odds": "-103",
+            "spread_status": 1,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751189338,
+            "overunder_capture_time": "",
+            "overunder_over_odds": "-105",
+            "overunder_total_line": 2.75,
+            "overunder_under_odds": "-117",
+            "overunder_match_status": 1,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751189338,
+            "moneyline_capture_time": "",
+            "moneyline_home": "+100",
+            "moneyline_draw": 270.0,
+            "moneyline_away": "+190",
+            "moneyline_match_status": 1,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751189338,
+            "corners_capture_time": "",
+            "corners_over_odds": "-120",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "-120",
+            "corners_match_status": 1,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751189338,
+                    "",
+                    "-121",
+                    0.25,
+                    "-103",
+                    1,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751189338,
+                    "",
+                    "+100",
+                    270.0,
+                    "+190",
+                    1,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751189338,
+                    "",
+                    "-105",
+                    2.75,
+                    "-117",
+                    1,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751189338,
+                    "",
+                    "-120",
+                    8.5,
+                    "-120",
+                    1,
+                    1,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "3glrw7hn17vkqdy",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Myanmar U21 League",
+            "home_team_name": "Yadanarbon FC U21",
+            "away_team_name": "Dagon Star United U21",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "spread_timestamp": 1751187718,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-121",
+            "spread_value": -0.25,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187777,
+            "overunder_capture_time": "4",
+            "overunder_over_odds": "-105",
+            "overunder_total_line": 2.5,
+            "overunder_under_odds": "-117",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187776,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+187",
+            "moneyline_draw": 260.0,
+            "moneyline_away": "+120",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187777,
+            "corners_capture_time": "4",
+            "corners_over_odds": "+100",
+            "corners_value_total_line": 9.5,
+            "corners_under_odds": "-138",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187718,
+                    "3",
+                    "-121",
+                    -0.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187776,
+                    "4",
+                    "+187",
+                    260.0,
+                    "+120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187777,
+                    "4",
+                    "-105",
+                    2.5,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187777,
+                    "4",
+                    "+100",
+                    9.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "3glrw7hn1jx6qdy",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Chinese Football Association Member Association Champions League",
+            "home_team_name": "Beijing Smart Sky Football Club",
+            "away_team_name": "Shanghai Zetian",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "3glrw7hnw2e4qdy",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "AFC Women’s Asian Cup",
+            "home_team_name": "India (w)",
+            "away_team_name": "Timor Leste (w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "753mmHg",
+              "temperature": "88°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "61%"
+            },
+            "spread_timestamp": 1751187708,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-117",
+            "spread_value": 4.75,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187716,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-101",
+            "overunder_total_line": 5.5,
+            "overunder_under_odds": "-123",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187840,
+            "moneyline_capture_time": "5",
+            "moneyline_home": "-9999",
+            "moneyline_draw": 1250.0,
+            "moneyline_away": "+1550",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "3": {
+                "spread": [
+                  [
+                    1751187708,
+                    "3",
+                    "-117",
+                    4.75,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187840,
+                    "5",
+                    "-9999",
+                    1250.0,
+                    "+1550",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187716,
+                    "3",
+                    "-101",
+                    5.5,
+                    "-123",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "4jwq2ghn4yj8m0v",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "AFC Women’s Asian Cup",
+            "home_team_name": "Guam (w)",
+            "away_team_name": "United Arab Emirates (w)",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "  ": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "750mmHg",
+              "temperature": "86°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "80%"
+            },
+            "spread_timestamp": 1751187779,
+            "spread_capture_time": "3",
+            "spread_home_odds": "+102",
+            "spread_value": -0.25,
+            "spread_away_odds": "-129",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187806,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-117",
+            "overunder_total_line": 2.5,
+            "overunder_under_odds": "-105",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187779,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "+210",
+            "moneyline_draw": 260.0,
+            "moneyline_away": "-105",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187890,
+            "corners_capture_time": "5",
+            "corners_over_odds": "+110",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "-151",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187779,
+                    "3",
+                    "+102",
+                    -0.25,
+                    "-129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187779,
+                    "3",
+                    "+210",
+                    260.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187806,
+                    "3",
+                    "-117",
+                    2.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187890,
+                    "5",
+                    "+110",
+                    8.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "4wyrn4h6exnlq86",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Singapore National Football League",
+            "home_team_name": "Jungfrau Punggol FC",
+            "away_team_name": "Yishun Sentek Mariners",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "755mmHg",
+              "temperature": "90°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "53%"
+            },
+            "spread_timestamp": 1751101515,
+            "spread_capture_time": "",
+            "spread_home_odds": "-111",
+            "spread_value": 2.0,
+            "spread_away_odds": "-111",
+            "spread_status": 1,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751101515,
+            "overunder_capture_time": "",
+            "overunder_over_odds": "-111",
+            "overunder_total_line": 3.5,
+            "overunder_under_odds": "-111",
+            "overunder_match_status": 1,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751101515,
+            "moneyline_capture_time": "",
+            "moneyline_home": "-500",
+            "moneyline_draw": 500.0,
+            "moneyline_away": "+800",
+            "moneyline_match_status": 1,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751101515,
+                    "",
+                    "-111",
+                    2.0,
+                    "-111",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751101515,
+                    "",
+                    "-500",
+                    500.0,
+                    "+800",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751101515,
+                    "",
+                    "-111",
+                    3.5,
+                    "-111",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "4wyrn4h6ey9eq86",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "Decic Tuzi",
+            "away_team_name": "FK IMT Belgrad",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 4,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "79°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "63%"
+            }
+          },
+          {
+            "match_id": "4wyrn4hxkd6kq86",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/28/2025 04:50 AM",
+            "competition_name": "QLD D2",
+            "home_team_name": "Samford Ranges",
+            "away_team_name": "Grange Thistle SC",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 4,
+            " ": "",
+            "away_score_current": 3,
+            "away_score_half": 1,
+            "away_corners": 3,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "772mmHg",
+              "temperature": "57°F",
+              "wind": "4mph (Light Breeze)",
+              "humidity": "77%"
+            },
+            "spread_timestamp": 1751086996,
+            "spread_capture_time": "5",
+            "spread_home_odds": "-117",
+            "spread_value": -1.0,
+            "spread_away_odds": "-105",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751086996,
+            "overunder_capture_time": "5",
+            "overunder_over_odds": "-108",
+            "overunder_total_line": 4.0,
+            "overunder_under_odds": "-114",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751086964,
+            "moneyline_capture_time": "5",
+            "moneyline_home": "+300",
+            "moneyline_draw": 333.0,
+            "moneyline_away": "-163",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751086996,
+            "corners_capture_time": "5",
+            "corners_over_odds": "-125",
+            "corners_value_total_line": 11.5,
+            "corners_under_odds": "-111",
+            "corners_match_status": 2,
+            "corners_ratio": "0-1",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751086996,
+                    "5",
+                    "-117",
+                    -1.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751086964,
+                    "5",
+                    "+300",
+                    333.0,
+                    "-163",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751086996,
+                    "5",
+                    "-108",
+                    4.0,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751086996,
+                    "5",
+                    "-125",
+                    11.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "6ypq3nh39xnwmd7",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Korean K League 2",
+            "home_team_name": "Gimpo FC",
+            "away_team_name": "Incheon United Club",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "82°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "80%"
+            },
+            "spread_timestamp": 1751191394,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-125",
+            "spread_value": -0.75,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191350,
+            "overunder_capture_time": "4",
+            "overunder_over_odds": "-103",
+            "overunder_total_line": 2.25,
+            "overunder_under_odds": "-121",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191394,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+350",
+            "moneyline_draw": 260.0,
+            "moneyline_away": "-138",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751191392,
+            "corners_capture_time": "4",
+            "corners_over_odds": "-120",
+            "corners_value_total_line": 7.5,
+            "corners_under_odds": "-120",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191394,
+                    "4",
+                    "-125",
+                    -0.75,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191394,
+                    "4",
+                    "+350",
+                    260.0,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191350,
+                    "4",
+                    "-103",
+                    2.25,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751191392,
+                    "4",
+                    "-120",
+                    7.5,
+                    "-120",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "8yomo4h3pn42q0j",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Korean K League 2",
+            "home_team_name": "Chungbuk Cheongju FC",
+            "away_team_name": "Jeonnam Dragons",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "88°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "59%"
+            },
+            "spread_timestamp": 1751191353,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-129",
+            "spread_value": -0.5,
+            "spread_away_odds": "+102",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191346,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-111",
+            "overunder_total_line": 2.5,
+            "overunder_under_odds": "-111",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191399,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+220",
+            "moneyline_draw": 275.0,
+            "moneyline_away": "+104",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751191337,
+            "corners_capture_time": "3",
+            "corners_over_odds": "+100",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "-138",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191353,
+                    "3",
+                    "-129",
+                    -0.5,
+                    "+102",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191399,
+                    "4",
+                    "+220",
+                    275.0,
+                    "+104",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191346,
+                    "3",
+                    "-111",
+                    2.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751191337,
+                    "3",
+                    "+100",
+                    8.5,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "dj2ryohlvvvdq1z",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Japanese Football League",
+            "home_team_name": "Yokohama SCC",
+            "away_team_name": "Asuka FC",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 5,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 5,
+            "  ": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "758mmHg",
+              "temperature": "86°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "71%"
+            },
+            "spread_timestamp": 1751184138,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-108",
+            "spread_value": 0.0,
+            "spread_away_odds": "-114",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751184162,
+            "overunder_capture_time": "4",
+            "overunder_over_odds": "+100",
+            "overunder_total_line": 2.25,
+            "overunder_under_odds": "-125",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751184138,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "+150",
+            "moneyline_draw": 200.0,
+            "moneyline_away": "+162",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751184190,
+            "corners_capture_time": "4",
+            "corners_over_odds": "+110",
+            "corners_value_total_line": 9.5,
+            "corners_under_odds": "-151",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184138,
+                    "3",
+                    "-108",
+                    0.0,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184138,
+                    "3",
+                    "+150",
+                    200.0,
+                    "+162",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184162,
+                    "4",
+                    "+100",
+                    2.25,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751184190,
+                    "4",
+                    "+110",
+                    9.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "dj2ryohly194q1z",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "Zaglebie Lubin",
+            "away_team_name": "Wisla Plock",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "766mmHg",
+              "temperature": "81°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "53%"
+            },
+            "spread_timestamp": 1751191400,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-125",
+            "spread_value": 0.0,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191403,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-111",
+            "overunder_total_line": 2.75,
+            "overunder_under_odds": "-111",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191400,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "+137",
+            "moneyline_draw": 250.0,
+            "moneyline_away": "+160",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751191390,
+            "corners_capture_time": "3",
+            "corners_over_odds": "+110",
+            "corners_value_total_line": 9.5,
+            "corners_under_odds": "-151",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191400,
+                    "3",
+                    "-125",
+                    0.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191400,
+                    "3",
+                    "+137",
+                    250.0,
+                    "+160",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191403,
+                    "3",
+                    "-111",
+                    2.75,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751191390,
+                    "3",
+                    "+110",
+                    9.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "dn1m1ghle259moe",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Kenya Cup",
+            "home_team_name": "Muranga",
+            "away_team_name": "Mara Sugar FC",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 4,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 4,
+            "  ": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "771mmHg",
+              "temperature": "64°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "66%"
+            },
+            "spread_timestamp": 1751187849,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-108",
+            "spread_value": 0.25,
+            "spread_away_odds": "-114",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187836,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-105",
+            "overunder_total_line": 2.0,
+            "overunder_under_odds": "-117",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187896,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+125",
+            "moneyline_draw": 187.0,
+            "moneyline_away": "+240",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187849,
+                    "3",
+                    "-108",
+                    0.25,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187896,
+                    "4",
+                    "+125",
+                    187.0,
+                    "+240",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187836,
+                    "3",
+                    "-105",
+                    2.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "ednm9wh7y1z3ryo",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Japanese J3 League",
+            "home_team_name": "Kochi United",
+            "away_team_name": "AC Nagano Parceiro",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "759mmHg",
+              "temperature": "84°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "64%"
+            }
+          },
+          {
+            "match_id": "ednm9whw8594ryo",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "RUS D3B",
+            "home_team_name": "Krylia Sovetov II",
+            "away_team_name": "FK Volna Nizhegorodskaya",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "overunder_timestamp": 1751190448,
+            "overunder_capture_time": "",
+            "overunder_over_odds": "-120",
+            "overunder_total_line": 2.5,
+            "overunder_under_odds": "-125",
+            "overunder_match_status": 1,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751190557,
+            "moneyline_capture_time": "",
+            "moneyline_home": "+220",
+            "moneyline_draw": 220.0,
+            "moneyline_away": "-105",
+            "moneyline_match_status": 1,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "4": {
+                "MoneyLine": [
+                  [
+                    1751190557,
+                    "",
+                    "+220",
+                    220.0,
+                    "-105",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751190448,
+                    "",
+                    "-120",
+                    2.5,
+                    "-125",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "ednm9whwkyl1ryo",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:30 AM",
+            "competition_name": "AFC Women’s Asian Cup",
+            "home_team_name": "Myanmar (w)",
+            "away_team_name": "Turkmenistan (w)",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 2,
+            "home_score_half": 2,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "753mmHg",
+              "temperature": "88°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "76%"
+            },
+            "spread_timestamp": 1751189555,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-116",
+            "spread_value": 5.5,
+            "spread_away_odds": "-116",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751189555,
+            "overunder_capture_time": "4",
+            "overunder_over_odds": "-105",
+            "overunder_total_line": 5.75,
+            "overunder_under_odds": "-120",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751189705,
+            "moneyline_capture_time": "6",
+            "moneyline_home": "+100",
+            "moneyline_draw": 1200.0,
+            "moneyline_away": "+5000",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "11": {
+                "spread": [
+                  [
+                    1751189555,
+                    "4",
+                    "-116",
+                    5.5,
+                    "-116",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751189705,
+                    "6",
+                    "+100",
+                    1200.0,
+                    "+5000",
+                    2,
+                    1,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751189555,
+                    "4",
+                    "-105",
+                    5.75,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "jw2r09h28432rz8",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Korean K League 4",
+            "home_team_name": "Pyeongchang FC",
+            "away_team_name": "Jungnang Chorus Mustang FC",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 2,
+            "home_score_half": 1,
+            "home_corners": 8,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 7,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "84°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "72%"
+            },
+            "spread_timestamp": 1751184377,
+            "spread_capture_time": "6",
+            "spread_home_odds": "-125",
+            "spread_value": 1.0,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751184392,
+            "overunder_capture_time": "6",
+            "overunder_over_odds": "-129",
+            "overunder_total_line": 2.75,
+            "overunder_under_odds": "+102",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184377,
+                    "6",
+                    "-125",
+                    1.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184392,
+                    "6",
+                    "-129",
+                    2.75,
+                    "+102",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "jw2r09hkn2edrz8",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Lithuanian II Lyga",
+            "home_team_name": "Suduva Marijampole II",
+            "away_team_name": "FKS Ukmerge",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "757mmHg",
+              "temperature": "68°F",
+              "wind": "22mph (Fresh Breeze)",
+              "humidity": "69%"
+            },
+            "spread_timestamp": 1751089237,
+            "spread_capture_time": "",
+            "spread_home_odds": "-105",
+            "spread_value": -0.5,
+            "spread_away_odds": "-117",
+            "spread_status": 1,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751089237,
+            "overunder_capture_time": "",
+            "overunder_over_odds": "-111",
+            "overunder_total_line": 3.5,
+            "overunder_under_odds": "-111",
+            "overunder_match_status": 1,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751089237,
+            "moneyline_capture_time": "",
+            "moneyline_home": "+225",
+            "moneyline_draw": 300.0,
+            "moneyline_away": "-125",
+            "moneyline_match_status": 1,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751089237,
+                    "",
+                    "-105",
+                    -0.5,
+                    "-117",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751089237,
+                    "",
+                    "+225",
+                    300.0,
+                    "-125",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751089237,
+                    "",
+                    "-111",
+                    3.5,
+                    "-111",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "k82rekhg923lrep",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:20 AM",
+            "competition_name": "AVPL U23",
+            "home_team_name": "Western United FC U23",
+            "away_team_name": "Moreland City U23",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 10,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 1,
+            "  ": "",
+            "spread_timestamp": 1751187759,
+            "spread_capture_time": "",
+            "spread_home_odds": "-125",
+            "spread_value": 0.75,
+            "spread_away_odds": "+102",
+            "spread_status": 13,
+            "spread_game_score": "0-0",
+            ":": "",
+            "moneyline_timestamp": 1751187759,
+            "moneyline_capture_time": "",
+            "moneyline_home": "-185",
+            "moneyline_draw": 254.0,
+            "moneyline_away": "+355",
+            "moneyline_match_status": 13,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "3": {
+                "spread": [
+                  [
+                    1751187759,
+                    "",
+                    "-125",
+                    0.75,
+                    "+102",
+                    13,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187759,
+                    "",
+                    "-185",
+                    254.0,
+                    "+355",
+                    13,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "k82rekhgz297rep",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "RUS D3B",
+            "home_team_name": "FK Ural-2",
+            "away_team_name": "Amkar Perm",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 8,
+            " ": "",
+            "away_score_current": 2,
+            "away_score_half": 1,
+            "away_corners": 7,
+            "  ": "",
+            "environment": {
+              "weather": "Overcast",
+              "pressure": "750mmHg",
+              "temperature": "73°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "67%"
+            },
+            "overunder_timestamp": 1751184214,
+            "overunder_capture_time": "5",
+            "overunder_over_odds": "-108",
+            "overunder_total_line": 3.25,
+            "overunder_under_odds": "-138",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751184213,
+            "moneyline_capture_time": "5",
+            "moneyline_home": "+836",
+            "moneyline_draw": 474.0,
+            "moneyline_away": "-476",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "4": {
+                "MoneyLine": [
+                  [
+                    1751184213,
+                    "5",
+                    "+836",
+                    474.0,
+                    "-476",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184214,
+                    "5",
+                    "-108",
+                    3.25,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "k82rekhwkl76rep",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:10 AM",
+            "competition_name": "Australia Brisbane Capital League 1",
+            "home_team_name": "Centenary Stormers",
+            "away_team_name": "North Brisbane",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 3,
+            "home_score_half": 2,
+            "home_corners": 4,
+            " ": "",
+            "away_score_current": 2,
+            "away_score_half": 2,
+            "away_corners": 4,
+            "  ": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "770mmHg",
+              "temperature": "61°F",
+              "wind": "14mph (Moderate Breeze)",
+              "humidity": "39%"
+            },
+            "spread_timestamp": 1751185162,
+            "spread_capture_time": "9",
+            "spread_home_odds": "+100",
+            "spread_value": 0.0,
+            "spread_away_odds": "-125",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751184804,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-111",
+            "overunder_total_line": 4.0,
+            "overunder_under_odds": "-111",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751184878,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+150",
+            "moneyline_draw": 275.0,
+            "moneyline_away": "+129",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751119228,
+            "corners_capture_time": "",
+            "corners_over_odds": "+100",
+            "corners_value_total_line": 10.5,
+            "corners_under_odds": "-138",
+            "corners_match_status": 1,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751185162,
+                    "9",
+                    "+100",
+                    0.0,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184878,
+                    "4",
+                    "+150",
+                    275.0,
+                    "+129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184804,
+                    "3",
+                    "-111",
+                    4.0,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751119228,
+                    "",
+                    "+100",
+                    10.5,
+                    "-138",
+                    1,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "l5ergph43w6lr8k",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Singapore National Football League",
+            "home_team_name": "Singapore Cricket Club",
+            "away_team_name": "Singapore Khalsa Association",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 3,
+            "home_score_half": 3,
+            "home_corners": 5,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 1,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "756mmHg",
+              "temperature": "90°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "43%"
+            },
+            "spread_timestamp": 1751187891,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-103",
+            "spread_value": 0.25,
+            "spread_away_odds": "-121",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187890,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "+100",
+            "overunder_total_line": 4.25,
+            "overunder_under_odds": "-125",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187890,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "-200",
+            "moneyline_draw": 400.0,
+            "moneyline_away": "+375",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187891,
+                    "3",
+                    "-103",
+                    0.25,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187890,
+                    "3",
+                    "-200",
+                    400.0,
+                    "+375",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187890,
+                    "3",
+                    "+100",
+                    4.25,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "l5ergph43w7pr8k",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "Yenisey Krasnoyarsk",
+            "away_team_name": "Sokol",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": ""
+          },
+          {
+            "match_id": "l7oqdehg6okgr51",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Australia Queensland State Women's League",
+            "home_team_name": "Logan Lightning (w)",
+            "away_team_name": "Grange Thistle (w)",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 4,
+            "home_score_half": 1,
+            "home_corners": 7,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 6,
+            "  ": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "768mmHg",
+              "temperature": "61°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "96%"
+            },
+            "spread_timestamp": 1751184331,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-117",
+            "spread_value": -0.5,
+            "spread_away_odds": "-105",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751184315,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-121",
+            "overunder_total_line": 3.5,
+            "overunder_under_odds": "-103",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751184343,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+200",
+            "moneyline_draw": 350.0,
+            "moneyline_away": "-111",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184331,
+                    "4",
+                    "-117",
+                    -0.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184343,
+                    "4",
+                    "+200",
+                    350.0,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184315,
+                    "3",
+                    "-121",
+                    3.5,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "l7oqdehow5vwr51",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Japanese J1 League",
+            "home_team_name": "Albirex Niigata",
+            "away_team_name": "Machida Zelvia",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 6,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 8,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "758mmHg",
+              "temperature": "81°F",
+              "wind": "4mph (Light Breeze)",
+              "humidity": "70%"
+            },
+            "spread_timestamp": 1751187888,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-129",
+            "spread_value": -0.5,
+            "spread_away_odds": "+102",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187992,
+            "overunder_capture_time": "5",
+            "overunder_over_odds": "-129",
+            "overunder_total_line": 2.0,
+            "overunder_under_odds": "+102",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187888,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "+275",
+            "moneyline_draw": 225.0,
+            "moneyline_away": "+100",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187816,
+            "corners_capture_time": "2",
+            "corners_over_odds": "-125",
+            "corners_value_total_line": 9.5,
+            "corners_under_odds": "-111",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187888,
+                    "3",
+                    "-129",
+                    -0.5,
+                    "+102",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187888,
+                    "3",
+                    "+275",
+                    225.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187992,
+                    "5",
+                    "-129",
+                    2.0,
+                    "+102",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187816,
+                    "2",
+                    "-125",
+                    9.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "n54qllhn2gg6qvy",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "AFC Women’s Asian Cup",
+            "home_team_name": "Philippines Women",
+            "away_team_name": "Saudi Arabia (w)",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 5,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "754mmHg",
+              "temperature": "86°F",
+              "wind": "11mph (Gentle Breeze)",
+              "humidity": "75%"
+            },
+            "spread_timestamp": 1751187718,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-121",
+            "spread_value": 2.5,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187747,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-108",
+            "overunder_total_line": 3.5,
+            "overunder_under_odds": "-114",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187824,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "-1249",
+            "moneyline_draw": 700.0,
+            "moneyline_away": "+1600",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187780,
+            "corners_capture_time": "3",
+            "corners_over_odds": "-138",
+            "corners_value_total_line": 7.5,
+            "corners_under_odds": "+100",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187718,
+                    "2",
+                    "-121",
+                    2.5,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187824,
+                    "4",
+                    "-1249",
+                    700.0,
+                    "+1600",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187747,
+                    "3",
+                    "-108",
+                    3.5,
+                    "-114",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187780,
+                    "3",
+                    "-138",
+                    7.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "n54qllhne1e4qvy",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Finnish Women's Ykkonen",
+            "home_team_name": "ONS (w)",
+            "away_team_name": "Ilves Tampere (w)",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Cloudy",
+              "pressure": "746mmHg",
+              "temperature": "54°F",
+              "wind": "4mph (Light Breeze)",
+              "humidity": "101%"
+            },
+            "spread_timestamp": 1751191319,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-103",
+            "spread_value": -1.25,
+            "spread_away_odds": "-121",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191319,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-117",
+            "overunder_total_line": 3.5,
+            "overunder_under_odds": "-105",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191396,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+450",
+            "moneyline_draw": 375.0,
+            "moneyline_away": "-227",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191319,
+                    "3",
+                    "-103",
+                    -1.25,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191396,
+                    "4",
+                    "+450",
+                    375.0,
+                    "-227",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191319,
+                    "3",
+                    "-117",
+                    3.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "pxwrxlh54d3zryk",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Korean K League 2",
+            "home_team_name": "Suwon Samsung Bluewings",
+            "away_team_name": "Busan I Park",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "84°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "68%"
+            },
+            "spread_timestamp": 1751191276,
+            "spread_capture_time": "2",
+            "spread_home_odds": "+104",
+            "spread_value": 1.0,
+            "spread_away_odds": "-133",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191398,
+            "overunder_capture_time": "4",
+            "overunder_over_odds": "-111",
+            "overunder_total_line": 2.75,
+            "overunder_under_odds": "-111",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191340,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "-163",
+            "moneyline_draw": 300.0,
+            "moneyline_away": "+350",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751191289,
+            "corners_capture_time": "2",
+            "corners_over_odds": "-120",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "-120",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191276,
+                    "2",
+                    "+104",
+                    1.0,
+                    "-133",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191340,
+                    "3",
+                    "-163",
+                    300.0,
+                    "+350",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191398,
+                    "4",
+                    "-111",
+                    2.75,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751191289,
+                    "2",
+                    "-120",
+                    8.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "pxwrxlhy139nryk",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "Tienen",
+            "away_team_name": "Lierse Kempenzonen",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 2,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "770mmHg",
+              "temperature": "79°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "63%"
+            },
+            "spread_timestamp": 1751187918,
+            "spread_capture_time": "4",
+            "spread_home_odds": "-111",
+            "spread_value": -0.75,
+            "spread_away_odds": "-111",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187849,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-117",
+            "overunder_total_line": 3.0,
+            "overunder_under_odds": "-105",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187937,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+300",
+            "moneyline_draw": 333.0,
+            "moneyline_away": "-138",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187952,
+            "corners_capture_time": "5",
+            "corners_over_odds": "+110",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "-151",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187918,
+                    "4",
+                    "-111",
+                    -0.75,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187937,
+                    "4",
+                    "+300",
+                    333.0,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187849,
+                    "3",
+                    "-117",
+                    3.0,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187952,
+                    "5",
+                    "+110",
+                    8.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "pxwrxlhy154dryk",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Myanmar U21 League",
+            "home_team_name": "Thitsar Arman FC U21",
+            "away_team_name": "Shan Utd U21",
+            "details_status_id": 13,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 1,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 0,
+            "away_corners": 3,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "753mmHg",
+              "temperature": "88°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "74%"
+            },
+            "spread_timestamp": 1751187793,
+            "spread_capture_time": "4",
+            "spread_home_odds": "+102",
+            "spread_value": -0.25,
+            "spread_away_odds": "-129",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187746,
+            "overunder_capture_time": "4",
+            "overunder_over_odds": "-117",
+            "overunder_total_line": 2.5,
+            "overunder_under_odds": "-105",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187793,
+            "moneyline_capture_time": "4",
+            "moneyline_home": "+210",
+            "moneyline_draw": 275.0,
+            "moneyline_away": "+100",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187706,
+            "corners_capture_time": "3",
+            "corners_over_odds": "-120",
+            "corners_value_total_line": 11.5,
+            "corners_under_odds": "-120",
+            "corners_match_status": 2,
+            "corners_ratio": "0-1",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187793,
+                    "4",
+                    "+102",
+                    -0.25,
+                    "-129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187793,
+                    "4",
+                    "+210",
+                    275.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187746,
+                    "4",
+                    "-117",
+                    2.5,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187706,
+                    "3",
+                    "-120",
+                    11.5,
+                    "-120",
+                    2,
+                    0,
+                    "0-1"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "vjxm8gheglz4r6o",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Myanmar U21 League",
+            "home_team_name": "Yangon United FC U21",
+            "away_team_name": "Ayeyawady Utd U21",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 1,
+            " ": "",
+            "away_score_current": 2,
+            "away_score_half": 2,
+            "away_corners": 1,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "753mmHg",
+              "temperature": "88°F",
+              "wind": "8mph (Gentle Breeze)",
+              "humidity": "74%"
+            },
+            "spread_timestamp": 1751187622,
+            "spread_capture_time": "2",
+            "spread_home_odds": "+100",
+            "spread_value": 1.5,
+            "spread_away_odds": "-125",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187622,
+            "overunder_capture_time": "2",
+            "overunder_over_odds": "-105",
+            "overunder_total_line": 3.0,
+            "overunder_under_odds": "-117",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751187621,
+            "moneyline_capture_time": "2",
+            "moneyline_home": "-277",
+            "moneyline_draw": 375.0,
+            "moneyline_away": "+500",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187761,
+            "corners_capture_time": "4",
+            "corners_over_odds": "-125",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "-111",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751187622,
+                    "2",
+                    "+100",
+                    1.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751187621,
+                    "2",
+                    "-277",
+                    375.0,
+                    "+500",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187622,
+                    "2",
+                    "-105",
+                    3.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187761,
+                    "4",
+                    "-125",
+                    8.5,
+                    "-111",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "vjxm8ghegwjor6o",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "International Club Friendly",
+            "home_team_name": "Go Ahead Eagles",
+            "away_team_name": "Sportfreunde Lotte",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "769mmHg",
+              "temperature": "79°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "59%"
+            },
+            "spread_timestamp": 1751191343,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-125",
+            "spread_value": 2.0,
+            "spread_away_odds": "+100",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191358,
+            "overunder_capture_time": "2",
+            "overunder_over_odds": "-114",
+            "overunder_total_line": 4.0,
+            "overunder_under_odds": "-108",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191383,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "-500",
+            "moneyline_draw": 550.0,
+            "moneyline_away": "+800",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751191358,
+            "corners_capture_time": "2",
+            "corners_over_odds": "-138",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "+100",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191343,
+                    "2",
+                    "-125",
+                    2.0,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191383,
+                    "3",
+                    "-500",
+                    550.0,
+                    "+800",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191358,
+                    "2",
+                    "-114",
+                    4.0,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751191358,
+                    "2",
+                    "-138",
+                    8.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "vjxm8ghlnzxzr6o",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:00 AM",
+            "competition_name": "Korean K League 3",
+            "home_team_name": "Pocheon FC",
+            "away_team_name": "Gangneung Citizen",
+            "details_status_id": 8,
+            "": "",
+            "home_score_current": 3,
+            "home_score_half": 2,
+            "home_corners": 3,
+            " ": "",
+            "away_score_current": 1,
+            "away_score_half": 1,
+            "away_corners": 3,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "81°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "84%"
+            },
+            "spread_timestamp": 1751184076,
+            "spread_capture_time": "2",
+            "spread_home_odds": "+100",
+            "spread_value": 0.5,
+            "spread_away_odds": "-125",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751184121,
+            "overunder_capture_time": "2",
+            "overunder_over_odds": "-121",
+            "overunder_total_line": 2.25,
+            "overunder_under_odds": "-103",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751184121,
+            "moneyline_capture_time": "2",
+            "moneyline_home": "-111",
+            "moneyline_draw": 225.0,
+            "moneyline_away": "+240",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751184150,
+            "corners_capture_time": "3",
+            "corners_over_odds": "+110",
+            "corners_value_total_line": 9.5,
+            "corners_under_odds": "-151",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751184076,
+                    "2",
+                    "+100",
+                    0.5,
+                    "-125",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751184121,
+                    "2",
+                    "-111",
+                    225.0,
+                    "+240",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751184121,
+                    "2",
+                    "-121",
+                    2.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751184150,
+                    "3",
+                    "+110",
+                    9.5,
+                    "-151",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "x7lm7phjkye2m2w",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 08:30 AM",
+            "competition_name": "AFC Women’s Asian Cup",
+            "home_team_name": "Chinese Taipei (w)",
+            "away_team_name": "Pakistan(w)",
+            "details_status_id": 4,
+            "": "",
+            "home_score_current": 4,
+            "home_score_half": 3,
+            "home_corners": 13,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "81°F",
+              "wind": "2mph (Light Air)",
+              "humidity": "88%"
+            },
+            "spread_timestamp": 1751185953,
+            "spread_capture_time": "3",
+            "spread_home_odds": "-103",
+            "spread_value": 3.75,
+            "spread_away_odds": "-121",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751185962,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-103",
+            "overunder_total_line": 5.0,
+            "overunder_under_odds": "-121",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751185962,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "-1999",
+            "moneyline_draw": 1200.0,
+            "moneyline_away": "+2500",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751186013,
+            "corners_capture_time": "4",
+            "corners_over_odds": "+100",
+            "corners_value_total_line": 9.5,
+            "corners_under_odds": "-138",
+            "corners_match_status": 2,
+            "corners_ratio": "1-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751185953,
+                    "3",
+                    "-103",
+                    3.75,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751185962,
+                    "3",
+                    "-1999",
+                    1200.0,
+                    "+2500",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751185962,
+                    "3",
+                    "-103",
+                    5.0,
+                    "-121",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751186013,
+                    "4",
+                    "+100",
+                    9.5,
+                    "-138",
+                    2,
+                    0,
+                    "1-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "x7lm7phzl1plm2w",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Korean K League 3",
+            "home_team_name": "Paju Citizen FC",
+            "away_team_name": "Siheung City",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "82°F",
+              "wind": "5mph (Light Breeze)",
+              "humidity": "80%"
+            },
+            "spread_timestamp": 1751191244,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-121",
+            "spread_value": -0.75,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191298,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-114",
+            "overunder_total_line": 2.25,
+            "overunder_under_odds": "-108",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191229,
+            "moneyline_capture_time": "2",
+            "moneyline_home": "+300",
+            "moneyline_draw": 260.0,
+            "moneyline_away": "-138",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751191336,
+            "corners_capture_time": "4",
+            "corners_over_odds": "-138",
+            "corners_value_total_line": 7.5,
+            "corners_under_odds": "+100",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191244,
+                    "2",
+                    "-121",
+                    -0.75,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191229,
+                    "2",
+                    "+300",
+                    260.0,
+                    "-138",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191298,
+                    "3",
+                    "-114",
+                    2.25,
+                    "-108",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751191336,
+                    "4",
+                    "-138",
+                    7.5,
+                    "+100",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "y0or5jh8x8owqwz",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "RUS D3B",
+            "home_team_name": "Zenit 2 St. Petersburg",
+            "away_team_name": "Luki Energiya",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Partly Cloudy",
+              "pressure": "745mmHg",
+              "temperature": "59°F",
+              "wind": "10mph (Gentle Breeze)",
+              "humidity": "95%"
+            },
+            "overunder_timestamp": 1751191342,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-125",
+            "overunder_total_line": 2.75,
+            "overunder_under_odds": "-119",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191342,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "-370",
+            "moneyline_draw": 380.0,
+            "moneyline_away": "+753",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "odds": {
+              "4": {
+                "MoneyLine": [
+                  [
+                    1751191342,
+                    "3",
+                    "-370",
+                    380.0,
+                    "+753",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191342,
+                    "3",
+                    "-125",
+                    2.75,
+                    "-119",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "y39mp1hzg27zmoj",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 09:00 AM",
+            "competition_name": "Japanese J1 League",
+            "home_team_name": "Tokyo Verdy",
+            "away_team_name": "Kawasaki Frontale",
+            "details_status_id": 3,
+            "": "",
+            "home_score_current": 1,
+            "home_score_half": 1,
+            "home_corners": 4,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 2,
+            "  ": "",
+            "environment": {
+              "weather": "Fair",
+              "pressure": "758mmHg",
+              "temperature": "84°F",
+              "wind": "9mph (Gentle Breeze)",
+              "humidity": "58%"
+            },
+            "spread_timestamp": 1751188031,
+            "spread_capture_time": "5",
+            "spread_home_odds": "-121",
+            "spread_value": -0.25,
+            "spread_away_odds": "-103",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751187919,
+            "overunder_capture_time": "3",
+            "overunder_over_odds": "-129",
+            "overunder_total_line": 2.0,
+            "overunder_under_odds": "+102",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751188031,
+            "moneyline_capture_time": "5",
+            "moneyline_home": "+225",
+            "moneyline_draw": 210.0,
+            "moneyline_away": "+129",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751187946,
+            "corners_capture_time": "4",
+            "corners_over_odds": "-151",
+            "corners_value_total_line": 8.5,
+            "corners_under_odds": "+110",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751188031,
+                    "5",
+                    "-121",
+                    -0.25,
+                    "-103",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751188031,
+                    "5",
+                    "+225",
+                    210.0,
+                    "+129",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751187919,
+                    "3",
+                    "-129",
+                    2.0,
+                    "+102",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751187946,
+                    "4",
+                    "-151",
+                    8.5,
+                    "+110",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          },
+          {
+            "match_id": "zp5rzgh5kol9q82",
+            "timestamp": "06/29/2025 06:04 AM",
+            "scheduled_time_readable": "06/29/2025 10:00 AM",
+            "competition_name": "Korean K League 1",
+            "home_team_name": "Football Club Seoul",
+            "away_team_name": "Pohang Steelers",
+            "details_status_id": 2,
+            "": "",
+            "home_score_current": 0,
+            "home_score_half": 0,
+            "home_corners": 0,
+            " ": "",
+            "away_score_current": 0,
+            "away_score_half": 0,
+            "away_corners": 0,
+            "  ": "",
+            "environment": {
+              "weather": "Clear",
+              "pressure": "757mmHg",
+              "temperature": "84°F",
+              "wind": "7mph (Light Breeze)",
+              "humidity": "70%"
+            },
+            "spread_timestamp": 1751191335,
+            "spread_capture_time": "2",
+            "spread_home_odds": "-117",
+            "spread_value": 0.25,
+            "spread_away_odds": "-105",
+            "spread_status": 2,
+            "spread_game_score": "0-0",
+            ":": "",
+            "overunder_timestamp": 1751191332,
+            "overunder_capture_time": "2",
+            "overunder_over_odds": "-105",
+            "overunder_total_line": 2.0,
+            "overunder_under_odds": "-117",
+            "overunder_match_status": 2,
+            "overunder_game_score": "0-0",
+            "::": "",
+            "moneyline_timestamp": 1751191399,
+            "moneyline_capture_time": "3",
+            "moneyline_home": "+120",
+            "moneyline_draw": 200.0,
+            "moneyline_away": "+250",
+            "moneyline_match_status": 2,
+            "moneyline_game_score": "0-0",
+            ":::": "",
+            "corners_timestamp": 1751191310,
+            "corners_capture_time": "2",
+            "corners_over_odds": "-151",
+            "corners_value_total_line": 7.5,
+            "corners_under_odds": "+110",
+            "corners_match_status": 2,
+            "corners_ratio": "0-0",
+            "::::": "",
+            "odds": {
+              "2": {
+                "spread": [
+                  [
+                    1751191335,
+                    "2",
+                    "-117",
+                    0.25,
+                    "-105",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "MoneyLine": [
+                  [
+                    1751191399,
+                    "3",
+                    "+120",
+                    200.0,
+                    "+250",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Over/Under": [
+                  [
+                    1751191332,
+                    "2",
+                    "-105",
+                    2.0,
+                    "-117",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ],
+                "Corners": [
+                  [
+                    1751191310,
+                    "2",
+                    "-151",
+                    7.5,
+                    "+110",
+                    2,
+                    0,
+                    "0-0"
+                  ]
+                ]
+              }
+            }
+          }
+        ],
+        "total_matches": 41
+      },
+      "processing_metadata": {
+        "source_file": "monitoring.json",
+        "processing_time": "06/29/2025 06:04:31 AM EDT",
+        "status": "success"
+      }
+    }
+  ]
+}

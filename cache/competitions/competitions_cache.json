@@ -1,9 +1,9 @@
 {
   "cache_metadata": {
     "created_at": "2025-06-27T01:51:36.360079",
-    "last_updated": "2025-06-29T08:45:29.830044",
+    "last_updated": "2025-06-29T11:12:30.860780",
     "cache_version": "1.0",
-    "total_competitions": 160,
+    "total_competitions": 176,
     "cache_duration_hours": 24
   },
   "competitions": {
@@ -563,7 +563,7 @@
         "secondary_color": "",
         "updated_at": 1750572966
       },
-      "fetched_at": "2025-06-27T04:03:58.493643",
+      "fetched_at": "2025-06-29T10:04:30.666249",
       "api_updated_at": 1750572966
     },
     "l965mkyh4jdr1ge": {
@@ -784,7 +784,7 @@
         "secondary_color": "#bc0416",
         "updated_at": 1750939764
       },
-      "fetched_at": "2025-06-27T07:17:59.582713",
+      "fetched_at": "2025-06-29T10:30:30.299224",
       "api_updated_at": 1750939764
     },
     "v2y8m4zhgxoql07": {
@@ -1649,7 +1649,7 @@
         "secondary_color": "#0a3f72",
         "updated_at": 1750586886
       },
-      "fetched_at": "2025-06-27T10:31:01.794867",
+      "fetched_at": "2025-06-29T10:01:32.558539",
       "api_updated_at": 1750586886
     },
     "kjw2r09hxp2rz84": {
@@ -1836,7 +1836,7 @@
         "secondary_color": "",
         "updated_at": 1659756548
       },
-      "fetched_at": "2025-06-27T11:06:02.068670",
+      "fetched_at": "2025-06-29T11:12:30.860667",
       "api_updated_at": 1659756548
     },
     "kn54qllhelnqvy9": {
@@ -2011,7 +2011,7 @@
         "secondary_color": "",
         "updated_at": 1750942567
       },
-      "fetched_at": "2025-06-27T13:04:02.372740",
+      "fetched_at": "2025-06-29T10:38:30.245129",
       "api_updated_at": 1750942567
     },
     "9vjxm8ghlwzr6od": {
@@ -2709,7 +2709,7 @@
         "logo": "https://img.thesports.com/football/competition/d8c3a872ed202d996f0c8731ee09bc39.png",
         "type": 1,
         "cur_season_id": "kjw2r09he50rz84",
-        "cur_stage_id": "vjxm8gh7ko0r6od",
+        "cur_stage_id": "l5ergph7d45r8k0",
         "cur_round": 14,
         "round_count": 26,
         "title_holder": [],
@@ -2735,10 +2735,10 @@
         "host": {},
         "primary_color": "",
         "secondary_color": "",
-        "updated_at": 1750959307
+        "updated_at": 1751119506
       },
-      "fetched_at": "2025-06-27T17:00:35.001743",
-      "api_updated_at": 1750959307
+      "fetched_at": "2025-06-29T11:01:30.443168",
+      "api_updated_at": 1751119506
     },
     "9k82rekh84repzj": {
       "data": {
@@ -2847,7 +2847,7 @@
         "secondary_color": "#00a84b",
         "updated_at": 1750698786
       },
-      "fetched_at": "2025-06-27T17:01:34.617451",
+      "fetched_at": "2025-06-29T11:01:30.443164",
       "api_updated_at": 1750698786
     },
     "56ypq3nhz63md7o": {
@@ -2860,7 +2860,7 @@
         "logo": "https://img.thesports.com/football/competition/479457ed962ded49638d64a03eb39b6e.png",
         "type": 1,
         "cur_season_id": "8y39mp1hx6ymojx",
-        "cur_stage_id": "1l4rjnhdn9wm7vx",
+        "cur_stage_id": "965mkyh088lr1ge",
         "cur_round": 12,
         "round_count": 26,
         "title_holder": [],
@@ -2870,10 +2870,10 @@
         "host": {},
         "primary_color": "",
         "secondary_color": "",
-        "updated_at": 1750702567
+        "updated_at": 1751044026
       },
-      "fetched_at": "2025-06-27T17:01:34.617463",
-      "api_updated_at": 1750702567
+      "fetched_at": "2025-06-29T11:01:30.443167",
+      "api_updated_at": 1751044026
     },
     "vl7oqdehdyr510j": {
       "data": {
@@ -3426,7 +3426,7 @@
         "type": 1,
         "cur_season_id": "vl7oqdehv88r510",
         "cur_stage_id": "1l4rjnhdlzjm7vx",
-        "cur_round": 21,
+        "cur_round": 22,
         "round_count": 36,
         "title_holder": [
           "l965mkyh9kgr1ge",
@@ -3455,10 +3455,10 @@
         },
         "primary_color": "#82c449",
         "secondary_color": "#4379b7",
-        "updated_at": 1750705327
+        "updated_at": 1751136307
       },
-      "fetched_at": "2025-06-27T18:46:35.243037",
-      "api_updated_at": 1750705327
+      "fetched_at": "2025-06-29T09:39:30.347989",
+      "api_updated_at": 1751136307
     },
     "gx7lm7phw1em2wd": {
       "data": {
@@ -5118,6 +5118,463 @@
       },
       "fetched_at": "2025-06-29T08:44:30.571293",
       "api_updated_at": 1750847964
+    },
+    "v2y8m4zhzj2ql07": {
+      "data": {
+        "id": "v2y8m4zhzj2ql07",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "d23xmvkh4pqg8ny",
+        "name": "Myanmar U21 League",
+        "short_name": "MYA U21",
+        "logo": "https://img.thesports.com/football/competition/f3e7e72666bf87540ea792082d33b0fc.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965012
+      },
+      "fetched_at": "2025-06-29T09:00:30.494977",
+      "api_updated_at": 1617965012
+    },
+    "kjw2r09hwl5rz84": {
+      "data": {
+        "id": "kjw2r09hwl5rz84",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Chinese Football Association Member Association Champions League",
+        "short_name": "CMCL",
+        "logo": "https://img.thesports.com/football/competition/2dab9bf127c0542fd6937a781ae85624.png",
+        "type": 1,
+        "cur_season_id": "4zp5rzghn9pq82w",
+        "cur_stage_id": "1l4rjnhdgdzm7vx",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          []
+        ],
+        "divisions": [
+          [
+            "9dn1m1gh5gmoepl"
+          ],
+          []
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750202304
+      },
+      "fetched_at": "2025-06-29T09:01:30.368177",
+      "api_updated_at": 1750202304
+    },
+    "9vjxm8ghjlxr6od": {
+      "data": {
+        "id": "9vjxm8ghjlxr6od",
+        "category_id": "9d23xmvkhxqg8ny",
+        "country_id": "9dn1m1gh8jmoepl",
+        "name": "Kenya Cup",
+        "short_name": "KEN Cup",
+        "logo": "https://img.thesports.com/football/competition/e503415dc82023c78ab1f152dc827d43.png",
+        "type": 2,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1618470256
+      },
+      "fetched_at": "2025-06-29T09:02:30.512560",
+      "api_updated_at": 1618470256
+    },
+    "kn54qllhxp8qvy9": {
+      "data": {
+        "id": "kn54qllhxp8qvy9",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gy0or5jhe3qwzv3",
+        "name": "Singapore National Football League",
+        "short_name": "SIN National League",
+        "logo": "https://img.thesports.com/football/competition/1fd12ad3107edcbb5e38866572f54205.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965031
+      },
+      "fetched_at": "2025-06-29T09:04:30.266088",
+      "api_updated_at": 1617965031
+    },
+    "yl5ergphez4r8k0": {
+      "data": {
+        "id": "yl5ergphez4r8k0",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "gpxwrxlh9pryk0j",
+        "name": "Western Australia Reserves League ",
+        "short_name": "AUS-W Reserves League",
+        "logo": "https://img.thesports.com/football/competition/b62835661b77ba362dd7692885eb4166.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964943
+      },
+      "fetched_at": "2025-06-29T09:33:30.728700",
+      "api_updated_at": 1617964943
+    },
+    "9dn1m1gh3z1moep": {
+      "data": {
+        "id": "9dn1m1gh3z1moep",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "0l965mkyh2r1ge4",
+        "name": "Finnish Women's Ykkonen",
+        "short_name": "FIN Women's Ykkonen",
+        "logo": "https://img.thesports.com/football/competition/638175ad0f9a33b7dbf2f5e84ed96b42.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964981
+      },
+      "fetched_at": "2025-06-29T10:01:32.558529",
+      "api_updated_at": 1617964981
+    },
+    "kn54qllh25dqvy9": {
+      "data": {
+        "id": "kn54qllh25dqvy9",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "56ypq3nh5xmd7oj",
+        "name": "Korean K League 2",
+        "short_name": "KOR K2",
+        "logo": "https://img.thesports.com/football/competition/cd536caf88f06782e8e5b2a89c0a5579.png",
+        "type": 1,
+        "cur_season_id": "p4jwq2gh8n4m0ve",
+        "cur_stage_id": "vjxm8gh7ke0r6od",
+        "cur_round": 18,
+        "round_count": 39,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [
+            "1l4rjnh162wm7vx"
+          ],
+          [
+            "yl5ergph64kr8k0"
+          ]
+        ],
+        "divisions": [
+          [
+            "gy0or5jhlxgqwzv"
+          ],
+          [
+            "4zp5rzghjy0q82w"
+          ]
+        ],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750586886
+      },
+      "fetched_at": "2025-06-29T10:01:32.558541",
+      "api_updated_at": 1750586886
+    },
+    "z8yomo4h0xvq0j6": {
+      "data": {
+        "id": "z8yomo4h0xvq0j6",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "gy0or5jhl3qwzv3",
+        "name": "Lithuanian II Lyga",
+        "short_name": "Lit II Lyga",
+        "logo": "https://img.thesports.com/football/competition/dd09163abcceed9ec6face9cff320ef8.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617965006
+      },
+      "fetched_at": "2025-06-29T10:03:31.631953",
+      "api_updated_at": 1617965006
+    },
+    "vl7oqdehvpr510j": {
+      "data": {
+        "id": "vl7oqdehvpr510j",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Chinese Macao Liga de Elite",
+        "short_name": "CHN MAC Liga de Elite",
+        "logo": "https://img.thesports.com/football/competition/23f4c1d86e9213b45372d6a015e9219c.png",
+        "type": 1,
+        "cur_season_id": "9vjxm8ghn0yr6od",
+        "cur_stage_id": "dn1m1ghgg2pmoep",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1751116723
+      },
+      "fetched_at": "2025-06-29T10:09:30.205241",
+      "api_updated_at": 1751116723
+    },
+    "gpxwrxlh9xdryk0": {
+      "data": {
+        "id": "gpxwrxlh9xdryk0",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "vl7oqdeh1yr510j",
+        "name": "Bhutan Premier League",
+        "short_name": "BHU Premier League",
+        "logo": "https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png",
+        "type": 1,
+        "cur_season_id": "gx7lm7ph1nnm2wd",
+        "cur_stage_id": "1l4rjnhx12ym7vx",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1711540814
+      },
+      "fetched_at": "2025-06-29T10:09:30.205251",
+      "api_updated_at": 1711540814
+    },
+    "kjw2r09hx0drz84": {
+      "data": {
+        "id": "kjw2r09hx0drz84",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "p3glrw7hwwqdyjv",
+        "name": "Iceland Division 4",
+        "short_name": "ICE Division 4",
+        "logo": "https://img.thesports.com/football/competition/fdb8f02713c4bfe259d4493240c4dd7d.png",
+        "type": 1,
+        "cur_season_id": "",
+        "cur_stage_id": "",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1617964990
+      },
+      "fetched_at": "2025-06-29T10:10:30.318321",
+      "api_updated_at": 1617964990
+    },
+    "gy0or5jhe0vqwzv": {
+      "data": {
+        "id": "gy0or5jhe0vqwzv",
+        "category_id": "0gx7lm7ph0m2wdk",
+        "country_id": "kn54qllhejqvy9d",
+        "name": "Brazilian Campeonato Gaucho 2",
+        "short_name": "BRA Campeonato Gaucho 2",
+        "logo": "https://img.thesports.com/football/competition/b412c64e49ce19b660e579f3d46eca06.png",
+        "type": 1,
+        "cur_season_id": "kn54qllho55qvy9",
+        "cur_stage_id": "l5ergphe37xr8k0",
+        "cur_round": 5,
+        "round_count": 14,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1714532393
+      },
+      "fetched_at": "2025-06-29T10:18:29.881712",
+      "api_updated_at": 1714532393
+    },
+    "l965mkyh7e9r1ge": {
+      "data": {
+        "id": "l965mkyh7e9r1ge",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "yl5ergphvjr8k0o",
+        "name": "Vietnam National Cup",
+        "short_name": "VIE National Cup",
+        "logo": "https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png",
+        "type": 2,
+        "cur_season_id": "p4jwq2gh87wm0ve",
+        "cur_stage_id": "k82rekhjd2erepz",
+        "cur_round": 0,
+        "round_count": 0,
+        "title_holder": [
+          "4wyrn4h8kw3q86p",
+          1
+        ],
+        "most_titles": [
+          [
+            "4wyrn4h8d9gq86p",
+            "dj2ryohkz16q1zp",
+            "dn1m1ghen9wmoep"
+          ],
+          3
+        ],
+        "newcomers": [],
+        "divisions": [],
+        "host": {
+          "country": "Vietnam"
+        },
+        "primary_color": "#64ae54",
+        "secondary_color": "#00558e",
+        "updated_at": 1751068243
+      },
+      "fetched_at": "2025-06-29T11:01:30.443152",
+      "api_updated_at": 1751068243
+    },
+    "p3glrw7h03qdyjv": {
+      "data": {
+        "id": "p3glrw7h03qdyjv",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "28y39mp1hzmojxg",
+        "name": "Norwegian 2.Divisjon",
+        "short_name": "NOR 2.Divisjon",
+        "logo": "https://img.thesports.com/football/competition/6750264b5e27a1158257bc1210d46e9e.png",
+        "type": 1,
+        "cur_season_id": "4zp5rzghnw8q82w",
+        "cur_stage_id": "k82rekhj229repz",
+        "cur_round": 12,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          [
+            "9dn1m1gh5kemoep",
+            "z318q66h5l1qo9j"
+          ]
+        ],
+        "divisions": [
+          [
+            "gpxwrxlh73ryk0j"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Norway"
+        },
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750601826
+      },
+      "fetched_at": "2025-06-29T11:01:30.443162",
+      "api_updated_at": 1750601826
+    },
+    "kdj2ryoh12q1zpg": {
+      "data": {
+        "id": "kdj2ryoh12q1zpg",
+        "category_id": "49vjxm8ghgr6odg",
+        "country_id": "9vjxm8gh4gr6odg",
+        "name": "Latvian 1.Liga",
+        "short_name": "LAT 1.Liga",
+        "logo": "https://img.thesports.com/football/competition/dafc885b4bf6235f36cd516aa7793df6.png",
+        "type": 1,
+        "cur_season_id": "yl5ergphzxxr8k0",
+        "cur_stage_id": "l5ergph7d9jr8k0",
+        "cur_round": 11,
+        "round_count": 26,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [
+          [],
+          []
+        ],
+        "divisions": [
+          [
+            "vl7oqdeholr510j"
+          ],
+          []
+        ],
+        "host": {
+          "country": "Latvia"
+        },
+        "primary_color": "#088c50",
+        "secondary_color": "#ff0d55",
+        "updated_at": 1750004257
+      },
+      "fetched_at": "2025-06-29T11:01:30.443166",
+      "api_updated_at": 1750004257
+    },
+    "jednm9wh7p0ryox": {
+      "data": {
+        "id": "jednm9wh7p0ryox",
+        "category_id": "ngy0or5jh3qwzv3",
+        "country_id": "v2y8m4zhjkql074",
+        "name": "Jiangsu City Football League",
+        "short_name": "Jiangsu League",
+        "logo": "https://img.thesports.com/football/competition/99dcb9cff8bc7fe1dac0c5d5d5d9b61c.png",
+        "type": 1,
+        "cur_season_id": "vl7oqdehv55r510",
+        "cur_stage_id": "3glrw7hgge1qdyj",
+        "cur_round": 5,
+        "round_count": 13,
+        "title_holder": [],
+        "most_titles": [],
+        "newcomers": [],
+        "divisions": [],
+        "host": {},
+        "primary_color": "",
+        "secondary_color": "",
+        "updated_at": 1750492927
+      },
+      "fetched_at": "2025-06-29T11:02:30.553905",
+      "api_updated_at": 1750492927
     }
   }
 }

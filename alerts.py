@@ -1,6 +1,24 @@
 #!/usr/bin/env python3
 
 """
+DIAGNOSTIC NOTE - FIELD EXTRACTION FIX
+=====================================
+Issue Resolved: Field extraction disconnect - 06/29/2025 05:08 EST
+
+Problem: Over/Under arrays were being identified in odds data but flattened fields were not appearing in output.
+Root Cause: Field name conflict between 'match_status' from Over/Under array and existing match data structure.
+
+Solution: Changed Over/Under array[5] field from 'match_status' to 'overunder_match_status' to prevent field conflicts.
+
+General Application for Future Field Extraction Issues:
+1) Verify field name uniqueness to prevent conflicts
+2) Check that array identification AND field assignment are both working  
+3) Look for field processing order issues that might cause overwrites
+4) Test extraction logic with actual data arrays
+
+Technical Details: Over/Under flattening code was functional but 'match_status' field assignment was being 
+overwritten by existing match data processing. Fix ensures unique field names for all flattened array elements.
+
 STATUS ID REFERENCE
 ==================
 Status IDs found in the 'details_status_id' field of match data:
@@ -21,6 +39,17 @@ Status IDs found in the 'details_status_id' field of match data:
 | 11 | Cut in half | Match was cut in half |
 | 12 | Cancel | Match was cancelled |
 | 13 | To be determined | Match time/status to be determined |
+
+UPDATED KEY (for reference):
+- 2: First Half
+- 3: Half-time  
+- 4: Second Half
+- 5: Overtime
+- 6: Overtime (deprecated)
+- 7: Penalty Shoot-out
+- 8: End
+- 9: Delay
+- 10: Interrupt
 
 Most common status IDs in current data: 2 (First half), 3 (Half-time), 4 (Second half), 8 (End), 9 (Delay), 13 (TBD)
 """
@@ -87,55 +116,10 @@ def extract_match_fields(match: Dict[str, Any]) -> Dict[str, Any]:
     # Step 4.1: PERMANENT RULE: Visual separator after details_status_id (F07.1)
     extracted[""] = ""
     
-    # Step 5: Process remaining fields in original order, excluding already processed fields
-    processed_fields = {"match_id", "timestamp", "scheduled_time_readable", "competition", "teams", "details_status_id"}
-    
+    # Step 5: Process score fields with separators
     for field_name, field_value in match.items():
-        if field_name not in processed_fields:
-            # PERMANENT RULE: Flatten odds arrays (spread and over/under)
-            if field_name == "odds" and isinstance(field_value, dict):
-                # Process odds structure and flatten arrays
-                for bookmaker_id, bookmaker_data in field_value.items():
-                    if isinstance(bookmaker_data, dict):
-                        # Flatten spread arrays
-                        if "spread" in bookmaker_data:
-                            spread_arrays = bookmaker_data["spread"]
-                            if isinstance(spread_arrays, list) and len(spread_arrays) > 0:
-                                # Flatten first spread array only
-                                spread_array = spread_arrays[0]
-                                if isinstance(spread_array, list) and len(spread_array) >= 8:
-                                    # Flatten spread array to individual fields
-                                    extracted["spread_timestamp"] = spread_array[0]
-                                    extracted["spread_capture_time"] = spread_array[1]
-                                    extracted["spread_home_odds"] = spread_array[2]
-                                    extracted["spread_value"] = spread_array[3]
-                                    extracted["spread_away_odds"] = spread_array[4]
-                                    extracted["spread_status"] = spread_array[5]
-                                    # Skip spread_live_flag (index 6) - removed per user request
-                                    extracted["spread_game_score"] = spread_array[7]
-                        
-                        # Flatten over/under arrays
-                        if "Over/Under" in bookmaker_data:
-                            overunder_arrays = bookmaker_data["Over/Under"]
-                            if isinstance(overunder_arrays, list) and len(overunder_arrays) > 0:
-                                # Flatten first over/under array only
-                                overunder_array = overunder_arrays[0]
-                                if isinstance(overunder_array, list) and len(overunder_array) >= 8:
-                                    # Flatten over/under array to individual fields
-                                    extracted["overunder_timestamp"] = overunder_array[0]
-                                    extracted["overunder_capture_time"] = overunder_array[1]
-                                    extracted["over"] = overunder_array[2]
-                                    extracted["total_line"] = overunder_array[3]
-                                    extracted["under"] = overunder_array[4]
-                                    extracted["match_status"] = overunder_array[5]
-                                    # Skip indices 6 and 7 - removed per user request
-                                    extracted["overunder_game_score"] = overunder_array[7]
-                
-                # Still include original odds structure
-                extracted[field_name] = field_value
-            else:
-                # DEFAULT: Simple pass-through (no tasks) - File logs immediately
-                extracted[field_name] = field_value
+        if field_name not in {"match_id", "timestamp", "scheduled_time_readable", "competition", "teams", "details_status_id", "odds", "spread_score", "match_status"}:
+            extracted[field_name] = field_value
             
             # PERMANENT RULE: Add visual separator after home_corners (F10.1)
             if field_name == "home_corners":
@@ -144,29 +128,104 @@ def extract_match_fields(match: Dict[str, Any]) -> Dict[str, Any]:
             # PERMANENT RULE: Add visual separator after away_corners (F14.1)
             if field_name == "away_corners":
                 extracted["  "] = ""
-            
-            # PERMANENT RULE: Add visual separator after spread_game_score (F21.1)
-            if "spread_game_score" in extracted and field_name == "odds":
-                extracted["spread_separator"] = ""
-            
-            # PERMANENT RULE: Add visual separator after overunder_game_score (F28.1)
-            if "overunder_game_score" in extracted and field_name == "odds":
-                extracted["overunder_separator"] = ""
+    
+    # Step 6: PERMANENT RULE: Flatten odds arrays (spread, over/under, moneyline, and corners) - INSERT BEFORE ODDS
+    if "odds" in match and isinstance(match["odds"], dict):
+        # Process odds structure and flatten arrays
+        spread_processed = False
+        overunder_processed = False
+        moneyline_processed = False
+        corners_processed = False
         
-        # OPTIONAL TASKS: Uncomment/add only if specific processing needed
-        # if field_name == "home_score_current":
-        #     # OPTIONAL TASK: Check for score alerts
-        #     if isinstance(field_value, int) and field_value > 3:
-        #         extracted[field_name + "_alert"] = "High scoring match"
-        #     extracted[field_name] = field_value
-        #     
-        # elif field_name == "var_incidents":
-        #     # OPTIONAL TASK: Check for VAR alerts
-        #     if isinstance(field_value, list) and len(field_value) > 0:
-        #         extracted[field_name + "_alert"] = f"{len(field_value)} VAR incidents"
-        #     extracted[field_name] = field_value
+        for bookmaker_id, bookmaker_data in match["odds"].items():
+            if isinstance(bookmaker_data, dict):
+                # Flatten spread arrays
+                if not spread_processed and "spread" in bookmaker_data:
+                    spread_arrays = bookmaker_data["spread"]
+                    if isinstance(spread_arrays, list) and len(spread_arrays) > 0:
+                        # Flatten first spread array only
+                        spread_array = spread_arrays[0]
+                        if isinstance(spread_array, list) and len(spread_array) >= 8:
+                            # Flatten spread array to individual fields
+                            extracted["spread_timestamp"] = spread_array[0]
+                            extracted["spread_capture_time"] = spread_array[1]
+                            extracted["spread_home_odds"] = spread_array[2]
+                            extracted["spread_value"] = spread_array[3]
+                            extracted["spread_away_odds"] = spread_array[4]
+                            extracted["spread_match_status"] = spread_array[5]
+                            # Skip spread_live_flag (index 6) - removed per user request
+                            extracted["spread_game_score"] = spread_array[7]
+                            extracted[":"] = ""
+                            spread_processed = True
+                
+                # Flatten over/under arrays
+                if not overunder_processed and "Over/Under" in bookmaker_data:
+                    overunder_arrays = bookmaker_data["Over/Under"]
+                    if isinstance(overunder_arrays, list) and len(overunder_arrays) > 0:
+                        # Flatten first over/under array only
+                        overunder_array = overunder_arrays[0]
+                        if isinstance(overunder_array, list) and len(overunder_array) >= 8:
+                            # Flatten over/under array to individual fields
+                            extracted["overunder_timestamp"] = overunder_array[0]
+                            extracted["overunder_capture_time"] = overunder_array[1]
+                            extracted["overunder_over_odds"] = overunder_array[2]
+                            extracted["overunder_total_line"] = overunder_array[3]
+                            extracted["overunder_under_odds"] = overunder_array[4]
+                            extracted["overunder_match_status"] = overunder_array[5]
+                            # Skip indices 6 and 7 - removed per user request
+                            extracted["overunder_game_score"] = overunder_array[7]
+                            extracted["::"] = ""
+                            overunder_processed = True
+                
+                # Flatten MoneyLine arrays
+                if not moneyline_processed and "MoneyLine" in bookmaker_data:
+                    moneyline_arrays = bookmaker_data["MoneyLine"]
+                    if isinstance(moneyline_arrays, list) and len(moneyline_arrays) > 0:
+                        # Flatten first MoneyLine array only
+                        moneyline_array = moneyline_arrays[0]
+                        if isinstance(moneyline_array, list) and len(moneyline_array) >= 8:
+                            # Flatten MoneyLine array to individual fields
+                            extracted["moneyline_timestamp"] = moneyline_array[0]
+                            extracted["moneyline_capture_time"] = moneyline_array[1]
+                            extracted["moneyline_home"] = moneyline_array[2]
+                            extracted["moneyline_draw"] = moneyline_array[3]
+                            extracted["moneyline_away"] = moneyline_array[4]
+                            extracted["moneyline_match_status"] = moneyline_array[5]
+                            # Skip index 6 - filtered per user request
+                            extracted["moneyline_game_score"] = moneyline_array[7]
+                            extracted[":::"] = ""
+                            moneyline_processed = True
+                
+                # Flatten Corners arrays
+                if not corners_processed and "Corners" in bookmaker_data:
+                    corners_arrays = bookmaker_data["Corners"]
+                    if isinstance(corners_arrays, list) and len(corners_arrays) > 0:
+                        # Flatten first Corners array only
+                        corners_array = corners_arrays[0]
+                        if isinstance(corners_array, list) and len(corners_array) >= 8:
+                            # Flatten Corners array to individual fields
+                            extracted["corners_timestamp"] = corners_array[0]
+                            extracted["corners_capture_time"] = corners_array[1]
+                            extracted["corners_over_odds"] = corners_array[2]
+                            extracted["corners_value_total_line"] = corners_array[3]
+                            extracted["corners_under_odds"] = corners_array[4]
+                            extracted["corners_match_status"] = corners_array[5]
+                            # Skip index 6 - filtered per user request
+                            extracted["corners_ratio"] = corners_array[7]
+                            extracted["::::"] = ""
+                            corners_processed = True
+                
+                # Exit early if all types processed
+                if spread_processed and overunder_processed and moneyline_processed and corners_processed:
+                    break
         
-        # NOTE: All tasks are OPTIONAL - default is simple pass-through
+        # Include original odds structure after flattened fields
+        extracted["odds"] = match["odds"]
+    
+    # Step 7: Process remaining fields (environment, var_incidents, etc.)
+    for field_name, field_value in match.items():
+        if field_name not in extracted and field_name not in {"match_id", "timestamp", "scheduled_time_readable", "competition", "teams", "details_status_id", "odds", "spread_score", "match_status"}:
+            extracted[field_name] = field_value
     
     return extracted
 
@@ -294,6 +353,14 @@ def save_data(processed_matches: List[Dict[str, Any]]) -> bool:
         print(f"❌ Failed to save data: {e}")
         return False
 
+def trigger_next_stage():
+    """Trigger next stage in pipeline: alerts_central.py"""
+    try:
+        subprocess.run([sys.executable, '/workspaces/TMUX_FINAL_SPORTS/alerts_central.py'], check=True)
+        print("✅ Successfully triggered alerts_central.py")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Failed to trigger alerts_central.py: {e}")
+
 def main() -> int:
     """Main processing with field-by-field extraction"""
     print(f"🔄 Starting alerts processing...")
@@ -332,8 +399,8 @@ def main() -> int:
     if save_data(processed_matches):
         print(f"✅ Successfully processed {len(processed_matches)} matches")
         
-        # Call next stage if not terminal (alerts.py is currently terminal)
-        # trigger_next_stage()  # Uncomment if calling next stage
+        # Call next stage: alerts_central.py
+        trigger_next_stage()
         
         return 0
     else:
